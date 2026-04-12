@@ -1,0 +1,394 @@
+
+---
+tags: [biology, reproduction, assembly-conception, core-concepts]
+aliases: [Reproduction, Assembly-Conception, How Life Reproduces]
+related: [[Composite-Organisms]], [[Womb-Enabled-Reproduction]], [[Non-Womb-Reproduction]], [[Environmental-GFP]]
+status: complete
+---
+
+# Reproduction: Assembly-Conception
+
+**Not Sexual Reproduction:** No gametes, no fertilization, no unified genome  
+**Method:** Environmental collection + modular assembly  
+**Result:** Offspring similar to parent taxon but genetically unique  
+**Key Feature:** Horizontal gene transfer as primary reproductive mechanism
+
+---
+
+## TPIV Reproduction
+
+**Assembly-Conception:**
+- Multiple genetic lineages collected from environment
+- [[3B-Womb-Partifunct-Systems|Womb]] assembles compatible modules
+- Each module (partifunct) has distinct genetic origin
+- Offspring is novel combination, not copy of parent(s)
+
+**No Sexes:**
+- No male/female distinction
+- No specialized reproductive cells (gametes)
+- All adults can reproduce (if they have womb partifunct)
+- Genetic exchange occurs between peer carriers, not parents
+
+---
+
+## Two Main Strategies
+
+### [[Womb-Enabled-Reproduction|Womb-Enabled Assembly]]
+
+**Most Common in Large Organisms:**
+- Adult collects [[Environmental-GFP|eGFP]] from environment
+- Each [[Partifunct Core Definition|partifunct]] creates partifzygote
+- [[3B-Womb-Partifunct-Systems|Womb partifunct]] assembles offspring
+- Offspring gestated until viable
+- Live birth, eggs, or other strategies
+
+**Examples:**
+- [[TPM-Zebra-Grazer|Zebra Grazers]]
+- [[Duskmantle-Stalker|Predators]]
+- Most mobile fauna
+
+### [[Non-Womb-Reproduction|Non-Womb Assembly]]
+
+**Common in Autotrophs and Simple Organisms:**
+- Viable GFP packets shed directly into environment
+- Self-organization if conditions right
+- "Seeds" or "nuts" wrap in protective BLU tissue
+- No parental gestational care
+
+**Examples:**
+- "Plant" analogs
+- Microbes
+- Simple filter-feeders
+- Some aquatic organisms
+
+---
+
+## The Assembly-Conception Process
+
+### Step 1: Environmental Collection
+
+**Passive Uptake:**
+- Breathing: Airborne [[GFP-Carriers-and-Vectors|eGFP carriers]] (pollen-analogs, mites)
+- Feeding: All food contains eGFP from consumed organisms
+- Absorption: Water, skin contact with eGFP sources
+- Continuous throughout adult life
+
+**Active Collection:**
+- Some organisms target specific eGFP sources
+- [[72d-Environmental-Cultivation|Environmental cultivation]] (farming preferred partifuncts)
+- [[72a-Partifunct-Trading-Rituals|Trading behaviors]] between organisms
+- Selective feeding to gather desired lineages
+
+**Filtering:**
+- Each partifunct recognizes compatible eGFP
+- Chemical markers identify "self" lineage
+- Incompatible eGFP rejected or destroyed
+- Quality control: damaged eGFP eliminated
+
+---
+
+### Step 2: Partifzygote Formation
+
+**Within Each Partifunct:**
+1. Partifunct has collected compatible eGFP over time
+2. Selects from available genetic material
+3. Recombines collected eGFP with own GFP
+4. Creates **partifzygote** (developmental seed for that module)
+5. May create multiple partifzygotes with different combinations
+
+**Selection Criteria:**
+- Novel combinations (genetic diversity)
+- Proven lineages (fitness markers)
+- Environmental match (current conditions)
+- Integration signals (compatibility indicators)
+
+**Each Partifunct Independent:**
+- Limb partifunct creates limb partifzygote
+- Digestive partifunct creates digestive partifzygote
+- Brain partifunct creates brain partifzygote
+- No coordination between partifuncts at this stage
+
+---
+
+### Step 3: Delivery to Womb
+
+**Transfer Mechanisms:**
+- Partifzygotes delivered to [[3B-Womb-Partifunct-Systems|womb partifunct]]
+- Via circulatory system or specialized ducts
+- Timing may be synchronized (hormonal control)
+- Womb receives full set (or nearly full set)
+
+**What Womb Receives:**
+- 10-50+ partifzygotes (depending on organism complexity)
+- Each genetically distinct
+- Each from different partifunct lineage
+- All competing for inclusion in offspring
+
+---
+
+### Step 4: Compatibility Testing
+
+**Womb's Role:**
+- Tests combinations for viability
+- "Polls" parent partifuncts via signaling
+- Checks metabolic compatibility
+- Verifies physical integration possible
+
+**Negotiation Process:**
+- Chemical signals pass between partifzygotes
+- Womb coordinates communication
+- Incompatible combinations rejected
+- Only viable sets proceed
+
+**Rejection:**
+- Failed combinations degraded
+- Nutrients recycled
+- Womb may try different combinations
+- Multiple attempts possible
+
+---
+
+### Step 5: Epigenetic Modification
+
+**Womb Adjusts Assembly:**
+- Based on environmental cues (temperature, food availability, threats)
+- Based on parent signals (condition, stress levels)
+- Based on [[Moons-and-Tides|lunar cycles]] (some species)
+- May add/remove/substitute partifuncts
+
+**[[Multi-Expression-Potential|Expression Guidance]]:**
+- Womb sends developmental signals
+- [[MGFP-Transcription-Pathway|MGFP-G]] layer interprets
+- Determines: "Build leg vs stem" "Hexapod vs octapod"
+- Final forms optimized for current conditions
+
+---
+
+### Step 6: Coordinated Development
+
+**Growth:**
+- Compatible partifzygotes begin simultaneous development
+- Physical connections form (vascular, neural, skeletal)
+- [[34c-Transfer-Organs|Transfer organs]] develop at interfaces
+- Metabolic loops interconnect
+
+**Coordination:**
+- Cross-partifunct signaling
+- Synchronized growth rates
+- Proportional scaling
+- Functional testing
+
+**Metabolic Integrity:**
+- All systems must function together
+- Circulatory loops operational
+- Respiratory capacity sufficient
+- Neural coordination achieved
+
+---
+
+### Step 7: Birth
+
+**Emergence:**
+- When organism achieves full metabolic integrity
+- Fully functional at birth (usually)
+- All partifuncts integrated and operational
+- Independent life begins
+
+**Strategies:**
+- **Live birth:** Most large mobile organisms
+- **Eggs:** Some organisms, various environments
+- **Eusocial care:** Colonial organisms tend young
+- **Self-sufficient:** Many autotrophs
+
+---
+
+## Offspring Characteristics
+
+### Similar But Not Identical
+
+**To Parent Taxon:**
+- Shares most core partifunct lineages
+- Overall body plan recognizable
+- Fills similar ecological role
+- Part of same statistical [[31-Taxa-and-Metrics-PSV-MDI|taxon]]
+
+**But:**
+- Novel genetic combinations
+- Variable partifunct expression
+- Different optional partifuncts
+- Unique individual
+
+**High Variability:**
+- [[TPM-Zebra-Grazer|Zebra Grazer]] herd:
+  - Some offspring have 6 legs, some 8
+  - Some have 1 mouth, some 2
+  - Variable sensory configurations
+  - All recognizably "Zebra Grazer"
+
+---
+
+## No Parents in Earth Sense
+
+### Genetic Contributors
+
+**Not "Mother" or "Father":**
+- Adult organism is genetic **template**, not parent
+- Offspring's partifuncts come from:
+  - Parent's partifunct lineages (~50-80%)
+  - Environmental eGFP (~20-50%)
+  - Novel recombinations
+
+**Multiple Sources:**
+- Each partifunct may have different "origin"
+- Limb from grass eGFP
+- Digestive system from shrub eGFP
+- Brain from fruit-tree eGFP
+- All collected by parent, assembled by womb
+
+---
+
+## Evolutionary Pressures
+
+### On Partifuncts
+
+**Fitness = Spread:**
+- Successful partifunct releases eGFP widely
+- Gets incorporated into many offspring
+- Compatible with diverse other partifuncts
+- Functions well in multiple contexts
+
+**Selection Acts On:**
+- GFP quality (codes for functional structures)
+- Integration ability (works with many partners)
+- Expression flexibility ([[Multi-Expression-Potential|multi-expression]])
+- Environmental persistence (eGFP survival)
+
+### On Composite Organisms
+
+**Fitness = Viable Assembly:**
+- Organisms with successful partifunct combinations survive
+- Those assemblies get replicated (statistically)
+- Womb preferentially selects proven configurations
+- But also tries novel combinations
+
+**Tension:**
+- **Conservative:** Replicate successful parent configuration
+- **Innovative:** Try new combinations for adaptation
+- Balance maintained by [[Natural-Selection-on-TPIV|multi-level selection]]
+
+---
+
+## Timing and Triggers
+
+### Reproductive Timing
+
+**Environmental Cues:**
+- [[Moons-and-Tides|Lunar cycles]] (many species)
+- Seasonal changes
+- Resource availability
+- Population density
+
+**Physiological Readiness:**
+- Adult must have collected sufficient eGFP
+- Partifuncts must be mature
+- Womb must be functional
+- Energy reserves adequate
+
+### Synchronized Events
+
+**Mass Spawning:**
+- [[13a-Tida-Primary-Moon|Super-tides]] trigger releases
+- [[48-Intertidal-Zones|Coastal organisms]] synchronize
+- [[Environmental-GFP|eGFP]] floods environment
+- Cross-species coordination
+
+---
+
+## Advantages Over Sexual Reproduction
+
+### Speed of Evolution
+
+**Immediate Adaptation:**
+- Successful trait appears in one generation
+- No waiting for mutation
+- No genetic recombination delay
+- Rapid population response to environmental change
+
+### Genetic Flexibility
+
+**Horizontal Gene Transfer:**
+- Acquire traits from entire ecosystem
+- Not limited to "species"
+- [[GFP-Carriers-and-Vectors|Carriers]] distribute globally
+- Evolutionary innovations spread rapidly
+
+### No Mate Requirement
+
+**All Adults Reproductive:**
+- No need to find compatible mate
+- No sexual selection complications
+- Population growth not limited by mating
+- Isolated individuals can still reproduce
+
+---
+
+## Disadvantages
+
+### Complexity Costs
+
+**Assembly Risk:**
+- Incompatible combinations common
+- Many failed assemblies wasted
+- Energy cost of negotiation
+- Time cost of gestation
+
+### Genetic Instability
+
+**Loss of Proven Combinations:**
+- Successful configurations not guaranteed to repeat
+- Each generation is experiment
+- Regression to less-fit forms possible
+- Requires constant environmental selection
+
+### Coordination Requirements
+
+**Must Have:**
+- Functional [[3B-Womb-Partifunct-Systems|womb partifunct]]
+- Sufficient [[Environmental-GFP|eGFP]] diversity
+- Compatible partifunct pool
+- Adequate resources
+
+---
+
+## Sub-Topics
+
+### Detailed Pages
+
+- [[Womb-Enabled-Reproduction]] - Gestation and live birth details
+- [[Non-Womb-Reproduction]] - Environmental self-assembly
+- [[GFP-Carriers-and-Vectors]] - How genetic material spreads
+- [[25d-Partifunct-Reproduction-Strategies]] - Partifunct-level fitness
+
+---
+
+## Navigation
+
+**Core Concepts:**
+- [[Composite-Organisms]] - What reproduces
+- [[Partifunct Core Definition]] - What gets assembled
+- [[Environmental-GFP]] - Source of genetic material
+- [[3B-Womb-Partifunct-Systems]] - Assembly coordinator
+
+**Related Topics:**
+- [[Natural-Selection-on-TPIV]] - Evolutionary dynamics
+- [[Non-Homochirality]] - Why this system evolved
+- [[31-Taxa-and-Metrics-PSV-MDI]] - Why no species
+
+**Related Dispatches:**
+- [[D008-Composite-Reproduction]] - Discovery of assembly-conception
+- [[D010-GFP-Carrier-Ecology]] - Understanding genetic dispersal
+
+---
+
+*"They don't mate. They don't have sex. They collect genes from the air like breathing, from food like eating. Then their womb plays genetic Tetris until something fits together and lives."*
+*— Dr. Yuki Tanaka, Reproductive Biology, Day 16*

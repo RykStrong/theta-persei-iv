@@ -15,7 +15,7 @@ This wiki documents the unique biology, ecology, and planetary characteristics o
 ## Quick Navigation -- [[Outline]]
 
 ### New to TPIV?
-**Start Here:** [[Reading Order]] - Recommended path through the wiki for first-time readers
+**Start Here:** [Reading Order] - Recommended path through the wiki for first-time readers
 
 **Core Concepts:**
 - [[Concept-Map]] - A hierarchical guide to understanding the relationships between core concepts

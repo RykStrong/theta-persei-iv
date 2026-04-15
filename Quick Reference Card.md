@@ -2,7 +2,7 @@
 ---
 tags: [index, reference, cheat-sheet, quick-guide]
 aliases: [Quick Reference, Cheat Sheet, Essential Facts]
-related: [[00-TPIV-Index]], [[Reading Order]], [[Concept-Map]]
+related: [Index](Index.md), [Reading Order](Reading%20Order.md), [Concept Map](Concept%20Map.md)
 status: complete
 ---
 
@@ -162,7 +162,7 @@ Print-friendly single-page reference for the most critical concepts, terms, and 
 - **Sensor organs on stalks** (above brain)
 - **Through-gut** (mouth → anus)
 
-**Example:** [[TPM-Zebra-Grazer]]
+**Example:** [TPM Example](TPM%20Example.md)
 
 ---
 
@@ -417,20 +417,20 @@ Print-friendly single-page reference for the most critical concepts, terms, and 
 ## Essential Reading Priority
 
 **Must Read (Core Understanding):**
-1. [[Partifunct Core Definition]]
-2. [[Reproduction-Assembly-Conception]]
-3. [[31-Taxa-and-Metrics-PSV-MDI]]
-4. [[TPM-Zebra-Grazer]]
+1. [Partifunct Core Definition](Partifunct%20Core%20Definition.md)
+2. [Reproduction Assembly Conception](Reproduction%20Assembly%20Conception.md)
+3. [Taxa and Metrics](Taxa%20and%20Metrics.md)
+4. [TPM Example](TPM%20Example.md)
 
 **Should Read (Deep Understanding):**
-5. [[GFP-and-Genodules]]
-6. [[Non-Homochirality]]
-7. [[Composite-Organisms]]
-8. [[50-Distributed-Organisms-Overview]]
+5. [GFP and Genodules](GFP%20and%20Genodules.md)
+6. [Non Homochirality](Non%20Homochirality.md)
+7. [Composite Organisms](Composite%20Organisms.md)
+8. [Distributed Organisms Overview](Distributed%20Organisms%20Overview.md)
 
 **Can Read (Comprehensive Knowledge):**
-9. [[Natural-Selection-on-TPIV]]
-10. [[Cladistics-On-TPIV]]
+9. [Natural Selection on TPIV](Natural%20Selection%20on%20TPIV.md)
+10. [Cladistics On TPIV](Cladistics%20On%20TPIV.md)
 
 ---
 
@@ -478,11 +478,11 @@ A: Distributed Organisms using radio waves for cognition (Kolofluke).
 
 ## Where to Go Next
 
-- **Full explanation:** [[Reading Order]]
-- **Visual relationships:** [[Concept-Map]]
-- **Complete index:** [[00-TPIV-Index]]
-- **Example organism:** [[TPM-Zebra-Grazer]]
-- **Field reports:** [[97-Dispatches]]
+- **Full explanation:** [Reading Order](Reading%20Order.md)
+- **Visual relationships:** [Concept Map](Concept%20Map.md)
+- **Complete index:** [Index](Index.md)
+- **Example organism:** [TPM Example](TPM%20Example.md)
+- **Field reports:** [Reading Order](Reading%20Order.md)
 
 ---
 

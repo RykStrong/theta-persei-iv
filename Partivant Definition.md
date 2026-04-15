@@ -1,7 +1,7 @@
 ---
 tags: [biology, distributed-organisms, partivants, definitions]
 aliases: [Partivant, Partivants, DO Bodies, Separated Units]
-related: [[40-Distributed-Organisms-Overview]], [[40a-DO-vs-SB-vs-JB-Comparison]], [[24-Composite-Organisms]]
+related: [Distributed Organisms Overview](Distributed%20Organisms%20Overview.md), [DO vs SB vs JB Comparison](DO%20vs%20SB%20vs%20JB%20Comparison.md), [Composite Organisms](Composite%20Organisms.md)
 status: complete
 ---
 
@@ -9,7 +9,7 @@ status: complete
 
 **Definition:** A member life form in a Distributed Organism  
 **Key Feature:** Normally not viable outside of the care of its organism  
-**Structure:** Each partivant is itself a [[Composite-Organisms|composite organism]] (multiple partifuncts)  
+**Structure:** Each partivant is itself a [composite organism](Composite%20Organisms.md) (multiple partifuncts)  
 **Critical Distinction:** Partivants ≠ Exovants ≠ Independent organisms
 
 ---
@@ -18,12 +18,12 @@ status: complete
 
 ### The Building Blocks of DOs
 
-A **partivant** is a member life form in a [[Distributed-Organisms-Overview|Distributed Organism]].
+A **partivant** is a member life form in a [Distributed Organism](Distributed%20Organisms%20Overview.md).
 
 **Core Characteristics:**
 - **Part of a whole:** One of multiple bodies comprising single DO
 - **Not viable independently:** Normally not viable outside of the care of its organism
-- **Composite structure:** Each partivant contains multiple [[Partifunct Core Definition|partifuncts]]
+- **Composite structure:** Each partivant contains multiple [partifuncts](Partifunct%20Core%20Definition.md)
 - **Specialized function:** Designed for specific role in DO
 - **Permanent separation:** Never physically connected to other partivants
 
@@ -34,16 +34,16 @@ A **partivant** is a member life form in a [[Distributed-Organisms-Overview|Dist
 ### Partivants Are Composite Organisms
 
 **Each Partivant Contains:**
-- Multiple genetically distinct [[Partifunct Core Definition|partifuncts]]
-- [[Skeletal-Systems|Skeletal system]] (usually simplified)
-- [[Circulatory-Systems|Circulatory system]] (often limited)
-- [[Respiratory-Systems|Respiratory system]] (functional)
-- [[33-Brain-Partifuncts|Brain partifuncts]] (specialized for role)
-- [[Sensory-Systems|Sensory organs]] (varies by type)
+- Multiple genetically distinct [partifuncts](Partifunct%20Core%20Definition.md)
+- [Skeletal system](Skeletal%20Systems.md) (usually simplified)
+- [Circulatory system](Circulatory%20Systems.md) (often limited)
+- [Respiratory system](Respiratory%20Systems.md) (functional)
+- [Brain partifuncts](Nervous%20Systems.md) (specialized for role)
+- [Sensory organs](Sensory%20Systems.md) (varies by type)
 
 **What's Often Missing:**
-- Complete [[Digestive-Systems|digestive system]] (feeding partivants may lack full processing)
-- [[3B-Womb-Partifunct-Systems|Womb partifunct]] (only reproductive partivants have these)
+- Complete [digestive system](Digestive%20Systems.md) (feeding partivants may lack full processing)
+- [Womb partifunct](Womb%20Partifunct%20Systems.md) (only reproductive partivants have these)
 - Full cognitive suite (distributed across partivants)
 - Complete metabolic independence
 
@@ -59,17 +59,17 @@ Each partivant is a "person" but incomplete—like having a body that's missing 
 **Metabolic Dependence:**
 - May lack complete digestive system
 - May depend on other partivants for processed nutrients
-- [[CEP-and-Do-Mites|Do-mites]] carry nutrients between partivants
+- [Do-mites](CEP%20and%20Do-Mites.md) carry nutrients between partivants
 - Cannot sustain full metabolism alone
 
 **Cognitive Dependence:**
-- [[76-Distributed-Cognition|Distributed cognition]] across partivants
+- [Distributed cognition](Distributed%20Organisms%20Overview.md) across partivants
 - May lack complete decision-making capability
 - Sensory processing distributed
 - Memory stored in other partivants
 
 **Reproductive Dependence:**
-- Most partivants lack [[3B-Womb-Partifunct-Systems|womb partifunct]]
+- Most partivants lack [womb partifunct](Womb%20Partifunct%20Systems.md)
 - Cannot reproduce independently
 - Reproductive partivants created only when needed
 
@@ -83,7 +83,7 @@ Each partivant is a "person" but incomplete—like having a body that's missing 
 - Graze, hunt, or collect food
 - May have mouths and basic gut
 - Often mobile and agile
-- Example: [[42-DO-ScrubDeer-Browser|DO-ScrubDeer]] small grazers
+- Example: [DO-ScrubDeer](DO%20ScrubDeer%20Browser.md) small grazers
 
 **Digestive Partivants:**
 - Process food collected by feeders
@@ -101,7 +101,7 @@ Each partivant is a "person" but incomplete—like having a body that's missing 
 - Memory storage
 - Strategic planning
 - Coordination functions
-- [[76-Distributed-Cognition|Distributed brain]] nodes
+- [Distributed brain](Distributed%20Organisms%20Overview.md) nodes
 
 **Defensive Partivants:**
 - Armor, weapons
@@ -111,7 +111,7 @@ Each partivant is a "person" but incomplete—like having a body that's missing 
 
 **Reproductive Partivants:**
 - Created as needed for genetic exchange
-- Contain [[3B-Womb-Partifunct-Systems|womb partifunct]]
+- Contain [womb partifunct](Womb%20Partifunct%20Systems.md)
 - May be temporary (die after reproduction)
 - Example: Lekking behaviors
 
@@ -119,7 +119,7 @@ Each partivant is a "person" but incomplete—like having a body that's missing 
 - Long-range exploration
 - Territory mapping
 - Predator/prey detection
-- Example: [[43-DO-HillWolf-Hunter|DO-HillWolf]] scouts
+- Example: [DO-HillWolf](DO%20HillWolf%20PackHunter.md) scouts
 
 **Attack Partivants:**
 - Specialized for combat/hunting
@@ -137,9 +137,9 @@ Each partivant is a "person" but incomplete—like having a body that's missing 
 - One of multiple bodies in Distributed Organism
 - Not viable independently
 - Permanent separation from birth
-- Coordinated via [[CEP-and-Do-Mites|CEP/do-mites/radio]]
+- Coordinated via [CEP/do-mites/radio](CEP%20and%20Do-Mites.md)
 
-**[[Separated-Behaviors-and-Exovants|Exovant]] (in SB):**
+**[Exovant](Separated%20Behaviors%20and%20Exovants.md) (in SB):**
 - Temporarily separated chunk from single body
 - Not viable independently
 - Must rejoin parent organism
@@ -147,7 +147,7 @@ Each partivant is a "person" but incomplete—like having a body that's missing 
 
 **Independent Organism (in JB):**
 - Fully viable on its own
-- Can temporarily join with others ([[Combinant-Behaviors|combinant behavior]])
+- Can temporarily join with others ([combinant behavior](Combinant%20Behaviors.md))
 - Complete systems (digestive, reproductive, cognitive)
 - Separation natural state
 
@@ -169,7 +169,7 @@ Independent: [A] [B] [C]  Multiple organisms
 
 ### How Partivants Coordinate
 
-**[[CEP-and-Do-Mites|Chemical/Electrical/Pheromonal (CEP)]]:**
+**[Chemical/Electrical/Pheromonal (CEP)](CEP%20and%20Do-Mites.md):**
 - Hormonal signals
 - Pheromone trails
 - Electrical pulses (some lineages)
@@ -184,7 +184,7 @@ A signature characteristic of a DO is the **cloud of do-mites** that fly into an
 - Coordinate behavior
 
 **Radio Waves (rDO Only):**
-- [[14e-Kolofluke|Kolofluke]] DOs use electromagnetic signals
+- [Kolofluke](Continents.md) DOs use electromagnetic signals
 - Longer range than chemical
 - Faster transmission
 - Energy-intensive
@@ -208,7 +208,7 @@ A signature characteristic of a DO is the **cloud of do-mites** that fly into an
 - Higher maintenance cost
 
 **Mixed Sizes Common:**
-- [[42-DO-ScrubDeer-Browser|DO-ScrubDeer]]: Small feeders, large fermenters
+- [DO-ScrubDeer](DO%20ScrubDeer%20Browser.md): Small feeders, large fermenters
 - Optimizes function per partivant type
 - Energy distribution across DO
 
@@ -218,7 +218,7 @@ A signature characteristic of a DO is the **cloud of do-mites** that fly into an
 
 ### How DOs Are Born
 
-**[[3B-Womb-Partifunct-Systems|Womb]] Creates Multiple Partivants:**
+**[Womb](Womb%20Partifunct%20Systems.md) Creates Multiple Partivants:**
 - Parent DO has reproductive partivant with womb
 - Womb assembles offspring
 - Offspring emerges as **multiple partivants**
@@ -227,7 +227,7 @@ A signature characteristic of a DO is the **cloud of do-mites** that fly into an
 **Challenge:**
 - Each partivant incomplete
 - Must communicate immediately
-- [[CEP-and-Do-Mites|Do-mites]] must function from birth
+- [Do-mites](CEP%20and%20Do-Mites.md) must function from birth
 - High failure rate
 
 **Testing:**
@@ -252,12 +252,12 @@ A signature characteristic of a DO is the **cloud of do-mites** that fly into an
 - When critical mass of partivants lost
 - When coordination breaks down completely
 - When reproductive capability lost
-- [[Death-and-Decomposition|Death appears gradual]]
+- [Death appears gradual](Death-and-Decomposition.md)
 
 **Regeneration:**
 - Some DOs can create new partivants
 - Requires resources and time
-- Reproductive partivant + collected [[Environmental-GFP|eGFP]]
+- Reproductive partivant + collected [eGFP](Environmental%20GFP.md)
 - Replaces lost specialized functions
 
 ---
@@ -270,13 +270,13 @@ A signature characteristic of a DO is the **cloud of do-mites** that fly into an
 - Give up individual viability
 - Gain extreme specialization
 - Organism-level fitness enhanced
-- Partifunct-level fitness (genes spread via [[Environmental-GFP|eGFP]])
+- Partifunct-level fitness (genes spread via [eGFP](Environmental%20GFP.md))
 
 **Selection Pressure:**
 - Acts on DO as whole
 - Also acts on each partivant type
 - Also acts on coordination mechanisms
-- [[Natural-Selection-on-TPIV|Multi-level selection]]
+- [Multi-level selection](Natural%20Selection%20on%20TPIV.md)
 
 **Success Criteria:**
 - DO survives and reproduces → partivants successful
@@ -294,7 +294,7 @@ A signature characteristic of a DO is the **cloud of do-mites** that fly into an
 - Genetic sampling confirms DO membership
 - All partivants share some core partifuncts
 - Each specialized type has unique partifunct set
-- [[CEP-and-Do-Mites|Do-mite]] chemical signatures match
+- [Do-mite](CEP%20and%20Do-Mites.md) chemical signatures match
 
 **Behavioral Studies:**
 - Track individual partivants
@@ -313,24 +313,24 @@ A signature characteristic of a DO is the **cloud of do-mites** that fly into an
 ## Navigation
 
 **Core Concepts:**
-- [[Distributed-Organisms-Overview]] - What partivants comprise
-- [[DO-vs-SB-vs-JB-Comparison]] - Partivant vs exovant vs individual
-- [[CEP-and-Do-Mites]] - How partivants communicate
-- [[76-Distributed-Cognition]] - Cognition across partivants
+- [Distributed Organisms Overview](Distributed%20Organisms%20Overview.md) - What partivants comprise
+- [DO vs SB vs JB Comparison](DO%20vs%20SB%20vs%20JB%20Comparison.md) - Partivant vs exovant vs individual
+- [CEP and Do-Mites](CEP%20and%20Do-Mites.md) - How partivants communicate
+- [Distributed Organisms Overview](Distributed%20Organisms%20Overview.md) - Cognition across partivants
 
 **Examples:**
-- [[42-DO-ScrubDeer-Browser]] - Multiple partivant types
-- [[43-DO-HillWolf-Hunter]] - Specialized partivants
-- [[44-DO-Horse-Grazer]] - Grazing partivants
+- [DO ScrubDeer Browser](DO%20ScrubDeer%20Browser.md) - Multiple partivant types
+- [DO HillWolf PackHunter](DO%20HillWolf%20PackHunter.md) - Specialized partivants
+- [Distributed Organisms Overview](Distributed%20Organisms%20Overview.md) - Grazing partivants
 
 **Related Topics:**
-- [[Composite-Organisms]] - What each partivant is
-- [[Partifunct Core Definition]] - What comprises each partivant
-- [[3B-Womb-Partifunct-Systems]] - How partivants are assembled
+- [Composite Organisms](Composite%20Organisms.md) - What each partivant is
+- [Partifunct Core Definition](Partifunct%20Core%20Definition.md) - What comprises each partivant
+- [Womb Partifunct Systems](Womb%20Partifunct%20Systems.md) - How partivants are assembled
 
 **Related Dispatches:**
-- [[D045-Partivant-Viability-Testing]] - Independence experiments
-- [[D046-DO-Assembly-Observation]] - Birth of multiple partivants
+- [B017 – Distributed Organisms](Dispatches.md#b017) - Independence experiments
+- [B017 – Distributed Organisms](Dispatches.md#b017) - Birth of multiple partivants
 
 ---
 

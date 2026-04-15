@@ -2,7 +2,7 @@
 ---
 tags: [biology, comparative-analysis, convergent-evolution, distributed-organisms, separated-behaviors]
 aliases: [Drophunter vs Dropshark, Convergent Evolution Example, Blimp Comparison]
-related: [[46c-Drophunter-Blimp]], [[47a-DO-Dropshark-Blimp]], [[42-Convergent-Evolution]]
+related: [Separated Behaviors and Exovants](Separated%20Behaviors%20and%20Exovants.md), [Comparative Essay Drophunter vs DO Dropshark Blimps](Comparative%20Essay%20Drophunter%20vs%20DO%20Dropshark%20Blimps.md), [Convergent Evolution](Convergent%20Evolution.md)
 status: complete
 ---
 
@@ -24,16 +24,16 @@ Both organisms hunt prey from aerial positions using lighter-than-air buoyancy, 
 
 **Two Strategies:**
 
-**[[46c-Drophunter-Blimp|Drophunter Blimp]] (Steppe):**
-- **Strategy:** [[Separated-Behaviors-and-Exovants|Separated Behavior]] (SB)
-- **Habitat:** [[14b-Magna|Magna Steppe]] and grasslands
+**[Drophunter Blimp](Separated%20Behaviors%20and%20Exovants.md) (Steppe):**
+- **Strategy:** [Separated Behavior](Separated%20Behaviors%20and%20Exovants.md) (SB)
+- **Habitat:** [Magna Steppe](Continents.md) and grasslands
 - **Solution:** One organism with detachable high-function hunter exovant
 - **Deployment:** Single complex autonomous hunter
 
 **DO-Dropshark Blimp (Ocean):**
-- **Strategy:** [[Distributed-Organisms-Overview|Distributed Organism]] (DO)
+- **Strategy:** [Distributed Organism](Distributed%20Organisms%20Overview.md) (DO)
 - **Habitat:** Open ocean, pelagic zones
-- **Solution:** Multiple permanently separated specialized [[Partivant-Definition|partivants]]
+- **Solution:** Multiple permanently separated specialized [partivants](Partivant%20Definition.md)
 - **Deployment:** Coordinated swarm of specialized units
 
 ---
@@ -54,7 +54,7 @@ Both organisms hunt prey from aerial positions using lighter-than-air buoyancy, 
 - Each blimp: Buoyancy structure + internal cavity
 - Size: 2-4 meters diameter each
 - Contains: **Other partivants live inside the blimps**
-- Base units coordinate via [[CEP-and-Do-Mites|do-mites]]
+- Base units coordinate via [do-mites](CEP%20and%20Do-Mites.md)
 
 ---
 
@@ -65,11 +65,11 @@ Both organisms hunt prey from aerial positions using lighter-than-air buoyancy, 
 **Drophunter Blimp (SB):**
 - Single integrated body
 - All organs in one structure:
-  - [[33-Brain-Partifuncts|Brain partifuncts]] (cognitive suite)
-  - [[Digestive-Systems|Digestive system]] (complete)
-  - [[3B-Womb-Partifunct-Systems|Womb partifunct]] (reproduction)
-  - [[Circulatory-Systems|Hearts and circulation]]
-  - [[Respiratory-Systems|Lungs]]
+  - [Brain partifuncts](Nervous%20Systems.md) (cognitive suite)
+  - [Digestive system](Digestive%20Systems.md) (complete)
+  - [Womb partifunct](Womb%20Partifunct%20Systems.md) (reproduction)
+  - [Hearts and circulation](Circulatory%20Systems.md)
+  - [Lungs](Respiratory%20Systems.md)
   - Hunter exovant (when attached)
 
 **DO-Dropshark Blimp (DO):**
@@ -101,14 +101,14 @@ Both organisms hunt prey from aerial positions using lighter-than-air buoyancy, 
   - Pursuit and capture
   - Kill and retrieve
 - Must return to parent within hours
-- High intelligence ([[33-Brain-Partifuncts|MOTO, SENS, THRT]] brains)
+- High intelligence ([MOTO, SENS, THRT](Nervous%20Systems.md) brains)
 
 **DO-Dropshark Blimp (DO):**
 - **Multiple specialized attack partivants:**
 
 **Attack Flyers (3-8 partivants):**
 - Aerial pursuit hunters
-- Coordinate via [[CEP-and-Do-Mites|do-mites]]
+- Coordinate via [do-mites](CEP%20and%20Do-Mites.md)
 - Pack tactics in air
 - Each less complex than Drophunter exovant
 - Permanent separation (don't "return")
@@ -136,7 +136,7 @@ Both organisms hunt prey from aerial positions using lighter-than-air buoyancy, 
 - **Scout Flyer Partivants (2-5)**
 - Long-range aerial reconnaissance
 - Patrol wide area (1-3 km from base blimps)
-- [[CEP-and-Do-Mites|do-mites]] relay information
+- [do-mites](CEP%20and%20Do-Mites.md) relay information
 - Coordinate attack partivants
 - Early warning for threats
 
@@ -181,9 +181,9 @@ Both organisms hunt prey from aerial positions using lighter-than-air buoyancy, 
 - Simple: One brain, one decision-maker
 
 **DO-Dropshark Blimp (DO):**
-- **[[76-Distributed-Cognition|Distributed cognition]]**
+- **[Distributed cognition](Distributed%20Organisms%20Overview.md)**
 - Cognitive partivants inside blimp #1
-- [[CEP-and-Do-Mites|Do-mites]] carry signals between:
+- [Do-mites](CEP%20and%20Do-Mites.md) carry signals between:
   - Blimp units (long-range corridors)
   - Flying partivants (swarm coordination)
   - Swimming partivants (surface communication)
@@ -233,8 +233,8 @@ Both organisms hunt prey from aerial positions using lighter-than-air buoyancy, 
 ## Reproduction
 
 **Drophunter Blimp (SB):**
-- [[3B-Womb-Partifunct-Systems|Womb]] inside main blimp body
-- Collects [[Environmental-GFP|eGFP]] from environment and prey
+- [Womb](Womb%20Partifunct%20Systems.md) inside main blimp body
+- Collects [eGFP](Environmental%20GFP.md) from environment and prey
 - Assembles complete offspring (blimp + hunter exovant)
 - Single offspring typical (energy cost)
 - Born with functional exovant attachment
@@ -292,8 +292,8 @@ Both organisms hunt prey from aerial positions using lighter-than-air buoyancy, 
 - **Higher overhead:**
   - Multiple blimp units (buoyancy maintenance)
   - Many partivants to feed (permanent deployment)
-  - Complex coordination ([[CEP-and-Do-Mites|do-mite]] production)
-  - [[41c-Swarm-Envelopes-and-Corridors|Corridors]] over water (challenging)
+  - Complex coordination ([do-mite](CEP%20and%20Do-Mites.md) production)
+  - [Corridors](CEP%20and%20Do-Mites.md) over water (challenging)
 
 - **Lower per-hunt cost:**
   - Partivants hunt continuously (always deployed)
@@ -315,7 +315,7 @@ Both organisms hunt prey from aerial positions using lighter-than-air buoyancy, 
 
 **DO-Dropshark Blimp (DO):**
 - **Blimp unit loss:** Lose internal partivants → major damage
-- **Communication disruption:** [[41d-Airspace-Conflicts|Do-mite swarms]] scattered by wind/weather
+- **Communication disruption:** [Do-mite swarms](DO-Mite%20conflict.md) scattered by wind/weather
 - **Partivant attrition:** Constant losses (predation on flyers/swimmers)
 - **Coordination breakdown:** Lose cognitive partivant → organism collapses
 - **Storm vulnerable:** Multiple blimp units risk separation
@@ -372,7 +372,7 @@ Both organisms hunt prey from aerial positions using lighter-than-air buoyancy, 
 **Result:**
 - Similar overall strategy (aerial drop-hunting)
 - Different tactical implementations (SB vs DO)
-- [[42-Convergent-Evolution|Convergent evolution]] of form
+- [Convergent evolution](Convergent%20Evolution.md) of form
 - Divergent evolution of internal organization
 
 ---
@@ -413,24 +413,24 @@ Both organisms hunt prey from aerial positions using lighter-than-air buoyancy, 
 ## Navigation
 
 **Core Concepts:**
-- [[46c-Drophunter-Blimp]] - SB example detailed
-- [[47a-DO-Dropshark-Blimp]] - DO example detailed (to be created)
-- [[DO-vs-SB-vs-JB-Comparison]] - Strategy comparison
+- [Separated Behaviors and Exovants](Separated%20Behaviors%20and%20Exovants.md) - SB example detailed
+- [Comparative Essay Drophunter vs DO Dropshark Blimps](Comparative%20Essay%20Drophunter%20vs%20DO%20Dropshark%20Blimps.md) - DO example detailed (to be created)
+- [DO vs SB vs JB Comparison](DO%20vs%20SB%20vs%20JB%20Comparison.md) - Strategy comparison
 
 **Related Topics:**
-- [[42-Convergent-Evolution]] - Why similar forms evolve
-- [[Natural-Selection-on-TPIV]] - Selection pressures
-- [[Distributed-Organisms-Overview]] - DO biology
-- [[Separated-Behaviors-and-Exovants]] - SB biology
+- [Convergent Evolution](Convergent%20Evolution.md) - Why similar forms evolve
+- [Natural Selection on TPIV](Natural%20Selection%20on%20TPIV.md) - Selection pressures
+- [Distributed Organisms Overview](Distributed%20Organisms%20Overview.md) - DO biology
+- [Separated Behaviors and Exovants](Separated%20Behaviors%20and%20Exovants.md) - SB biology
 
 **Habitats:**
-- [[14b-Magna|Magna Steppe]] - Drophunter habitat
-- [[15-Oceans]] - DO-Dropshark habitat
+- [Magna Steppe](Continents.md) - Drophunter habitat
+- [Continents](Continents.md) - DO-Dropshark habitat
 
 **Related Dispatches:**
-- [[D066-Aerial-Predator-Survey]] - Both species observed
-- [[D067-Convergent-Blimp-Analysis]] - Comparative study
-- [[D068-Hunting-Efficiency-Comparison]] - Success rate measurements
+- [B015 – Separated Behaviors](Dispatches.md#b015) - Both species observed
+- [B015 – Separated Behaviors](Dispatches.md#b015) - Comparative study
+- [B015 – Separated Behaviors](Dispatches.md#b015) - Success rate measurements
 
 ---
 

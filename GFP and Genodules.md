@@ -2,14 +2,14 @@
 ---
 tags: [biology, genetics, GFP, genodules, core-concepts]
 aliases: [GFP, Genomic Folded Proteins, Genodules, Genetic System]
-related: [[Biology Overview]], [[21-BLUs-Basic-Life-Units]], [[GFP-Structure]], [[Environmental-GFP]]
+related: [Biology Overview](Biology%20Overview.md), [BLU Biology](BLU%20Biology.md), [GFP Structure](GFP%20Structure.md), [Environmental GFP](Environmental%20GFP.md)
 status: complete
 ---
 
 # GFP and Genodules
 
 **GFP:** Genomic Folded Protein - Information storage molecule (replaces DNA)  
-**Genodule:** Bundle of GFP that expresses as a [[Partifunct Core Definition|partifunct]]  
+**Genodule:** Bundle of GFP that expresses as a [partifunct](Partifunct%20Core%20Definition.md)  
 **Organization:** Free-mixing bundles, not tightly packed chromosomes  
 **Key Feature:** Protein-based inheritance, not nucleic acid
 
@@ -29,18 +29,18 @@ status: complete
 - Complex tertiary and quaternary structure
 - Maintains information through folding pattern
 - More chemically diverse than DNA
-- Compatible with [[Non-Homochirality|non-homochiral]] chemistry
+- Compatible with [non-homochiral](Non%20Homochirality.md) chemistry
 
 ### Function
 
 **Information Storage:**
 - Encodes instructions for protein synthesis
-- Directs [[LU-Biology|tissue organization]]
+- Directs [tissue organization](BLU%20Biology.md)
 - Controls partifunct development
 - Stable inheritance across generations
 
 **Expression:**
-- [[MGFP-Transcription-Pathway|MGFP pathway]] reads and expresses GFP
+- [MGFP pathway](MGFP%20Transcription%20Pathway.md) reads and expresses GFP
 - Multiple transcription levels (R, C, G, A)
 - Can reference multiple GFP sources
 - Environmental responsiveness
@@ -58,7 +58,7 @@ status: complete
 - Physically separate units
 
 **In Tissue:**
-- Concentrated in [[LU-Biology|genode clusters]]
+- Concentrated in [genode clusters](BLU%20Biology.md)
 - Scattered throughout BLU tissue
 - Variable density by tissue type
 - Can migrate within partifunct
@@ -73,7 +73,7 @@ status: complete
 
 **Multi-Expression Potential:**
 - Same genodule can express differently in different contexts
-- [[Multi-Expression-Potential|Environmental cues determine form]]
+- [Environmental cues determine form](Multi%20Expression%20Potential.md)
 - Limb genodule → grass stem OR animal leg OR wing
 - Fundamental flexibility of modular system
 
@@ -86,21 +86,21 @@ status: complete
 **Not Like DNA:**
 - Proteins fold into complementary structures
 - Template-based but through conformational matching
-- [[MGFP-Transcription-Pathway|MGFP-C (Copy)]] molecules facilitate
+- [MGFP-C (Copy)](MGFP%20Transcription%20Pathway.md) molecules facilitate
 - Error rates different from DNA replication
 
 ### Horizontal Transfer
 
 **Environmental Dispersal:**
-- Genodules shed [[Environmental-GFP|eGFP]] constantly
-- Released via multiple [[GFP-Carriers-and-Vectors|vectors]]
+- Genodules shed [eGFP](Environmental%20GFP.md) constantly
+- Released via multiple [vectors](GFP%20Carriers%20and%20Vectors.md)
 - Floats in air, water, carried by mites
 - Primary mode of genetic exchange
 
 **Uptake:**
 - Organisms passively collect eGFP
 - Partifuncts select compatible GFP
-- [[Womb-Enabled-Reproduction|Womb]] assembles compatible genodules
+- [Womb](Womb%20Enabled%20Reproduction.md) assembles compatible genodules
 - Creates offspring with novel combinations
 
 ---
@@ -117,7 +117,7 @@ status: complete
 
 ### Compatibility with Mixed Chirality
 
-**[[Non-Homochirality|Non-Homochiral]] System:**
+**[Non-Homochiral](Non%20Homochirality.md) System:**
 - Can use both L- and D-amino acids
 - Enables genodule independence
 - Prevents unwanted genetic fusion
@@ -127,7 +127,7 @@ status: complete
 
 **Robust in TPIV Conditions:**
 - Protein folding stable at TPIV temperatures
-- Resistant to UV (protected by [[Atmosphere|ozone layer]])
+- Resistant to UV (protected by [ozone layer](Atmosphere.md))
 - 25% oxygen doesn't degrade GFP excessively
 - Long environmental persistence
 
@@ -155,7 +155,7 @@ status: complete
 - Composite organism has no unified genome
 - Each partifunct maintains its own genodules
 - No chromosomal organization like Earth life
-- [[Composite-Organisms|Coalition of genetic individuals]]
+- [Coalition of genetic individuals](Composite%20Organisms.md)
 
 ---
 
@@ -178,7 +178,7 @@ status: complete
 ### Genodule Recombination
 
 **During Reproduction:**
-- Partifuncts collect [[Environmental-GFP|eGFP]] from environment
+- Partifuncts collect [eGFP](Environmental%20GFP.md) from environment
 - Recombine with own GFP
 - Create novel genodule combinations
 - Rapid evolutionary innovation
@@ -190,9 +190,9 @@ status: complete
 ### Developmental Regulation
 
 **Partifunct Development:**
-- Genodule expression controlled by [[3B-Womb-Partifunct-Systems|womb signals]]
+- Genodule expression controlled by [womb signals](Womb%20Partifunct%20Systems.md)
 - Environmental conditions affect final form
-- [[Multi-Expression-Potential|Same genodule, different outcomes]]
+- [Same genodule, different outcomes](Multi%20Expression%20Potential.md)
 - Epigenetic-like regulation
 
 ---
@@ -212,7 +212,7 @@ status: complete
 **Horizontal Transfer Enables:**
 - Rapid trait acquisition
 - Novel partifunct combinations
-- [[Natural-Selection-on-TPIV|Fast adaptation]]
+- [Fast adaptation](Natural%20Selection%20on%20TPIV.md)
 - Ecosystem-wide genetic exchange
 
 ---
@@ -221,29 +221,30 @@ status: complete
 
 ### Detailed Topics
 
-- [[GFP-Structure]] - Molecular architecture of GFP
-- [[Environmental-GFP]] - How genetic material disperses
-- [[MGFP-Transcription-Pathway]] - Expression mechanism in detail
+- [GFP Structure](GFP%20Structure.md) - Molecular architecture of GFP
+- [Environmental GFP](Environmental%20GFP.md) - How genetic material disperses
+- [MGFP Transcription Pathway](MGFP%20Transcription%20Pathway.md) - Expression mechanism in detail
 
 ---
 
 ## Navigation
 
 **Core Concepts:**
-- [[Biology Overview]] - Overall biological system
-- [[21-BLUs-Basic-Life-Units]] - Where GFP is stored
-- [[Partifunct Core Definition]] - What genodules express as
-- [[Composite-Organisms]] - How genodules assemble into organisms
+- [Biology Overview](Biology%20Overview.md) - Overall biological system
+- [BLU Biology](BLU%20Biology.md) - Where GFP is stored
+- [Partifunct Core Definition](Partifunct%20Core%20Definition.md) - What genodules express as
+- [Composite Organisms](Composite%20Organisms.md) - How genodules assemble into organisms
 
 **Related Topics:**
-- [[Reproduction-Assembly-Conception]] - How GFP recombines
-- [[Non-Homochirality]] - Why protein-based genetics evolved
-- [[Natural-Selection-on-TPIV]] - Evolutionary pressures on GFP
+- [Reproduction Assembly Conception](Reproduction%20Assembly%20Conception.md) - How GFP recombines
+- [Non Homochirality](Non%20Homochirality.md) - Why protein-based genetics evolved
+- [Natural Selection on TPIV](Natural%20Selection%20on%20TPIV.md) - Evolutionary pressures on GFP
+- [genode-level self-interest](Selfish%20Gene%20TPIV%20style.md)
 
 **Related Dispatches:**
-- [[D006-Biochemical-Architecture]] - Discovery of GFP system
-- [[D007-Modular-Assembly]] - Understanding genodule expression
-- [[D007x-Modular-Genetics]] - Detailed genetic analysis
+- [B006 – Biochemical Architecture](Dispatches.md#b006) - Discovery of GFP system
+- [B007 – Modular Assembly & Genetics](Dispatches.md#b007) - Understanding genodule expression
+- [B007 – Modular Assembly & Genetics](Dispatches.md#b007) - Detailed genetic analysis
 
 ---
 

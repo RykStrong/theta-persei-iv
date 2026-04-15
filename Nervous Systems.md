@@ -2,7 +2,7 @@
 ---
 tags: [anatomy, nervous-system, brain, cognition, neural-architecture]
 aliases: [Nervous Systems, Brain Partifuncts, Neural Systems, Cognitive Architecture]
-related: [[30-Anatomy-Overview]], [[Partifunct Core Definition]], [[33a-Motor-Control]], [[33b-Memory-Learning]]
+related: [Anatomy Overview](Anatomy%20Overview.md), [Partifunct Core Definition](Partifunct%20Core%20Definition.md), [Nervous Systems](Nervous%20Systems.md), [Nervous Systems](Nervous%20Systems.md)
 status: complete
 ---
 
@@ -25,7 +25,7 @@ status: complete
 - Unified neural tissue
 
 **TPIV Model:**
-- Multiple [[Partifunct Core Definition|brain partifuncts]]
+- Multiple [brain partifuncts](Partifunct%20Core%20Definition.md)
 - Each genetically distinct
 - Specialized functions
 - Coordinated via signaling
@@ -33,7 +33,7 @@ status: complete
 **Advantage:**
 - Each function can evolve independently
 - Mix-and-match cognitive abilities
-- [[Womb-Enabled-Reproduction|Womb]] assembles appropriate combination
+- [Womb](Womb%20Enabled%20Reproduction.md) assembles appropriate combination
 - Rapid cognitive evolution
 
 ---
@@ -44,44 +44,44 @@ status: complete
 
 Each brain function can be a separate specialized partifunct:
 
-**[[33a-Motor-Control|Motor Control Brain (MOTO)]]:**
+**[Motor Control Brain (MOTO)](Nervous%20Systems.md):**
 - Coordination of limb and body movements
 - Balance, locomotion, reflex control
 - Dense neural tissue optimized for rapid response
 - Precision muscle coordination
 
-**[[33b-Memory-Learning|Memory & Learning Brain (MEMO)]]:**
+**[Memory & Learning Brain (MEMO)](Nervous%20Systems.md):**
 - Long-term storage of experiences
 - Associative learning
 - Behavioral conditioning
 - Neural tissue specialized in memory storage and synaptic plasticity
 
-**[[33c-Social-Interaction|Social Interaction Brain (SOCI)]]:**
+**[Social Interaction Brain (SOCI)](Nervous%20Systems.md):**
 - Managing social behaviors
 - Recognizing individuals
 - Group coordination, empathy-like responses
 - Hierarchy management
 - Processes social signals, pheromones, communication
 
-**[[33d-Strategic-Planning|Strategic Planning Brain (STRA)]]:**
+**[Strategic Planning Brain (STRA)](Nervous%20Systems.md):**
 - Advanced decision-making
 - Anticipation, problem-solving
 - Abstract thinking, tool-use management
 - Neural tissue with enhanced connections for predictive modeling
 
-**[[33e-Sensory-Integration|Sensory Integration Brain (SENS)]]:**
+**[Sensory Integration Brain (SENS)](Nervous%20Systems.md):**
 - Integration and processing of sensory data
 - Visual, auditory, tactile, chemical
 - Coherent perceptual experience
-- Dense neural integration hubs linking specialized [[Sensory-Systems|sensory partifuncts]]
+- Dense neural integration hubs linking specialized [sensory partifuncts](Sensory%20Systems.md)
 
-**[[33f-Navigation-Spatial|Navigational/Spatial Awareness Brain (NAVI)]]:**
+**[Navigational/Spatial Awareness Brain (NAVI)](Nervous%20Systems.md):**
 - Spatial memory, orientation
 - Territory mapping
 - Migration control
 - Neural architecture for 3D navigation and positional awareness
 
-**[[33g-Threat-Recognition|Threat Recognition & Response Brain (THRT)]]:**
+**[Threat Recognition & Response Brain (THRT)](Nervous%20Systems.md):**
 - Rapid processing of environmental dangers
 - Fear responses, predator detection
 - Fast reactions, threat assessment
@@ -97,7 +97,7 @@ Each brain function can be a separate specialized partifunct:
 - Hormones cross partifunct boundaries
 - Neurotransmitter analogs
 - Pheromone-like internal signals
-- [[MGFP-Transcription-Pathway|MGFP-G]] receives and responds
+- [MGFP-G](MGFP%20Transcription%20Pathway.md) receives and responds
 
 **Electrical Signaling:**
 - Nerve bundles cross partifunct boundaries
@@ -106,7 +106,7 @@ Each brain function can be a separate specialized partifunct:
 - Coordinated timing
 
 **Central Nerve Loop:**
-- Runs through [[3A-Hexagirdle-Octagirdle|hexagirdle/octagirdle]]
+- Runs through [hexagirdle/octagirdle](Hexagirdle%20Octagirdle.md)
 - All brain partifuncts connect
 - Information highway
 - Enables unified behavior
@@ -130,7 +130,7 @@ Each brain function can be a separate specialized partifunct:
 - Potentially tool use
 
 **Context-Dependent:**
-- [[Multi-Expression-Potential|Same brain partifunct]] → different complexity
+- [Same brain partifunct](Multi%20Expression%20Potential.md) → different complexity
 - Womb determines expression level
 - Environment drives cognitive needs
 - Social organisms develop SOCI, solitary organisms don't
@@ -149,7 +149,7 @@ Each brain function can be a separate specialized partifunct:
 
 **Variation:**
 - Some organisms have distributed brain modules throughout body
-- [[50-Distributed-Organisms-Overview|Distributed Organisms]] may have cognitive nodes in separate partivants
+- [Distributed Organisms](Distributed%20Organisms%20Overview.md) may have cognitive nodes in separate partivants
 - Aerial organisms may have reduced brain mass (weight constraint)
 
 ---
@@ -158,7 +158,7 @@ Each brain function can be a separate specialized partifunct:
 
 ### BLU-Based Construction
 
-**[[LU-Biology|Genode Clusters]]:**
+**[Genode Clusters](BLU%20Biology.md):**
 - High density in brain partifuncts
 - Neural tissue heavily packed with genetic control centers
 - Rapid protein synthesis for neurotransmitters
@@ -177,7 +177,7 @@ Each brain function can be a separate specialized partifunct:
 ### Connection to Sensors
 
 **Input Processing:**
-- [[Sensory-Systems|Sensory partifuncts]] send signals to SENS brain
+- [Sensory partifuncts](Sensory%20Systems.md) send signals to SENS brain
 - Visual, auditory, chemical, tactile data
 - Integration creates unified perception
 - Relayed to appropriate brain modules for action
@@ -197,7 +197,7 @@ Each brain function can be a separate specialized partifunct:
 **MOTO Brain Function:**
 - Receives input from other brain partifuncts
 - Generates motor commands
-- Sends signals to [[88a-ST-LMB-Lignin-Limb-Segment|limb partifuncts]]
+- Sends signals to [limb partifuncts](Partifunct%20Domain%20&%20Function%20Table.md)
 - Coordinates complex movements
 
 **Reflexes:**
@@ -212,11 +212,11 @@ Each brain function can be a separate specialized partifunct:
 
 ### Special Cases
 
-**[[50-Distributed-Organisms-Overview|Distributed Organisms]]:**
+**[Distributed Organisms](Distributed%20Organisms%20Overview.md):**
 - Cognitive partifuncts in separate bodies (partivants)
-- Coordination via [[51-CEP-and-Do-Mites|CEP communication]]
+- Coordination via [CEP communication](CEP%20and%20Do-Mites.md)
 - Shared awareness across physical separation
-- [[76-Distributed-Cognition|Collective decision-making]]
+- [Collective decision-making](Distributed%20Organisms%20Overview.md)
 
 **Advantages:**
 - More processing power (multiple brains)
@@ -237,9 +237,9 @@ Each brain function can be a separate specialized partifunct:
 - All need MOTO (movement) and SENS (integration)
 
 **Rapid Evolution:**
-- New cognitive partifunct can spread via [[Environmental-GFP|eGFP]]
+- New cognitive partifunct can spread via [eGFP](Environmental%20GFP.md)
 - Organism acquires new mental ability in single generation
-- [[73-Tool-Using-Life|Tool-using behaviors]] can emerge rapidly
+- [Tool-using behaviors](Behavior.md) can emerge rapidly
 - Cultural learning reinforces genetic changes
 
 ---
@@ -253,8 +253,8 @@ Each brain function can be a separate specialized partifunct:
 - Planning and memory
 - Social interaction
 - Problem-solving
-- [[72a-Partifunct-Trading-Rituals|Deliberate genetic exchange]]
-- [[72d-Environmental-Cultivation|Environmental cultivation]]
+- [Deliberate genetic exchange](Behavior.md)
+- [Environmental cultivation](Behavior.md)
 
 **Instinct vs Learning:**
 - Each brain partifunct has genetically encoded behaviors
@@ -276,7 +276,7 @@ Each brain function can be a separate specialized partifunct:
 
 **Integration Requirements:**
 - All brain partifuncts must be compatible
-- [[3B-Womb-Partifunct-Systems|Womb]] must assemble functional neural network
+- [Womb](Womb%20Partifunct%20Systems.md) must assemble functional neural network
 - Failed integration = behavioral deficits
 - Natural selection eliminates poor combinations
 
@@ -293,7 +293,7 @@ Each brain function can be a separate specialized partifunct:
 - Tool-users: All of above plus enhanced STRA
 
 **Neural Density:**
-- Brain partifuncts show highest [[LU-Biology|genode cluster]] density
+- Brain partifuncts show highest [genode cluster](BLU%20Biology.md) density
 - Metabolically expensive
 - Large organisms can support more complex brains
 - Small organisms limited by energy budget
@@ -304,33 +304,33 @@ Each brain function can be a separate specialized partifunct:
 
 ### Detailed Pages
 
-- [[33a-Motor-Control]] - MOTO brain partifunct function
-- [[33b-Memory-Learning]] - MEMO brain partifunct function
-- [[33c-Social-Interaction]] - SOCI brain partifunct function
-- [[33d-Strategic-Planning]] - STRA brain partifunct function
-- [[33e-Sensory-Integration]] - SENS brain partifunct function
-- [[33f-Navigation-Spatial]] - NAVI brain partifunct function
-- [[33g-Threat-Recognition]] - THRT brain partifunct function
+- [Nervous Systems](Nervous%20Systems.md) - MOTO brain partifunct function
+- [Nervous Systems](Nervous%20Systems.md) - MEMO brain partifunct function
+- [Nervous Systems](Nervous%20Systems.md) - SOCI brain partifunct function
+- [Nervous Systems](Nervous%20Systems.md) - STRA brain partifunct function
+- [Nervous Systems](Nervous%20Systems.md) - SENS brain partifunct function
+- [Nervous Systems](Nervous%20Systems.md) - NAVI brain partifunct function
+- [Nervous Systems](Nervous%20Systems.md) - THRT brain partifunct function
 
 ---
 
 ## Navigation
 
 **Anatomy Systems:**
-- [[Anatomy-Overview]] - Overall body architecture
-- [[Circulatory-Systems]] - Blood supply to brain
-- [[Respiratory-Systems]] - Oxygen for neural tissue
-- [[Sensory-Systems]] - Input to brain
+- [Anatomy Overview](Anatomy%20Overview.md) - Overall body architecture
+- [Circulatory Systems](Circulatory%20Systems.md) - Blood supply to brain
+- [Respiratory Systems](Respiratory%20Systems.md) - Oxygen for neural tissue
+- [Sensory Systems](Sensory%20Systems.md) - Input to brain
 
 **Related Topics:**
-- [[Partifunct Core Definition]] - What makes each brain module distinct
-- [[76-Distributed-Cognition]] - Multi-body consciousness
-- [[73-Tool-Using-Life]] - Advanced cognitive applications
-- [[70-Behavior-Overview]] - How neural systems produce behavior
+- [Partifunct Core Definition](Partifunct%20Core%20Definition.md) - What makes each brain module distinct
+- [Distributed Organisms Overview](Distributed%20Organisms%20Overview.md) - Multi-body consciousness
+- [Behavior](Behavior.md) - Advanced cognitive applications
+- [Behavior](Behavior.md) - How neural systems produce behavior
 
 **Related Dispatches:**
-- [[D026-Neural-Architecture-Analysis]] - First mapping of brain partifuncts
-- [[D027-Cognitive-Module-Testing]] - Behavioral experiments
+- [B007 – Modular Assembly & Genetics](Dispatches.md#b007) - First mapping of brain partifuncts
+- [B007 – Modular Assembly & Genetics](Dispatches.md#b007) - Behavioral experiments
 
 ---
 

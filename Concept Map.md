@@ -2,7 +2,7 @@
 ---
 tags: [index, navigation, concept-map, relationships]
 aliases: [Concept Map, Knowledge Graph, How It All Fits Together]
-related: [[00-TPIV-Index]], [[Reading Order]], [[Quick-Reference-Card]]
+related: [Index](Index.md), [Reading Order](Reading%20Order.md), [Quick Reference Card](Quick%20Reference%20Card.md)
 status: complete
 ---
 
@@ -43,7 +43,7 @@ THETA PERSEI IV
 ├─ Earth-like atmosphere (1.2 atm, 25% O₂)
 └─ Three moons (strong tidal forces)
 ```
-**Pages:** [[Planet-Overview]], [[Atmosphere]], [[Moons-and-Tides]]
+**Pages:** [Planet-Overview](Planet-Overview.md), [Atmosphere](Atmosphere.md), [Moons and Tides](Moons%20and%20Tides.md)
 
 ### Why Life Is Different
 ```
@@ -57,7 +57,7 @@ GENOMIC FOLDED PROTEINS (GFP)
 ├─ Protein-based genetic code
 └─ Bundles mix and match freely
 ```
-**Pages:** [[Non-Homochirality]], [[GFP-and-Genodules]]
+**Pages:** [Non Homochirality](Non%20Homochirality.md), [GFP and Genodules](GFP%20and%20Genodules.md)
 
 **Key Insight:** Mixed chirality prevents direct genetic fusion, driving evolution of cooperative modular systems.
 
@@ -77,7 +77,7 @@ MGFP Transcription Pathway
     ↓
 PROTEINS (Function)
 ```
-**Pages:** [[GFP-and-Genodules]], [[MGFP-Transcription-Pathway]]
+**Pages:** [GFP and Genodules](GFP%20and%20Genodules.md), [MGFP Transcription Pathway](MGFP%20Transcription%20Pathway.md)
 
 ### Structural Units
 ```
@@ -86,7 +86,7 @@ GFP → EXPRESS AS → BLU (Basic Life Units)
                        ├─ Don't contain full genome
                        └─ Form continuous tissue
 ```
-**Pages:** [[21-BLUs-Basic-Life-Units]]
+**Pages:** [BLU Biology](BLU%20Biology.md)
 
 ### Functional Organization
 ```
@@ -101,7 +101,7 @@ PARTIFUNCTS
 │   └─ Same GFP → grass stem OR animal leg OR wing
 └─ Constantly shed genetic material
 ```
-**Pages:** [[Partifunct Core Definition]], [[Multi-Expression-Potential]]
+**Pages:** [Partifunct Core Definition](Partifunct%20Core%20Definition.md), [Multi Expression Potential](Multi%20Expression%20Potential.md)
 
 **Critical Distinction:**
 ```
@@ -109,7 +109,7 @@ EARTH                          TPIV
 Organ = shares DNA    ≠    Partifunct = unique DNA
 Zooid = shares DNA    ≠    Partifunct = unique DNA
 ```
-**Page:** [[Partifunct-vs-Organ-vs-Zooid]]
+**Page:** [Partifunct vs Organ vs Zooid](Partifunct%20vs%20Organ%20vs%20Zooid.md)
 
 ---
 
@@ -130,7 +130,7 @@ COMPOSITE ORGANISM
 ├─ Each part genetically distinct
 └─ Appears as single individual
 ```
-**Pages:** [[Composite-Organisms]], [[24a-Integration-Mechanisms]]
+**Pages:** [Composite Organisms](Composite%20Organisms.md), [Composite Organisms](Composite%20Organisms.md)
 
 ### Result: Non-Homogeneity
 ```
@@ -145,7 +145,7 @@ EXAMPLE: Zebra Grazer Herd
 ├─ Some have elaborate sensors, some minimal
 └─ All recognizably "Zebra Grazer"
 ```
-**Pages:** [[24b-Non-Homogeneity]], [[31-Taxa-and-Metrics-PSV-MDI]]
+**Pages:** [Composite Organisms](Composite%20Organisms.md), [Taxa and Metrics](Taxa%20and%20Metrics.md)
 
 ---
 
@@ -165,7 +165,7 @@ eGFP (Environmental GFP)
     ↓
 COLLECTED BY OTHER ORGANISMS
 ```
-**Pages:** [[Environmental-GFP]], [[GFP-Carriers-and-Vectors]]
+**Pages:** [Environmental GFP](Environmental%20GFP.md), [GFP Carriers and Vectors](GFP%20Carriers%20and%20Vectors.md)
 
 ### Womb-Based Reproduction
 ```
@@ -187,7 +187,7 @@ BIRTH (new composite organism)
 ├─ Mosaic of familiar + novel parts
 └─ Member of same taxon (usually)
 ```
-**Pages:** [[Womb-Enabled-Reproduction]], [[3B-Womb-Partifunct-Systems]]
+**Pages:** [Womb Enabled Reproduction](Womb%20Enabled%20Reproduction.md), [Womb Partifunct Systems](Womb%20Partifunct%20Systems.md)
 
 ### Non-Womb Reproduction
 ```
@@ -202,7 +202,7 @@ Environmental conditions trigger:
     ↓
 FREE-ASSEMBLING ORGANISM
 ```
-**Pages:** [[Non-Womb-Reproduction]]
+**Pages:** [Non Womb Reproduction](Non%20Womb%20Reproduction.md)
 
 ---
 
@@ -224,7 +224,7 @@ NATURAL SELECTION acts on:
 4. TAXON LEVEL
    └─ Which configurations persist?
 ```
-**Pages:** [[Natural-Selection-on-TPIV]]
+**Pages:** [Natural Selection on TPIV](Natural%20Selection%20on%20TPIV.md)
 
 ### Evolutionary Strategies
 ```
@@ -242,7 +242,7 @@ RESULT: Tension between:
 ├─ CONSERVATISM (replicate proven combinations)
 └─ INNOVATION (try new assemblies)
 ```
-**Pages:** [[Reproductive-Strategies]]
+**Pages:** [Reproductive Strategies](Reproductive%20Strategies.md)
 
 ---
 
@@ -260,7 +260,7 @@ TPIV TAXON = Statistical cluster of:
 ├─ Bounded morphological range (MDI value)
 └─ Common ecological role
 ```
-**Pages:** [[31-Taxa-and-Metrics-PSV-MDI]], [[Cladistics-On-TPIV]]
+**Pages:** [Taxa and Metrics](Taxa%20and%20Metrics.md), [Cladistics On TPIV](Cladistics%20On%20TPIV.md)
 
 ### Documentation Standard
 ```
@@ -272,7 +272,7 @@ TAXON PARTIFUNCT MANIFEST (TPM)
 ├─ Ecological role
 └─ Observational notes
 ```
-**Pages:** [[TPM-Template]], [[TPM-Zebra-Grazer]]
+**Pages:** [TPM Definition](TPM%20Definition.md), [TPM Example](TPM%20Example.md)
 
 ---
 
@@ -288,7 +288,7 @@ TYPICAL PATTERN (e.g., Zebra Grazer)
 ├─ Womb partifunct
 └─ Sensory stalk
 ```
-**Pages:** [[3A-Hexagirdle-Octagirdle]], [[TPM-Zebra-Grazer]]
+**Pages:** [Hexagirdle Octagirdle](Hexagirdle%20Octagirdle.md), [TPM Example](TPM%20Example.md)
 
 ### Separated Behaviors (SB)
 ```
@@ -303,7 +303,7 @@ Exovant performs task
     ↓
 Reintegrates with parent
 ```
-**Pages:** [[56-Separated-Behaviors-and-Exovants]]
+**Pages:** [Separated Behaviors and Exovants](Separated%20Behaviors%20and%20Exovants.md)
 
 **Key:** Exovant is NOT viable independently; must return to parent.
 
@@ -319,7 +319,7 @@ Perform task cooperatively
     ↓
 Separate (each viable independently)
 ```
-**Pages:** [[55-Combinant-Behaviors]]
+**Pages:** [Combinant Behaviors](Combinant%20Behaviors.md)
 
 **Key:** Each organism is independently viable; joining is temporary strategy.
 
@@ -340,7 +340,7 @@ DO-MITES carry CEPs
 SYNCHRONIZED BEHAVIOR
 └─ One reproductive entity
 ```
-**Pages:** [[50-Distributed-Organisms-Overview]], [[51-CEP-and-Do-Mites]]
+**Pages:** [Distributed Organisms Overview](Distributed%20Organisms%20Overview.md), [CEP and Do-Mites](CEP%20and%20Do-Mites.md)
 
 **Critical Distinction:**
 ```
@@ -349,7 +349,7 @@ SB Exovant    NO (must rejoin)      Direct (still attached)
 JB Members    YES (independent)      Passive/chemical
 DO Partifvants NO (permanent)       CEPs via do-mites
 ```
-**Page:** [[50a-DO-vs-SB-vs-JB-Comparison]]
+**Page:** [DO vs SB vs JB Comparison](DO%20vs%20SB%20vs%20JB%20Comparison.md)
 
 ---
 
@@ -405,7 +405,7 @@ GFP ←→ Genodules ←→ Partifuncts
 Non-homochiral → Modular → Multi-expression
 chemistry        bundles    potential
 ```
-**Start here:** [[GFP-and-Genodules]], [[Partifunct Core Definition]]
+**Start here:** [GFP and Genodules](GFP%20and%20Genodules.md), [Partifunct Core Definition](Partifunct%20Core%20Definition.md)
 
 ### Cluster 2: Assembly & Integration
 ```
@@ -416,7 +416,7 @@ eGFP → Partifzygotes → Womb polling → Composite organism
 Carriers ←─────────────────────── Non-homogeneity
 (mites, pollen)                    (no two alike)
 ```
-**Start here:** [[Reproduction-Assembly-Conception]], [[Composite-Organisms]]
+**Start here:** [Reproduction Assembly Conception](Reproduction%20Assembly%20Conception.md), [Composite Organisms](Composite%20Organisms.md)
 
 ### Cluster 3: Classification & Taxonomy
 ```
@@ -428,7 +428,7 @@ No fixed genome → Statistical clustering → Taxa
                          ↓
                        TPM format
 ```
-**Start here:** [[31-Taxa-and-Metrics-PSV-MDI]], [[TPM-Template]]
+**Start here:** [Taxa and Metrics](Taxa%20and%20Metrics.md), [TPM Definition](TPM%20Definition.md)
 
 ### Cluster 4: Advanced Organization
 ```
@@ -439,7 +439,7 @@ Modularity enables:
 ├─ Temporary fusion (JB → Transient composites)
 └─ Permanent distribution (DO → Partifvants + CEPs)
 ```
-**Start here:** [[50-Distributed-Organisms-Overview]]
+**Start here:** [Distributed Organisms Overview](Distributed%20Organisms%20Overview.md)
 
 ### Cluster 5: Physiology & Systems
 ```
@@ -452,7 +452,7 @@ Multiple partifuncts → Require:
 ├─ Circulatory multiplicity (Many hearts)
 └─ Cognitive distribution (Brain partifuncts)
 ```
-**Start here:** [[30-Architecture-Overview]]
+**Start here:** [Anatomy Overview](Anatomy%20Overview.md)
 
 ---
 
@@ -676,11 +676,11 @@ Start with any question:
 
 **Now that you understand the relationships:**
 
-- **Want systematic knowledge?** → [[Reading Order]]
-- **Ready to explore?** → [[00-TPIV-Index]]
-- **Need quick reference?** → [[Quick-Reference-Card]]
-- **Want to see an example?** → [[TPM-Zebra-Grazer]]
-- **Fascinated by DOs?** → [[50-Distributed-Organisms-Overview]]
+- **Want systematic knowledge?** → [Reading Order](Reading%20Order.md)
+- **Ready to explore?** → [Index](Index.md)
+- **Need quick reference?** → [Quick Reference Card](Quick%20Reference%20Card.md)
+- **Want to see an example?** → [TPM Example](TPM%20Example.md)
+- **Fascinated by DOs?** → [Distributed Organisms Overview](Distributed%20Organisms%20Overview.md)
 
 ---
 

@@ -2,7 +2,7 @@
 ---
 tags: [biology, distributed-organisms, communication, do-mites, CEP]
 aliases: [CEP, Do-Mites, DO Communication, Chemical Communication]
-related: [[40-Distributed-Organisms-Overview]], [[40b-Partivant-Definition]], [[41a-CEP-Structure-and-Function]], [[41b-Do-Mite-Behaviors]]
+related: [Distributed Organisms Overview](Distributed%20Organisms%20Overview.md), [Partivant Definition](Partivant%20Definition.md), [CEP and Do-Mites](CEP%20and%20Do-Mites.md), [DO-Mites](DO-Mites.md)
 status: complete
 ---
 
@@ -10,7 +10,7 @@ status: complete
 
 **CEP Definition:** Chemical, Electrical, and Pheromonal signaling systems  
 
-**[[Do-Mites]]:** Tiny airborne partivants that carry hormonal and neurological information  
+**[DO-Mites](DO-Mites.md):** Tiny airborne partivants that carry hormonal and neurological information  
 
 **Signature Feature:** Cloud of do-mites flying in/out of partivant openings  
 
@@ -47,7 +47,7 @@ GFP
 
 
 **Integration:**
-[[Partivant-Definition|Partivants]] communicate mainly using tiny airborne (insect-sized) partivants called **do-mites**, which carry hormonal and neurological information vectors.   The information can be rich enough to eneable shared cognition.
+[Partivants](Partivant%20Definition.md) communicate mainly using tiny airborne (insect-sized) partivants called **do-mites**, which carry hormonal and neurological information vectors.   The information can be rich enough to eneable shared cognition.
 
 ---
 
@@ -86,7 +86,7 @@ GFP
 
 ### Flight Patterns
 
-**[[41b-Do-Mite-Behaviors|Behavioral Modes]]:**
+**[Behavioral Modes](DO-Mites.md):**
 - **Outbound:** Carry message from source partivant
 - **Inbound:** Deliver message to target partivant
 - **Patrol:** Monitor area between partivants
@@ -95,7 +95,7 @@ GFP
 **Navigation:**
 - Chemical gradients (find home partivants)
 - Visual landmarks (in some species)
-- [[13c-Radita-Tertiary-Moon|Radiation sensing]] (long-range navigation)
+- [Radiation sensing](Radita.md) (long-range navigation)
 - Pheromone trails (follow established routes)
 
 **Entry/Exit Points:**
@@ -108,7 +108,7 @@ GFP
 
 ## Swarm Organization
 
-### [[41c-Swarm-Envelopes-and-Corridors|Envelopes and Corridors]]
+### [Envelopes and Corridors](CEP%20and%20Do-Mites.md)
 
 **Swarm Envelope:**
 - Dense cloud surrounding partivant
@@ -212,7 +212,7 @@ GFP
 
 ### Communication Disruption
 
-**[[41d-Airspace-Conflicts|Predation on Swarms]]:**
+**[Predation on Swarms](DO-Mite%20conflict.md):**
 - Some predators target do-mite clouds
 - Disrupts DO coordination
 - Partivants become isolated
@@ -228,7 +228,7 @@ GFP
 - Other DOs may disrupt swarms
 - Chemical jamming (pheromone confusion)
 - Physical barriers (territorial defense)
-- [[41d-Airspace-Conflicts|Airspace conflicts]] common
+- [Airspace conflicts](DO-Mite%20conflict.md) common
 
 ---
 
@@ -257,34 +257,34 @@ GFP
 
 ### Detailed Pages
 
-- [[41a-CEP-Structure-and-Function]] - Detailed communication mechanisms
-- [[41b-Do-Mite-Behaviors]] - Behavioral patterns and navigation
-- [[41c-Swarm-Envelopes-and-Corridors]] - Spatial organization
-- [[41d-Airspace-Conflicts]] - Inter-DO competition
+- [CEP and Do-Mites](CEP%20and%20Do-Mites.md) - Detailed communication mechanisms
+- [DO-Mites](DO-Mites.md) - Behavioral patterns and navigation
+- [CEP and Do-Mites](CEP%20and%20Do-Mites.md) - Spatial organization
+- [DO-Mite conflict](DO-Mite%20conflict.md) - Inter-DO competition
 
 ---
 
 ## Navigation
 
 **Core Concepts:**
-- [[Distributed-Organisms-Overview]] - What CEP/mites enable
-- [[Partivant-Definition]] - What's being connected
-- [[76-Distributed-Cognition]] - What's being communicated
+- [Distributed Organisms Overview](Distributed%20Organisms%20Overview.md) - What CEP/mites enable
+- [Partivant Definition](Partivant%20Definition.md) - What's being connected
+- [Distributed Organisms Overview](Distributed%20Organisms%20Overview.md) - What's being communicated
 
 **Examples:**
-- [[42-DO-ScrubDeer-Browser]] - Chemical do-mite communication
-- [[43-DO-HillWolf-Hunter]] - Radio communication (comparison)
-- [[44-DO-Horse-Grazer]] - Typical do-mite system
+- [DO ScrubDeer Browser](DO%20ScrubDeer%20Browser.md) - Chemical do-mite communication
+- [DO HillWolf PackHunter](DO%20HillWolf%20PackHunter.md) - Radio communication (comparison)
+- [Distributed Organisms Overview](Distributed%20Organisms%20Overview.md) - Typical do-mite system
 
 **Related Topics:**
-- [[Composite-Organisms]] - Foundation
-- [[33-Brain-Partifuncts]] - What processes signals
-- [[Sensory-Systems]] - How signals are received
+- [Composite Organisms](Composite%20Organisms.md) - Foundation
+- [Nervous Systems](Nervous%20Systems.md) - What processes signals
+- [Sensory Systems](Sensory%20Systems.md) - How signals are received
 
 **Related Dispatches:**
-- [[D041-Do-Mite-Swarm-Analysis]] - First identification
-- [[D047-Communication-Bandwidth-Study]] - Signal capacity
-- [[D048-Swarm-Disruption-Experiments]] - Vulnerability testing
+- [B017 – Distributed Organisms](Dispatches.md#b017) - First identification
+- [B017 – Distributed Organisms](Dispatches.md#b017) - Signal capacity
+- [B017 – Distributed Organisms](Dispatches.md#b017) - Vulnerability testing
 
 ---
 

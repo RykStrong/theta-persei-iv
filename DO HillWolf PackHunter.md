@@ -2,7 +2,7 @@
 ---
 tags: [biology, distributed-organisms, predator, DO, example-taxa]
 aliases: [DO-HillWolf, HillWolf Hunter, DO-HillWolf Hunter, HillWolf PackHunter]
-related: [[42-Example-DOs]], [[42b-TPM-DO-HillWolf]], [[40-Distributed-Organisms-Overview]], [[41-CEP-and-Do-Mites]]
+related: [Distributed Organisms Overview](Distributed%20Organisms%20Overview.md), [DO HillWolf PackHunter](DO%20HillWolf%20PackHunter.md), [Distributed Organisms Overview](Distributed%20Organisms%20Overview.md), [CEP and Do-Mites](CEP%20and%20Do-Mites.md)
 status: complete
 ---
 
@@ -12,7 +12,7 @@ status: complete
 **Biome:** Hill country, various continents  
 **PSV:** 68% (±1σ)  
 **MDI:** 6.2  
-**Communication:** Chemical [[CEP-and-Do-Mites|do-mites]]
+**Communication:** Chemical [do-mites](CEP%20and%20Do-Mites.md)
 
 ---
 
@@ -20,10 +20,10 @@ status: complete
 
 ### Chemical-Based Predator DO
 
-**DO-HillWolf PackHunter** represents an apex predator strategy using [[Distributed-Organisms-Overview|distributed organism]] architecture with chemical [[CEP-and-Do-Mites|do-mite]] communication.
+**DO-HillWolf PackHunter** represents an apex predator strategy using [distributed organism](Distributed%20Organisms%20Overview.md) architecture with chemical [do-mite](CEP%20and%20Do-Mites.md) communication.
 
 **Key Features:**
-- Multiple specialized [[Partivant-Definition|partivant]] types (scout, attack, feeding, cognitive)
+- Multiple specialized [partivant](Partivant%20Definition.md) types (scout, attack, feeding, cognitive)
 - Do-mite cloud coordination
 - Coordinated pack hunting distributed across individual bodies
 - Wide-area resource exploitation
@@ -38,14 +38,14 @@ status: complete
 
 **Structure:**
 - Lean, agile build
-- Enhanced [[Sensory-Systems|sensory organs]] (vision, hearing, smell)
+- Enhanced [sensory organs](Sensory%20Systems.md) (vision, hearing, smell)
 - Long legs for speed and endurance
 - Minimal digestive system
 
 **Function:**
 - Locate prey at distance
 - Track movement patterns
-- Relay position data via [[CEP-and-Do-Mites|do-mites]]
+- Relay position data via [do-mites](CEP%20and%20Do-Mites.md)
 - Monitor terrain and escape routes
 
 **Behavior:**
@@ -61,7 +61,7 @@ status: complete
 **Structure:**
 - Heavy muscular build
 - Powerful jaws (killing bite)
-- Enhanced [[33a-Motor-Control|MOTO brain]] (coordination)
+- Enhanced [MOTO brain](Nervous%20Systems.md) (coordination)
 - Claws for grappling
 - Medium digestive capacity
 
@@ -79,7 +79,7 @@ status: complete
 
 **Coordination Example:**
 - Scout node detects prey 200m away
-- [[CEP-and-Do-Mites|Do-mites]] carry position to attack nodes
+- [Do-mites](CEP%20and%20Do-Mites.md) carry position to attack nodes
 - Attack nodes converge from different directions
 - Coordinated assault (chemical signal synchronized)
 - Prey escape routes blocked by scouts
@@ -136,7 +136,7 @@ status: complete
 
 **Structure:**
 - Large ear-like structures
-- Enhanced [[Sensory-Systems|visual organs]]
+- Enhanced [visual organs](Sensory%20Systems.md)
 - Chemical sensors (olfactory)
 - Elevated position capability (long neck or climbing)
 
@@ -150,20 +150,20 @@ status: complete
 - Enhanced hearing (vibration detection)
 - Chemical sensing (pheromone tracking)
 - Visual monitoring (elevated positions)
-- [[76-Distributed-Cognition|Sensory integration]] distributed
+- [Sensory integration](Distributed%20Organisms%20Overview.md) distributed
 
 ---
 
 ### Cognitive Nodes
 
 **Structure:**
-- Multiple [[33-Brain-Partifuncts|brain partifuncts]] (MEMO, STRA, SOCI, NAVI)
+- Multiple [brain partifuncts](Nervous%20Systems.md) (MEMO, STRA, SOCI, NAVI)
 - Well-protected body position
 - Moderate size and mobility
 - Enhanced do-mite reception/production
 
 **Function:**
-- [[76-Distributed-Cognition|Distributed cognition]] coordination
+- [Distributed cognition](Distributed%20Organisms%20Overview.md) coordination
 - Strategic planning (hunt strategies)
 - Memory storage (territory maps, prey patterns, successful tactics)
 - Decision-making integration across all partivants
@@ -181,9 +181,9 @@ status: complete
 
 ### Chemical Coordination
 
-**[[CEP-and-Do-Mites|Swarm Characteristics]]:**
+**[Swarm Characteristics](CEP%20and%20Do-Mites.md):**
 - Thousands of do-mites per DO
-- [[41c-Swarm-Envelopes-and-Corridors|Corridors]] connect partivants
+- [Corridors](CEP%20and%20Do-Mites.md) connect partivants
 - Dense envelope around cognitive nodes
 - High traffic during hunts
 
@@ -210,7 +210,7 @@ status: complete
 - Scout partivants patrol territory
 - Detect prey via vision/sound/smell
 - Release marker pheromones
-- [[CEP-and-Do-Mites|Do-mites]] carry signals to cognitive nodes
+- [Do-mites](CEP%20and%20Do-Mites.md) carry signals to cognitive nodes
 - Cognitive nodes evaluate opportunity
 
 **Phase 2 - Positioning:**
@@ -254,7 +254,7 @@ status: complete
 - Cognitive partivants: Central position
 - Maximum separation: ~1km (extreme cases)
 
-**[[41c-Swarm-Envelopes-and-Corridors|Corridor Maintenance]]:**
+**[Corridor Maintenance](CEP%20and%20Do-Mites.md):**
 - Established flight paths between key partivants
 - Pheromone trail reinforcement
 - Higher do-mite density along corridors
@@ -270,9 +270,9 @@ status: complete
 Created as needed, typically in denning season.
 
 **Process:**
-- One feeding or cognitive partivant develops [[3B-Womb-Partifunct-Systems|womb partifunct]]
+- One feeding or cognitive partivant develops [womb partifunct](Womb%20Partifunct%20Systems.md)
 - Or dedicated reproductive partivant assembled
-- Collects [[Environmental-GFP|eGFP]] from prey and environment
+- Collects [eGFP](Environmental%20GFP.md) from prey and environment
 - Assembles multiple offspring partivants
 - Birth produces complete DO (all partivant types)
 - Do-mite communication functional immediately
@@ -299,18 +299,18 @@ Created as needed, typically in denning season.
 - Large herbivores (standard composites)
 - Medium-sized grazers
 - Other predators (opportunistic)
-- Occasionally [[DO-ScrubDeer-Browser|DO-ScrubDeer]] (difficult due to their distribution)
+- Occasionally [DO-ScrubDeer](DO%20ScrubDeer%20Browser.md) (difficult due to their distribution)
 
 **Population Control:**
 - Regulates herbivore populations
 - Prevents overgrazing
 - Maintains ecosystem balance
-- [[Natural-Selection-on-TPIV|Selection pressure]] on prey tactics
+- [Selection pressure](Natural%20Selection%20on%20TPIV.md) on prey tactics
 
 **Competition:**
 - Other predator DOs (territorial conflicts)
 - Standard composite predators (usually outcompeted)
-- [[41d-Airspace-Conflicts|Do-mite airspace conflicts]] with neighboring packs
+- [Do-mite airspace conflicts](DO-Mite%20conflict.md) with neighboring packs
 
 ---
 
@@ -326,7 +326,7 @@ Created as needed, typically in denning season.
 
 **Biological:**
 - Predators targeting do-mite clouds
-- Other DOs disrupting swarms ([[41d-Airspace-Conflicts|airspace conflicts]])
+- Other DOs disrupting swarms ([airspace conflicts](DO-Mite%20conflict.md))
 - Parasites attacking do-mites
 - Chemical jamming (pheromone confusion)
 
@@ -378,13 +378,13 @@ Created as needed, typically in denning season.
 - Failed hunts stored in cognitive partivant memory
 - Successful tactics reinforced
 - Adapt to prey defensive behaviors
-- [[33b-Memory-Learning|MEMO brain]] accumulates experience
+- [MEMO brain](Nervous%20Systems.md) accumulates experience
 
 **Social Interactions:**
 - Multiple DO-HillWolf organisms may cooperate temporarily
 - Territorial defense coordinated
 - Information sharing via pheromone markers
-- Possible [[Combinant-Behaviors|combinant behaviors]] (unconfirmed)
+- Possible [combinant behaviors](Combinant%20Behaviors.md) (unconfirmed)
 
 ---
 
@@ -394,7 +394,7 @@ Created as needed, typically in denning season.
 
 **Moderate Density:**
 - 2-4 packs per 100 km²
-- Higher than [[DO-ScrubDeer-Browser|DO-ScrubDeer]] (predator vs prey)
+- Higher than [DO-ScrubDeer](DO%20ScrubDeer%20Browser.md) (predator vs prey)
 - Territory size limited by do-mite range
 - Seasonal variation (denning affects distribution)
 
@@ -409,29 +409,29 @@ Created as needed, typically in denning season.
 ## Navigation
 
 **Core Concepts:**
-- [[42-Example-DOs]] - Overview page
-- [[42b-TPM-DO-HillWolf]] - Detailed taxon manifest
-- [[Distributed-Organisms-Overview]] - DO biology
-- [[CEP-and-Do-Mites]] - Communication system
+- [Distributed Organisms Overview](Distributed%20Organisms%20Overview.md) - Overview page
+- [DO HillWolf PackHunter](DO%20HillWolf%20PackHunter.md) - Detailed taxon manifest
+- [Distributed Organisms Overview](Distributed%20Organisms%20Overview.md) - DO biology
+- [CEP and Do-Mites](CEP%20and%20Do-Mites.md) - Communication system
 
 **Communication:**
-- [[41b-Do-Mite-Behaviors]] - Swarm behavior details
-- [[41c-Swarm-Envelopes-and-Corridors]] - Spatial patterns
-- [[41d-Airspace-Conflicts]] - Inter-pack competition
+- [DO-Mites](DO-Mites.md) - Swarm behavior details
+- [CEP and Do-Mites](CEP%20and%20Do-Mites.md) - Spatial patterns
+- [DO-Mite conflict](DO-Mite%20conflict.md) - Inter-pack competition
 
 **Related Taxa:**
-- [[DO-ScrubDeer-Browser]] - Prey species
-- [[42c-rDO-Duskmantle-Hunter]] - Radio-based predator (comparison)
+- [DO ScrubDeer Browser](DO%20ScrubDeer%20Browser.md) - Prey species
+- [rDO Duskmantle Stalker](rDO%20Duskmantle%20Stalker.md) - Radio-based predator (comparison)
 
 **Related Topics:**
-- [[76-Distributed-Cognition]] - Shared intelligence
-- [[33-Brain-Partifuncts]] - Cognitive specialization
-- [[Natural-Selection-on-TPIV]] - Predator evolution
+- [Distributed Organisms Overview](Distributed%20Organisms%20Overview.md) - Shared intelligence
+- [Nervous Systems](Nervous%20Systems.md) - Cognitive specialization
+- [Natural Selection on TPIV](Natural%20Selection%20on%20TPIV.md) - Predator evolution
 
 **Related Dispatches:**
-- [[D040-DO-Discovery-Apanon]] - DO identification methods
-- [[D051-HillWolf-Hunt-Observation]] - Coordinated kill documented
-- [[D053-Do-Mite-Bandwidth-Limits]] - Communication range study
+- [B017 – Distributed Organisms](Dispatches.md#b017) - DO identification methods
+- [B017 – Distributed Organisms](Dispatches.md#b017) - Coordinated kill documented
+- [B017 – Distributed Organisms](Dispatches.md#b017) - Communication range study
 
 ---
 

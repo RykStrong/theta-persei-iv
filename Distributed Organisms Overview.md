@@ -2,7 +2,7 @@
 ---
 tags: [biology, distributed-organisms, DO, advanced-organization, partivants]
 aliases: [Distributed Organisms, DO, Multi-Body Organisms, Separated Bodies]
-related: [[40a-DO-vs-SB-vs-JB-Comparison]], [[40b-Partivant-Definition]], [[41-CEP-and-Do-Mites]], [[24-Composite-Organisms]]
+related: [DO vs SB vs JB Comparison](DO%20vs%20SB%20vs%20JB%20Comparison.md), [Partivant Definition](Partivant%20Definition.md), [CEP and Do-Mites](CEP%20and%20Do-Mites.md), [Composite Organisms](Composite%20Organisms.md)
 status: complete
 ---
 
@@ -20,16 +20,16 @@ status: complete
 
 ### One Mind, Many Bodies
 
-**Distributed Organisms** represent a specialized ecological niche in which [[Composite-Organisms|composite organisms]] exist as physically separated but closely integrated groups of modular individuals.
+**Distributed Organisms** represent a specialized ecological niche in which [composite organisms](Composite%20Organisms.md) exist as physically separated but closely integrated groups of modular individuals.
 
 **Core Structure:**
-A Distributed Organism is made up of **[[Partivant-Definition|partivants]]**—discrete bodies that function collectively as a single ecological unit but are not physically connected by continuous tissue.
+A Distributed Organism is made up of **[partivants](Partivant%20Definition.md)**—discrete bodies that function collectively as a single ecological unit but are not physically connected by continuous tissue.
 
 **Key Characteristics:**
 - **Physical Distribution:** Individual partivants can be scattered over significant distances (meters to hundreds of kilometers)
 - **Specialized Nodes:** Partivants specialize as specific biologic expressions—feeding units, reproductive units, sensory arrays, memory/cognitive nodes, locomotion units
 - **Not Viable Independently:** The individual partivants are NOT viable outside the DO
-- **Integration:** Through shared information carried by [[CEP-and-Do-Mites|mites or pheromone-analogs]], hormonal signaling, airborne communication, or electromagnetic signals
+- **Integration:** Through shared information carried by [mites or pheromone-analogs](CEP%20and%20Do-Mites.md), hormonal signaling, airborne communication, or electromagnetic signals
 
 ---
 
@@ -37,18 +37,18 @@ A Distributed Organism is made up of **[[Partivant-Definition|partivants]]**—d
 
 ### The Separated Bodies
 
-**[[Partivant-Definition|Partivant Definition]]:**
+**[Partivant Definition](Partivant%20Definition.md):**
 The separate bodies that make up a Distributed Organism are called **partivants**.
 
 **Critical Distinction:**
 - **Partivants** (in DOs): Multiple separated bodies, none viable independently, permanent separation
-- **[[Separated-Behaviors-and-Exovants|Exovants]]** (in SB): Temporarily separated chunk from single body, not viable independently, must rejoin
+- **[Exovants](Separated%20Behaviors%20and%20Exovants.md)** (in SB): Temporarily separated chunk from single body, not viable independently, must rejoin
 
 **Partivant Features:**
-- Each partivant is itself a [[Composite-Organisms|composite organism]] (multiple [[Partifunct Core Definition|partifuncts]])
+- Each partivant is itself a [composite organism](Composite%20Organisms.md) (multiple [partifuncts](Partifunct%20Core%20Definition.md))
 - Specialized for specific function
 - Cannot survive independently (lacks critical systems)
-- Coordinated with other partivants via [[CEP-and-Do-Mites|CEP communication]]
+- Coordinated with other partivants via [CEP communication](CEP%20and%20Do-Mites.md)
 
 **Examples:**
 - **Feeding partivants:** Graze and process food
@@ -64,7 +64,7 @@ The separate bodies that make up a Distributed Organism are called **partivants*
 
 ### How Partivants Coordinate
 
-**[[CEP-and-Do-Mites|CEP Communication]]:**
+**[CEP Communication](CEP%20and%20Do-Mites.md):**
 - **C**hemical signals (pheromones, hormones)
 - **E**lectrical signals (some lineages)
 - **P**heromonal trails and markers
@@ -76,7 +76,7 @@ Partivants communicate mainly using tiny airborne (insect-sized) partivants call
 A signature characteristic of a DO is the **cloud of do-mites** that fly into and out of openings on the partivants.
 
 **Radio Waves (Kolofluke Only):**
-In the deeply shadowed hills of [[14e-Kolofluke|Kolofluke]] there seems to be a set of taxa that are using **radio communications** to facilitate distributed organism neurological tasks.
+In the deeply shadowed hills of [Kolofluke](Continents.md) there seems to be a set of taxa that are using **radio communications** to facilitate distributed organism neurological tasks.
 
 **Other Methods:**
 - Visual signals (body postures, color changes)
@@ -93,7 +93,7 @@ In the deeply shadowed hills of [[14e-Kolofluke|Kolofluke]] there seems to be a 
 **Standard DOs:**
 - Use do-mites as primary communication
 - Chemical and pheromonal signals
-- Found on [[14d-Apanon|Apanon]] primarily
+- Found on [Apanon](Continents.md) primarily
 - Also present on other continents (less common)
 
 **Examples:**
@@ -108,7 +108,7 @@ In the deeply shadowed hills of [[14e-Kolofluke|Kolofluke]] there seems to be a 
 **Radio-Based DOs:**
 - Use radio wave emissions for coordination
 - Electromagnetic signals facilitate distributed organism neurological tasks
-- Found exclusively on [[14e-Kolofluke|Kolofluke]]
+- Found exclusively on [Kolofluke](Continents.md)
 - Central mountain spine creates unique habitat
 
 **Examples:**
@@ -133,7 +133,7 @@ In the deeply shadowed hills of [[14e-Kolofluke|Kolofluke]] there seems to be a 
 
 ### Shared Awareness
 
-**[[76-Distributed-Cognition|Cognitive Tasks Shared]]:**
+**[Cognitive Tasks Shared](Distributed%20Organisms%20Overview.md):**
 Cognitive tasks are shared across sensory and memory partivants, enabling sophisticated collective behaviors and decision-making.
 
 **How It Works:**
@@ -141,7 +141,7 @@ Cognitive tasks are shared across sensory and memory partivants, enabling sophis
 - Sensory data collected by scout partivants
 - Processing distributed across cognitive nodes
 - Decisions emerge from collective computation
-- [[33-Brain-Partifuncts|Brain partifuncts]] in multiple partivants coordinate
+- [Brain partifuncts](Nervous%20Systems.md) in multiple partivants coordinate
 
 **Advantages:**
 - More processing power (multiple brains)
@@ -162,9 +162,9 @@ Cognitive tasks are shared across sensory and memory partivants, enabling sophis
 
 **TPIV Distributed Organisms:**
 - Discrete bodies (partivants), not physically connected
-- Each partivant contains multiple [[Partifunct Core Definition|partifuncts]] (genetically diverse)
+- Each partivant contains multiple [partifuncts](Partifunct%20Core%20Definition.md) (genetically diverse)
 - Integration through communication, not tissue
-- Assembled by [[3B-Womb-Partifunct-Systems|womb]] like standard composites
+- Assembled by [womb](Womb%20Partifunct%20Systems.md) like standard composites
 - Partivants cannot survive independently
 
 ---
@@ -177,10 +177,10 @@ Cognitive tasks are shared across sensory and memory partivants, enabling sophis
 Distributed Organisms are rare; the fitness equation is—**is it worth the overhead from the partifuncts' point of view?**
 
 **Costs:**
-- Coordination energy ([[CEP-and-Do-Mites|CEP signals]], do-mites, radio waves)
+- Coordination energy ([CEP signals](CEP%20and%20Do-Mites.md), do-mites, radio waves)
 - Communication vulnerability (mites intercepted, signals jammed)
 - Risk of separation (partivants lost to predation)
-- Complex assembly ([[3B-Womb-Partifunct-Systems|womb]] must create specialized partivants)
+- Complex assembly ([womb](Womb%20Partifunct%20Systems.md) must create specialized partivants)
 - Predation on individual partivants (though not fatal to organism)
 
 **Benefits Must Outweigh:**
@@ -197,24 +197,24 @@ Distributed Organisms are rare; the fitness equation is—**is it worth the over
 
 ### Continental Patterns
 
-**[[14d-Apanon|Apanon]] (Insect/Chemical Communication):**
+**[Apanon](Continents.md) (Insect/Chemical Communication):**
 - **DO** organisms use do-mites for coordination
 - Chemical and pheromonal signals primary
 - Circular continent with tall central mountains
 - Apex predators and herbivores both DOs
 - Most studied DO populations
 
-**[[14e-Kolofluke|Kolofluke]] (Radio Communication):**
+**[Kolofluke](Continents.md) (Radio Communication):**
 - **rDO** organisms use radio wave emissions
 - Electromagnetic coordination over long distances
 - Elongated island continent (5×2 ratio)
 - Central mountain spine
-- [[46-Dark-Forest-Kolofluke|Dark Forest]] biome (sunless valleys)
+- [Dark Forest](Dark%20Forest%20Kolofluke.md) biome (sunless valleys)
 - Radio communication evolved independently
 
 **Other Continents:**
 - DOs exist but are not dominant
-- Standard [[Composite-Organisms|composite organisms]] more common
+- Standard [composite organisms](Composite%20Organisms.md) more common
 - Island biogeography drove DO evolution
 - Mostly chemical-based (DO prefix)
 
@@ -225,25 +225,25 @@ Distributed Organisms are rare; the fitness equation is—**is it worth the over
 ### Representative Taxa
 
 **Herbivores:**
-- **[[42-DO-ScrubDeer-Browser|DO-ScrubDeer Browser]]** (PSV 76%, MDI 5.4, Apanon)
+- **[DO-ScrubDeer Browser](DO%20ScrubDeer%20Browser.md)** (PSV 76%, MDI 5.4, Apanon)
   - Feeding nodes: Small, agile grazers
   - Digestive nodes (fermenters): Large, stationary processors
   - Sensory nodes: Long necks, loud voices
   - Chameleon-like skins for signaling
 
-- **[[44-DO-Horse-Grazer|DO-Horse Grazer]]** (Apanon grasslands)
+- **[DO-Horse Grazer](Distributed%20Organisms%20Overview.md)** (Apanon grasslands)
   - Large grazing partivants
   - Central digestive processors
   - Scout partivants with enhanced vision
 
 **Predators:**
-- **[[43-DO-HillWolf-Hunter|DO-HillWolf-Hunter]]** (Apanon Hills)
+- **[DO-HillWolf-Hunter](DO%20HillWolf%20PackHunter.md)** (Apanon Hills)
   - Scout nodes locate prey
   - Attack nodes coordinate ambush
   - Feeding nodes process kills
   - Pack hunting strategy distributed across partivants
 
-- **[[43-rDO-Duskmantle-Hunter|rDO-Duskmantle-Hunter]]** (Kolofluke)
+- **[rDO-Duskmantle-Hunter](rDO%20Duskmantle%20Stalker.md)** (Kolofluke)
   - Scout nodes locate prey
   - Attack nodes coordinate ambush
   - Feeding nodes process kills
@@ -254,7 +254,7 @@ Distributed Organisms are rare; the fitness equation is—**is it worth the over
 - **DO-Dropshark Blimp** (Open ocean)
   - Lighter-than-air buoyancy
   - Drop-predation from aerial position
-  - [[47-Comparative-Essay-Drophunter-vs-DO-Dropshark|Convergent with Drophunter Blimp]]
+  - [Convergent with Drophunter Blimp](Comparative%20Essay%20Drophunter%20vs%20DO%20Dropshark%20Blimps.md)
 
 ---
 
@@ -271,7 +271,7 @@ Distributed Organisms are rare; the fitness equation is—**is it worth the over
 **rDO (Radio Communication):**
 - Radio-wave based distributed organisms
 - Electromagnetic coordination
-- Found only on [[14e-Kolofluke|Kolofluke]]
+- Found only on [Kolofluke](Continents.md)
 - Examples: rDO Duskmantle Hunter, rDO-[Other Kolofluke Species]
 
 ---
@@ -290,7 +290,7 @@ Distributed Organisms are rare; the fitness equation is—**is it worth the over
 
 **Flexible Response:**
 - Partivants relocate independently
-- Adjust expression forms via [[Multi-Expression-Potential|womb signals]]
+- Adjust expression forms via [womb signals](Multi%20Expression%20Potential.md)
 - Rapid adaptation without mutation
 - Can explore multiple niches simultaneously
 
@@ -299,7 +299,7 @@ Distributed Organisms are rare; the fitness equation is—**is it worth the over
 **Loss Tolerance:**
 - Loss of few partivants doesn't collapse organism
 - Remaining partivants compensate
-- New partivants can assemble from ambient [[Environmental-GFP|eGFP]]
+- New partivants can assemble from ambient [eGFP](Environmental%20GFP.md)
 - Redundant cognitive and sensory systems
 
 ### Predation Resistance
@@ -317,7 +317,7 @@ Distributed Organisms are rare; the fitness equation is—**is it worth the over
 ### Coordination Overhead
 
 **Energy Costs:**
-- Maintaining [[CEP-and-Do-Mites|do-mite]] swarms expensive
+- Maintaining [do-mite](CEP%20and%20Do-Mites.md) swarms expensive
 - Chemical signals require constant production
 - Radio transmission (rDO) energy-intensive
 - Communication infrastructure complex
@@ -338,13 +338,13 @@ Distributed Organisms are rare; the fitness equation is—**is it worth the over
 - Each partivant incomplete (not viable alone)
 - Coordination systems must work from birth
 - High failure rate during development
-- [[3B-Womb-Partifunct-Systems|Womb]] must balance all partivant needs
+- [Womb](Womb%20Partifunct%20Systems.md) must balance all partivant needs
 
 ---
 
 ## Comparison to Other Strategies
 
-### [[DO-vs-SB-vs-JB-Comparison|DO vs SB vs JB]]
+### [DO vs SB vs JB](DO%20vs%20SB%20vs%20JB%20Comparison.md)
 
 **Distributed Organisms (DO/rDO):**
 - Multiple separated bodies (**partivants**)
@@ -352,13 +352,13 @@ Distributed Organisms are rare; the fitness equation is—**is it worth the over
 - Permanent separation
 - Examples: DO-ScrubDeer, rDO-HillWolf
 
-**[[Separated-Behaviors-and-Exovants|Separated Behaviors (SB)]]:**
+**[Separated Behaviors (SB)](Separated%20Behaviors%20and%20Exovants.md):**
 - One body temporarily separates part (**exovant**)
 - Exovant not viable independently
 - Temporary separation, must rejoin
 - Examples: Throwjaw, Drophunter Blimp
 
-**[[Combinant-Behaviors|Combinant/Joined Behaviors (JB)]]:**
+**[Combinant/Joined Behaviors (JB)](Combinant%20Behaviors.md):**
 - Multiple independent organisms
 - Each viable independently
 - Temporary fusion for specific tasks
@@ -378,7 +378,7 @@ Distributed Organisms are rare; the fitness equation is—**is it worth the over
 
 **Methods:**
 - Radio tracking individual partivants
-- [[CEP-and-Do-Mites|Do-mite]] analysis (chemical signatures)
+- [Do-mite](CEP%20and%20Do-Mites.md) analysis (chemical signatures)
 - Behavioral observation (coordinated actions)
 - Genetic sampling (confirm same organism)
 - Electromagnetic monitoring (rDO species)
@@ -390,41 +390,43 @@ Distributed Organisms are rare; the fitness equation is—**is it worth the over
 ### Detailed Pages
 
 **Core Concepts:**
-- [[DO-vs-SB-vs-JB-Comparison]] - Three organizational strategies
-- [[Partivant-Definition]] - What partivants are
-- [[CEP-and-Do-Mites]] - Communication systems
-- [[76-Distributed-Cognition]] - Shared consciousness
+- [DO vs SB vs JB Comparison](DO%20vs%20SB%20vs%20JB%20Comparison.md) - Three organizational strategies
+- [Partivant Definition](Partivant%20Definition.md) - What partivants are
+- [CEP and Do-Mites](CEP%20and%20Do-Mites.md) - Communication systems
+- [Distributed Organisms Overview](Distributed%20Organisms%20Overview.md) - Shared consciousness
 
 **Example Taxa:**
-- [[42-DO-ScrubDeer-Browser]] - Herbivore DO (Apanon)
-- [[43-DO-HillWolf-Hunter]] - Predator rDO (Kolofluke)
-- [[44-DO-Horse-Grazer]] - Grassland grazer DO (Apanon)
+- [DO ScrubDeer Browser](DO%20ScrubDeer%20Browser.md) - Herbivore DO (Apanon)
+- [DO HillWolf PackHunter](DO%20HillWolf%20PackHunter.md) - Predator rDO (Kolofluke)
+- [Distributed Organisms Overview](Distributed%20Organisms%20Overview.md) - Grassland grazer DO (Apanon)
 
 **Related Strategies:**
-- [[Combinant-Behaviors]] - Temporary fusion
-- [[Separated-Behaviors-and-Exovants]] - Temporary detachment
-- [[47-Comparative-Essay-Drophunter-vs-DO-Dropshark]] - Convergent evolution
+- [Combinant Behaviors](Combinant%20Behaviors.md) - Temporary fusion
+- [Separated Behaviors and Exovants](Separated%20Behaviors%20and%20Exovants.md) - Temporary detachment
+- [Comparative Essay Drophunter vs DO Dropshark Blimps](Comparative%20Essay%20Drophunter%20vs%20DO%20Dropshark%20Blimps.md) - Convergent evolution
 
 ---
 
 ## Navigation
 
 **Core Biology:**
-- [[Biology Overview]] - Foundation
-- [[Composite-Organisms]] - Standard organization
-- [[Partifunct Core Definition]] - Building blocks
-- [[Natural-Selection-on-TPIV]] - Why DOs evolve
+- [Biology Overview](Biology%20Overview.md) - Foundation
+- [Composite Organisms](Composite%20Organisms.md) - Standard organization
+- [Partifunct Core Definition](Partifunct%20Core%20Definition.md) - Building blocks
+- [Natural Selection on TPIV](Natural%20Selection%20on%20TPIV.md) - Why DOs evolve
 
 **Related Topics:**
-- [[14d-Apanon]] - DO homeland (chemical communication)
-- [[14e-Kolofluke]] - rDO homeland (radio communication)
-- [[Womb-Enabled-Reproduction]] - How DOs reproduce
-- [[31-Taxa-and-Metrics-PSV-MDI]] - DO classification
+- [Continents](Continents.md) - DO homeland (chemical communication)
+- [Continents](Continents.md) - rDO homeland (radio communication)
+- [Womb Enabled Reproduction](Womb%20Enabled%20Reproduction.md) - How DOs reproduce
+- [Taxa and Metrics](Taxa%20and%20Metrics.md) - DO classification
+- [Drophunter (separated) vs DO-Dropshark comparison](Comparative%20Essay%20Drophunter%20vs%20DO%20Dropshark%20Blimps.md)
+- [how DOs evolved](DO%20Evolution.md)
 
 **Related Dispatches:**
-- [[D040-DO-Discovery-Apanon]] - First DO identification
-- [[D041-Do-Mite-Swarm-Analysis]] - Communication mechanism
-- [[D042-Radio-Wave-Organisms]] - Kolofluke rDOs
+- [B017 – Distributed Organisms](Dispatches.md#b017) - First DO identification
+- [B017 – Distributed Organisms](Dispatches.md#b017) - Communication mechanism
+- [B018 – Radio Distributed Organisms](Dispatches.md#b018) - Kolofluke rDOs
 
 ---
 

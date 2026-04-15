@@ -1,14 +1,14 @@
 ---
 tags: [ecology, photosynthesis, pigments, autotrophy, energy-capture]
 aliases: [Photosynthesis, Pigments, Light Capture, Primary Production]
-related: [[50-Ecology-Overview]], [[51-Trophic-Roles-No-Plant-Animal]], [[8E-Autotrophy]], [[11-Stellar-System-Theta-Persei]]
+related: [Ecology Overview](Ecology%20Overview.md), [Trophic Roles No Plant Animal](Trophic%20Roles%20No%20Plant%20Animal.md), [Trophic Roles No Plant Animal](Trophic%20Roles%20No%20Plant%20Animal.md), [Stellar System Theta Persei](Stellar%20System%20Theta%20Persei.md)
 status: complete
 ---
 
 # Photosynthesis and Pigments
 
 **Key Process:** Light energy → chemical energy (similar to Earth)  
-**Star Type:** [[Stellar-System-Theta-Persei|F8V star]] (blue-shifted spectrum vs. Sun)  
+**Star Type:** [F8V star](Stellar%20System%20Theta%20Persei.md) (blue-shifted spectrum vs. Sun)  
 **Result:** Multiple pigment strategies, diverse colors  
 **Efficiency:** Comparable to Earth (~1-3% solar energy conversion)
 
@@ -26,10 +26,10 @@ status: complete
 - 25% O₂ atmosphere result of billions of years photosynthesis
 
 **Differences from Earth:**
-- [[GFP-Structure|GFP-based]] genetic control (not DNA)
-- [[LU-Biology|BLU-scale]] chloroplast analogs (larger than Earth's)
+- [GFP-based](GFP%20Structure.md) genetic control (not DNA)
+- [BLU-scale](BLU%20Biology.md) chloroplast analogs (larger than Earth's)
 - Multiple pigment systems (more diversity than Earth)
-- [[Non-Homochirality|Non-homochiral]] molecules in photosynthetic apparatus
+- [Non-homochiral](Non%20Homochirality.md) molecules in photosynthetic apparatus
 
 ---
 
@@ -37,7 +37,7 @@ status: complete
 
 ### F8V Star Characteristics
 
-**[[Stellar-System-Theta-Persei|Theta Persei]] (F8V):**
+**[Theta Persei](Stellar%20System%20Theta%20Persei.md) (F8V):**
 - Slightly hotter than Sol (Sun is G2V)
 - More blue/UV light in spectrum
 - Less red/infrared than Sol
@@ -132,7 +132,7 @@ status: complete
 - Flat surfaces maximize light capture
 - Various shapes (similar to Earth diversity)
 - Colors determined by pigment type
-- [[35a-Spiracles-and-Lungs|Stomata/spiracles]] for gas exchange
+- [Stomata/spiracles](Respiratory%20Systems.md) for gas exchange
 
 **Stem/Trunk Photosynthesis:**
 - Some organisms photosynthesize in bark-analog
@@ -171,7 +171,7 @@ status: complete
 
 **Aphotic Zone (>200m):**
 - No photosynthesis
-- Chemosynthesis only ([[8E-Autotrophy|other autotroph strategies]])
+- Chemosynthesis only ([other autotroph strategies](Trophic%20Roles%20No%20Plant%20Animal.md))
 - Dependent on organic matter from above
 
 ---
@@ -198,7 +198,7 @@ status: complete
 **Adaptations:**
 - Deciduous analogs (shed photosynthetic structures)
 - Evergreen analogs (maintain year-round)
-- [[Trophic-Roles-No-Plant-Animal|Facultative heterotrophy]] (winter feeding)
+- [Facultative heterotrophy](Trophic%20Roles%20No%20Plant%20Animal.md) (winter feeding)
 
 ---
 
@@ -206,19 +206,19 @@ status: complete
 
 ### Extreme Light Conditions
 
-**[[Dark-Forest-Kolofluke|Dark Forest]]:**
-- Near-zero light (blocked by [[Flying-Forest|Flying Forest]])
+**[Dark Forest](Dark%20Forest%20Kolofluke.md):**
+- Near-zero light (blocked by [Flying Forest](Flying%20Forest.md))
 - Photosynthesis minimal or absent
-- [[8E-Autotrophy|Chemosynthesis]] dominant
+- [Chemosynthesis](Trophic%20Roles%20No%20Plant%20Animal.md) dominant
 - Pigments reduced (not needed)
 
-**[[Flying-Forest|Flying Forest]]:**
+**[Flying Forest](Flying%20Forest.md):**
 - Maximum light exposure (above cloud layer)
 - High UV flux
 - Strong UV-protective pigments
 - Efficient light capture critical (high energy cost of buoyancy)
 
-**[[59e-Intertidal-Zones|Intertidal]]:**
+**[Intertidal](Littoral%20Zones.md):**
 - Variable light (submerged/exposed cycles)
 - Must function both underwater and in air
 - Dual pigment systems (aquatic + terrestrial)
@@ -284,16 +284,16 @@ status: complete
 ### Partifunct-Based
 
 **Photosynthetic Partifuncts:**
-- [[Partifunct Core Definition|Genetically distinct]] from rest of organism
+- [Genetically distinct](Partifunct%20Core%20Definition.md) from rest of organism
 - Can be in "plants" or "animals"
 - Multiple pigment types possible in one organism
-- [[Environmental-GFP|eGFP exchange]] spreads photosynthetic capability
+- [eGFP exchange](Environmental%20GFP.md) spreads photosynthetic capability
 
 **Facultative Photosynthesis:**
 - Some "animals" have photosynthetic partifuncts
 - Supplemental energy (not primary)
 - Reduces food intake needs
-- [[Trophic-Roles-No-Plant-Animal|Blurs plant/animal boundary]]
+- [Blurs plant/animal boundary](Trophic%20Roles%20No%20Plant%20Animal.md)
 
 ---
 
@@ -301,16 +301,16 @@ status: complete
 
 ### Why Multiple Pigments?
 
-**[[Natural-Selection-on-TPIV|Selection Pressures]]:**
+**[Selection Pressures](Natural%20Selection%20on%20TPIV.md):**
 - F8V stellar spectrum (blue-shifted light)
 - Variable environments (shade, depth, season)
 - UV protection needs (higher flux)
 - Competition for light (different wavelengths = different niches)
 
-**[[Non-Homochirality|Modular Evolution]]:**
+**[Modular Evolution](Non%20Homochirality.md):**
 - Photosynthetic partifuncts evolve independently
 - Multiple pigment lineages arise
-- [[Environmental-GFP|Horizontal transfer]] spreads innovations
+- [Horizontal transfer](Environmental%20GFP.md) spreads innovations
 - Rapid adaptation to new light environments
 
 **Result:**
@@ -356,26 +356,26 @@ status: complete
 ## Navigation
 
 **Core Concepts:**
-- [[Ecology-Overview]] - Ecosystem foundation
-- [[8E-Autotrophy]] - Primary production overview
-- [[Trophic-Roles-No-Plant-Animal]] - Autotroph roles
-- [[Stellar-System-Theta-Persei]] - Stellar spectrum
+- [Ecology Overview](Ecology%20Overview.md) - Ecosystem foundation
+- [Trophic Roles No Plant Animal](Trophic%20Roles%20No%20Plant%20Animal.md) - Primary production overview
+- [Trophic Roles No Plant Animal](Trophic%20Roles%20No%20Plant%20Animal.md) - Autotroph roles
+- [Stellar System Theta Persei](Stellar%20System%20Theta%20Persei.md) - Stellar spectrum
 
 **Related Topics:**
-- [[Biology Overview]] - Biochemical basis
-- [[Non-Homochirality]] - Molecular architecture
-- [[Convergent-Evolution]] - Similar process, different implementation
+- [Biology Overview](Biology%20Overview.md) - Biochemical basis
+- [Non Homochirality](Non%20Homochirality.md) - Molecular architecture
+- [Convergent Evolution](Convergent%20Evolution.md) - Similar process, different implementation
 
 **Biomes:**
-- [[Magna-Steppe]] - Purple grasslands
-- [[Flying-Forest]] - High-altitude photosynthesis
-- [[Dark-Forest-Kolofluke]] - No photosynthesis
-- [[59e-Intertidal-Zones]] - Variable light
+- [Magna Steppe](Magna%20Steppe.md) - Purple grasslands
+- [Flying Forest](Flying%20Forest.md) - High-altitude photosynthesis
+- [Dark Forest Kolofluke](Dark%20Forest%20Kolofluke.md) - No photosynthesis
+- [Littoral Zones](Littoral%20Zones.md) - Variable light
 
 **Related Dispatches:**
-- [[D080-Pigment-Diversity-Survey]] - Color catalog
-- [[D081-Spectral-Efficiency-Analysis]] - Photosynthetic rates
-- [[D082-F8V-Adaptation-Study]] - Stellar spectrum effects
+- [B003 – TPIV Orbital Surveys](Dispatches.md#b003) - Color catalog
+- [B003 – TPIV Orbital Surveys](Dispatches.md#b003) - Photosynthetic rates
+- [B003 – TPIV Orbital Surveys](Dispatches.md#b003) - Stellar spectrum effects
 
 ---
 

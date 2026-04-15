@@ -12,7 +12,7 @@ Distributed Organisms (DO) on Apanon represent composite life forms where essent
 ### Living Communication Packets
 
 **What Are Do-Mites:**
-- Tiny airborne [[Partivant-Definition|partivants]] themselves
+- Tiny airborne [partivants](Partivant%20Definition.md) themselves
 - Insect-sized (2-15mm typically)
 - Specialized for carrying information
 - Not viable independent (like all partivants)
@@ -21,7 +21,7 @@ Distributed Organisms (DO) on Apanon represent composite life forms where essent
 - Wings or gas bladders (flight)
 - Chemical storage organs (hormone cargo)
 - Minimal digestive system
-- Simple [[33-Brain-Partifuncts|nervous system]] (navigation only)
+- Simple [nervous system](Nervous%20Systems.md) (navigation only)
 - Sensory organs (find target partivants)
 
 **Signature Feature:**

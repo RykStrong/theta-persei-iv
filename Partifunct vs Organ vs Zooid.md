@@ -2,7 +2,7 @@
 ---
 tags: [biology, core-concepts, partifuncts, comparison]
 aliases: [Partifunct vs Organ, Organ Comparison, Zooid Comparison]
-related: [[Partifunct Core Definition]], [[24-Composite-Organisms]], [[20-Biology-Overview]]
+related: [Partifunct Core Definition](Partifunct%20Core%20Definition.md), [Composite Organisms](Composite%20Organisms.md), [Biology Overview](Biology%20Overview.md)
 status: complete
 ---
 
@@ -92,14 +92,14 @@ status: complete
 ### Definition
 
 **Genetically distinct modules in composite organism:**
-- Each has unique [[GFP-and-Genodules|GFP]]
+- Each has unique [GFP](GFP%20and%20Genodules.md)
 - Descended from different ancestral lineages
 - Functionally integrated but genetically independent
-- Can reproduce independently via [[Environmental-GFP|eGFP]]
+- Can reproduce independently via [eGFP](Environmental%20GFP.md)
 
 ### Examples
 
-**[[TPM-Zebra-Grazer|Zebra Grazer]]:**
+**[Zebra Grazer](TPM%20Example.md):**
 - **Limb partifunct:** ST-LMB lineage (shared with grasses)
 - **Digestive partifunct:** DG-DGV lineage (shared with shrubs)
 - **Brain partifunct:** CN-MOTO lineage (shared with fruit-trees)
@@ -112,8 +112,8 @@ Each genetically unique, none share GFP with others.
 **Genetic Diversity:**
 - Each partifunct evolves independently
 - Mix-and-match evolution
-- Rapid adaptation via [[Reproduction-Assembly-Conception|assembly-conception]]
-- [[Natural-Selection-on-TPIV|Multi-level selection]]
+- Rapid adaptation via [assembly-conception](Reproduction%20Assembly%20Conception.md)
+- [Multi-level selection](Natural%20Selection%20on%20TPIV.md)
 
 ---
 
@@ -148,16 +148,16 @@ Each genetically unique, none share GFP with others.
 ### TPIV Partifuncts
 
 **Integration:**
-- [[34c-Transfer-Organs|Transfer organs]] connect systems
+- [Transfer organs](Circulatory%20Systems.md) connect systems
 - Hormonal signaling crosses boundaries
-- [[MGFP-Transcription-Pathway|MGFP-G]] receives cross-partifunct signals
-- [[3B-Womb-Partifunct-Systems|Womb]] enforces compatibility
+- [MGFP-G](MGFP%20Transcription%20Pathway.md) receives cross-partifunct signals
+- [Womb](Womb%20Partifunct%20Systems.md) enforces compatibility
 
 **Advantages:**
 - Can acquire new partifuncts in single generation
 - Rapid evolutionary innovation
 - Mix successful lineages from across ecosystem
-- [[Multi-Expression-Potential|Context-dependent expression]]
+- [Context-dependent expression](Multi%20Expression%20Potential.md)
 
 ---
 
@@ -179,16 +179,16 @@ Each genetically unique, none share GFP with others.
 
 ### Why It Works on TPIV
 
-**[[Non-Homochirality|Non-Homochiral Chemistry]]:**
+**[Non-Homochiral Chemistry](Non%20Homochirality.md):**
 - Mixed chirality prevents genetic fusion
 - Forces modular cooperation
 - Maintains genetic boundaries
 - Enables independent evolution
 
-**[[GFP-and-Genodules|Protein-Based Genetics]]:**
+**[Protein-Based Genetics](GFP%20and%20Genodules.md):**
 - GFP compatible with mixed systems
 - Easier horizontal transfer than DNA
-- [[MGFP-Transcription-Pathway|MGFP-G]] enables cross-talk without fusion
+- [MGFP-G](MGFP%20Transcription%20Pathway.md) enables cross-talk without fusion
 - Environmental dispersal stable
 
 ---
@@ -201,16 +201,16 @@ Each genetically unique, none share GFP with others.
 - Sequence tissue from different body regions
 - Different GFP = different partifuncts
 - Phylogenetic analysis shows distinct lineages
-- [[LU-Biology|Genode clusters]] have unique signatures
+- [Genode clusters](BLU%20Biology.md) have unique signatures
 
 **Dissection:**
 - Clear boundaries visible under microscope
 - Different tissue architecture at interfaces
-- [[34c-Transfer-Organs|Transfer organs]] mark boundaries
+- [Transfer organs](Circulatory%20Systems.md) mark boundaries
 - "Can only be separated under dissection—but under dissection the separations are obvious"
 
 **Observational:**
-- High [[31-Taxa-and-Metrics-PSV-MDI|MDI]] within taxa suggests variable partifunct assembly
+- High [MDI](Taxa%20and%20Metrics.md) within taxa suggests variable partifunct assembly
 - Same "species" with different limb counts = different partifunct sets
 - Offspring don't resemble parents exactly = partifunct recombination
 
@@ -238,7 +238,7 @@ Each genetically unique, none share GFP with others.
 
 **Partially correct but:**
 - More integrated than typical symbiosis
-- [[Composite-Organisms|Obligate integration]] from conception
+- [Obligate integration](Composite%20Organisms.md) from conception
 - Womb-mediated assembly, not accidental meeting
 - Selected for cooperation over millions of years
 
@@ -257,8 +257,8 @@ Each genetically unique, none share GFP with others.
 **Require New Approaches:**
 - Multi-lineage phylogenetics
 - Partifunct compatibility matrices
-- [[31-Taxa-and-Metrics-PSV-MDI|Statistical taxon definitions]]
-- [[TPM-Template|Partifunct manifests]] for each organism type
+- [Statistical taxon definitions](Taxa%20and%20Metrics.md)
+- [Partifunct manifests](TPM%20Definition.md) for each organism type
 
 ---
 
@@ -277,7 +277,7 @@ Each genetically unique, none share GFP with others.
 - Organism = multiple genetic lineages cooperating
 
 **Identity Question:**
-- Is [[TPM-Zebra-Grazer|Zebra Grazer]] one organism or 15+?
+- Is [Zebra Grazer](TPM%20Example.md) one organism or 15+?
 - From outside: One individual
 - From genetics: Multiple individuals
 - From function: Integrated unit
@@ -288,19 +288,19 @@ Each genetically unique, none share GFP with others.
 ## Navigation
 
 **Core Concepts:**
-- [[Partifunct Core Definition]] - What partifuncts are
-- [[Composite-Organisms]] - How they assemble
-- [[Biology Overview]] - Overall system
-- [[Non-Homochirality]] - Why modularity evolved
+- [Partifunct Core Definition](Partifunct%20Core%20Definition.md) - What partifuncts are
+- [Composite Organisms](Composite%20Organisms.md) - How they assemble
+- [Biology Overview](Biology%20Overview.md) - Overall system
+- [Non Homochirality](Non%20Homochirality.md) - Why modularity evolved
 
 **Related Topics:**
-- [[Multi-Expression-Potential]] - Partifunct flexibility
-- [[Natural-Selection-on-TPIV]] - Evolutionary dynamics
-- [[87-Partifunct-Index]] - Catalog of known partifuncts
+- [Multi Expression Potential](Multi%20Expression%20Potential.md) - Partifunct flexibility
+- [Natural Selection on TPIV](Natural%20Selection%20on%20TPIV.md) - Evolutionary dynamics
+- [Partifunct Domain & Function Table](Partifunct%20Domain%20&%20Function%20Table.md) - Catalog of known partifuncts
 
 **Related Dispatches:**
-- [[D007-Modular-Assembly]] - Discovery of fundamental distinction
-- [[D005a-Dissection-Herd-Foragers]] - First realization they're not organs
+- [B007 – Modular Assembly & Genetics](Dispatches.md#b007) - Discovery of fundamental distinction
+- [B005 – Steppe Surface Life](Dispatches.md#b005) - First realization they're not organs
 
 ---
 

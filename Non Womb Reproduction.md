@@ -2,7 +2,7 @@
 ---
 tags: [biology, reproduction, non-womb, environmental-assembly]
 aliases: [Non-Womb Reproduction, Environmental Assembly, Seeds and Spores]
-related: [[Reproduction-Assembly-Conception]], [[Womb-Enabled-Reproduction]], [[GFP-Carriers-and-Vectors]]
+related: [Reproduction Assembly Conception](Reproduction%20Assembly%20Conception.md), [Womb Enabled Reproduction](Womb%20Enabled%20Reproduction.md), [GFP Carriers and Vectors](GFP%20Carriers%20and%20Vectors.md)
 status: complete
 ---
 
@@ -48,15 +48,15 @@ Though less coordinated than womb-born composites, they are critical to the plan
 ### 1. GFP Package Formation
 
 **Within Parent Organism:**
-- Each [[Partifunct Core Definition|partifunct]] prepares reproductive packets
-- [[GFP-and-Genodules|GFP]] bundled with:
+- Each [partifunct](Partifunct%20Core%20Definition.md) prepares reproductive packets
+- [GFP](GFP%20and%20Genodules.md) bundled with:
   - Protective proteins
   - Nutrient reserves
   - Desiccation resistance compounds
   - Recognition markers
 
 **Packaging:**
-- Wrapped in minimal [[21-BLUs-Basic-Life-Units|BLU tissue]]
+- Wrapped in minimal [BLU tissue](BLU%20Biology.md)
 - Durable coating (waxy, lignin, or chitin-based)
 - Small enough for dispersal
 - Stable in environment
@@ -71,18 +71,18 @@ Though less coordinated than womb-born composites, they are critical to the plan
 - Pollen-analog structures
 - Lightweight, aerodynamic
 - Travel kilometers in air currents
-- [[45-Flying-Forest|Flying Forest]] currents distribute globally
+- [Flying Forest](Flying%20Forest.md) currents distribute globally
 
 **Water Dispersal:**
 - Buoyant packets float in water
 - Ocean currents carry long distances
-- [[13a-Tida-Primary-Moon|Tidal mixing]] enhances distribution
+- [Tidal mixing](Tida.md) enhances distribution
 - Rivers transport downstream
 
 **Animal Dispersal:**
 - Attach to fur/skin analogs
 - Pass through digestive systems intact
-- [[GFP-Carriers-and-Vectors|Mites]] carry packets deliberately
+- [Mites](GFP%20Carriers%20and%20Vectors.md) carry packets deliberately
 - Seeds in fruit analogs
 
 **Gravity/Ballistic:**
@@ -103,7 +103,7 @@ Though less coordinated than womb-born composites, they are critical to the plan
   - Decades (rare, specialized forms)
 
 **Degradation Factors:**
-- UV radiation (even with [[Atmosphere|ozone protection]])
+- UV radiation (even with [ozone protection](Atmosphere.md))
 - Oxidation (25% O₂ harsh)
 - Temperature extremes
 - Microbial decomposition
@@ -139,7 +139,7 @@ Though less coordinated than womb-born composites, they are critical to the plan
 
 **Minimal Assembly:**
 - GFP packets begin coordinated expression
-- [[MGFP-Transcription-Pathway|MGFP]] cross-talk establishes
+- [MGFP](MGFP%20Transcription%20Pathway.md) cross-talk establishes
 - Minimal BLU tissue forms shared matrix
 - Basic metabolic loops connect
 
@@ -164,7 +164,7 @@ Though less coordinated than womb-born composites, they are critical to the plan
 **Early Development:**
 - Self-assembling organism grows
 - Physical integration progresses
-- [[34c-Transfer-Organs|Transfer organs]] form
+- [Transfer organs](Circulatory%20Systems.md) form
 
 **No Parental Care:**
 - Must be self-sufficient from start
@@ -185,29 +185,29 @@ Though less coordinated than womb-born composites, they are critical to the plan
 - Germinate where they land
 
 **Examples:**
-- [[82a-Clam-Grasses|Clam Grasses]]: Hard seed-bulbs
-- [[82b-Stalk-Trees|Stalk Trees]]: Wind-dispersed pollen
-- [[82c-BrownFlower-Shrubs|BrownFlower Shrubs]]: Fruit-analog seeds
+- [Clam Grasses](Ecology%20Overview.md): Hard seed-bulbs
+- [Stalk Trees](Ecology%20Overview.md): Wind-dispersed pollen
+- [BrownFlower Shrubs](Ecology%20Overview.md): Fruit-analog seeds
 
 ### Microbial Strategy
 
-**[[60-Microbiosphere-Overview|S-BLU and F-BLU Organisms]]:**
+**[S-BLU and F-BLU Organisms](Microbiosphere%20Overview.md):**
 - Single or few-BLU life
 - Minimal partifunct complexity
 - Rapid assembly (hours to days)
 - High reproductive rate
 
 **Examples:**
-- [[61a-Sun-Motes|Sun Motes]]: Airborne photosynthetic
-- [[61b-Slushbugs-Saprotrophic|Slushbugs]]: Decomposer budding
-- [[61e-Ejector-Spores|Ejector Spores]]: Ballistic dispersal
+- [Sun Motes](Microforms.md): Airborne photosynthetic
+- [Slushbugs](Microforms.md): Decomposer budding
+- [Ejector Spores](Microforms.md): Ballistic dispersal
 
 ### Aquatic Strategy
 
 **Marine Assembly:**
 - GFP released into water
-- [[Moons-and-Tides|Tidal currents]] mix packets
-- [[48-Intertidal-Zones|Intertidal zones]] are assembly hotspots
+- [Tidal currents](Moons%20and%20Tides.md) mix packets
+- [Intertidal zones](Littoral%20Zones.md) are assembly hotspots
 - Larvae-like free-swimming forms
 
 **Examples:**
@@ -231,7 +231,7 @@ Though less coordinated than womb-born composites, they are critical to the plan
 - Many organisms eat seeds/pollen
 - Nutritious (protein-rich GFP)
 - Supports entire trophic levels
-- [[72d-Environmental-Cultivation|Cultivated]] by some animals
+- [Cultivated](Behavior.md) by some animals
 
 ### Colonization
 
@@ -264,23 +264,23 @@ Though less coordinated than womb-born composites, they are critical to the plan
 ## Navigation
 
 **Core Concepts:**
-- [[Reproduction-Assembly-Conception]] - Overall reproduction
-- [[Womb-Enabled-Reproduction]] - Alternative strategy
-- [[Environmental-GFP]] - What's being dispersed
-- [[GFP-Carriers-and-Vectors]] - How it spreads
+- [Reproduction Assembly Conception](Reproduction%20Assembly%20Conception.md) - Overall reproduction
+- [Womb Enabled Reproduction](Womb%20Enabled%20Reproduction.md) - Alternative strategy
+- [Environmental GFP](Environmental%20GFP.md) - What's being dispersed
+- [GFP Carriers and Vectors](GFP%20Carriers%20and%20Vectors.md) - How it spreads
 
 **Organism Types:**
-- [[60-Microbiosphere-Overview]] - Microbes using this strategy
-- [[82-Autotrophs]] - "Plants" using this strategy
-- [[48-Intertidal-Zones]] - Where marine assembly occurs
+- [Microbiosphere Overview](Microbiosphere%20Overview.md) - Microbes using this strategy
+- [Trophic Roles No Plant Animal](Trophic%20Roles%20No%20Plant%20Animal.md) - "Plants" using this strategy
+- [Littoral Zones](Littoral%20Zones.md) - Where marine assembly occurs
 
 **Related Topics:**
-- [[Natural-Selection-on-TPIV]] - Selection on assembly
-- [[31-Taxa-and-Metrics-PSV-MDI]] - High variability result
+- [Natural Selection on TPIV](Natural%20Selection%20on%20TPIV.md) - Selection on assembly
+- [Taxa and Metrics](Taxa%20and%20Metrics.md) - High variability result
 
 **Related Dispatches:**
-- [[D010-GFP-Carrier-Ecology]] - Dispersal mechanisms
-- [[D012-Seedbank-Analysis]] - Environmental GFP reservoirs
+- [B010 – GFP Carrier Ecology](Dispatches.md#b010) - Dispersal mechanisms
+- [B012 – Composite Life Cycles](Dispatches.md#b012) - Environmental GFP reservoirs
 
 ---
 

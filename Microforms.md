@@ -2,7 +2,7 @@
 ---
 tags: [biology, microforms, insects, small-organisms, diverse-strategies]
 aliases: [Microforms, Insect-Analogs, Small Composites]
-related: [[24-Composite-Organisms]], [[Partifunct Core Definition]], [[80b-Colonial-Microforms]], [[20-Biology-Overview]]
+related: [Composite Organisms](Composite%20Organisms.md), [Partifunct Core Definition](Partifunct%20Core%20Definition.md), [Microforms](Microforms.md), [Biology Overview](Biology%20Overview.md)
 status: complete
 ---
 
@@ -20,10 +20,10 @@ status: complete
 
 ### Small Composite Organisms
 
-**Microforms** are small [[Composite-Organisms|composite organisms]] with multiple [[Partifunct Core Definition|partifuncts]], filling ecological niches comparable to Earth's insects.  
+**Microforms** are small [composite organisms](Composite%20Organisms.md) with multiple [partifuncts](Partifunct%20Core%20Definition.md), filling ecological niches comparable to Earth's insects.  
 
 **Not Microbes:**
-- Larger than [[60-Microbiosphere-Overview|S-BLU and F-BLU organisms]]
+- Larger than [S-BLU and F-BLU organisms](Microbiosphere%20Overview.md)
 - True composite organisms (multiple partifuncts)
 - Womb reproducing
 - Visible to naked eye (though can be very small)
@@ -33,7 +33,7 @@ status: complete
 - Smallest: 1-2mm (comparable to tiny mites)
 - Typical: 5-20mm (comparable to ants, bees, beetles)
 - Largest: 50-100mm (comparable to large moths, beetles)
-- Some variation within taxa  ([[31-Taxa-and-Metrics-PSV-MDI|MDI]] applies)
+- Some variation within taxa  ([MDI](Taxa%20and%20Metrics.md) applies)
 
 ---
 
@@ -54,7 +54,7 @@ status: complete
 - **Microform:** One simple digestive partifunct, through-gut
 
 **Nervous:**
-- Large organism: Multiple [[33-Brain-Partifuncts|brain partifuncts]] (MOTO, MEMO, SENS, etc.)
+- Large organism: Multiple [brain partifuncts](Nervous%20Systems.md) (MOTO, MEMO, SENS, etc.)
 - **Microform:** Few small brain partifuncts (more functions integrated)
 
 **Sensory:**
@@ -62,7 +62,7 @@ status: complete
 - **Microform:** Simple eyes, antennae
 
 **Locomotion:**
-- Large organism: [[88a-ST-LMB-Lignin-Limb-Segment|Limb segments]] (standard partifuncts)
+- Large organism: [Limb segments](Partifunct%20Domain%20&%20Function%20Table.md) (standard partifuncts)
 - **Microform:** Exoskeletal limbs using **microform-specific partifuncts** (not miniaturized standard limbs)
 
 ---
@@ -88,7 +88,7 @@ status: complete
   - Silk/web production organs (some species)
 
 **Why This Matters:**
-- [[Environmental-GFP|eGFP]] from microforms contributes both types to environment
+- [eGFP](Environmental%20GFP.md) from microforms contributes both types to environment
 - Larger organisms occasionally incorporate microform-specific partifuncts (rare but possible)
 - Microforms can incorporate standard partifuncts (miniaturized expression)
 
@@ -134,10 +134,10 @@ status: complete
 - Some species: Direct development (hatch as miniature adults)
 - Others: **Metamorphosis** (larval → pupal → adult stages)
 - Variety of strategies (no single pattern)
-- [[Natural-Selection-on-TPIV|Convergent evolution]] produces Earth-like solutions
+- [Convergent evolution](Natural%20Selection%20on%20TPIV.md) produces Earth-like solutions
 
 **Ecological Roles:**
-- Pollinators ([[82d-Winterflies|Winterflies]], others)
+- Pollinators ([Winterflies](Ecology%20Overview.md), others)
 - Herbivores (grazers, leaf-eaters, sap-suckers)
 - Predators (hunt other microforms)
 - Parasites (bloodsuckers, parasitoids)
@@ -181,18 +181,18 @@ status: complete
 
 ### Ecological Categories
 
-**Living Seeds ([[80a-Living-Seeds]]):**
+**Living Seeds ([Microforms](Microforms.md)):**
 - Created by plants in buds
 - Released fully formed
 - Attempt to find rooting site
-- Carry [[Environmental-GFP|eGFP]] for plant reproduction
+- Carry [eGFP](Environmental%20GFP.md) for plant reproduction
 - Solitary (must disperse)
 
 **Pollinators:**
 - Visit flowers for nectar
 - Transfer pollen/genetic material
 - Some solitary, some colonial
-- [[82d-Winterflies|Winterflies]] (winter specialists)
+- [Winterflies](Ecology%20Overview.md) (winter specialists)
 - Critical for plant reproduction
 
 **Herbivores:**
@@ -231,15 +231,15 @@ status: complete
 
 **As Prey:**
 - Major food source for many larger organisms
-- [[Stringbirds|Stringbirds]] specialize in microform predation
+- [Stringbirds](Stringbirds.md) specialize in microform predation
 - Many grazers eat microforms opportunistically
 - High biomass despite small individual size
 
 **As Pollinators:**
 - Critical for plant reproduction
-- [[82d-Winterflies|Winterflies]] example (winter specialists)
+- [Winterflies](Ecology%20Overview.md) example (winter specialists)
 - Many plant species dependent on microform pollinators
-- [[Environmental-GFP|eGFP]] exchange during pollination
+- [eGFP](Environmental%20GFP.md) exchange during pollination
 
 **As Decomposers:**
 - Break down organic matter rapidly
@@ -249,8 +249,8 @@ status: complete
 
 **As eGFP Sources:**
 - Grazers sometimes **collect** microforms for reproduction (not just eating)
-- Harvest [[Environmental-GFP|eGFP]] from specific microform types
-- [[3B-Womb-Partifunct-Systems|Wombs]] incorporate microform partifuncts
+- Harvest [eGFP](Environmental%20GFP.md) from specific microform types
+- [Wombs](Womb%20Partifunct%20Systems.md) incorporate microform partifuncts
 - Example: Grazer might collect "living seed" microforms (related partifuncts)
 
 ---
@@ -280,7 +280,7 @@ status: complete
 **Eusocial Reproduction (Colonial Species):**
 - Queens lay eggs (high rate)
 - Workers care for brood
-- [[3B-Womb-Partifunct-Systems|Womb partifunct]] determines caste (worker vs. reproductive)
+- [Womb partifunct](Womb%20Partifunct%20Systems.md) determines caste (worker vs. reproductive)
 - Colony-level reproduction (swarming, budding)
 
 ---
@@ -331,7 +331,7 @@ status: complete
 **Why Similar?**
 - Same physical constraints (small size, aerodynamics)
 - Same ecological niches (pollination, decomposition, etc.)
-- [[Convergent-Evolution|Convergent solutions]] to similar problems
+- [Convergent solutions](Convergent%20Evolution.md) to similar problems
 - Physics and chemistry constrain possible forms
 
 ---
@@ -350,7 +350,7 @@ status: complete
 **Differences:**
 - **Partifunct-based** (not fixed genome)
 - **Caste flexibility** in colonial species (partifunct expression, not just genetics)
-- **[[Environmental-GFP|eGFP]] contribution** (genetic material to larger organisms)
+- **[eGFP](Environmental%20GFP.md) contribution** (genetic material to larger organisms)
 - **Microform-specific partifuncts** (not just miniaturized standard ones)
 - **Possibly less eusocial overall** (solitary strategies more viable with modular biology?)
 
@@ -359,36 +359,36 @@ status: complete
 ## Navigation
 
 **Core Concepts:**
-- [[Composite-Organisms]] - What microforms are
-- [[Partifunct Core Definition]] - Simplified partifunct systems
-- [[Biology Overview]] - Biological foundation
-- [[Environmental-GFP]] - Genetic exchange
+- [Composite Organisms](Composite%20Organisms.md) - What microforms are
+- [Partifunct Core Definition](Partifunct%20Core%20Definition.md) - Simplified partifunct systems
+- [Biology Overview](Biology%20Overview.md) - Biological foundation
+- [Environmental GFP](Environmental%20GFP.md) - Genetic exchange
 
 **Microform Types:**
-- [[80a-Living-Seeds]] - Plant dispersal strategy
-- [[80b-Pollinators]] - Nectar feeders, plant reproduction
-- [[80c-Herbivores]] - Plant feeders
-- [[80d-Predators]] - Hunters
-- [[80e-Parasites]] - Host feeders
-- [[80f-Decomposers]] - Organic matter processors
-- [[80g-Colonial-Microforms]] - Eusocial species (minority)
+- [Microforms](Microforms.md) - Plant dispersal strategy
+- [Microforms](Microforms.md) - Nectar feeders, plant reproduction
+- [Microforms](Microforms.md) - Plant feeders
+- [Microforms](Microforms.md) - Hunters
+- [Microforms](Microforms.md) - Host feeders
+- [Microforms](Microforms.md) - Organic matter processors
+- [Microforms](Microforms.md) - Eusocial species (minority)
 
 **Related Topics:**
-- [[Distributed-Organisms-Overview]] - Colonial → DO spectrum
-- [[Natural-Selection-on-TPIV]] - Evolutionary dynamics
-- [[3B-Womb-Partifunct-Systems]] - Caste determination (colonials)
-- [[60-Microbiosphere-Overview]] - Smaller organisms (not composites)
+- [Distributed Organisms Overview](Distributed%20Organisms%20Overview.md) - Colonial → DO spectrum
+- [Natural Selection on TPIV](Natural%20Selection%20on%20TPIV.md) - Evolutionary dynamics
+- [Womb Partifunct Systems](Womb%20Partifunct%20Systems.md) - Caste determination (colonials)
+- [Microbiosphere Overview](Microbiosphere%20Overview.md) - Smaller organisms (not composites)
 
 **Ecological Roles:**
-- [[Ecology-Overview]] - Ecosystem context
-- [[Trophic-Roles-No-Plant-Animal]] - Food web position
-- [[82d-Winterflies]] - Pollinator example
+- [Ecology Overview](Ecology%20Overview.md) - Ecosystem context
+- [Trophic Roles No Plant Animal](Trophic%20Roles%20No%20Plant%20Animal.md) - Food web position
+- [Ecology Overview](Ecology%20Overview.md) - Pollinator example
 
 **Related Dispatches:**
-- [[D107-Microform-Diversity-Survey]] - Species catalog
-- [[D111-Solitary-vs-Colonial-Analysis]] - Why most are solitary
-- [[D109-Caste-System-Analysis]] - Partifunct-based specialization (colonials)
-- [[D110-Microform-eGFP-Contribution]] - Genetic material dispersal
+- [B022 – Microbiosphere](Dispatches.md#b022) - Species catalog
+- [B022 – Microbiosphere](Dispatches.md#b022) - Why most are solitary
+- [B017 – Distributed Organisms](Dispatches.md#b017) - Partifunct-based specialization (colonials)
+- [B010 – GFP Carrier Ecology](Dispatches.md#b010) - Genetic material dispersal
 
 ---
 

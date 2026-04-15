@@ -2,16 +2,16 @@
 ---
 tags: [biomes, dark-forest, kolofluke, sunless, rDO, unique]
 aliases: [Dark Forest, Kolofluke Dark Forest, Sunless Valleys, Shadow Forest]
-related: [[59-Biomes-Index]], [[14e-Kolofluke]], [[59b-Flying-Forest]], [[48-Note-on-Kolofluke-rDO]], [[42c-rDO-Duskmantle-Hunter]]
+related: [Biomes of TPIV](Biomes%20of%20TPIV.md), [Continents](Continents.md), [Flying Forest](Flying%20Forest.md), [rDO Organisms](rDO%20Organisms.md), [rDO Duskmantle Stalker](rDO%20Duskmantle%20Stalker.md)
 status: complete
 ---
 
 # Dark Forest - Kolofluke
 
-**Location:** Deep valleys of [[14e-Kolofluke|Kolofluke]], central mountain spine  
+**Location:** Deep valleys of [Kolofluke](Continents.md), central mountain spine  
 **Climate:** Cool, humid, perpetually dark  
-**Light Level:** Near-zero (blocked by [[Flying-Forest|Flying Forest]])  
-**Key Feature:** [[Note-on-Kolofluke-rDO|Radio-based DOs]] dominant, minimal photosynthesis  
+**Light Level:** Near-zero (blocked by [Flying Forest](Flying%20Forest.md))  
+**Key Feature:** [Radio-based DOs](rDO%20Organisms.md) dominant, minimal photosynthesis  
 **Unique:** Biological darkness adaptation, electromagnetic communication
 
 ---
@@ -20,10 +20,10 @@ status: complete
 
 ### The Sunless Biome
 
-**The Dark Forest on Kolofluke** is one result of the [[Flying-Forest|Flying Forest]]. Where the flying forest intersects with the cloud forest of Kolo, the steep mountain valleys get **zero sunlight** and have evolved unique adaptations for the darkness.
+**The Dark Forest on Kolofluke** is one result of the [Flying Forest](Flying%20Forest.md). Where the flying forest intersects with the cloud forest of Kolo, the steep mountain valleys get **zero sunlight** and have evolved unique adaptations for the darkness.
 
 **Formation:**
-- [[Flying-Forest|Flying Forest]] concentrates above mountains
+- [Flying Forest](Flying%20Forest.md) concentrates above mountains
 - Active volcanic zone
 - Permanent dense layer blocks sunlight
 - Deep valleys receive no direct light
@@ -31,7 +31,7 @@ status: complete
 - Ash/Cloud layer + Flying Forest = double barrier
 
 **Geographic Extent:**
-- Central spine valleys of [[14e-Kolofluke|Kolofluke]]
+- Central spine valleys of [Kolofluke](Continents.md)
 - 50-100 valleys (each 5-20 km long)
 - Valley depths: 500-1500m below ridges
 - Steep walls (60-80° slopes typical)
@@ -44,16 +44,16 @@ status: complete
 ### Near-Total Darkness
 
 **Illumination Sources:**
-- **[[13b-Lumna-Secondary-Moon|Lumna]]:** Faint reflected light (0.01% surface level)
+- **[Lumna](Lumna.md):** Faint reflected light (0.01% surface level)
 - **Bioluminescence:** Organisms generate own light (minimal)
 - **Sky glow:** Diffuse scatter from above (negligible)
 - **Effective:** Photosynthesis impossible
 
 **Organism Adaptations:**
 - Eyes reduced or absent (vision useless)
-- [[42c-rDO-Duskmantle-Hunter|Echolocation]] primary (acoustic mapping)
+- [Echolocation](rDO%20Duskmantle%20Stalker.md) primary (acoustic mapping)
 - Chemical sensing enhanced (pheromone tracking)
-- [[Note-on-Kolofluke-rDO|Radio communication]] evolved (rDO organisms)
+- [Radio communication](rDO%20Organisms.md) evolved (rDO organisms)
 - Tactile sensing (whiskers, sensitive skin)
 
 ---
@@ -63,7 +63,7 @@ status: complete
 ### No Photosynthesis
 
 **Primary Production:**
-- **[[8E-Autotrophy|Chemosynthesis]]:** Oxidizing inorganic compounds
+- **[Chemosynthesis](Trophic%20Roles%20No%20Plant%20Animal.md):** Oxidizing inorganic compounds
   - Sulfur compounds (volcanic vents)
   - Methane seeps (geological)
   - Ammonia oxidation (decomposition)
@@ -84,14 +84,14 @@ status: complete
 
 ### rDO Apex
 
-**[[Note-on-Kolofluke-rDO|Radio-Based Distributed Organisms (rDOs)]]:**
+**[Radio-Based Distributed Organisms (rDOs)](rDO%20Organisms.md):**
 - Primary large fauna
 - Use electromagnetic signals (darkness-independent)
-- [[Distributed-Organisms-Overview|Distributed bodies]] coordinate via radio
-- Examples: [[rDO-Duskmantle-Stalker|rDO-Duskmantle Stalker]]
+- [Distributed bodies](Distributed%20Organisms%20Overview.md) coordinate via radio
+- Examples: [rDO-Duskmantle Stalker](rDO%20Duskmantle%20Stalker.md)
 
 **Why rDOs Dominate:**
-- [[CEP-and-Do-Mites|Do-mites]] need light (cannot navigate in darkness)
+- [Do-mites](CEP%20and%20Do-Mites.md) need light (cannot navigate in darkness)
 - Radio waves penetrate darkness
 - Longer range than chemical signals
 - Faster coordination than chemicals
@@ -141,10 +141,10 @@ status: complete
 - Eat fungal networks
 - Consume decomposing material
 - Supplement with insects/small animals
-- [[Trophic-Roles-No-Plant-Animal|No true herbivores]] (insufficient plant biomass)
+- [No true herbivores](Trophic%20Roles%20No%20Plant%20Animal.md) (insufficient plant biomass)
 
 **rDO-Shadowbrowser:**
-- [[Distributed-Organisms-Overview|Distributed organism]]
+- [Distributed organism](Distributed%20Organisms%20Overview.md)
 - Feeding partivants graze saprophytes
 - Scout partivants detect food patches (radio coordination)
 - Cognitive partivants coordinate in darkness (radio signals)
@@ -155,9 +155,9 @@ status: complete
 
 ### Ambush and Acoustic Hunters
 
-**[[42c-rDO-Duskmantle-Hunter|rDO-Duskmantle Hunter]]:**
+**[rDO-Duskmantle Hunter](rDO%20Duskmantle%20Stalker.md):**
 - Apex predator
-- [[Note-on-Kolofluke-rDO|Radio communication]] between [[Partivant-Definition|partivants]]
+- [Radio communication](rDO%20Organisms.md) between [partivants](Partivant%20Definition.md)
 - Echolocation (active sound pulses)
 - Infrared sensing (detect body heat)
 - Coordinated ambush (radio-synchronized)
@@ -183,10 +183,10 @@ status: complete
 
 **Active Echolocation:**
 - Ultrasonic pulses (20-80 kHz)
-- Echo processing in [[33e-Sensory-Integration|SENS brain]]
+- Echo processing in [SENS brain](Nervous%20Systems.md)
 - Three-dimensional terrain mapping
 - Prey detection (movement, breathing)
-- Shared via radio ([[42c-rDO-Duskmantle-Hunter|rDO-Duskmantle]]—all partivants "see" data)
+- Shared via radio ([rDO-Duskmantle](rDO%20Duskmantle%20Stalker.md)—all partivants "see" data)
 
 **Advantages:**
 - Works in complete darkness
@@ -208,7 +208,7 @@ status: complete
 - Eyes vestigial (some organisms)
 - Or absent entirely (others)
 - Energy saved (no visual processing)
-- [[42c-rDO-Duskmantle-Hunter|rDO-Duskmantle]] nearly blind
+- [rDO-Duskmantle](rDO%20Duskmantle%20Stalker.md) nearly blind
 
 **Hearing (Enhanced):**
 - Massive ear structures (parabolic collectors)
@@ -229,7 +229,7 @@ status: complete
 
 **Infrared:**
 - **Infrared pits:** Detect body heat (thermal imaging)
-- **[[Note-on-Kolofluke-rDO|Radio reception]]:** Electromagnetic communication (rDOs)
+- **[Radio reception](rDO%20Organisms.md):** Electromagnetic communication (rDOs)
 - **Magnetic sense:** Navigation in darkness
 
 ---
@@ -320,22 +320,22 @@ status: complete
 ### Why This System Evolved
 
 **Environmental Pressure:**
-- [[Flying-Forest|Flying Forest]] blocked sunlight permanently
-- [[CEP-and-Do-Mites|Chemical communication]] failed (do-mites need light)
+- [Flying Forest](Flying%20Forest.md) blocked sunlight permanently
+- [Chemical communication](CEP%20and%20Do-Mites.md) failed (do-mites need light)
 - Selection for alternative strategies
 
-**[[Note-on-Kolofluke-rDO|Radio Communication Evolution]]:**
-1. Pre-adaptation (weak [[8F-Electrogenesis|electrogenesis]] for prey detection)
+**[Radio Communication Evolution](rDO%20Organisms.md):**
+1. Pre-adaptation (weak [electrogenesis](Trophic%20Roles%20No%20Plant%20Animal.md) for prey detection)
 2. Enhanced signals (stronger transmission selected)
-3. Dedicated organs ([[8F-Electrogenesis|electrogenesis partifuncts]])
+3. Dedicated organs ([electrogenesis partifuncts](Trophic%20Roles%20No%20Plant%20Animal.md))
 4. Relay infrastructure (signal amplification)
-5. Full [[Distributed-Organisms-Overview|distributed organism]] coordination
+5. Full [distributed organism](Distributed%20Organisms%20Overview.md) coordination
 
 **Timeline:**
 - Flying Forest established: ~10-15 million years ago
 - Dark Forest formed: Shortly after
 - rDO evolution: 5-10 million years ago
-- Rapid adaptation enabled by [[Non-Homochirality|modular biology]]
+- Rapid adaptation enabled by [modular biology](Non%20Homochirality.md)
 
 ---
 
@@ -352,13 +352,13 @@ status: complete
 - Moderate (specialized niches)
 - High endemism (isolated valleys)
 - Many species found nowhere else
-- [[Note-on-Kolofluke-rDO|rDOs unique]] to Kolofluke
+- [rDOs unique](rDO%20Organisms.md) to Kolofluke
 
 **Population Sizes:**
 - Small (energy-limited)
 - Low reproductive rates
 - Long lifespans (slow metabolism)
-- [[42c-rDO-Duskmantle-Hunter|rDO-Duskmantle]]: 0.3-1.0 packs per 100 km²
+- [rDO-Duskmantle](rDO%20Duskmantle%20Stalker.md): 0.3-1.0 packs per 100 km²
 
 ---
 
@@ -397,10 +397,10 @@ status: complete
 - Equipment failures (humidity, darkness)
 
 **Understanding:**
-- [[Note-on-Kolofluke-rDO|Radio communication]] complex (frequencies, encoding)
+- [Radio communication](rDO%20Organisms.md) complex (frequencies, encoding)
 - Population estimates uncertain (low density, hidden)
 - Ecological interactions poorly known
-- [[42c-rDO-Duskmantle-Hunter|Coordinated hunting]] difficult to observe
+- [Coordinated hunting](rDO%20Duskmantle%20Stalker.md) difficult to observe
 
 ---
 
@@ -415,8 +415,8 @@ status: complete
 - Scale and complexity unprecedented
 
 **TPIV-Specific:**
-- Created by [[Flying-Forest|Flying Forest]] (no Earth equivalent)
-- [[Note-on-Kolofluke-rDO|Radio-based DOs]] (no Earth equivalent)
+- Created by [Flying Forest](Flying%20Forest.md) (no Earth equivalent)
+- [Radio-based DOs](rDO%20Organisms.md) (no Earth equivalent)
 - Electromagnetic coordination (unique biological innovation)
 
 ---
@@ -424,31 +424,31 @@ status: complete
 ## Navigation
 
 **Biome Context:**
-- [[59-Biomes-Index]] - All biomes overview
-- [[14e-Kolofluke]] - Island continent location
-- [[Flying-Forest]] - What creates Dark Forest
-- [[Ecology-Overview]] - Ecological foundation
+- [Biomes of TPIV](Biomes%20of%20TPIV.md) - All biomes overview
+- [Continents](Continents.md) - Island continent location
+- [Flying Forest](Flying%20Forest.md) - What creates Dark Forest
+- [Ecology Overview](Ecology%20Overview.md) - Ecological foundation
 
 **Dominant Organisms:**
-- [[42c-rDO-Duskmantle-Hunter]] - Apex predator
-- [[Note-on-Kolofluke-rDO|rDO-Shadowbrowser]] - Herbivore analog
+- [rDO Duskmantle Stalker](rDO%20Duskmantle%20Stalker.md) - Apex predator
+- [rDO-Shadowbrowser](rDO%20Organisms.md) - Herbivore analog
 - rDO-Cavecrawler - Subterranean specialist
 
 **Related Concepts:**
-- [[Note-on-Kolofluke-rDO]] - Radio communication evolution
-- [[8E-Autotrophy]] - Chemosynthesis
-- [[8F-Electrogenesis]] - Radio generation
-- [[76-Distributed-Cognition]] - Coordinated darkness hunting
+- [rDO Organisms](rDO%20Organisms.md) - Radio communication evolution
+- [Trophic Roles No Plant Animal](Trophic%20Roles%20No%20Plant%20Animal.md) - Chemosynthesis
+- [Trophic Roles No Plant Animal](Trophic%20Roles%20No%20Plant%20Animal.md) - Radio generation
+- [Distributed Organisms Overview](Distributed%20Organisms%20Overview.md) - Coordinated darkness hunting
 
 **Related Biomes:**
-- [[Flying-Forest]] - Cause of darkness
-- [[59b2-Cloud-Forest-Interaction]] - Mountain forests (transition zone)
+- [Flying Forest](Flying%20Forest.md) - Cause of darkness
+- [Flying Forest](Flying%20Forest.md) - Mountain forests (transition zone)
 
 **Related Dispatches:**
-- [[D042-Radio-Wave-Organisms]] - rDO discovery
-- [[D090-Dark-Forest-Expedition]] - First exploration
-- [[D091-Echolocation-Mapping]] - Acoustic environment
-- [[D092-Chemosynthetic-Productivity]] - Energy budget analysis
+- [B018 – Radio Distributed Organisms](Dispatches.md#b018) - rDO discovery
+- [B002 – TPIV Planetary Overview](Dispatches.md#b002) - First exploration
+- [B018 – Radio Distributed Organisms](Dispatches.md#b018) - Acoustic environment
+- [B002 – TPIV Planetary Overview](Dispatches.md#b002) - Energy budget analysis
 
 ---
 

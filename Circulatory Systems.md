@@ -2,7 +2,7 @@
 ---
 tags: [anatomy, circulatory, blood, hearts, vascular]
 aliases: [Circulatory Systems, Blood Systems, Vascular Systems, Hearts]
-related: [[30-Anatomy-Overview]], [[34a-Multiple-System-Architecture]], [[34b-Hearts-and-Reservoirs]], [[34c-Transfer-Organs]]
+related: [Anatomy Overview](Anatomy%20Overview.md), [Circulatory Systems](Circulatory%20Systems.md), [Circulatory Systems](Circulatory%20Systems.md), [Circulatory Systems](Circulatory%20Systems.md)
 status: complete
 ---
 
@@ -23,14 +23,14 @@ status: complete
 There is no true homogeneity of gross anatomy among life-forms. Each partifunct's organs have their own blood circulation. Some organisms have a partifunct dedicated to blood/circulation, others do not.
 
 **Typical Configuration:**
-- Each major [[Partifunct Core Definition|partifunct]] maintains own circulatory loop
+- Each major [partifunct](Partifunct%20Core%20Definition.md) maintains own circulatory loop
 - Limb partifuncts have local circulation
 - Digestive system has own blood supply
 - Brain partifuncts heavily vascularized
 - Respiratory partifuncts connect to all systems
 
 **Connection Points:**
-- [[34c-Transfer-Organs|Transfer organs]] link different circulatory systems
+- [Transfer organs](Circulatory%20Systems.md) link different circulatory systems
 - Capillary exchange at partifunct boundaries
 - Shared organs where capillaries infiltrate to within single membrane
 - Hormonal and nutrient exchange
@@ -52,7 +52,7 @@ Frequently, blood is pumped using many small heart partifuncts and oxygenated vi
 - Distributed energy cost
 
 **Locations:**
-- [[34b-Hearts-and-Reservoirs|Hearts scattered throughout body]]
+- [Hearts scattered throughout body](Circulatory%20Systems.md)
 - Near major muscle groups
 - Along central body cavity
 - Some at limb bases
@@ -90,7 +90,7 @@ Shared organs, where the capillaries of two partifuncts infiltrate to within a s
 - Spread hormones
 
 **Function:**
-- [[34c-Transfer-Organs|Capillary exchange organs]] at boundaries
+- [Capillary exchange organs](Circulatory%20Systems.md) at boundaries
 - No direct mixing of blood from different partifuncts
 - Diffusion across membrane barriers
 - Maintains genetic independence while enabling metabolic cooperation
@@ -113,10 +113,10 @@ Shared organs, where the capillaries of two partifuncts infiltrate to within a s
 - Capillary beds (exchange sites)
 - Often more complex branching than Earth organisms
 
-**[[LU-Biology|BLU-Scale Circulation]]:**
+**[BLU-Scale Circulation](BLU%20Biology.md):**
 - Vessels between large BLU structures
 - Cytoplasmic streaming within BLU tissue
-- Nutrient delivery to [[LU-Biology|genode clusters]]
+- Nutrient delivery to [genode clusters](BLU%20Biology.md)
 - Waste removal pathways
 
 ---
@@ -128,7 +128,7 @@ Shared organs, where the capillaries of two partifuncts infiltrate to within a s
 **Multiple Control Points:**
 - Each heart responds to local demands
 - Chemical signals coordinate activity
-- [[33-Brain-Partifuncts|Brain partifuncts]] provide central coordination
+- [Brain partifuncts](Nervous%20Systems.md) provide central coordination
 - Stress hormones increase overall circulation
 
 **Pressure Variation:**
@@ -158,7 +158,7 @@ Shared organs, where the capillaries of two partifuncts infiltrate to within a s
 - Massive trauma can still overwhelm system
 - Critical partifuncts (brain, certain organs) still vulnerable
 - Coordinated function eventually fails
-- [[Death-and-Decomposition|Death appears Earth-familiar once it occurs]]
+- [Death appears Earth-familiar once it occurs](Death-and-Decomposition.md)
 
 ---
 
@@ -184,7 +184,7 @@ Shared organs, where the capillaries of two partifuncts infiltrate to within a s
 
 ### Coordination with Respiratory Systems
 
-**[[Respiratory-Systems|Lung Interface]]:**
+**[Lung Interface](Respiratory%20Systems.md):**
 - Multiple small lungs oxygenate blood
 - Each lung may supply local region primarily
 - Transfer organs distribute oxygenated blood
@@ -194,7 +194,7 @@ Shared organs, where the capillaries of two partifuncts infiltrate to within a s
 - 25% O₂ atmosphere enables efficient uptake
 - Supports high metabolic rates
 - Allows large active organisms
-- Enables [[33-Brain-Partifuncts|complex cognition]]
+- Enables [complex cognition](Nervous%20Systems.md)
 
 ---
 
@@ -214,10 +214,10 @@ Shared organs, where the capillaries of two partifuncts infiltrate to within a s
 - Elaborate transfer organ systems
 - Coordinated central regulation
 
-**[[50-Distributed-Organisms-Overview|Distributed Organisms]]:**
+**[Distributed Organisms](Distributed%20Organisms%20Overview.md):**
 - Each partivant has own complete circulation
 - No direct vascular connection between bodies
-- [[51-CEP-and-Do-Mites|DO-mites]] may carry nutrients/signals
+- [DO-mites](CEP%20and%20Do-Mites.md) may carry nutrients/signals
 - Complete independence between separated bodies
 
 ---
@@ -227,10 +227,10 @@ Shared organs, where the capillaries of two partifuncts infiltrate to within a s
 ### Comparative Studies
 
 **Across Taxa:**
-- [[TPM-Zebra-Grazer|Zebra Grazers]]: 8-12 hearts typical
+- [Zebra Grazers](TPM%20Example.md): 8-12 hearts typical
 - Large predators: 15-20 hearts
 - Small organisms: 2-4 hearts
-- [[45-Flying-Forest|Aerial organisms]]: Reduced mass, efficient pumping
+- [Aerial organisms](Flying%20Forest.md): Reduced mass, efficient pumping
 
 **Trauma Response:**
 - Damage to single heart: Organism continues functioning
@@ -244,28 +244,28 @@ Shared organs, where the capillaries of two partifuncts infiltrate to within a s
 
 ### Detailed Pages
 
-- [[34a-Multiple-System-Architecture]] - How systems connect and coordinate
-- [[34b-Hearts-and-Reservoirs]] - Heart types and distribution
-- [[34c-Transfer-Organs]] - Inter-partifunct exchange structures
+- [Circulatory Systems](Circulatory%20Systems.md) - How systems connect and coordinate
+- [Circulatory Systems](Circulatory%20Systems.md) - Heart types and distribution
+- [Circulatory Systems](Circulatory%20Systems.md) - Inter-partifunct exchange structures
 
 ---
 
 ## Navigation
 
 **Anatomy Systems:**
-- [[Anatomy-Overview]] - Overall body architecture
-- [[33-Brain-Partifuncts]] - Major blood consumer
-- [[Respiratory-Systems]] - Oxygen supply to blood
-- [[Digestive-Systems]] - Nutrient source for blood
+- [Anatomy Overview](Anatomy%20Overview.md) - Overall body architecture
+- [Nervous Systems](Nervous%20Systems.md) - Major blood consumer
+- [Respiratory Systems](Respiratory%20Systems.md) - Oxygen supply to blood
+- [Digestive Systems](Digestive%20Systems.md) - Nutrient source for blood
 
 **Related Topics:**
-- [[Partifunct Core Definition]] - Why each system is distinct
-- [[Death-and-Decomposition]] - What happens when circulation fails
-- [[LU-Biology]] - Tissue-level circulation
+- [Partifunct Core Definition](Partifunct%20Core%20Definition.md) - Why each system is distinct
+- [Death-and-Decomposition](Death-and-Decomposition.md) - What happens when circulation fails
+- [BLU Biology](BLU%20Biology.md) - Tissue-level circulation
 
 **Related Dispatches:**
-- [[D028-Circulatory-Mapping]] - First vascular network analysis
-- [[D029-Trauma-Response-Study]] - Resilience testing
+- [B005 – Steppe Surface Life](Dispatches.md#b005) - First vascular network analysis
+- [B011 – Death Response](Dispatches.md#b011) - Resilience testing
 
 ---
 

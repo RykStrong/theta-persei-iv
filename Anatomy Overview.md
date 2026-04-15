@@ -3,7 +3,7 @@
 
 tags: [anatomy, overview, composite organisms, body-architecture]
 aliases: [Anatomy Overview, Higher Life Overview, Body Architecture]
-related: [[Biology Overview]], [[24-Composite-Organisms]], [[3A-Hexagirdle-Octagirdle]], [[Partifunct Core Definition]]
+related: [Biology Overview](Biology%20Overview.md), [Composite Organisms](Composite%20Organisms.md), [Hexagirdle Octagirdle](Hexagirdle%20Octagirdle.md), [Partifunct Core Definition](Partifunct%20Core%20Definition.md)
 status: complete
 
 ---
@@ -12,21 +12,21 @@ status: complete
 
 
 **Each Organism:**
-- Assembly of 10-50+ distinct [[Partifunct Core Definition|partifuncts]]
-- Each partifunct has own [[GFP and Genodules]]
+- Assembly of 10-50+ distinct [partifuncts](Partifunct%20Core%20Definition.md)
+- Each partifunct has own [GFP and Genodules](GFP%20and%20Genodules.md)
 - Tight physical and metabolic integration
 - Cannot be separated alive
 - "Can only be separated under dissection—but under dissection the separations are obvious"
 
 **Key Systems:**
-- [[33-Brain-Partifuncts|Nervous systems]] (multiple specialized brain modules)
-- [[Circulatory-Systems|Circulatory systems]] (multiple loops, distributed hearts)
-- [[Respiratory-Systems|Respiratory systems]] (many small lungs, spiracles)
-- [[Digestive-Systems|Digestive systems]] (through-gut, variable complexity)
-- [[Skeletal-Systems|Skeletal systems]] (lignin or calcium-based)
-- [[Sensory-Systems|Sensory systems]] (often on flexible stalks)
-- [[3B-Womb-Partifunct-Systems|Reproductive systems]] (womb partifunct)
-- [[Integument systems]] (skin and covering partifuncts)  
+- [Nervous systems](Nervous%20Systems.md) (multiple specialized brain modules)
+- [Circulatory systems](Circulatory%20Systems.md) (multiple loops, distributed hearts)
+- [Respiratory systems](Respiratory%20Systems.md) (many small lungs, spiracles)
+- [Digestive systems](Digestive%20Systems.md) (through-gut, variable complexity)
+- [Skeletal systems](Skeletal%20Systems.md) (lignin or calcium-based)
+- [Sensory systems](Sensory%20Systems.md) (often on flexible stalks)
+- [Reproductive systems](Womb%20Partifunct%20Systems.md) (womb partifunct)
+- [Integument systems](Anatomy%20Overview.md) (skin and covering partifuncts)  
 
 ---
 
@@ -36,11 +36,11 @@ status: complete
 
 **Basic Pattern:**
 - **Body:** Flattened oval
-- **Girdle:** [[3A-Hexagirdle-Octagirdle|Hexagirdle or octagirdle]] (ring-shaped hip/shoulder)
+- **Girdle:** [Hexagirdle or octagirdle](Hexagirdle%20Octagirdle.md) (ring-shaped hip/shoulder)
 - **Legs:** 6-8 (hexapod most common)
 - **Nervous system:** Central loop through girdle
 - **Brain:** Protected in body center
-- **Lungs:** Many small, with [[35a-Spiracles-and-Lungs|spiracles]]
+- **Lungs:** Many small, with [spiracles](Respiratory%20Systems.md)
 - **Hearts:** Many small, distributed
 - **Sensors:** On flexible stalks above brain
 - **Gut:** Through-gut (mouth → anus)
@@ -50,9 +50,9 @@ status: complete
 ## Variation From Pattern
 
 **Different Configurations:**
-- [[45-Flying-Forest|Aerial organisms]]: Gas bladders, wing structures
-- [[85-Aquatic|Aquatic forms]]: Fin arrangements, streamlined bodies
-- [[50-Distributed-Organisms-Overview|Distributed Organisms]]: Multiple separated bodies
+- [Aerial organisms](Flying%20Forest.md): Gas bladders, wing structures
+- [Aquatic forms](Ecology%20Overview.md): Fin arrangements, streamlined bodies
+- [Distributed Organisms](Distributed%20Organisms%20Overview.md): Multiple separated bodies
 - Small organisms: Simplified structures
 - Autotrophs: Sessile or mobile plant-analogs
 
@@ -63,21 +63,21 @@ There is no true homogeneity of gross anatomy among life-forms. Each partifunct'
 ## Key Anatomical Features
 
 **Key Systems:**
-- [[33-Brain-Partifuncts|Nervous systems]] (multiple specialized brain modules)
-- [[Circulatory-Systems|Circulatory systems]] (multiple loops, distributed hearts)
-- [[Respiratory-Systems|Respiratory systems]] (many small lungs, spiracles)
-- [[Digestive-Systems|Digestive systems]] (through-gut, variable complexity)
-- [[Skeletal-Systems|Skeletal systems]] (lignin or calcium-based)
-- [[Sensory-Systems|Sensory systems]] (often on flexible stalks)
-- [[3B-Womb-Partifunct-Systems|Reproductive systems]] (womb partifunct)
-- [[Integument systems]] (skin and covering partifuncts)  
+- [Nervous systems](Nervous%20Systems.md) (multiple specialized brain modules)
+- [Circulatory systems](Circulatory%20Systems.md) (multiple loops, distributed hearts)
+- [Respiratory systems](Respiratory%20Systems.md) (many small lungs, spiracles)
+- [Digestive systems](Digestive%20Systems.md) (through-gut, variable complexity)
+- [Skeletal systems](Skeletal%20Systems.md) (lignin or calcium-based)
+- [Sensory systems](Sensory%20Systems.md) (often on flexible stalks)
+- [Reproductive systems](Womb%20Partifunct%20Systems.md) (womb partifunct)
+- [Integument systems](Anatomy%20Overview.md) (skin and covering partifuncts)  
 
 ### Distributed Systems
 
 **Multiple Small Units vs Single Large:**
 - **Hearts:** Many small hearts throughout body (not one large heart)
 - **Lungs:** Many small lungs with spiracles (not two large lungs)
-- **Brains:** Multiple specialized [[33-Brain-Partifuncts|brain modules]] (not unified brain)
+- **Brains:** Multiple specialized [brain modules](Nervous%20Systems.md) (not unified brain)
 
 **Advantages:**
 - Resistant to circulatory collapse
@@ -91,7 +91,7 @@ There is no true homogeneity of gross anatomy among life-forms. Each partifunct'
 
 **Physical Connections:**
 - **Skeletal:** Ball-and-socket joints, tendon attachments
-- **Vascular:** [[34c-Transfer-Organs|Capillary exchange organs]]
+- **Vascular:** [Capillary exchange organs](Circulatory%20Systems.md)
 - **Neural:** Nerve bundle crossings
 - **Muscle:** Tendons span partifunct boundaries
 
@@ -107,7 +107,7 @@ Shared organs, where the capillaries of two partifuncts infiltrate to within a s
 - Clean blood
 - Spread hormones
 
-These [[34c-Transfer-Organs|transfer organs]] enable metabolic coordination without genetic fusion.
+These [transfer organs](Circulatory%20Systems.md) enable metabolic coordination without genetic fusion.
 
 ---
 ## Tissue Architecture
@@ -115,9 +115,9 @@ These [[34c-Transfer-Organs|transfer organs]] enable metabolic coordination with
 ### BLU-Based Construction
 
 **Not Cellular:**
-- [[BLU Biology|Basic Life Units]] (100× larger than cells)
-- [[BLU Tissue|Fungal-like continuous tissue]]
-- [[GFP and Genodules|Genode clusters]] act as nuclei analogs
+- [Basic Life Units](BLU%20Biology.md) (100× larger than cells)
+- [Fungal-like continuous tissue](BLU%20Tissue.md)
+- [Genode clusters](GFP%20and%20Genodules.md) act as nuclei analogs
 - Cytoplasmic streaming between regions
 
 **Tissue Types:**
@@ -159,7 +159,7 @@ Some creatures have joints that are separate partifuncts from the limbs, giving 
 **Two Primary Types:**
 
 **Lignin-Based (75%):**
-- [[37a-Lignin-vs-Calcium-Bones|Lignin]] or similar proteins
+- [Lignin](Skeletal%20Systems.md) or similar proteins
 - Lighter than calcium
 - Flexible when thin
 - Very strong when thick
@@ -177,7 +177,7 @@ Some creatures have joints that are separate partifuncts from the limbs, giving 
 
 **Dominant Pattern:**
 - Hexapod or octapod walkers
-- [[3A-Hexagirdle-Octagirdle|Hexagirdle]] most common
+- [Hexagirdle](Hexagirdle%20Octagirdle.md) most common
 - Variable size (mouse to elephant analogs)
 - Grazers, browsers, predators
 
@@ -188,7 +188,7 @@ Some creatures have joints that are separate partifuncts from the limbs, giving 
 **Lighter Construction:**
 - Gas bladders (hydrogen/helium from atmosphere)
 - Thin bones, reduced mass
-- [[45-Flying-Forest|Flying Forest]] specialists
+- [Flying Forest](Flying%20Forest.md) specialists
 - Some use wings, others pure buoyancy
 
 ---
@@ -199,7 +199,7 @@ Some creatures have joints that are separate partifuncts from the limbs, giving 
 - Fins instead of legs
 - Gills or specialized lungs
 - Variable body plans
-- [[85-Aquatic|Marine diversity]] high
+- [Marine diversity](Ecology%20Overview.md) high
 
 ---
 
@@ -207,7 +207,7 @@ Some creatures have joints that are separate partifuncts from the limbs, giving 
 
 **Sessile or Mobile:**
 - Some rooted, some walk slowly
-- [[82d-Wandering-Tangletrunks|Wandering forms]] exist
+- [Wandering forms](Ecology%20Overview.md) exist
 - Photosynthetic organs
 - Variable structures
 
@@ -226,7 +226,7 @@ The physiology of the life forms on TPIV is constrained by the environment, and 
 
 **Different Implementations:**
 - Multiple genetic lineages in one body
-- [[Multi-Expression-Potential|Context-dependent expression]]
+- [Context-dependent expression](Multi%20Expression%20Potential.md)
 - No fixed species
 - Rapid evolutionary innovation
 
@@ -237,7 +237,7 @@ The physiology of the life forms on TPIV is constrained by the environment, and 
 ### No Plant vs Animal
 
 **Continuum:**
-- All life exists on [[41-Trophic-Roles-No-Plant-Animal|functional continuum]]
+- All life exists on [functional continuum](Trophic%20Roles%20No%20Plant%20Animal.md)
 - Same proteins used across all life (lignin, calcium, chitin)
 - Many organisms omnivorous
 - No clear kingdoms
@@ -257,23 +257,23 @@ The physiology of the life forms on TPIV is constrained by the environment, and 
 ## Navigation
 
 **Detailed Systems:**
-- [[33-Brain-Partifuncts]] - Nervous system modules
-- [[Circulatory-Systems]] - Blood and circulation
-- [[Respiratory-Systems]] - Breathing mechanisms
-- [[Digestive-Systems]] - Nutrient processing
-- [[Skeletal-Systems]] - Structural support
-- [[Sensory-Systems]] - Perception organs
-- [[3B-Womb-Partifunct-Systems]] - Reproduction
+- [Nervous Systems](Nervous%20Systems.md) - Nervous system modules
+- [Circulatory Systems](Circulatory%20Systems.md) - Blood and circulation
+- [Respiratory Systems](Respiratory%20Systems.md) - Breathing mechanisms
+- [Digestive Systems](Digestive%20Systems.md) - Nutrient processing
+- [Skeletal Systems](Skeletal%20Systems.md) - Structural support
+- [Sensory Systems](Sensory%20Systems.md) - Perception organs
+- [Womb Partifunct Systems](Womb%20Partifunct%20Systems.md) - Reproduction
 
 **Core Concepts:**
-- [[Biology Overview]] - Overall biological system
-- [[Composite-Organisms]] - How parts form wholes
-- [[Partifunct Core Definition]] - Building blocks
-- [[Taxa]] - Classification of body plans
+- [Biology Overview](Biology%20Overview.md) - Overall biological system
+- [Composite Organisms](Composite%20Organisms.md) - How parts form wholes
+- [Partifunct Core Definition](Partifunct%20Core%20Definition.md) - Building blocks
+- [Taxa](Taxa.md) - Classification of body plans
 
 **Related Dispatches:**
-- [[D005a-Dissection-Herd-Foragers]] - First anatomical analysis
-- [[D023-Comparative-Anatomy]] - Cross-taxon anatomy study
+- [B005 – Steppe Surface Life](Dispatches.md#b005) - First anatomical analysis
+- [B005 – Steppe Surface Life](Dispatches.md#b005) - Cross-taxon anatomy study
 
 ---
 

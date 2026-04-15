@@ -1,13 +1,13 @@
 ---
 tags: [biomes, tidal, lakes, magna, dynamic, moons]
 aliases: [Central Tidal Lakes, Tidal Lakes, Magna Lakes, Endorheic Basin]
-related: [[59-Biomes-Index]], [[14b-Magna]], [[13-Moons-and-Tides]], [[13d-Lunar-Interactions]], [[59e-Intertidal-Zones]]
+related: [Biomes of TPIV](Biomes%20of%20TPIV.md), [Continents](Continents.md), [Moons and Tides](Moons%20and%20Tides.md), [Lunar Interactions](Lunar%20Interactions.md), [Littoral Zones](Littoral%20Zones.md)
 status: complete
 ---
 
 # Central Tidal Lakes - Magna
 
-**Location:** Central depression of [[14b-Magna|Magna]] continent  
+**Location:** Central depression of [Magna](Continents.md) continent  
 **Type:** Tidally connected endorheic basins (internal drainage)  
 **Key Feature:** Extreme tidal ranges driven by dual moons  
 **Unique:** Bi-directional water flow, massive tidal mixing zones  
@@ -20,7 +20,7 @@ status: complete
 ### Seasonal Lake System
 
 **Geographic Setting:**
-[[14b-Magna|Magna]] contains a **central depression** that forms a **massive seasonal lake system** in the form of **tidally connected endorheic basins**.
+[Magna](Continents.md) contains a **central depression** that forms a **massive seasonal lake system** in the form of **tidally connected endorheic basins**.
 
 **Endorheic Basin:**
 - Internal drainage (no outlet to ocean)
@@ -29,7 +29,7 @@ status: complete
 - Seasonal variation in water level
 
 **Tidal Connection:**
-- [[Moons-and-Tides|Dual moons]] create tides despite being landlocked
+- [Dual moons](Moons%20and%20Tides.md) create tides despite being landlocked
 - Water sloshes back and forth within basin system
 - Extreme tidal ranges 
 
@@ -60,9 +60,9 @@ status: complete
 ### Bi-Directional Flow
 
 **Driving Force:**
-- [[13a-Tida-Primary-Moon|Tida]] (1.3 Earth moon masses, 24.6-day orbit)
-- [[13b-Lumna-Secondary-Moon|Lumna]] (0.5 Earth moon masses, 47-day orbit)
-- [[Lunar-Interactions|Compound tides]] when aligned
+- [Tida](Tida.md) (1.3 Earth moon masses, 24.6-day orbit)
+- [Lumna](Lumna.md) (0.5 Earth moon masses, 47-day orbit)
+- [Compound tides](Lunar%20Interactions.md) when aligned
 - Gravitational pull affects water even inland
 
 **Flow Pattern:**
@@ -77,7 +77,7 @@ The extreme tides make the water wash back and forth in the lake system, lots of
 **Cycle:**
 - Tida-driven: 24.6 days (primary cycle)
 - Lumna-influenced: 47 days (secondary modulation)
-- [[Lunar-Interactions|Compound effects]]: Complex, irregular patterns
+- [Compound effects](Lunar%20Interactions.md): Complex, irregular patterns
 - Predictable but not simple (organisms must adapt)
 
 ---
@@ -154,7 +154,7 @@ The extreme tides make the water wash back and forth in the lake system, lots of
 - High productivity (nutrient-rich)
 - Nursery habitat (many species spawn here)
 
-**[[59e-Intertidal-Zones|Tidal Flats]]:**
+**[Tidal Flats](Littoral%20Zones.md):**
 - Exposed/submerged with tidal cycle (daily/weekly)
 - Extreme conditions (heat, desiccation, salinity swings)
 - Specialized organisms only
@@ -187,15 +187,15 @@ The extreme tides make the water wash back and forth in the lake system, lots of
 **Why High Diversity:**
 - **Habitat heterogeneity:** Many microhabitats
 - **Dynamic conditions:** Favor adaptability
-- **[[59e-Intertidal-Zones|Tidal mixing]]:** Genetic exchange enhanced
+- **[Tidal mixing](Littoral%20Zones.md):** Genetic exchange enhanced
 - **Nutrient rich:** High productivity supports biomass
 - **Geographic position:** Central Magna (crossroads)
 
 **Endemic Species:**
 - Many species found only here
 - Adapted to unique tidal/seasonal regime
-- Rapid evolution ([[Environmental-GFP|eGFP]] exchange)
-- [[3B-Womb-Partifunct-Systems|Wombs]] respond to variable conditions
+- Rapid evolution ([eGFP](Environmental%20GFP.md) exchange)
+- [Wombs](Womb%20Partifunct%20Systems.md) respond to variable conditions
 
 ---
 
@@ -219,7 +219,7 @@ The extreme tides make the water wash back and forth in the lake system, lots of
 - Spawning timed to tides (larvae dispersed)
 - Feeding synchronized (exposed mudflats)
 - Migration timed to water flow (energy-efficient transport)
-- [[Lunar-Interactions|Lunar cues]] (reproductive timing)
+- [Lunar cues](Lunar%20Interactions.md) (reproductive timing)
 
 ---
 
@@ -247,7 +247,7 @@ The extreme tides make the water wash back and forth in the lake system, lots of
 **Unique:**
 - Some organisms withstand complete drying (cryptobiosis)
 - Others migrate underground (follow water table)
-- [[Combinant-Behaviors|Ribbonfish]] occasional visitors (filter-feed in high productivity zones)
+- [Ribbonfish](Combinant%20Behaviors.md) occasional visitors (filter-feed in high productivity zones)
 
 ---
 
@@ -267,10 +267,10 @@ The extreme tides make the water wash back and forth in the lake system, lots of
 - Large flocks (cooperative feeding)
 - Seasonal (follow productivity)
 
-**[[83-LBB-Little-Brown-Birds|LBB Feeders]]:**
+**[LBB Feeders](Ecology%20Overview.md):**
 - Small, diverse
 - Exploit many niches (insects, seeds, invertebrates)
-- High [[31-Taxa-and-Metrics-PSV-MDI|MDI]] (variable morphology)
+- High [MDI](Taxa%20and%20Metrics.md) (variable morphology)
 - Adapt rapidly to changing conditions
 
 ---
@@ -282,7 +282,7 @@ The extreme tides make the water wash back and forth in the lake system, lots of
 **Wet Season:**
 - Lush vegetation around lake margins
 - Grazers concentrate (rich feeding)
-- [[TPM-Zebra-Grazer|Zebra Grazers]], others migrate from steppe
+- [Zebra Grazers](TPM%20Example.md), others migrate from steppe
 - Predators follow (ambush at water)
 
 **Dry Season:**
@@ -300,7 +300,7 @@ The extreme tides make the water wash back and forth in the lake system, lots of
 **Primary Production:**
 - Aquatic autotrophs (algae-analogs, submerged vegetation)
 - Emergent vegetation (shallow margins)
-- [[Photosynthesis-and-Pigments|Photosynthesis]] high (nutrient availability)
+- [Photosynthesis](Photosynthesis%20and%20Pigments.md) high (nutrient availability)
 - Seasonal pulses (wet season maximum)
 
 **Trophic Web:**
@@ -327,14 +327,14 @@ The extreme tides make the water wash back and forth in the lake system, lots of
 - Tidal synchronization (timing selection)
 - Seasonal extremes (flexibility favored)
 
-**[[Environmental-GFP|eGFP]] Mixing:**
+**[eGFP](Environmental%20GFP.md) Mixing:**
 - Tidal flow mixes organisms (genetic exchange)
 - High population turnover (rapid evolution)
 - Novel combinations tested (harsh conditions = strong selection)
 - Successful adaptations spread quickly
 
 **Hypothesis:**
-[[59e-Intertidal-Zones|May have driven early modular evolution]] on TPIV—environments with changing conditions favor organisms that can easily reconfigure or exchange modular components.
+[May have driven early modular evolution](Littoral%20Zones.md) on TPIV—environments with changing conditions favor organisms that can easily reconfigure or exchange modular components.
 
 ---
 
@@ -343,9 +343,9 @@ The extreme tides make the water wash back and forth in the lake system, lots of
 ### Natural Laboratory
 
 **Study Opportunities:**
-- [[Natural-Selection-on-TPIV|Rapid evolution]] observable (short timescales)
-- [[3B-Womb-Partifunct-Systems|Womb plasticity]] extreme (seasonal offspring variation)
-- [[Taxa|Taxon boundaries]] very fuzzy (continuous variation)
+- [Rapid evolution](Natural%20Selection%20on%20TPIV.md) observable (short timescales)
+- [Womb plasticity](Womb%20Partifunct%20Systems.md) extreme (seasonal offspring variation)
+- [Taxon boundaries](Taxa.md) very fuzzy (continuous variation)
 - Adaptation mechanisms (physiological, behavioral, genetic)
 
 **Challenges:**
@@ -376,38 +376,38 @@ The extreme tides make the water wash back and forth in the lake system, lots of
 - **Tidal influence:** Unique (Earth inland lakes no tides)
 - **Dual moons:** Complex tidal patterns
 - **Bi-directional flow:** Extreme (kilometers of shoreline migration)
-- **[[59e-Intertidal-Zones|Evolutionary pressure]]:** Intense (daily + seasonal variation)
+- **[Evolutionary pressure](Littoral%20Zones.md):** Intense (daily + seasonal variation)
 
 ---
 
 ## Navigation
 
 **Biome Context:**
-- [[59-Biomes-Index]] - All biomes overview
-- [[14b-Magna]] - Continental location
-- [[Ecology-Overview]] - Ecological foundation
-- [[59e-Intertidal-Zones]] - Related tidal habitat
+- [Biomes of TPIV](Biomes%20of%20TPIV.md) - All biomes overview
+- [Continents](Continents.md) - Continental location
+- [Ecology Overview](Ecology%20Overview.md) - Ecological foundation
+- [Littoral Zones](Littoral%20Zones.md) - Related tidal habitat
 
 **Lunar Influence:**
-- [[Moons-and-Tides]] - Tidal mechanics
-- [[13a-Tida-Primary-Moon]] - Primary tidal driver
-- [[13b-Lumna-Secondary-Moon]] - Secondary influence
-- [[Lunar-Interactions]] - Compound tides
+- [Moons and Tides](Moons%20and%20Tides.md) - Tidal mechanics
+- [Tida](Tida.md) - Primary tidal driver
+- [Lumna](Lumna.md) - Secondary influence
+- [Lunar Interactions](Lunar%20Interactions.md) - Compound tides
 
 **Adaptations:**
-- [[3B-Womb-Partifunct-Systems]] - Variable offspring assembly
-- [[Environmental-GFP]] - Genetic mixing
-- [[Natural-Selection-on-TPIV]] - Rapid evolution
+- [Womb Partifunct Systems](Womb%20Partifunct%20Systems.md) - Variable offspring assembly
+- [Environmental GFP](Environmental%20GFP.md) - Genetic mixing
+- [Natural Selection on TPIV](Natural%20Selection%20on%20TPIV.md) - Rapid evolution
 
 **Related Biomes:**
-- [[Magna-Steppe]] - Adjacent terrestrial ecosystem
-- [[59e-Intertidal-Zones]] - Similar tidal dynamics (coastal)
+- [Magna Steppe](Magna%20Steppe.md) - Adjacent terrestrial ecosystem
+- [Littoral Zones](Littoral%20Zones.md) - Similar tidal dynamics (coastal)
 
 **Related Dispatches:**
-- [[D093-Central-Lakes-Survey]] - Initial exploration
-- [[D094-Tidal-Pattern-Analysis]] - Flow dynamics
-- [[D095-Salinity-Gradient-Study]] - Chemical variation
-- [[D096-Seasonal-Biodiversity-Census]] - Species tracking
+- [B002 – TPIV Planetary Overview](Dispatches.md#b002) - Initial exploration
+- [B001 – Theta Persei System](Dispatches.md#b001) - Flow dynamics
+- [B001 – Theta Persei System](Dispatches.md#b001) - Chemical variation
+- [B002 – TPIV Planetary Overview](Dispatches.md#b002) - Species tracking
 
 ---
 

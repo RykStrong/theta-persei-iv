@@ -8,7 +8,7 @@ status:
 ---
 
 
-see [[Taxa and Metrics]]
+see [Taxa and Metrics](Taxa%20and%20Metrics.md)
 
 ## **Cladistics on Theta Persei IV: Challenges and Methodological Approaches**
 

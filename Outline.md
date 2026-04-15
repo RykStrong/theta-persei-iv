@@ -1,235 +1,235 @@
-- # [[TVIP Index]]
-- ## [[Reading Order ]]
-- ## [[Concept Map ]]
-- ## [[Quick Reference Card]]
+- # [Index](Index.md)
+- ## [Reading Order](Reading%20Order.md)
+- ## [Concept Map](Concept%20Map.md)
+- ## [Quick Reference Card](Quick%20Reference%20Card.md)
 # WORLD
-- ## [[Planet Overview ]]
-- ## [[Stellar System Theta Persei ]]
-- ## [[Atmosphere ]]
+- ## [Planet Overview](Planet%20Overview.md)
+- ## [Stellar System Theta Persei](Stellar%20System%20Theta%20Persei.md)
+- ## [Atmosphere](Atmosphere.md)
 # TPIV Moons
-- ## [[Moons and Tides ]]
-- ### [[Tida]]
-- ### [[Lumna]]
-- ### [[Radita]]
-## [[Continents ]]
-- ### [[Magna ]]
-- ### [[Dualis ]]
-- ### [[Piedmont ]]
-- ### [[Apanon ]]
-- ### [[Kolofluke ]]
-## [[Oceans ]]
-- ### [[PanTheta Ocean ]]
-- ### [[Long Ocean ]]
-- ### [[Dualis Ocean ]]
-- ### [[Apaono Ocean]]
-- ### [[Pamagna Ocean ]]
-- ### [[Arctic Ocean ]]
-- ### [[Antarctic Ocean ]]
-## [[Geologic History ]]
-- ## [[Plate Tectonics ]]
-- ## [[Mass Extinction Events]]
-- ## [[Volcanism ]]
-- ## [[Impact History]]
+- ## [Moons and Tides](Moons%20and%20Tides.md)
+- ### [Tida](Tida.md)
+- ### [Lumna](Lumna.md)
+- ### [Radita](Radita.md)
+## [Continents](Continents.md)
+- ### [Continents](Continents.md)
+- ### [Continents](Continents.md)
+- ### [Continents](Continents.md)
+- ### [Continents](Continents.md)
+- ### [Continents](Continents.md)
+## [Continents](Continents.md)
+- ### [Continents](Continents.md)
+- ### [Continents](Continents.md)
+- ### [Continents](Continents.md)
+- ### [Continents](Continents.md)
+- ### [Continents](Continents.md)
+- ### [Continents](Continents.md)
+- ### [Continents](Continents.md)
+## [Stellar System Theta Persei](Stellar%20System%20Theta%20Persei.md)
+- ## [Stellar System Theta Persei](Stellar%20System%20Theta%20Persei.md)
+- ## [Stellar System Theta Persei](Stellar%20System%20Theta%20Persei.md)
+- ## [Stellar System Theta Persei](Stellar%20System%20Theta%20Persei.md)
+- ## [Stellar System Theta Persei](Stellar%20System%20Theta%20Persei.md)
 # BIOLOGY CORE
-- ## [[Biology Overview]]
-- ### [[BLUs Basic Life Units ]]
-- ### [[GFP and Genodules]]
-- ### [[GFP Structure ]]
-- ### [[Environmental GFP ]]
-- ### [[MGFP Transcription Pathway ]]
-- ## [[Partifuncts Core Definition ]]
-- ### [[Partifunct vs Organ vs Zooid ]]
-- ### [[Multi Expression Potential ]]
-- ### [[Composite Organisms ]]
-- ### [[Integration Mechanisms ]]
-- ### [[Non Homogeneity ]]
-- ## [[Reproduction Assembly Conception ]]
-- ### [[Womb Enabled Reproduction ]]
-- ### [[Non Womb Reproduction ]]
-- ### [[GFP Carriers and Vectors ]]
-- ### [[Reproductive Strategies ]]
-- ## [[Natural Selection on TPIV ]]
-- ## [[Cladistics on TPIV ]]
-- ### [[Taxa]]
-- ### [[Partifunct Set Variance]]
-- ### [[Morphological Divergence Index]]
-- ## [[Non Homochirality ]]
-- ## [[Death and Decomposition]]
+- ## [Biology Overview](Biology%20Overview.md)
+- ### [BLU Biology](BLU%20Biology.md)
+- ### [GFP and Genodules](GFP%20and%20Genodules.md)
+- ### [GFP Structure](GFP%20Structure.md)
+- ### [Environmental GFP](Environmental%20GFP.md)
+- ### [MGFP Transcription Pathway](MGFP%20Transcription%20Pathway.md)
+- ## [Partifunct Core Definition](Partifunct%20Core%20Definition.md)
+- ### [Partifunct vs Organ vs Zooid](Partifunct%20vs%20Organ%20vs%20Zooid.md)
+- ### [Multi Expression Potential](Multi%20Expression%20Potential.md)
+- ### [Composite Organisms](Composite%20Organisms.md)
+- ### [Composite Organisms](Composite%20Organisms.md)
+- ### [Composite Organisms](Composite%20Organisms.md)
+- ## [Reproduction Assembly Conception](Reproduction%20Assembly%20Conception.md)
+- ### [Womb Enabled Reproduction](Womb%20Enabled%20Reproduction.md)
+- ### [Non Womb Reproduction](Non%20Womb%20Reproduction.md)
+- ### [GFP Carriers and Vectors](GFP%20Carriers%20and%20Vectors.md)
+- ### [Reproductive Strategies](Reproductive%20Strategies.md)
+- ## [Natural Selection on TPIV](Natural%20Selection%20on%20TPIV.md)
+- ## [Cladistics On TPIV](Cladistics%20On%20TPIV.md)
+- ### [Taxa](Taxa.md)
+- ### [Partifunct Set Variance](Partifunct%20Set%20Variance.md)
+- ### [Morphological Diversity Index](Morphological%20Diversity%20Index.md)
+- ## [Non Homochirality](Non%20Homochirality.md)
+- ## [Death-and-Decomposition](Death-and-Decomposition.md)
 # COMPOSITE ORGANISM ANATOMY
-- ## [[ANATOMY Overview / Higher Life Recap]]
-- ## [[Taxa and Metrics PSV MDI ]]
-- ## [[TPM Template ]]
-- ## [[Nervous Systems]]
-- ### [[Motor Control ]]
-- ### [[Memory Learning ]]
-- ### [[Social Interaction ]]
-- ### [[Strategic Planning ]]
-- ### [[Sensory Integration ]]
-- ### [[Navigation Spatial ]]
-- ### [[Threat Recognition ]]
-- ## [[Circulatory Systems ]]
-- ### [[Multiple System Architecture ]]
-- ### [[Hearts and Reservoirs]]
-- ### [[Transfer Organs ]]
-- ## [[Respiratory Systems ]]
-- ### [[Spiracles and Lungs ]]
-- ### [[Compartmentalized Air ]]
-- ## [[Digestive Systems ]]
-- ## [[Skeletal Systems ]]
-- ### [[Lignin vs Calcium Bones ]]
-- ### [[Joint Architecture ]]
-- ### [[Hexagirdle Octagirdle ]]
-- ## [[Sensory Systems ]]
-- ## [[Womb Partifunct Systems ]]
+- ## [Anatomy Overview](Anatomy%20Overview.md)
+- ## [Taxa and Metrics](Taxa%20and%20Metrics.md)
+- ## [TPM Definition](TPM%20Definition.md)
+- ## [Nervous Systems](Nervous%20Systems.md)
+- ### [Nervous Systems](Nervous%20Systems.md)
+- ### [Nervous Systems](Nervous%20Systems.md)
+- ### [Behavior](Behavior.md)
+- ### [Nervous Systems](Nervous%20Systems.md)
+- ### [Nervous Systems](Nervous%20Systems.md)
+- ### [Nervous Systems](Nervous%20Systems.md)
+- ### [Nervous Systems](Nervous%20Systems.md)
+- ## [Circulatory Systems](Circulatory%20Systems.md)
+- ### [Circulatory Systems](Circulatory%20Systems.md)
+- ### [Circulatory Systems](Circulatory%20Systems.md)
+- ### [Circulatory Systems](Circulatory%20Systems.md)
+- ## [Respiratory Systems](Respiratory%20Systems.md)
+- ### [Respiratory Systems](Respiratory%20Systems.md)
+- ### [Respiratory Systems](Respiratory%20Systems.md)
+- ## [Digestive Systems](Digestive%20Systems.md)
+- ## [Skeletal Systems](Skeletal%20Systems.md)
+- ### [Skeletal Systems](Skeletal%20Systems.md)
+- ### [Skeletal Systems](Skeletal%20Systems.md)
+- ### [Hexagirdle Octagirdle](Hexagirdle%20Octagirdle.md)
+- ## [Sensory Systems](Sensory%20Systems.md)
+- ## [Womb Partifunct Systems](Womb%20Partifunct%20Systems.md)
 # DISTRIBUTED AND COMBINANT LIFE
-- ## [[Distributed Organisms Overview ]]
-- ### [[DO vs SB vs JB Comparison ]]
-- ### [[Partifvant Definition ]]
-- ### [[CEP and Do-Mites]]
-- ### [[CEP Structure and Function ]]
-- ### [[Do-Mite Behaviors ]]
-- ### [[Swarm Envelopes and Corridors ]]
-- ### [[Airspace Conflicts ]]
-- ### [[Example DOs]]
-- ### [[DO ScrubDeer Browser ]]
+- ## [Distributed Organisms Overview](Distributed%20Organisms%20Overview.md)
+- ### [DO vs SB vs JB Comparison](DO%20vs%20SB%20vs%20JB%20Comparison.md)
+- ### [Partivant Definition](Partivant%20Definition.md)
+- ### [CEP and Do-Mites](CEP%20and%20Do-Mites.md)
+- ### [CEP and Do-Mites](CEP%20and%20Do-Mites.md)
+- ### [DO-Mites](DO-Mites.md)
+- ### [CEP and Do-Mites](CEP%20and%20Do-Mites.md)
+- ### [DO-Mite conflict](DO-Mite%20conflict.md)
+- ### [Distributed Organisms Overview](Distributed%20Organisms%20Overview.md)
+- ### [DO ScrubDeer Browser](DO%20ScrubDeer%20Browser.md)
 DO ScrubDeer'
-- ### [[DO HillWolf PackHunter ]]
+- ### [DO HillWolf PackHunter](DO%20HillWolf%20PackHunter.md)
 DO HillWolf PackHunter
-- ### [[rDO DuskMantle Stalker]]
-- ## [[Combinant Behaviors ]]
-- ### [[Stringbirds ]]
-- ### [[Ribbonfish ]]
-- ## [[Separated Behaviors and Exovants ]]
-- ### [[Throwjaw ]]
-- ### [[Tossclaw ]]
-- ### [[Drophunter Blimp ]]
-- ## [[Comparative Essay, Drophunter vs DO Dropshark Blimps]]
-- ## [[rDO Organisms]]
+- ### [rDO Duskmantle Stalker](rDO%20Duskmantle%20Stalker.md)
+- ## [Combinant Behaviors](Combinant%20Behaviors.md)
+- ### [Stringbirds](Stringbirds.md)
+- ### [Ribbonfish](Ribbonfish.md)
+- ## [Separated Behaviors and Exovants](Separated%20Behaviors%20and%20Exovants.md)
+- ### [Separated Behaviors and Exovants](Separated%20Behaviors%20and%20Exovants.md)
+- ### [Separated Behaviors and Exovants](Separated%20Behaviors%20and%20Exovants.md)
+- ### [Separated Behaviors and Exovants](Separated%20Behaviors%20and%20Exovants.md)
+- ## [Comparative Essay Drophunter vs DO Dropshark Blimps](Comparative%20Essay%20Drophunter%20vs%20DO%20Dropshark%20Blimps.md)
+- ## [rDO Organisms](rDO%20Organisms.md)
 # ECOLOGY AND BIOMES
-- ## [[Ecology Overview ]]
-- ## [[Trophic Roles No Plant Animal ]]
-- ## [[Convergent Evolution ]]
-- ## [[Photosynthesis and Pigments ]]
-- ## [[Biomes Index]]
-- ### [[Magna Steppe ]]
-- ### [[Flying Forest ]]
-- #### [[Gas Management Strategies ]]
-- #### [[Cloud Forest Interaction ]]
-- ### [[Dark Forest Kolofluke ]]
-- ### [[Central Tidal Lakes Magna ]]
-- ### [[Intertidal Zones ]]
+- ## [Ecology Overview](Ecology%20Overview.md)
+- ## [Trophic Roles No Plant Animal](Trophic%20Roles%20No%20Plant%20Animal.md)
+- ## [Convergent Evolution](Convergent%20Evolution.md)
+- ## [Photosynthesis and Pigments](Photosynthesis%20and%20Pigments.md)
+- ## [Biomes of TPIV](Biomes%20of%20TPIV.md)
+- ### [Magna Steppe](Magna%20Steppe.md)
+- ### [Flying Forest](Flying%20Forest.md)
+- #### [Flying Forest](Flying%20Forest.md)
+- #### [Flying Forest](Flying%20Forest.md)
+- ### [Dark Forest Kolofluke](Dark%20Forest%20Kolofluke.md)
+- ### [Central Tidal Lakes Magna](Central%20Tidal%20Lakes%20Magna.md)
+- ### [Littoral Zones](Littoral%20Zones.md)
 # MICROBIOSPHERE AND PATHOLOGIES
-- ## [[Microbiosphere Overview]]
-- ## [[S BLU and F BLU Types ]]
-- ### [[Sun Motes Photosynthetic ]]
-- ### [[Slushbugs Saprotrophic ]]
-- ### [[Aerogel Floaters ]]
-- ### [[Adherent Plaques ]]
-- ### [[Ejector Spores ]]
-- ### [[Lashbiters Predatory ]]
-- ### [[Cystforming Survivors ]]
-- ### [[Wigglehives Mobile Aggregates ]]
-- ### [[Microbial Ecological Zones ]]
-- ### [[Maladapted Partifuncts ]]
-- ### [[Reproductive Parasites ]]
-- ### [[Metabolic Leeches ]]
-- ### [[Control Saboteurs ]]
-- ### [[Selfish Genetic Replicators ]]
-- ## [[GFP Viruses ]]
-- ## [[Immune and Filtering Mechanisms]]
+- ## [Microbiosphere Overview](Microbiosphere%20Overview.md)
+- ## [Microforms](Microforms.md)
+- ### [Microforms](Microforms.md)
+- ### [Microforms](Microforms.md)
+- ### [Microforms](Microforms.md)
+- ### [Microforms](Microforms.md)
+- ### [Microforms](Microforms.md)
+- ### [Microforms](Microforms.md)
+- ### [Microforms](Microforms.md)
+- ### [Microforms](Microforms.md)
+- ### [Microbiosphere](Microbiosphere.md)
+- ### [Reproductive Strategies](Reproductive%20Strategies.md)
+- ### [Reproductive Strategies](Reproductive%20Strategies.md)
+- ### [Reproductive Strategies](Reproductive%20Strategies.md)
+- ### [Reproductive Strategies](Reproductive%20Strategies.md)
+- ### [Selfish Gene TPIV style](Selfish%20Gene%20TPIV%20style.md)
+- ## [Reproductive Strategies](Reproductive%20Strategies.md)
+- ## [Reproductive Strategies](Reproductive%20Strategies.md)
 # BEHAVIOR AND COGNITION
-- ## [[Behavior Overview ]]
-- ## [[Familiar Earth Like Behaviors ]]
-- ## [[Unique TPIV Behaviors ]]
-- ### [[Partifunct Trading Rituals ]]
-- ### [[Temporary Fusion ]]
-- ### [[Cyclical Morphing ]]
-- ### [[Environmental Cultivation ]]
-- ### [[Metabolic Synchronization ]]
-## [[Tool Using Life ]]
-- ### [[Partifunct Engineering ]]
-- ## [[Social Structures and Fitness ]]
-- ### [[Herd Dynamics ]]
-- ### [[Pack Behavior ]]
-- ### [[Recognition Systems ]]
-- ### [[Cultural Fitness Amplifiers ]]
-- ## [[Distributed Cognition]]
+- ## [Behavior](Behavior.md)
+- ## [Behavior](Behavior.md)
+- ## [Behavior](Behavior.md)
+- ### [Behavior](Behavior.md)
+- ### [Combinant Behaviors](Combinant%20Behaviors.md)
+- ### [Behavior](Behavior.md)
+- ### [Behavior](Behavior.md)
+- ### [Behavior](Behavior.md)
+## [Behavior](Behavior.md)
+- ### [Partifunct Domain & Function Table](Partifunct%20Domain%20&%20Function%20Table.md)
+- ## [Behavior](Behavior.md)
+- ### [Ecology Overview](Ecology%20Overview.md)
+- ### [Behavior](Behavior.md)
+- ### [Sensory Systems](Sensory%20Systems.md)
+- ### [Behavior](Behavior.md)
+- ## [Distributed Organisms Overview](Distributed%20Organisms%20Overview.md)
 # Microforms
-- ## [[Microforms]]
+- ## [Microforms](Microforms.md)
 # REFERENCE
-- ## [[Glossary ]]
-- ## [[Abbreviations and Codes ]]
-- ###    [[Partifunct Codes ]]
-- ###    [[Taxon Codes ]]
-- ###    [[Functional Codes ]]
-- ###    [[TPM Codes ]]
-- ## [[Functional Classification System ]]
-- ###    [[Naming Conventions ]]
-- ###    [[Common Names ]]
-- ## [[PRXEMA and Field Docs ]]
-- ###    [[Mission Overview ]]
-- ###    [[Personnel ]]
-- ###    [[Camp Aurora ]]
-- ###    [[Dispatch System ]]
-- ## [[Comparison Tables ]]
-- ###    [[Biology Comparison ]]
-- ###    [[Evolution Comparison ]]
-- ###    [[Reproduction Comparison ]]
-- ## [[Taxa Database]]
-- ## [[Taxa Index ]]
-- ## [[Autotrophs ]]
-- ####    [[Stalk Trees ]]
-- ####    [[Clam Grasses ]]
-- ####    [[Brownflower Shrubs ]]
-- ####    [[Wandering Tangletrunks ]]
-- ####    [[Frostblooms ]]
-- ### [[Herbivores ]]
-- ####    [[Zebra Grazer ]]
-- ####    [[Crimson Striders ]]
-- ####    [[Pale Sprint Grazer ]]
-- ####    [[Winterflies ]]
-- ### [[Carnivores ]]
-- ####    [[??? Stalker ]]
-- ####    [[Banded Pack Hunter ]]
-- ####    [[Pluckerstorks ]]
-- ### [[Aerial ]]
-- ####    [[Drophunter Blimps ]]
-- ####    [[Little Brown Bird Feeders ]]
-- ####    [[Stringbirds ]]
-- ####    [[Fishbirds ]]
-- ### [[Aquatic ]]
-- ####    [[Ribbonfish ]]
-- ### [[Distributed Organisms ]]
-- ####    [[DO Dropshark Blimps ]]
-- ####    [[DO ScrubDeer Browser ]]
-- ####    [[DO HillWolf PackHunter ]]
-- ####    [[DO Horse Grazer ]]
-- ####    [[DO Weaver Grass]]
-- ## [[Microforms (Insects)]]
-- ## [[Open Questions]]
-- ## [[Partifunct Database]]
-# [[DISPATCHES]]
-- ## D001. [[System Enumeration ]]
-- ## D002. [[Planetary Overview ]]
-- ## D003. [[Chromatic Anomaly ]]
-- ## D004. [[Initial Drone Descent ]]
-- ## D004c. [[Aerial Sample Analysis ]]
-- ## D005. [[Steppe Surface Life ]]
-- ## D005a. [[Dissection Herd Foragers ]]
-- ## D006. [[Biochemical Architecture ]]
-- ## D007. [[Modular Assembly ]]
-- ## D007a. [[Partifunct Classifications ]]
-- ## D007x. [[Modular Genetics ]]
-- ## D008. [[Composite Organism Reproduction ]]
-- ## D009. [[Non Womb Reproduction ]]
-- ## D010. [[GFP Carrier Ecology ]]
-- ## D011. [[Death Response ]]
-- ## D012. [[Composite Life Cycles ]]
-- ## D013. [[Womb vs Non Womb ]]
-- ## D014. [[TPM and Taxonomy ]]
-- ## D015a. [[Separated Behaviors ]]
-- ## D015b. [[Joined Behaviors ]]
-- ## D016. [[Distributed Organisms ]]
-- ## D017a. [[CEP and Do-Mites]]
-- ## D017b. [[Do Mite Behavioral Typology]]
+- ## [Glossary](Glossary.md)
+- ## [Glossary](Glossary.md)
+- ###    [Partifunct Domain Codes](Partifunct%20Domain%20Codes.md)
+- ###    [Taxa and Metrics](Taxa%20and%20Metrics.md)
+- ###    [Partifunct Domain Codes](Partifunct%20Domain%20Codes.md)
+- ###    [Partifunct Domain Codes](Partifunct%20Domain%20Codes.md)
+- ## [Taxa and Metrics](Taxa%20and%20Metrics.md)
+- ###    [Taxa and Metrics](Taxa%20and%20Metrics.md)
+- ###    [Common Names](Glossary.md)
+- ## [PRXEMA](PRXEMA.md)
+- ###    [PRXEMA](PRXEMA.md)
+- ###    [PRXEMA](PRXEMA.md)
+- ###    [PRXEMA](PRXEMA.md)
+- ###    [Reading Order](Reading%20Order.md)
+- ## [Quick Reference Card](Quick%20Reference%20Card.md)
+- ###    [Biology Overview](Biology%20Overview.md)
+- ###    [Natural Selection on TPIV](Natural%20Selection%20on%20TPIV.md)
+- ###    [Reproduction Assembly Conception](Reproduction%20Assembly%20Conception.md)
+- ## [TPIV Taxa](TPIV%20Taxa.md)
+- ## [TPIV Taxa](TPIV%20Taxa.md)
+- ## [Trophic Roles No Plant Animal](Trophic%20Roles%20No%20Plant%20Animal.md)
+- ####    [Ecology Overview](Ecology%20Overview.md)
+- ####    [Ecology Overview](Ecology%20Overview.md)
+- ####    [Ecology Overview](Ecology%20Overview.md)
+- ####    [Ecology Overview](Ecology%20Overview.md)
+- ####    [Ecology Overview](Ecology%20Overview.md)
+- ### [Ecology Overview](Ecology%20Overview.md)
+- ####    [MagnaGrazerGuild](MagnaGrazerGuild.md)
+- ####    [Ecology Overview](Ecology%20Overview.md)
+- ####    [MagnaGrazerGuild](MagnaGrazerGuild.md)
+- ####    [Ecology Overview](Ecology%20Overview.md)
+- ### [Ecology Overview](Ecology%20Overview.md)
+- ####    [rDO Duskmantle Stalker](rDO%20Duskmantle%20Stalker.md)
+- ####    [Ecology Overview](Ecology%20Overview.md)
+- ####    [Ecology Overview](Ecology%20Overview.md)
+- ### [Ecology Overview](Ecology%20Overview.md)
+- ####    [Separated Behaviors and Exovants](Separated%20Behaviors%20and%20Exovants.md)
+- ####    [Ecology Overview](Ecology%20Overview.md)
+- ####    [Stringbirds](Stringbirds.md)
+- ####    [Ecology Overview](Ecology%20Overview.md)
+- ### [Ecology Overview](Ecology%20Overview.md)
+- ####    [Ribbonfish](Ribbonfish.md)
+- ### [Distributed Organisms Overview](Distributed%20Organisms%20Overview.md)
+- ####    [Comparative Essay Drophunter vs DO Dropshark Blimps](Comparative%20Essay%20Drophunter%20vs%20DO%20Dropshark%20Blimps.md)
+- ####    [DO ScrubDeer Browser](DO%20ScrubDeer%20Browser.md)
+- ####    [DO HillWolf PackHunter](DO%20HillWolf%20PackHunter.md)
+- ####    [Distributed Organisms Overview](Distributed%20Organisms%20Overview.md)
+- ####    [Distributed Organisms Overview](Distributed%20Organisms%20Overview.md)
+- ## [Microforms](Microforms.md)
+- ## [Quick Reference Card](Quick%20Reference%20Card.md)
+- ## [Partifunct Domain & Function Table](Partifunct%20Domain%20&%20Function%20Table.md)
+# [Reading Order](Reading%20Order.md)
+- ## D001. [Stellar System Theta Persei](Stellar%20System%20Theta%20Persei.md)
+- ## D002. [Planet Overview](Planet%20Overview.md)
+- ## D003. [Photosynthesis and Pigments](Photosynthesis%20and%20Pigments.md)
+- ## D004. [Ecology Overview](Ecology%20Overview.md)
+- ## D004c. [GFP Carriers and Vectors](GFP%20Carriers%20and%20Vectors.md)
+- ## D005. [Magna Steppe](Magna%20Steppe.md)
+- ## D005a. [Anatomy Overview](Anatomy%20Overview.md)
+- ## D006. [GFP and Genodules](GFP%20and%20Genodules.md)
+- ## D007. [Composite Organisms](Composite%20Organisms.md)
+- ## D007a. [Taxa and Metrics](Taxa%20and%20Metrics.md)
+- ## D007x. [GFP and Genodules](GFP%20and%20Genodules.md)
+- ## D008. [Reproduction Assembly Conception](Reproduction%20Assembly%20Conception.md)
+- ## D009. [Non Womb Reproduction](Non%20Womb%20Reproduction.md)
+- ## D010. [GFP Carriers and Vectors](GFP%20Carriers%20and%20Vectors.md)
+- ## D011. [Death-and-Decomposition](Death-and-Decomposition.md)
+- ## D012. [Reproduction Assembly Conception](Reproduction%20Assembly%20Conception.md)
+- ## D013. [Reproduction Assembly Conception](Reproduction%20Assembly%20Conception.md)
+- ## D014. [TPM Definition](TPM%20Definition.md)
+- ## D015a. [Separated Behaviors and Exovants](Separated%20Behaviors%20and%20Exovants.md)
+- ## D015b. [Combinant Behaviors](Combinant%20Behaviors.md)
+- ## D016. [Distributed Organisms Overview](Distributed%20Organisms%20Overview.md)
+- ## D017a. [CEP and Do-Mites](CEP%20and%20Do-Mites.md)
+- ## D017b. [DO-Mites](DO-Mites.md)
 

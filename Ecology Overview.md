@@ -2,7 +2,7 @@
 ---
 tags: [ecology, overview, ecosystem, trophic-roles, biomes]
 aliases: [Ecology Overview, Ecosystem Overview, TPIV Ecology]
-related: [[51-Trophic-Roles-No-Plant-Animal]], [[52-Convergent-Evolution]], [[59-Biomes-Index]]
+related: [Trophic Roles No Plant Animal](Trophic%20Roles%20No%20Plant%20Animal.md), [Convergent Evolution](Convergent%20Evolution.md), [Biomes of TPIV](Biomes%20of%20TPIV.md)
 status: complete
 ---
 
@@ -11,7 +11,7 @@ status: complete
 **Key Principle:** Earth-like constraints produce familiar patterns  
 **Critical Difference:** No plant/animal divide, modular organisms create unique dynamics  
 **Result:** Recognizable ecosystems with alien implementations  
-**Foundation:** [[Biology Overview|Modular biology]] shapes all ecological relationships
+**Foundation:** [Modular biology](Biology%20Overview.md) shapes all ecological relationships
 
 ---
 
@@ -22,12 +22,13 @@ status: complete
 **Environmental Similarity:**
 The gross physiology of the life forms on TPIV is constrained by the environment, and the earth-like environment has produced very many life forms that bear gross similarity to forms on earth, both in appearance and behavior.
 
-**[[Convergent-Evolution|Convergent Evolution]]:**
+**[Convergent Evolution](Convergent%20Evolution.md):**
 - Similar niches produce similar solutions
 - Grazers resemble ungulates
 - Predators resemble carnivores
 - Flyers resemble birds/bats
-- **But:** Achieved through [[Partifunct Core Definition|modular architecture]]
+- **But:** Achieved through [modular architecture](Partifunct%20Core%20Definition.md)
+- [Composite Organism Behavior](Behavior.md)
 
 **Why Similar:**
 - 0.91g gravity (comparable to Earth)
@@ -36,17 +37,18 @@ The gross physiology of the life forms on TPIV is constrained by the environment
 - Temperature ranges Earth-like
 - Day/night cycles similar
 
+
 ---
 
 ## No Plant vs Animal Distinction
 
-### [[Trophic-Roles-No-Plant-Animal|Functional Continuum]]
+### [Functional Continuum](Trophic%20Roles%20No%20Plant%20Animal.md)
 
 **Critical Difference:**
 While composite organisms fill the roles of autotroph, carnivore, symbiote, parasite, etc., **no true plant vs. animal distinction is possible**; the concept of different kingdoms and phyla, even our idea of a "species" does not generally apply.
 
 **Why No Kingdoms:**
-- [[Non-Homochirality|Same chemical basis]] across all life
+- [Same chemical basis](Non%20Homochirality.md) across all life
 - Lignin and calcium used by both "plants" and "animals"
 - Chitin in plant bodies and insect bodies
 - No huge protein difference between trophic levels
@@ -61,9 +63,9 @@ While composite organisms fill the roles of autotroph, carnivore, symbiote, para
 ### Functional Categories
 
 **Energy Source:**
-- **Autotrophs:** [[8E-Autotrophy|Photosynthesis, chemosynthesis, nitrogen-fixing]]
+- **Autotrophs:** [Photosynthesis, chemosynthesis, nitrogen-fixing](Trophic%20Roles%20No%20Plant%20Animal.md)
   - "Plant-like" sessile or mobile organisms
-  - Some walk slowly ([[82d-Wandering-Tangletrunks|Wandering Tangletrunks]])
+  - Some walk slowly ([Wandering Tangletrunks](Ecology%20Overview.md))
   - Provide base biomass
 
 - **Heterotrophs:** Consume other organisms
@@ -73,7 +75,7 @@ While composite organisms fill the roles of autotroph, carnivore, symbiote, para
   - Scavengers (consume dead tissue)
   - Parasites (exploit living hosts)
 
-**[[41-Trophic-Roles-No-Plant-Animal|No Clear Divide]]:**
+**[No Clear Divide](Trophic%20Roles%20No%20Plant%20Animal.md):**
 - Many organisms switch roles seasonally
 - Facultative photosynthesis common
 - Carnivorous "plants" exist
@@ -86,24 +88,24 @@ While composite organisms fill the roles of autotroph, carnivore, symbiote, para
 ### Standard Pyramid
 
 **Primary Producers:**
-- Autotrophic [[Composite-Organisms|composite organisms]]
+- Autotrophic [composite organisms](Composite%20Organisms.md)
 - "Grasses," "trees," "shrubs"
 - Photosynthetic efficiency similar to Earth (~1-3%)
-- [[Photosynthesis-and-Pigments|Multiple pigment strategies]]
+- [Multiple pigment strategies](Photosynthesis%20and%20Pigments.md)
 
 **Primary Consumers:**
-- Grazers ([[TPM-Zebra-Grazer|Zebra Grazer]], [[DO-ScrubDeer-Browser|DO-ScrubDeer]])
+- Grazers ([Zebra Grazer](TPM%20Example.md), [DO-ScrubDeer](DO%20ScrubDeer%20Browser.md))
 - Browsers (selective feeders)
-- Filter feeders ([[Ribbonfish|Ribbonfish]])
+- Filter feeders ([Ribbonfish](Ribbonfish.md))
 - Seed/fruit eaters
 
 **Secondary Consumers:**
-- Predators ([[42b-DO-HillWolf-Hunter|DO-HillWolf]], [[42c-rDO-Duskmantle-Hunter|rDO-Duskmantle]])
-- Insectivores ([[Stringbirds|Stringbirds]])
+- Predators ([DO-HillWolf](DO%20HillWolf%20PackHunter.md), [rDO-Duskmantle](rDO%20Duskmantle%20Stalker.md))
+- Insectivores ([Stringbirds](Stringbirds.md))
 - Piscivores (fish-eaters)
 
 **Decomposers:**
-- [[60-Microbiosphere-Overview|Microbial organisms]] (S-BLU, F-BLU)
+- [Microbial organisms](Microbiosphere%20Overview.md) (S-BLU, F-BLU)
 - Saprotrophic composites
 - Scavengers
 - Rapid nutrient cycling
@@ -115,7 +117,7 @@ While composite organisms fill the roles of autotroph, carnivore, symbiote, para
 ### Modular Biology Impact
 
 **eGFP in Environment:**
-All organisms shed [[Environmental-GFP|environmental GFP]] constantly:
+All organisms shed [environmental GFP](Environmental%20GFP.md) constantly:
 - In feces and waste
 - From dying tissue
 - Via specialized dispersal
@@ -123,7 +125,7 @@ All organisms shed [[Environmental-GFP|environmental GFP]] constantly:
 
 **Rapid Genetic Exchange:**
 - Organisms collect eGFP from multiple sources
-- [[3B-Womb-Partifunct-Systems|Wombs]] incorporate novel partifuncts
+- [Wombs](Womb%20Partifunct%20Systems.md) incorporate novel partifuncts
 - Adaptation occurs in single generation
 - Ecosystem-wide genetic sharing
 
@@ -140,7 +142,7 @@ All organisms shed [[Environmental-GFP|environmental GFP]] constantly:
 ### Variable and Fluid
 
 **No Fixed Species:**
-- [[Taxa|Taxa]] defined statistically (PSV/MDI)
+- [Taxa](Taxa.md) defined statistically (PSV/MDI)
 - Boundaries fuzzy
 - Intermediate forms common
 - "Species" concept doesn't apply
@@ -149,7 +151,7 @@ All organisms shed [[Environmental-GFP|environmental GFP]] constantly:
 - Predation (standard)
 - Resource limitation (standard)
 - Disease (unique—can affect specific partifuncts)
-- Genetic incompatibility ([[3B-Womb-Partifunct-Systems|womb]] assembly failures)
+- Genetic incompatibility ([womb](Womb%20Partifunct%20Systems.md) assembly failures)
 
 **Boom-Bust Cycles:**
 - Less extreme than Earth (genetic flexibility buffers)
@@ -168,15 +170,15 @@ All organisms shed [[Environmental-GFP|environmental GFP]] constantly:
 - ~10% energy transfer between trophic levels
 
 **Diversity:**
-- High [[Taxa|taxon]] diversity (modular mixing)
+- High [taxon](Taxa.md) diversity (modular mixing)
 - High partifunct diversity (genetic toolkit)
 - Functional redundancy common (multiple taxa fill similar roles)
-- [[Natural-Selection-on-TPIV|Niche partitioning]] complex
+- [Niche partitioning](Natural%20Selection%20on%20TPIV.md) complex
 
 **Keystone Species:**
 - Large grazers shape vegetation
 - Apex predators control herbivore populations
-- Ecosystem engineers ([[72d-Environmental-Cultivation|some organisms farm their food]])
+- Ecosystem engineers ([some organisms farm their food](Behavior.md))
 
 ---
 
@@ -185,14 +187,14 @@ All organisms shed [[Environmental-GFP|environmental GFP]] constantly:
 ### Modular Biology Effects
 
 **Rapid Evolutionary Response:**
-- [[Natural-Selection-on-TPIV|Multi-level selection]] on partifuncts and organisms
+- [Multi-level selection](Natural%20Selection%20on%20TPIV.md) on partifuncts and organisms
 - Novel combinations appear within generations
 - Ecosystem can shift dramatically in years (not millennia)
 
 **Distributed and Combinant Strategies:**
-- [[Distributed-Organisms-Overview|DOs]] create novel trophic interactions
-- [[Combinant-Behaviors|Combinant behaviors]] enable temporary specialization
-- [[Separated-Behaviors-and-Exovants|Separated behaviors]] extend ecological reach
+- [DOs](Distributed%20Organisms%20Overview.md) create novel trophic interactions
+- [Combinant behaviors](Combinant%20Behaviors.md) enable temporary specialization
+- [Separated behaviors](Separated%20Behaviors%20and%20Exovants.md) extend ecological reach
 
 **Genetic Interconnection:**
 - All organisms share genetic material pool (eGFP)
@@ -206,31 +208,31 @@ All organisms shed [[Environmental-GFP|environmental GFP]] constantly:
 
 ### Major Ecosystem Types
 
-**[[Magna-Steppe|Terrestrial Grasslands]]:**
+**[Terrestrial Grasslands](Magna%20Steppe.md):**
 - Grazer-dominated
 - High productivity
 - Seasonal patterns
 - Most studied biome
 
-**[[Flying-Forest|Aerial Ecosystems]]:**
+**[Aerial Ecosystems](Flying%20Forest.md):**
 - Continuous airborne autotrophs
 - Hydrogen/helium buoyancy
 - Unique to TPIV
-- [[59b2-Cloud-Forest-Interaction|Interacts with mountains]]
+- [Interacts with mountains](Flying%20Forest.md)
 
-**[[Dark-Forest-Kolofluke|Dark Forest]]:**
-- Sunless valleys ([[45-Flying-Forest|Flying Forest]] blocks light)
-- [[Note-on-Kolofluke-rDO|Radio-based DOs]] dominant
+**[Dark Forest](Dark%20Forest%20Kolofluke.md):**
+- Sunless valleys ([Flying Forest](Flying%20Forest.md) blocks light)
+- [Radio-based DOs](rDO%20Organisms.md) dominant
 - Chemosynthesis important
 - Low productivity
 
-**[[Central-Tidal-Lakes-Magna|Tidal Systems]]:**
+**[Tidal Systems](Central%20Tidal%20Lakes%20Magna.md):**
 - Extreme tidal ranges (dual moons)
 - Dynamic mixing zones
 - High biodiversity
 - Rapid adaptation pressure
 
-**[[59e-Intertidal-Zones|Intertidal Zones]]:**
+**[Intertidal Zones](Littoral%20Zones.md):**
 - Variable environment (flooded/exposed cycles)
 - High genetic exchange
 - May have driven early modular evolution
@@ -239,7 +241,7 @@ All organisms shed [[Environmental-GFP|environmental GFP]] constantly:
 **Aquatic:**
 - Oceans, lakes, rivers
 - Similar patterns to Earth
-- [[Ribbonfish|Filter feeders]], predators, benthic communities
+- [Filter feeders](Ribbonfish.md), predators, benthic communities
 - Deep sea largely unexplored
 
 ---
@@ -255,12 +257,12 @@ All organisms shed [[Environmental-GFP|environmental GFP]] constantly:
 - Moderate seasons (19° tilt)
 - Long growing seasons (long year)
 - Migration patterns extended
-- [[Moons-and-Tides|Lunar cycles]] important (reproductive timing)
+- [Lunar cycles](Moons%20and%20Tides.md) important (reproductive timing)
 
 **Life History Strategies:**
 - Some organisms reproduce multiple times per year
 - Others once per long year
-- [[3B-Womb-Partifunct-Systems|Womb]] adjusts offspring to seasonal conditions
+- [Womb](Womb%20Partifunct%20Systems.md) adjusts offspring to seasonal conditions
 - Rapid generation time possible (flexible development)
 
 ---
@@ -293,7 +295,7 @@ All organisms shed [[Environmental-GFP|environmental GFP]] constantly:
 ### Research Considerations
 
 **Study Challenges:**
-- [[Taxa|Taxa]] boundaries unclear
+- [Taxa](Taxa.md) boundaries unclear
 - Population tracking difficult (individuals non-uniform)
 - Genetic analysis complex (multiple genomes per organism)
 - Rapid evolution complicates long-term studies
@@ -352,28 +354,32 @@ All organisms shed [[Environmental-GFP|environmental GFP]] constantly:
 ## Navigation
 
 **Core Concepts:**
-- [[Trophic-Roles-No-Plant-Animal]] - No plant/animal divide
-- [[Convergent-Evolution]] - Similar forms from different biology
-- [[Natural-Selection-on-TPIV]] - Evolutionary dynamics
-- [[Biology Overview]] - Biological foundation
+- [Trophic Roles No Plant Animal](Trophic%20Roles%20No%20Plant%20Animal.md) - No plant/animal divide
+- [Convergent Evolution](Convergent%20Evolution.md) - Similar forms from different biology
+- [Natural Selection on TPIV](Natural%20Selection%20on%20TPIV.md) - Evolutionary dynamics
+- [Biology Overview](Biology%20Overview.md) - Biological foundation
+- 
 
 **Major Biomes:**
-- [[59-Biomes-Index]] - Overview of ecosystems
-- [[Magna-Steppe]] - Terrestrial grasslands
-- [[Flying-Forest]] - Aerial ecosystem
-- [[Dark-Forest-Kolofluke]] - Sunless valleys
-- [[Central-Tidal-Lakes-Magna]] - Tidal systems
-- [[59e-Intertidal-Zones]] - Dynamic mixing zones
+- [Biomes of TPIV](Biomes%20of%20TPIV.md) - Overview of ecosystems
+- [Magna Steppe](Magna%20Steppe.md) - Terrestrial grasslands
+- [Flying Forest](Flying%20Forest.md) - Aerial ecosystem
+- [Dark Forest Kolofluke](Dark%20Forest%20Kolofluke.md) - Sunless valleys
+- [Central Tidal Lakes Magna](Central%20Tidal%20Lakes%20Magna.md) - Tidal systems
+- [Littoral Zones](Littoral%20Zones.md) - Dynamic mixing zones
+- [Grazer Guild overview](MagnaGrazerGuild.md)
+- [detailed microbiosphere catalog](Microbiosphere.md)
+
 
 **Trophic Strategies:**
-- [[8E-Autotrophy]] - Primary production
-- [[Photosynthesis-and-Pigments]] - Energy capture
-- [[41-Trophic-Roles-No-Plant-Animal]] - Functional roles
+- [Trophic Roles No Plant Animal](Trophic%20Roles%20No%20Plant%20Animal.md) - Primary production
+- [Photosynthesis and Pigments](Photosynthesis%20and%20Pigments.md) - Energy capture
+- [Trophic Roles No Plant Animal](Trophic%20Roles%20No%20Plant%20Animal.md) - Functional roles
 
 **Related Dispatches:**
-- [[D072-Ecosystem-Function-Analysis]] - First ecological models
-- [[D073-Trophic-Network-Mapping]] - Food web complexity
-- [[D074-Genetic-Flow-Ecosystem-Scale]] - eGFP distribution patterns
+- [B002 – TPIV Planetary Overview](Dispatches.md#b002) - First ecological models
+- [B002 – TPIV Planetary Overview](Dispatches.md#b002) - Food web complexity
+- [B007 – Modular Assembly & Genetics](Dispatches.md#b007) - eGFP distribution patterns
 
 ---
 

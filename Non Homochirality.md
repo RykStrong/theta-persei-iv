@@ -2,7 +2,7 @@
 ---
 tags: [biology, chemistry, chirality, evolution, modularity]
 aliases: [Non-Homochirality, Mixed Chirality, Chirality, Left and Right Handed Molecules]
-related: [[20-Biology-Overview]], [[Partifunct Core Definition]], [[22a-GFP-Structure]], [[26-Natural-Selection-on-TPIV]]
+related: [Biology Overview](Biology%20Overview.md), [Partifunct Core Definition](Partifunct%20Core%20Definition.md), [GFP Structure](GFP%20Structure.md), [Natural Selection on TPIV](Natural%20Selection%20on%20TPIV.md)
 status: complete
 ---
 
@@ -58,11 +58,11 @@ status: complete
 **TPIV Biology:**
 The biology is not homochiral, rather it uses both right and left 'handed' forms of molecules.
 
-**In [[GFP-Structure|GFP]]:**
+**In [GFP](GFP%20Structure.md):**
 - Both L- and D-amino acids used
 - Mixed chirality in single protein
 - Creates unique folding patterns
-- [[Partifunct Core Definition|Each partifunct]] may have different chirality profile
+- [Each partifunct](Partifunct%20Core%20Definition.md) may have different chirality profile
 
 ---
 
@@ -97,7 +97,7 @@ Such modularity has flexible adaptability: environments with changing conditions
 Given the chirality barrier, this detailed mechanism of genetic exchange—bacteria-like small particles, pollen analogues, mites, etc.—makes even more sense, because direct gene-transfer methods (like bacteria plasmid transfers) might be limited or impossible across chiral divides.
 
 **Womb as Mediator:**
-Higher-level [[Composite-Organisms|composite organisms]] provide controlled environments (e.g., [[3B-Womb-Partifunct-Systems|womb assembly]]) where otherwise incompatible genetic materials can indirectly cooperate and produce viable hybrid creatures—without requiring direct chemical compatibility at the molecular scale.
+Higher-level [composite organisms](Composite%20Organisms.md) provide controlled environments (e.g., [womb assembly](Womb%20Partifunct%20Systems.md)) where otherwise incompatible genetic materials can indirectly cooperate and produce viable hybrid creatures—without requiring direct chemical compatibility at the molecular scale.
 
 ---
 
@@ -130,9 +130,9 @@ Higher-level [[Composite-Organisms|composite organisms]] provide controlled envi
 - Eventually discovered cooperation more beneficial
 
 **Key Developments:**
-- [[MGFP-Transcription-Pathway|MGFP-G]] cross-talk (signaling without fusion)
-- [[34c-Transfer-Organs|Transfer organs]] (metabolic exchange)
-- [[3B-Womb-Partifunct-Systems|Womb partifunct]] (assembly coordination)
+- [MGFP-G](MGFP%20Transcription%20Pathway.md) cross-talk (signaling without fusion)
+- [Transfer organs](Circulatory%20Systems.md) (metabolic exchange)
+- [Womb partifunct](Womb%20Partifunct%20Systems.md) (assembly coordination)
 - Chemical communication evolved
 
 ---
@@ -149,7 +149,7 @@ Higher-level [[Composite-Organisms|composite organisms]] provide controlled envi
 - Cannot "cheat" by fusing
 - Must maintain cooperation
 - Drives continued innovation
-- Enables [[Natural-Selection-on-TPIV|multi-level selection]]
+- Enables [multi-level selection](Natural%20Selection%20on%20TPIV.md)
 
 ---
 
@@ -165,11 +165,11 @@ Higher-level [[Composite-Organisms|composite organisms]] provide controlled envi
 **Hormonal Signaling:**
 - Small molecules cross chirality barrier
 - Stereochemistry less critical for signaling
-- [[MGFP-Transcription-Pathway|MGFP-G]] layer receives signals
+- [MGFP-G](MGFP%20Transcription%20Pathway.md) layer receives signals
 - Interprets and responds
 
 **Physical Integration:**
-- [[34c-Transfer-Organs|Capillary exchange organs]]
+- [Capillary exchange organs](Circulatory%20Systems.md)
 - Nutrients, oxygen, waste cross boundaries
 - No genetic material exchanged
 - Maintains independence
@@ -182,7 +182,7 @@ Higher-level [[Composite-Organisms|composite organisms]] provide controlled envi
 
 **Rapid Adaptation:**
 - Each partifunct lineage evolves independently
-- Successful innovations spread via [[Environmental-GFP|eGFP]]
+- Successful innovations spread via [eGFP](Environmental%20GFP.md)
 - Mix-and-match evolution
 - Much faster than unified genome evolution
 
@@ -199,7 +199,7 @@ Higher-level [[Composite-Organisms|composite organisms]] provide controlled envi
 **Redundancy:**
 - Different chirality systems may resist different threats
 - Pathogen targeting one system doesn't affect others
-- [[63-Maladapted-Partifuncts|Parasitic partifuncts]] limited by compatibility
+- [Parasitic partifuncts](Reproductive%20Strategies.md) limited by compatibility
 - Backup metabolic pathways
 
 ---
@@ -258,13 +258,13 @@ Higher-level [[Composite-Organisms|composite organisms]] provide controlled envi
 - D-heavy protein can't process L-heavy substrate
 - Enzyme specificity very narrow
 - Requires specialized interfaces
-- [[34c-Transfer-Organs|Transfer organs]] mediate exchanges
+- [Transfer organs](Circulatory%20Systems.md) mediate exchanges
 
 ---
 
 ### GFP Stability
 
-**Mixed-Chirality [[GFP-Structure|GFP]]:**
+**Mixed-Chirality [GFP](GFP%20Structure.md):**
 - Can create folding patterns impossible in homochiral systems
 - More information density possible
 - Greater structural diversity
@@ -302,20 +302,20 @@ Higher-level [[Composite-Organisms|composite organisms]] provide controlled envi
 ## Navigation
 
 **Core Concepts:**
-- [[Biology Overview]] - How this affects overall biology
-- [[Partifunct Core Definition]] - What chirality makes distinct
-- [[GFP-Structure]] - Mixed chirality in genetic material
-- [[Composite-Organisms]] - Result of chirality barrier
+- [Biology Overview](Biology%20Overview.md) - How this affects overall biology
+- [Partifunct Core Definition](Partifunct%20Core%20Definition.md) - What chirality makes distinct
+- [GFP Structure](GFP%20Structure.md) - Mixed chirality in genetic material
+- [Composite Organisms](Composite%20Organisms.md) - Result of chirality barrier
 
 **Related Topics:**
-- [[Natural-Selection-on-TPIV]] - Evolutionary consequences
-- [[MGFP-Transcription-Pathway]] - Cross-barrier signaling
-- [[34c-Transfer-Organs]] - Physical interfaces
-- [[3B-Womb-Partifunct-Systems]] - Assembly despite incompatibility
+- [Natural Selection on TPIV](Natural%20Selection%20on%20TPIV.md) - Evolutionary consequences
+- [MGFP Transcription Pathway](MGFP%20Transcription%20Pathway.md) - Cross-barrier signaling
+- [Circulatory Systems](Circulatory%20Systems.md) - Physical interfaces
+- [Womb Partifunct Systems](Womb%20Partifunct%20Systems.md) - Assembly despite incompatibility
 
 **Related Dispatches:**
-- [[D006-Biochemical-Architecture]] - Discovery of mixed chirality
-- [[D022-Chirality-Distribution-Analysis]] - Mapping chirality profiles
+- [B006 – Biochemical Architecture](Dispatches.md#b006) - Discovery of mixed chirality
+- [B006 – Biochemical Architecture](Dispatches.md#b006) - Mapping chirality profiles
 
 ---
 

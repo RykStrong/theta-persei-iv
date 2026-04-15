@@ -2,7 +2,7 @@ GFP-Structure
 ---
 tags: [biology, genetics, GFP, molecular-structure]
 aliases: [GFP Structure, Genomic Folded Protein Structure, Molecular Architecture]
-related: [[GFP-and-Genodules]], [[Environmental-GFP]], [[MGFP-Transcription-Pathway]]
+related: [GFP and Genodules](GFP%20and%20Genodules.md), [Environmental GFP](Environmental%20GFP.md), [MGFP Transcription Pathway](MGFP%20Transcription%20Pathway.md)
 status: complete
 ---
 
@@ -44,7 +44,7 @@ status: complete
 - Conformational changes = expression control
 
 **Reading Mechanism:**
-- [[MGFP-Transcription-Pathway|MGFP-R molecules]] recognize fold patterns
+- [MGFP-R molecules](MGFP%20Transcription%20Pathway.md) recognize fold patterns
 - Surface topology read like "genetic code"
 - Multiple reading frames possible (different angles)
 - 3D structure allows more information density than linear DNA
@@ -64,7 +64,7 @@ status: complete
 ### Amino Acid Usage
 
 **Both Chiralities:**
-- [[Non-Homochirality|L- and D-amino acids]] both used
+- [L- and D-amino acids](Non%20Homochirality.md) both used
 - Mixed chirality creates unique fold patterns
 - Prevents unwanted interactions between genodules
 - Enables partifunct independence
@@ -87,7 +87,7 @@ status: complete
 **Environmental Stability:**
 - Stable at TPIV temperatures (-50°C to +50°C)
 - Resistant to moderate pH variation
-- Protected from UV by [[Atmosphere|ozone layer]]
+- Protected from UV by [ozone layer](Atmosphere.md)
 - 25% oxygen: manageable oxidation with antioxidant systems
 
 ---
@@ -98,7 +98,7 @@ status: complete
 
 **Not DNA Polymerase:**
 - Parent GFP acts as conformational template
-- [[MGFP-Transcription-Pathway|MGFP-C molecules]] facilitate copying
+- [MGFP-C molecules](MGFP%20Transcription%20Pathway.md) facilitate copying
 - Amino acids assembled to match parent fold
 - New protein folds around template
 
@@ -125,7 +125,7 @@ status: complete
 - Encode physical partifunct structures
 - Limb, bone, muscle, skin
 - Highly conserved folding patterns
-- Example: [[88a-ST-LMB-Lignin-Limb-Segment|ST-LMB genodule]]
+- Example: [ST-LMB genodule](Partifunct%20Domain%20&%20Function%20Table.md)
 
 **Regulatory GFPs:**
 - Control expression of other GFPs
@@ -141,7 +141,7 @@ status: complete
 
 **Cognitive GFPs:**
 - Encode neural structures and functions
-- [[33-Brain-Partifuncts|Brain partifuncts]]
+- [Brain partifuncts](Nervous%20Systems.md)
 - Sensory processing
 - Example: CN-MOTO, CN-MEMO
 
@@ -161,7 +161,7 @@ status: complete
 - GFPs can exchange between bundles
 - Recombination occurs during reproduction
 - Bundles mix freely (not like chromosomes)
-- Enables [[Reproduction-Assembly-Conception|horizontal gene transfer]]
+- Enables [horizontal gene transfer](Reproduction%20Assembly%20Conception.md)
 
 ---
 
@@ -195,7 +195,7 @@ status: complete
 
 **Adaptive Expression:**
 - Same GFP, different conditions → different expression
-- Explains [[Multi-Expression-Potential|multi-expression potential]]
+- Explains [multi-expression potential](Multi%20Expression%20Potential.md)
 - Environmental cues during development critical
 - Womb conditions determine final partifunct form
 
@@ -208,7 +208,7 @@ status: complete
 **End of Life:**
 - Proteases can degrade GFP
 - Releases amino acids for recycling
-- Some GFPs released as [[Environmental-GFP|eGFP]]
+- Some GFPs released as [eGFP](Environmental%20GFP.md)
 - Contributes to genetic marketplace
 
 **Controlled Degradation:**
@@ -256,7 +256,7 @@ status: complete
 ### Why Folded Proteins Work
 
 **Advantages for TPIV:**
-- Compatible with [[Non-Homochirality|mixed chirality]]
+- Compatible with [mixed chirality](Non%20Homochirality.md)
 - Higher information density than DNA
 - Environmental responsiveness built-in
 - Enables modular genetic independence
@@ -264,7 +264,7 @@ status: complete
 **Enables Modularity:**
 - Each partifunct can have distinct GFP chemistry
 - Prevents unwanted genetic recombination
-- Supports [[Partifunct Core Definition|partifunct]] independence
+- Supports [partifunct](Partifunct%20Core%20Definition.md) independence
 - Allows rapid evolutionary experimentation
 
 ---
@@ -272,15 +272,15 @@ status: complete
 ## Navigation
 
 **Related Pages:**
-- [[GFP-and-Genodules]] - Overview of genetic system
-- [[Environmental-GFP]] - How GFPs disperse and transfer
-- [[MGFP-Transcription-Pathway]] - How GFPs are read and expressed
-- [[Non-Homochirality]] - Why protein-based genetics evolved
-- [[LU-Biology]] - Where GFPs are stored in tissue
+- [GFP and Genodules](GFP%20and%20Genodules.md) - Overview of genetic system
+- [Environmental GFP](Environmental%20GFP.md) - How GFPs disperse and transfer
+- [MGFP Transcription Pathway](MGFP%20Transcription%20Pathway.md) - How GFPs are read and expressed
+- [Non Homochirality](Non%20Homochirality.md) - Why protein-based genetics evolved
+- [BLU Biology](BLU%20Biology.md) - Where GFPs are stored in tissue
 
 **Related Dispatches:**
-- [[D006-Biochemical-Architecture]] - First analysis of GFP molecules
-- [[D007x-Modular-Genetics]] - Detailed structural characterization
+- [B006 – Biochemical Architecture](Dispatches.md#b006) - First analysis of GFP molecules
+- [B007 – Modular Assembly & Genetics](Dispatches.md#b007) - Detailed structural characterization
 
 ---
 

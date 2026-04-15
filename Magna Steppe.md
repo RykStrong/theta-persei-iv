@@ -2,13 +2,13 @@
 ---
 tags: [biomes, grasslands, steppe, magna, ecology, habitat]
 aliases: [Magna Steppe, Steppe, Grasslands, Savanna]
-related: [[59-Biomes-Index]], [[14b-Magna]], [[50-Ecology-Overview]], [[TPM-Zebra-Grazer]]
+related: [Biomes of TPIV](Biomes%20of%20TPIV.md), [Continents](Continents.md), [Ecology Overview](Ecology%20Overview.md), [TPM Example](TPM%20Example.md)
 status: complete
 ---
 
 # Magna Steppe
 
-**Location:** Northern [[14b-Magna|Magna]] continent, north of equator  
+**Location:** Northern [Magna](Continents.md) continent, north of equator  
 **Climate:** Temperate to warm, seasonal rainfall  
 **Dominant Color:** Purple (blue-green absorbing pigments)  
 **Key Feature:** Vast grasslands with greatest diversity of grazer composite organisms  
@@ -68,12 +68,12 @@ The predominantly flat area north of the equator is famous for its vast grasslan
 
 **"Grasses" (Autotrophic Composites):**
 
-**[[82b-Clam-Grasses|Clam Grasses]] (Most Common):**
+**[Clam Grasses](Ecology%20Overview.md) (Most Common):**
 - Slow mobility
 - Adapted to live with wandering flora
 - Hardshell root bulb (protection from grazers, fire)
 - Photosynthetic blades 20-60cm tall
-- Purple-violet coloration ([[Photosynthesis-and-Pigments|blue-green absorbers]])
+- Purple-violet coloration ([blue-green absorbers](Photosynthesis%20and%20Pigments.md))
 - Orange and green used as contrast colors
 - Rapid regrowth after grazing
 - Fire-adapted (roots survive, quick recovery)
@@ -86,7 +86,7 @@ The predominantly flat area north of the equator is famous for its vast grasslan
 
 **Common Adaptations:**
 - Deep root systems (water access, fire survival)
-- [[Non-Womb-Reproduction|Wind-dispersed seeds]]
+- [Wind-dispersed seeds](Non%20Womb%20Reproduction.md)
 - Rapid growth after rain
 - Tolerance for heavy grazing
 
@@ -94,20 +94,20 @@ The predominantly flat area north of the equator is famous for its vast grasslan
 
 ### Scattered Trees and Shrubs
 
-**[[82a-Stalk-Trees|Stalk Trees]] (Watercourse Groves):**
+**[Stalk Trees](Ecology%20Overview.md) (Watercourse Groves):**
 - Occur along seasonal rivers
 - 5-15m tall
 - Violet-purple foliage
 - Provide shade, browse for grazers
 
-**[[82c-BrownFlower-Shrubs|BrownFlower Shrubs]]:**
+**[BrownFlower Shrubs](Ecology%20Overview.md):**
 - Scattered across plains
 - 1-3m tall
 - Drought-tolerant
 - Flowers attract insect-analogs
 
 **Wandering Forms:**
-- [[82d-Wandering-Tangletrunks|Wandering Tangletrunks]] (rare, slow-moving)
+- [Wandering Tangletrunks](Ecology%20Overview.md) (rare, slow-moving)
 - Mobile autotrophs
 - Follow water, avoid heavy grazing
 
@@ -119,20 +119,20 @@ The predominantly flat area north of the equator is famous for its vast grasslan
 
 **Most Diverse Grazer Assemblage on TPIV:**
 
-**[[TPM-Zebra-Grazer|Zebra Grazer]] (Dominant):**
+**[Zebra Grazer](TPM%20Example.md) (Dominant):**
 - PSV: 83%, MDI: 2.8
 - Hexapod, 200-400kg
 - Most generalized grazer
 - Large herds (50-500 individuals)
 - Nomadic (follow grass growth)
 
-**[[Crimson-Striders|Crimson Striders]]:**
+**[Crimson Striders](Ecology%20Overview.md):**
 - Fast plains runners
 - Smaller (100-200kg)
 - Mixed feeding (grazer + browser)
 - Herd size 20-100
 
-**[[Pale-Sprint-Grazer|Pale Sprint Grazer]]:**
+**[Pale Sprint Grazer](MagnaGrazerGuild.md):**
 - Smallest (50-100kg)
 - Very fast (escape predator strategy)
 - Short grass specialist
@@ -144,20 +144,21 @@ Looking at a prairie, one could see small grazers like antelope, and large ones 
 **Herd Variability:**
 What is possible to assemble and exactly how it is assembled can vary greatly, so a herd of grazers do not appear uniform in the way a herd of antelope do. Some will have more legs, some fewer. Some will have two mouths. Some will have additional appendages for perception, defense, signaling.
 
+[Magna Steppe Grazer Guild](MagnaGrazerGuild.md)
 ---
 
 ## Predators
 
 ### Apex and Mesopredators
 
-**[[Banded-Pack-Hunter|Banded Pack Hunter]]:**
+**[Banded Pack Hunter](Ecology%20Overview.md):**
 - Standard composite predator
 - Pack size 5-12
 - Cooperative hunting
 - Targets large grazers
 
 **Aerial Predators:**
-- [[46c-Drophunter-Blimp|Drophunter Blimp]] (rare but present)
+- [Drophunter Blimp](Separated%20Behaviors%20and%20Exovants.md) (rare but present)
 - Drop-attacks from altitude
 - Targets isolated individuals
 
@@ -167,9 +168,9 @@ What is possible to assemble and exactly how it is assembled can vary greatly, s
 
 ### Supporting Ecology
 
-**[[Stringbirds|Stringbirds]]:**
+**[Stringbirds](Stringbirds.md):**
 - Common aerial insectivores
-- [[Combinant-Behaviors|Join for digestion]]
+- [Join for digestion](Combinant%20Behaviors.md)
 - Control insect populations
 - Migratory (follow insect blooms)
 
@@ -244,7 +245,7 @@ What is possible to assemble and exactly how it is assembled can vary greatly, s
 - Fast-moving (wind-driven)
 
 **Adaptations:**
-- [[82b-Clam-Grasses|Hardshell root bulbs]] survive fire
+- [Hardshell root bulbs](Ecology%20Overview.md) survive fire
 - Rapid regrowth after burn
 - Fire stimulates flowering (some species)
 - Fire-following species (colonize burned areas)
@@ -253,7 +254,7 @@ What is possible to assemble and exactly how it is assembled can vary greatly, s
 - Attracted to fresh growth (post-burn)
 - Concentrated grazing on burned areas
 - Predators follow herds
-- [[72d-Environmental-Cultivation|Environmental cultivation]] (inadvertent)
+- [Environmental cultivation](Behavior.md) (inadvertent)
 
 ---
 
@@ -277,7 +278,7 @@ What is possible to assemble and exactly how it is assembled can vary greatly, s
 - Generally good (flat but not swampy)
 - Seasonal rivers (only flow during wet season)
 - Endorheic basins (internal drainage, occasional)
-- Connects to [[Central-Tidal-Lakes-Magna|Central Tidal Lakes]] system (east)
+- Connects to [Central Tidal Lakes](Central%20Tidal%20Lakes%20Magna.md) system (east)
 
 ---
 
@@ -287,14 +288,13 @@ What is possible to assemble and exactly how it is assembled can vary greatly, s
 
 **Trophic Cascade:**
 - Grasses → Grazers → Predators (standard)
-- But: [[Trophic-Roles-No-Plant-Animal|All omnivores potentially]]
+- But: [All omnivores potentially](Trophic%20Roles%20No%20Plant%20Animal.md)
 - Grazers eat insects opportunistically
 - Predators eat grass in lean times (rarely observed but possible)
 
 **Keystone Species:**
 - Large grazers (shape vegetation structure)
-- [[42b-DO-HillWolf-Hunter|DO-HillWolf]] (control grazer populations)
-- [[82b-Clam-Grasses|Clam Grasses]] (dominant primary producer)
+- [Clam Grasses](Ecology%20Overview.md) (dominant primary producer)
 
 **Ecosystem Engineering:**
 - Burrowing fauna (aerate soil, create habitat)
@@ -307,16 +307,16 @@ What is possible to assemble and exactly how it is assembled can vary greatly, s
 
 ### eGFP Hotspot
 
-**High [[Environmental-GFP|eGFP]] Density:**
+**High [eGFP](Environmental%20GFP.md) Density:**
 - Dense populations = high genetic shedding
 - Grazer dung (rich in eGFP)
 - Dead tissue (decomposition releases eGFP)
 - "Genetic soup" in environment
 
 **Rapid Innovation:**
-- [[3B-Womb-Partifunct-Systems|Wombs]] collect diverse eGFP
+- [Wombs](Womb%20Partifunct%20Systems.md) collect diverse eGFP
 - Novel combinations appear frequently
-- High [[31-Taxa-and-Metrics-PSV-MDI|MDI]] in some populations (experimentation)
+- High [MDI](Taxa%20and%20Metrics.md) in some populations (experimentation)
 - Successful adaptations spread quickly
 
 **Selection Pressure:**
@@ -336,19 +336,19 @@ What is possible to assemble and exactly how it is assembled can vary greatly, s
 - Moderate climate (year-round research)
 - High organism density (easy observation)
 - Diverse taxa (comparative studies)
-- Near [[14b-Magna|Magna]] research stations
+- Near [Magna](Continents.md) research stations
 
 **Research Priorities:**
 - Grazer population dynamics
 - Predator-prey interactions
-- [[Taxa|Taxon]] definition and boundaries
-- [[Natural-Selection-on-TPIV|Evolutionary processes]]
-- [[72d-Environmental-Cultivation|Grazer cultivation behaviors]]
+- [Taxon](Taxa.md) definition and boundaries
+- [Evolutionary processes](Natural%20Selection%20on%20TPIV.md)
+- [Grazer cultivation behaviors](Behavior.md)
 
 **Long-Term Studies:**
 - Individual tracking (tagged organisms)
 - Herd composition over time
-- [[31-Taxa-and-Metrics-PSV-MDI|PSV/MDI]] monitoring
+- [PSV/MDI](Taxa%20and%20Metrics.md) monitoring
 - Genetic sampling (eGFP distribution)
 
 ---
@@ -367,7 +367,6 @@ What is possible to assemble and exactly how it is assembled can vary greatly, s
 - Purple coloration (not green)
 - Higher grazer diversity (modular biology)
 - Rapid evolutionary change (eGFP exchange)
-- [[Distributed-Organisms-Overview|Distributed organisms]] present (no Earth analog)
 - Variable herd morphology (not uniform individuals)
 
 ---
@@ -399,32 +398,32 @@ What is possible to assemble and exactly how it is assembled can vary greatly, s
 ## Navigation
 
 **Biome Context:**
-- [[59-Biomes-Index]] - All biomes overview
-- [[Ecology-Overview]] - Ecological foundation
-- [[14b-Magna]] - Continental context
+- [Biomes of TPIV](Biomes%20of%20TPIV.md) - All biomes overview
+- [Ecology Overview](Ecology%20Overview.md) - Ecological foundation
+- [Continents](Continents.md) - Continental context
 
 **Dominant Taxa:**
-- [[TPM-Zebra-Grazer]] - Primary grazer
-- [[42b-DO-HillWolf-Hunter]] - Apex predator
-- [[82b-Clam-Grasses]] - Dominant grass
-- [[Stringbirds]] - Insectivore
+- [Zebra Grazer](TPM%20Example.md) - Primary grazer
+- [Magna Steppe Grazer Guild](MagnaGrazerGuild.md)
+- [Ecology Overview](Ecology%20Overview.md) - Dominant grass
+- [Stringbirds](Stringbirds.md) - Insectivore
 
 **Related Biomes:**
-- [[Central-Tidal-Lakes-Magna]] - Eastern boundary
-- [[Flying-Forest]] - Occasional overhead passage
+- [Central Tidal Lakes Magna](Central%20Tidal%20Lakes%20Magna.md) - Eastern boundary
+- [Flying Forest](Flying%20Forest.md) - Occasional overhead passage
 - Scrublands (transitional, south and west)
 
 **Ecological Concepts:**
-- [[Trophic-Roles-No-Plant-Animal]] - Omnivory
-- [[Convergent-Evolution]] - Savanna analog
-- [[Photosynthesis-and-Pigments]] - Purple grass
-- [[72d-Environmental-Cultivation]] - Grazer impacts
+- [Trophic Roles No Plant Animal](Trophic%20Roles%20No%20Plant%20Animal.md) - Omnivory
+- [Convergent Evolution](Convergent%20Evolution.md) - Savanna analog
+- [Photosynthesis and Pigments](Photosynthesis%20and%20Pigments.md) - Purple grass
+- [Behavior](Behavior.md) - Grazer impacts
 
 **Related Dispatches:**
-- [[D001-Magna-Steppe-Survey]] - Initial exploration
-- [[D083-Grazer-Diversity-Study]] - Taxon catalog
-- [[D084-Predator-Prey-Dynamics]] - Population interactions
-- [[D085-Fire-Ecology-Analysis]] - Burn patterns
+- [B001 – Theta Persei System](Dispatches.md#b001) - Initial exploration
+- [B005 – Steppe Surface Life](Dispatches.md#b005) - Taxon catalog
+- [B005 – Steppe Surface Life](Dispatches.md#b005) - Population interactions
+- [B002 – TPIV Planetary Overview](Dispatches.md#b002) - Burn patterns
 
 ---
 

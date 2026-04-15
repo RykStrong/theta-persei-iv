@@ -2,7 +2,7 @@
 ---
 tags: [world, moons, tides, orbital-mechanics, interactions]
 aliases: [Lunar Interactions, Moon Dynamics, Three-Moon System]
-related: [[Moons-and-Tides]], [[13a-Tida-Primary-Moon]], [[13b-Lumna-Secondary-Moon]], [[13c-Radita-Tertiary-Moon]]
+related: [Moons and Tides](Moons%20and%20Tides.md), [Tida](Tida.md), [Lumna](Lumna.md), [Radita](Radita.md)
 status: complete
 ---
 
@@ -18,9 +18,9 @@ status: complete
 ## Orbital Resonance
 
 **Period Relationships:**
-- [[13a-Tida-Primary-Moon|Tida]]: 24.6 days
-- [[13b-Lumna-Secondary-Moon|Lumna]]: 47 days (~1.91 × Tida)
-- [[13c-Radita-Tertiary-Moon|Radita]]: 1.3 days (~0.053 × Tida)
+- [Tida](Tida.md): 24.6 days
+- [Lumna](Lumna.md): 47 days (~1.91 × Tida)
+- [Radita](Radita.md): 1.3 days (~0.053 × Tida)
 
 **No Simple Resonance:**
 - Periods not in simple integer ratios
@@ -62,7 +62,7 @@ status: complete
 
 **Biological Response:**
 - Many species synchronize spawning
-- [[Non-Womb-Reproduction|eGFP release]] events
+- [eGFP release](Non%20Womb%20Reproduction.md) events
 - Cross-species coordination
 - Predators time hunting to super-tides
 
@@ -108,9 +108,9 @@ status: complete
 
 **Sudden Darkness Triggers:**
 - Some organisms interpret as dusk/dawn
-- [[72e-Metabolic-Synchronization|Metabolic shifts]]
+- [Metabolic shifts](Behavior.md)
 - Behavioral changes (roosting, emergence)
-- [[50-Distributed-Organisms-Overview|DO coordination]] events?
+- [DO coordination](Distributed%20Organisms%20Overview.md) events?
 
 **Eclipse Timing:**
 - Predictable centuries in advance
@@ -151,13 +151,13 @@ status: complete
 - Tidal conditions never exactly repeat
 - Organisms cannot rely on fixed schedules
 - Favors **flexible, modular biology**
-- [[Partifunct Core Definition|Partifuncts]] can adapt independently
+- [Partifuncts](Partifunct%20Core%20Definition.md) can adapt independently
 
 **Result:**
-- [[Womb-Enabled-Reproduction|Womb polling]] adapts to conditions
-- High [[31-Taxa-and-Metrics-PSV-MDI|MDI]] (morphological diversity)
+- [Womb polling](Womb%20Enabled%20Reproduction.md) adapts to conditions
+- High [MDI](Taxa%20and%20Metrics.md) (morphological diversity)
 - Rapid evolutionary innovation
-- [[Non-Homochirality|Non-homochiral]] chemistry advantage
+- [Non-homochiral](Non%20Homochirality.md) chemistry advantage
 
 ### Multiple Strategies Coexist
 
@@ -177,12 +177,12 @@ status: complete
 ## Navigation
 
 **Related Pages:**
-- [[Moons-and-Tides]] - Overview
-- [[13a-Tida-Primary-Moon]] - Primary effects
-- [[13b-Lumna-Secondary-Moon]] - Secondary effects
-- [[13c-Radita-Tertiary-Moon]] - Tertiary effects
-- [[48-Intertidal-Zones]] - Maximum impact zone
-- [[Womb-Enabled-Reproduction]] - Lunar-synchronized reproduction
+- [Moons and Tides](Moons%20and%20Tides.md) - Overview
+- [Tida](Tida.md) - Primary effects
+- [Lumna](Lumna.md) - Secondary effects
+- [Radita](Radita.md) - Tertiary effects
+- [Littoral Zones](Littoral%20Zones.md) - Maximum impact zone
+- [Womb Enabled Reproduction](Womb%20Enabled%20Reproduction.md) - Lunar-synchronized reproduction
 
 ---
 

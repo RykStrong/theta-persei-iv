@@ -1,152 +1,181 @@
-
----
 tags: [world, moons, tides, astronomy, satellites]
 aliases: [Three Moons, Lunar System, TPIV Moons]
-related: [[Planet-Overview]], [[13a-Tida-Primary-Moon]], [[13b-Lumna-Secondary-Moon]], [[13c-Radita-Tertiary-Moon]]
+related: Planet-Overview, 13a-Tida-Primary-Moon, 13b-Lumna-Secondary-Moon, 13c-Radita-Tertiary-Moon
 status: complete
----
 
 # Moons and Tides
 
-**Total Moons:** 3 (Tida, Lumna, Radita)  
-**Tidal Range:** Extreme (up to 15+ meters during super-tides)  
-**Eclipses:** Frequent (multiple types)  
-**Biological Impact:** Critical evolutionary driver
-
----
+Total Moons: 3 (Tida, Lumna, Radita)
+Tidal Range: Extreme (up to 15+ meters during super-tides; catastrophic during mega-tides)
+Eclipses: Frequent (multiple types)
+Biological Impact: Critical evolutionary driver
 
 ## The Three Moons
 
-| Moon | Mass | Orbit Period | Key Features |
-|------|------|--------------|--------------|
-| **[[13a-Tida-Primary-Moon\|Tida]]** | 1.3 Luna | 24.6 days | Primary moon; drives strong tides |
-| **[[13b-Lumna-Secondary-Moon\|Lumna]]** | 0.5 Luna | 47 days | Highly reflective; bright nights |
-| **[[13c-Radita-Tertiary-Moon\|Radita]]** | 0.01 Luna | 1.3 days | High variable radiation; retrograde |
-
----
+| Moon   | Mass      | Orbit Period  | Direction  | Key Features                          |
+|--------|-----------|---------------|------------|---------------------------------------|
+| Tida   | 1.3 Luna  | 6 local days  | Prograde   | Primary moon; drives strong tides     |
+| Lumna  | 0.5 Luna  | 37 local days | Prograde   | Highly reflective; bright nights      |
+| Radita | 0.01 Luna | 1.3 local days| Retrograde | High variable radiation; eccentric    |
 
 ## Tida (Primary Moon)
+Size: 1.3 times Earth's moon mass
+Orbit: 6 local days (prograde)
+Appearance: Gray, heavily cratered
 
-**Size:** 1.3 times Earth's moon mass  
-**Distance:** Relatively close orbit  
-**Appearance:** Gray, heavily cratered
-
-**Tidal Effects:**
+### Tidal Effects
 - Creates dramatic tidal ranges (8-12 meters typical)
-- When aligned with Lumna: **super-tides** up to 15+ meters
-- Shapes [[48-Intertidal-Zones|coastal ecosystems]]
+- Drives a regular 3-day high/low tide cycle (two tides per orbit)
+- When aligned with Lumna: super-tides up to 15+ meters
+- When all three moons align: mega-tides, potentially catastrophic
+- Shapes coastal ecosystems
 - Critical driver of modular biology evolution
 
-**Geological Impact:**
+### Geological Impact
 - Tidal heating maintains TPIV's geological activity
 - Contributes to plate tectonic vigor
-- [[47-Central-Tidal-Lakes-Magna|Tidal lake systems]] show bidirectional flow
+- Tidal lake systems on Magna show strong bidirectional flow
 
-**Biological Significance:**
-- Intertidal zones are [[48-Intertidal-Zones|evolutionary hotspots]]
-- Rapid environmental changes favor [[Partifunct Core Definition|modular organisms]]
+### Biological Significance
+- Intertidal zones are evolutionary hotspots
+- Rapid environmental changes favor modular organisms
 - Tidal cycles synchronize reproductive events
-- Some organisms time [[GFP-Carriers-and-Vectors|eGFP dispersal]] to tides
-
----
+- Some organisms time eGFP dispersal to tidal phases
 
 ## Lumna (Secondary Moon)
+Size: 0.5 times Earth's moon mass
+Orbit: 37 local days (prograde)
+Appearance: Highly reflective (bright white/silver)
 
-**Size:** 0.5 times Earth's moon mass  
-**Distance:** More distant orbit  
-**Appearance:** Highly reflective (bright white/silver)
-
-**Nighttime Illumination:**
+### Nighttime Illumination
 - Bright enough to read by (comparable to full Earth moon × 2)
 - Creates distinctive silver-blue night sky
 - Enables nocturnal activity for visual organisms
-- Some organisms show **lunar-synchronized behaviors**
+- Some organisms show lunar-synchronized behaviors
 
-**Tidal Contribution:**
+### Tidal Contribution
 - Weaker tidal force than Tida (more distant, smaller)
-- When aligned with Tida: amplifies super-tides
-- When opposed: moderates tidal range
-- Creates 47-day tidal cycle overlaying 24.6-day cycle
+- When aligned with Tida: amplifies to super-tides (~every 55 local days)
+- When opposed: moderates tidal range, creating neap-tide periods
+- Creates 37-day tidal cycle overlaying the 6-day Tida cycle
 
-**Navigation:**
+### Navigation
 - Highly visible reference point
 - Predictable phases aid migration timing
-- Some [[84-Aerial|aerial organisms]] navigate by Lumna
+- Some aerial organisms navigate by Lumna
 - Cultural significance for potential tool-users
 
----
-
 ## Radita (Tertiary Moon)
+Size: Tiny (0.01 Luna masses, ~35 km diameter)
+Orbit: 1.3 local days, eccentric, high-latitude, retrograde
+Appearance: Dark, difficult to see
 
-**Size:** Tiny (0.01 Luna masses, ~35 km diameter)  
-**Orbit:** Fast (1.3 days), eccentric, high-latitude, **retrograde**  
-**Appearance:** Dark, difficult to see
-
-**Radiation Source:**
+### Radiation Source
 - Emits variable high-energy radiation
 - Not tidally locked → radiation output fluctuates as moon rotates
-- Creates predictable timing signal
+- Creates predictable but complex timing signal
+- Retrograde orbit means it moves against the sky, crossing Tida and Lumna alignments unpredictably
 
-**Biological Adaptations:**
-- Many organisms have [[8Bd-SN-GSN-Gas-Sensing|radiation-sensing partifuncts]]
-- Used for **navigation** and **timekeeping**
-- Reproductive cycles may synchronize to Radita
-- Possibly contributes to [[72c-Cyclical-Morphing|cyclical morphing]] triggers
+### Tidal Contribution
+- Despite tiny mass, retrograde orbit creates complex interference patterns
+- Can amplify or partially cancel existing tides depending on position
+- Full three-moon mega-tide alignment occurs roughly twice per year
+- Mega-tide intensity is variable due to Radita's orbital eccentricity — 
+  some alignments are near-misses, others catastrophic
 
-**Capture Event:**
+### Biological Adaptations
+- Many organisms have radiation-sensing partifuncts
+- Used for navigation and timekeeping
+- Reproductive cycles may synchronize to Radita's fast cycle
+- Possibly contributes to cyclical morphing triggers
+
+### Capture Event
 - Recently captured in geological terms (not tidally locked yet)
 - Suggests dynamic orbital history
-- May have influenced recent evolutionary events
+- May have influenced recent evolutionary radiation events
 
-**Human Operations:**
+### Human Operations
 - Radiation levels monitored but not hazardous at surface
 - Predictable cycles aid mission timing
 - Minimal impact on equipment
 
----
-
 ## Compound Tidal Effects
+
+### The Three Tide Levels
+
+| Tide Level  | Cause                        | Range        | Frequency              |
+|-------------|------------------------------|--------------|------------------------|
+| Normal tide | Tida alone                   | 8-12 meters  | Every 3 local days     |
+| Super-tide  | Tida + Lumna aligned         | 15+ meters   | Every ~55 local days   |
+| Mega-tide   | All three moons aligned      | Catastrophic | ~Twice per local year  |
 
 ### Tidal Alignment Events
 
-**When Tida and Lumna Align (Same Side):**
-- **Super-tides:** 15+ meter range
-- Occurs approximately every 47 days (Lumna's period)
-- Submerges vast coastal areas
-- Creates intense evolutionary pressure
-- Triggers mass [[Non-Womb-Reproduction|spawning events]] in marine life
+**Normal High Tide (Tida only):**
+- Occurs every 3 local days (twice per Tida orbit)
+- 8-12 meter range
+- The baseline tide rhythm of TPIV
+- Foundation of the local 6-day calendar week
 
-**When Tida and Lumna Oppose (Opposite Sides):**
-- **Neap-tides:** Reduced range (5-8 meters)
+**Super-tide (Tida + Lumna aligned):**
+- Occurs approximately every 55 local days
+- 15+ meter range
+- Submerges vast coastal areas
+- Triggers mass spawning events in marine life
+- Creates intense evolutionary pressure
+- Significant cultural and calendar event
+
+**Neap Periods (Tida + Lumna opposed):**
+- Reduced range (5-8 meters)
 - Less dramatic coastal flooding
-- Calmer periods for coastal organisms
-- Some organisms exploit this for reproduction
+- Calmer periods exploited by some organisms for reproduction
+
+**Mega-tide (All three moons aligned):**
+- Occurs approximately twice per local year
+- Potentially catastrophic tidal range
+- Variable in intensity due to Radita's eccentricity —
+  some are near-misses, others submerge entire coastal ecosystems
+- Major biological and cultural synchronization event
+- Predictable enough to plan around, unpredictable enough in 
+  intensity to remain dangerous
 
 ### Complex Tidal Patterns
 
 **Three-Body Problem:**
-- Tida (24.6 days) + Lumna (47 days) + Radita (1.3 days)
-- Creates complex, **non-repeating** tidal patterns
-- Organisms must adapt to unpredictable timing
+- Tida (6 days) + Lumna (37 days) + Radita (1.3 days, retrograde)
+- Prime number periods mean patterns are extremely complex and 
+  never exactly repeat on short timescales
+- Organisms must adapt to unpredictable timing within predictable cycles
 - Favors flexible, modular biology
 
 **Result:**
-- [[48-Intertidal-Zones|Intertidal zones]] never experience identical conditions
+- Intertidal zones never experience identical conditions
 - Selection pressure for rapid adaptation
-- May have driven [[Non-Homochirality|non-homochiral]] chemistry's utility
-- Encourages [[Womb-Enabled-Reproduction|womb flexibility]] in assembly
+- May have driven non-homochiral chemistry's evolutionary utility
+- Encourages womb flexibility in assembly
 
----
+## Calendar Significance
+
+The three moons provide the foundation for TPIV's astronomical calendar:
+
+- **6-day week** — driven by Tida's orbital period
+- **37-day month** — driven by Lumna's orbital period
+- **589-day year** — 15 Lumna months + 34 remaining days
+- **Super-tide cycle** — every ~55 days, cross-cutting the monthly calendar
+- **Mega-tide events** — approximately twice yearly, major calendar markers
+
+The 34-day remainder at year's end (almost exactly half a Lumna month) 
+creates an intercalary period that likely has significant cultural meaning 
+for any tool-using sophonts.
 
 ## Eclipse Phenomena
 
 ### Frequency
-
-**Much More Common Than Earth:**
-- Three moons create multiple eclipse types
+Much more common than Earth due to three-moon system:
 - Solar eclipses occur several times per year
 - Lunar eclipses (moons passing through TPIV's shadow)
 - Moon-moon eclipses (Tida eclipsing Lumna, etc.)
+- Radita's fast retrograde orbit creates frequent minor eclipse events
 
 ### Types
 
@@ -158,7 +187,7 @@ status: complete
 **Solar Eclipse (Lumna):**
 - Lumna too small/distant for total eclipse
 - Creates annular eclipses only
-- Rare (orbital geometry)
+- Relatively rare due to orbital geometry
 
 **Lunar Eclipses:**
 - Tida and Lumna pass through TPIV's shadow regularly
@@ -171,140 +200,7 @@ status: complete
 - Observable geometric phenomenon
 
 ### Biological Response
-
-**Eclipse-Triggered Behaviors:**
-- Some organisms interpret sudden darkness as signal
-- May trigger [[72e-Metabolic-Synchronization|metabolic synchronization]]
+- Some organisms interpret sudden darkness as behavioral signal
+- May trigger metabolic synchronization
 - Possible reproductive timing cue
-- [[50-Distributed-Organisms-Overview|Distributed Organisms]] may use eclipses for coordination
-
----
-
-## Evolutionary Significance
-
-### Tidal Zones as Evolutionary Engines
-
-**Rapid Environmental Change:**
-- Organisms exposed to:
-  - Submersion (aquatic conditions)
-  - Exposure (aerial conditions)
-  - Temperature swings
-  - Desiccation stress
-  - Predator switching
-
-**Modular Biology Advantage:**
-- [[Partifunct Core Definition|Partifuncts]] can adapt independently
-- Different modules for aquatic vs terrestrial
-- [[Womb-Enabled-Reproduction|Womb polling]] can select adaptive combinations
-- Rapid recombination of successful traits
-
-**Historical Impact:**
-- Life may have originated in tidal zones
-- Early [[21-BLUs-Basic-Life-Units|BLUs]] evolved in varying conditions
-- [[Environmental-GFP|eGFP]] dispersal aided by tidal mixing
-- Horizontal gene transfer accelerated in dynamic zones
-
-### Synchronization Mechanisms
-
-**Reproductive Timing:**
-- Many organisms synchronize reproduction to lunar phases
-- Super-tides trigger mass [[Non-Womb-Reproduction|spawning events]]
-- [[GFP-Carriers-and-Vectors|eGFP carriers]] released during optimal tides
-- Cross-species coordination via shared lunar cues
-
-**Migration Triggers:**
-- Seasonal + lunar cycles create complex timing
-- [[44-Magna-Steppe|Steppe grazers]] may time migrations to tides
-- [[84-Aerial|Aerial organisms]] follow predictable patterns
-- [[47-Central-Tidal-Lakes-Magna|Tidal lake]] flows guide movement
-
----
-
-## Impact on Specific Biomes
-
-### Coastal Zones
-- **Extreme tidal range** creates vast intertidal areas
-- Diverse [[48-Intertidal-Zones|partifunct mixing zones]]
-- Highest biodiversity near coastlines
-- Critical for [[Non-Womb-Reproduction|non-womb reproduction]]
-
-### Central Tidal Lakes (Magna)
-- Moons drive **bidirectional water flow**
-- Unique [[47-Central-Tidal-Lakes-Magna|endorheic tidal basins]]
-- Creates distinctive aquatic ecosystems
-- No Earth analog
-
-### Open Ocean
-- Tidal currents distribute [[Environmental-GFP|eGFP]] globally
-- [[85-Aquatic|Aquatic organisms]] follow tidal nutrient flows
-- Deep ocean less affected but still influenced
-- [[85c-DO-Dropshark-Blimps|Marine DOs]] may use tides for coordination
-
----
-
-## Navigation and Timing
-
-### For Organisms
-
-**Tida (24.6 days):**
-- Primary timing reference for most organisms
-- Visible and predictable
-- Phase cycle well-understood
-
-**Lumna (47 days):**
-- Secondary cycle for longer-term timing
-- Very bright and easy to track
-- Used for seasonal behaviors
-
-**Radita (1.3 days):**
-- Fine-grained timing signal (radiation pulses)
-- Not visible but detectable
-- Used for precise synchronization
-
-**Combination:**
-- Three-moon system provides nested timing hierarchy
-- Short-term (Radita), mid-term (Tida), long-term (Lumna)
-- Enables complex temporal behaviors
-
-### For Human Operations
-
-**Advantages:**
-- Predictable tidal patterns (calculated mathematically)
-- Multiple navigation references
-- Lumna provides excellent nighttime illumination
-
-**Challenges:**
-- Complex tidal calculations required
-- Super-tides can strand coastal equipment
-- Eclipse prediction essential for solar power management
-- Radita radiation monitoring needed (minimal risk)
-
----
-
-## Navigation
-
-**Detailed Moon Pages:**
-- [[13a-Tida-Primary-Moon]] - Primary moon characteristics
-- [[13b-Lumna-Secondary-Moon]] - Bright secondary moon
-- [[13c-Radita-Tertiary-Moon]] - Radiation moon
-- [[Lunar-Interactions]] - Complex orbital dynamics
-
-**Related Topics:**
-- [[48-Intertidal-Zones]] - Tidal zone biology
-- [[47-Central-Tidal-Lakes-Magna]] - Unique tidal water system
-- [[Reproduction-Assembly-Conception]] - Lunar-synchronized reproduction
-
-**Related Dispatches:**
-- [[D002-Planetary-Overview]] - Initial lunar observations
-- [[D004-Initial-Drone-Descent]] - Tidal range measurements
-
----
-
-*"Three moons. Three timing systems. And life has learned to dance to all of them at once."*
-*— Dr. Yuki Tanaka, Planetary Dynamics, Day 7*
-
-```
-
----
-
-Perfect! Much cleaner. Should I continue with **14-Continents** next, or would you like me to create the individual moon sub-pages (13a-13d) first?
+- Distributed Organisms may use eclipses for coordination

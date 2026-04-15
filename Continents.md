@@ -2,7 +2,7 @@
 ---
 tags: [world, geography, continents]
 aliases: [landmasses, continental-system]
-related: [[Planet-Overview]], [[15-Oceans]], [[16-Geologic-History]]
+related: [Planet-Overview](Planet-Overview.md), [Continents](Continents.md), [Stellar System Theta Persei](Stellar%20System%20Theta%20Persei.md)
 status: complete
 ---
 
@@ -18,11 +18,11 @@ status: complete
 
 | Continent | Size | Connections | Key Features |
 |-----------|------|-------------|--------------|
-| **[[Magna]]** | Largest | Dualis, Piedmont | Highest biodiversity; Magna Steppe; Central Tidal Lakes |
-| **[[Dualis]]** | Large | Magna | Two subcontinents; mixing zone; tropical to Antarctic |
-| **[[Piedmont]]** | Smaller | Magna | Ancient eroded mountains; rolling hills |
-| **[[Apanon]]** | Medium | None (island) | Circular; DO homeland (insect communication) |
-| **[[Kolofluke]]** | Medium | None (island) | Elongated (5×2); DO homeland (radio communication); Dark Forest |
+| **[Continents](Continents.md)** | Largest | Dualis, Piedmont | Highest biodiversity; Magna Steppe; Central Tidal Lakes |
+| **[Continents](Continents.md)** | Large | Magna | Two subcontinents; mixing zone; tropical to Antarctic |
+| **[Continents](Continents.md)** | Smaller | Magna | Ancient eroded mountains; rolling hills |
+| **[Continents](Continents.md)** | Medium | None (island) | Circular; DO homeland (insect communication) |
+| **[Continents](Continents.md)** | Medium | None (island) | Elongated (5×2); DO homeland (radio communication); Dark Forest |
 
 ---
 
@@ -33,18 +33,18 @@ status: complete
 **Magna-Dualis-Piedmont Supercluster:**
 - Three continents with land bridges
 - Enables continuous gene flow between biomes
-- [[Environmental-GFP|eGFP]] mixing across vast areas
+- [eGFP](Environmental%20GFP.md) mixing across vast areas
 - Creates pressure for partifuncts to succeed in multiple environments
-- Higher [[31-Taxa-and-Metrics-PSV-MDI|PSV]] (consistent taxon composition)
+- Higher [PSV](Taxa%20and%20Metrics.md) (consistent taxon composition)
 
 ### Island Continents
 
 **Apanon and Kolofluke:**
 - Isolated from other landmasses
 - Endemic partifunct assemblages
-- [[50-Distributed-Organisms-Overview|Distributed Organisms]] dominate
+- [Distributed Organisms](Distributed%20Organisms%20Overview.md) dominate
 - Unique communication systems evolved independently
-  - Apanon: Insect-based ([[51-CEP-and-Do-Mites|do-mites]])
+  - Apanon: Insect-based ([do-mites](CEP%20and%20Do-Mites.md))
   - Kolofluke: Radio-wave transmission
 
 ---
@@ -54,7 +54,7 @@ status: complete
 **Range:**
 - Magna spans widest range (70°N to 35°S)
 - Dualis extends to Antarctic regions
-- Each continent supports multiple [[40-Ecology-Overview|biome types]]
+- Each continent supports multiple [biome types](Ecology%20Overview.md)
 
 ---
 
@@ -64,18 +64,18 @@ status: complete
 ## Navigation
 
 **Individual Continent Pages:**
-- [[14a-Magna]] - Largest continent, survey base location
-- [[14b-Dualis]] - Southern hemisphere, mixing zone
-- [[14c-Piedmont]] - Northern continent, ancient terrain
-- [[14d-Apanon]] - Island continent, insect-DO homeland
-- [[14e-Kolofluke]] - Island continent, radio-DO homeland, Dark Forest
+- [Continents](Continents.md) - Largest continent, survey base location
+- [Continents](Continents.md) - Southern hemisphere, mixing zone
+- [Continents](Continents.md) - Northern continent, ancient terrain
+- [Continents](Continents.md) - Island continent, insect-DO homeland
+- [Continents](Continents.md) - Island continent, radio-DO homeland, Dark Forest
 
 **Related Topics:**
-- [[15-Oceans]] - Ocean systems between continents
-- [[16-Geologic-History]] - How continents formed
-- [[40-Ecology-Overview]] - Biomes on each continent
-- [[Moons-and-Tides]] - Tidal effects on coastal regions
+- [Continents](Continents.md) - Ocean systems between continents
+- [Stellar System Theta Persei](Stellar%20System%20Theta%20Persei.md) - How continents formed
+- [Ecology Overview](Ecology%20Overview.md) - Biomes on each continent
+- [Moons and Tides](Moons%20and%20Tides.md) - Tidal effects on coastal regions
 
 ---
 
-*Related Dispatches: [[D002-Planetary-Overview]]*
+*Related Dispatches: [B002 – TPIV Planetary Overview](Dispatches.md#b002)*

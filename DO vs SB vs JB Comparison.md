@@ -2,7 +2,7 @@
 ---
 tags: [biology, distributed-organisms, organizational-strategies, comparison]
 aliases: [DO vs SB vs JB, Organizational Strategies, Three Strategies]
-related: [[40-Distributed-Organisms-Overview]], [[45-Combinant-Behaviors]], [[46-Separated-Behaviors-and-Exovants]]
+related: [Distributed Organisms Overview](Distributed%20Organisms%20Overview.md), [Combinant Behaviors](Combinant%20Behaviors.md), [Separated Behaviors and Exovants](Separated%20Behaviors%20and%20Exovants.md)
 status: complete
 ---
 
@@ -33,20 +33,20 @@ An organism can both be Distributed and have Combinant Behaviors, as they are tw
 
 ### One Organism, Many Bodies
 
-**[[Distributed-Organisms-Overview|Definition]]:**
-A Distributed Organism is made up of **[[Partivant-Definition|partivants]]**—multiple physically separated bodies that function collectively as a single organism.
+**[Definition](Distributed%20Organisms%20Overview.md):**
+A Distributed Organism is made up of **[partivants](Partivant%20Definition.md)**—multiple physically separated bodies that function collectively as a single organism.
 
 **Key Features:**
 - **Physical State:** Multiple separated bodies
 - **Viability:** None of the partivants are viable outside the DO
 - **Duration:** Permanent separation (from birth/assembly)
-- **Communication:** [[CEP-and-Do-Mites|CEP signals]], do-mites, or radio waves (rDO)
+- **Communication:** [CEP signals](CEP%20and%20Do-Mites.md), do-mites, or radio waves (rDO)
 - **Identity:** Single organism distributed across multiple bodies
 
 **Examples:**
-- **[[42-DO-ScrubDeer-Browser|DO-ScrubDeer Browser]]**: Feeding partivants + digestive partivants + sensory partivants
-- **[[43-DO-Duskmantle-Hunter|rDO-Duskmantle-Hunter]]**: Scout partivants + attack partivants + feeding partivants
-- **[[44-DO-Horse-Grazer|DO-Horse Grazer]]**: Grazing partivants + processors + scouts
+- **[DO-ScrubDeer Browser](DO%20ScrubDeer%20Browser.md)**: Feeding partivants + digestive partivants + sensory partivants
+- **[rDO-Duskmantle-Hunter](rDO%20Duskmantle%20Stalker.md)**: Scout partivants + attack partivants + feeding partivants
+- **[DO-Horse Grazer](Distributed%20Organisms%20Overview.md)**: Grazing partivants + processors + scouts
 
 **Analogy:**
 Like an anthill—one organism in many separated bodies, none viable alone.
@@ -57,7 +57,7 @@ Like an anthill—one organism in many separated bodies, none viable alone.
 
 ### Temporary Detachment
 
-**[[Separated-Behaviors-and-Exovants|Definition]]:**
+**[Definition](Separated%20Behaviors%20and%20Exovants.md):**
 Organism temporarily separates a part of itself (called an **exovant**) to perform a limited task, then rejoins.
 
 **Key Features:**
@@ -71,12 +71,12 @@ Organism temporarily separates a part of itself (called an **exovant**) to perfo
 
 **Low-Function Exovants:**
 - Simple, pre-programmed actions
-- Example: **[[46a-Throwjaw|Throwjaw]]** "jaw" (bite and release)
-- Example: **[[46b-Tossclaw|Tossclaw]]** claw (grab and retrieve)
+- Example: **[Throwjaw](Separated%20Behaviors%20and%20Exovants.md)** "jaw" (bite and release)
+- Example: **[Tossclaw](Separated%20Behaviors%20and%20Exovants.md)** claw (grab and retrieve)
 
 **High-Function Exovants:**
 - Complex, autonomous behavior
-- Example: **[[46c-Drophunter-Blimp|Drophunter Blimp]]** hunter exovant (fly, hunt, kill, return)
+- Example: **[Drophunter Blimp](Separated%20Behaviors%20and%20Exovants.md)** hunter exovant (fly, hunt, kill, return)
 
 **Analogy:**
 Like a lizard dropping its tail, but the tail comes back.
@@ -87,7 +87,7 @@ Like a lizard dropping its tail, but the tail comes back.
 
 ### Temporary Fusion
 
-**[[Combinant-Behaviors|Definition]]:**
+**[Definition](Combinant%20Behaviors.md):**
 Multiple independent organisms physically join together temporarily to perform a task cooperatively, then separate.
 
 **Key Features:**
@@ -98,8 +98,8 @@ Multiple independent organisms physically join together temporarily to perform a
 - **Identity:** Multiple organisms cooperating
 
 **Examples:**
-- **[[Stringbirds|Stringbirds]]**: Individual birds join mouth-to-anus to create complete digestive tract
-- **[[Ribbonfish|Ribbonfish]]**: Join side-by-side for filter-feeding, stack in water to trap plankton
+- **[Stringbirds](Stringbirds.md)**: Individual birds join mouth-to-anus to create complete digestive tract
+- **[Ribbonfish](Ribbonfish.md)**: Join side-by-side for filter-feeding, stack in water to trap plankton
 
 **Earth Analogy:**
 Schooling fish or flocking birds (almost combinant behavior), but TPIV organisms physically connect.
@@ -153,7 +153,7 @@ JB:  [Organism A] ←─ temporary ─→ [Organism B] ←─ temporary ─→ [
 - Patchy resources over wide area
 - Need for extreme specialization
 - Environments where distribution advantageous
-- [[14d-Apanon|Island continents]] with limited partifunct diversity
+- [Island continents](Continents.md) with limited partifunct diversity
 
 **Trade-offs:**
 - High overhead (communication energy)
@@ -224,13 +224,13 @@ An organism can both be Distributed and have Combinant Behaviors, as they are tw
 - DO, SB, and JB did not evolve from each other
 - Each strategy evolved independently
 - Convergent solutions to different problems
-- [[Non-Homochirality|Modular biology]] enables all three
+- [Modular biology](Non%20Homochirality.md) enables all three
 
 **Shared Foundation:**
-- All rely on [[Partifunct Core Definition|partifunct]] modularity
-- All use [[Environmental-GFP|eGFP]] for reproduction
-- All assembled by [[3B-Womb-Partifunct-Systems|womb]]
-- All benefit from [[Natural-Selection-on-TPIV|multi-level selection]]
+- All rely on [partifunct](Partifunct%20Core%20Definition.md) modularity
+- All use [eGFP](Environmental%20GFP.md) for reproduction
+- All assembled by [womb](Womb%20Partifunct%20Systems.md)
+- All benefit from [multi-level selection](Natural%20Selection%20on%20TPIV.md)
 
 ---
 
@@ -308,23 +308,23 @@ An organism can both be Distributed and have Combinant Behaviors, as they are tw
 ## Navigation
 
 **Core Concepts:**
-- [[Distributed-Organisms-Overview]] - DO details
-- [[Separated-Behaviors-and-Exovants]] - SB details
-- [[Combinant-Behaviors]] - JB details
+- [Distributed Organisms Overview](Distributed%20Organisms%20Overview.md) - DO details
+- [Separated Behaviors and Exovants](Separated%20Behaviors%20and%20Exovants.md) - SB details
+- [Combinant Behaviors](Combinant%20Behaviors.md) - JB details
 
 **Examples:**
-- [[42-DO-ScrubDeer-Browser]] - DO example
-- [[46c-Drophunter-Blimp]] - SB example
-- [[Stringbirds]] - JB example
+- [DO ScrubDeer Browser](DO%20ScrubDeer%20Browser.md) - DO example
+- [Separated Behaviors and Exovants](Separated%20Behaviors%20and%20Exovants.md) - SB example
+- [Stringbirds](Stringbirds.md) - JB example
 
 **Related Topics:**
-- [[Partivant-Definition]] - What makes DO unique
-- [[Composite-Organisms]] - Foundation for all three
-- [[Natural-Selection-on-TPIV]] - Why strategies evolve
+- [Partivant Definition](Partivant%20Definition.md) - What makes DO unique
+- [Composite Organisms](Composite%20Organisms.md) - Foundation for all three
+- [Natural Selection on TPIV](Natural%20Selection%20on%20TPIV.md) - Why strategies evolve
 
 **Related Dispatches:**
-- [[D043-Organizational-Strategy-Survey]] - Comparative analysis
-- [[D044-Viability-Testing]] - Independence experiments
+- [B017 – Distributed Organisms](Dispatches.md#b017) - Comparative analysis
+- [B017 – Distributed Organisms](Dispatches.md#b017) - Independence experiments
 
 ---
 

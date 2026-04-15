@@ -2,13 +2,13 @@
 ---
 tags: [biology, reproduction, eGFP, dispersal, vectors]
 aliases: [GFP Carriers, Vectors, Dispersal Mechanisms, eGFP Distribution]
-related: [[Environmental-GFP]], [[Reproduction-Assembly-Conception]], [[Womb-Enabled-Reproduction]], [[Non-Womb-Reproduction]]
+related: [Environmental GFP](Environmental%20GFP.md), [Reproduction Assembly Conception](Reproduction%20Assembly%20Conception.md), [Womb Enabled Reproduction](Womb%20Enabled%20Reproduction.md), [Non Womb Reproduction](Non%20Womb%20Reproduction.md)
 status: complete
 ---
 
 # GFP Carriers and Vectors
 
-**Function:** Mechanisms that transport [[Environmental-GFP|eGFP]] through environment  
+**Function:** Mechanisms that transport [eGFP](Environmental%20GFP.md) through environment  
 **Types:** Biological (mites, pollen), physical (wind, water), and consumed (food)  
 **Critical Role:** Enable horizontal gene transfer across entire biosphere  
 **Result:** Constant genetic exchange between all organisms
@@ -20,7 +20,7 @@ status: complete
 ### The Genetic Marketplace
 
 **Constant Exchange:**
-- [[Environmental-GFP|eGFP]] everywhere in environment
+- [eGFP](Environmental%20GFP.md) everywhere in environment
 - All organisms continuously exposed
 - Passive collection during normal activities
 - Active collection through specialized behaviors
@@ -58,7 +58,7 @@ status: complete
 **Diversity:**
 - Thousands of mite species
 - Regional specialists
-- [[50-Distributed-Organisms-Overview|DO-mites]] (communication function)
+- [DO-mites](Distributed%20Organisms%20Overview.md) (communication function)
 - General vs. specialist carriers
 
 ---
@@ -86,7 +86,7 @@ status: complete
 **Production:**
 - Autotrophs produce massive quantities
 - Released during "flowering" phases
-- Often [[Moons-and-Tides|synchronized with lunar cycles]]
+- Often [synchronized with lunar cycles](Moons%20and%20Tides.md)
 - Air becomes thick with pollen during blooms
 
 ---
@@ -106,8 +106,8 @@ status: complete
 - May be consumed whole or release packets
 
 **Examples:**
-- [[82c-BrownFlower-Shrubs|BrownFlower]] fruit attractors
-- [[82b-Stalk-Trees|Tree]] fruiting structures
+- [BrownFlower](Ecology%20Overview.md) fruit attractors
+- [Tree](Ecology%20Overview.md) fruiting structures
 - Specialized dispersal organs
 
 ---
@@ -118,7 +118,7 @@ status: complete
 - Skin flakes with embedded GFP
 - Shed tissue during grooming
 - Injury-released fragments
-- [[Death-and-Decomposition|Decomposing corpses]]
+- [Decomposing corpses](Death-and-Decomposition.md)
 
 **Active Shedding:**
 - Specialized release structures
@@ -136,7 +136,7 @@ status: complete
 - Carries pollen analogs globally
 - Dust with embedded GFP
 - Dried tissue fragments
-- [[45-Flying-Forest|Flying Forest]] air currents
+- [Flying Forest](Flying%20Forest.md) air currents
 
 **Range:**
 - Local: <1 km (heavy particles)
@@ -157,20 +157,20 @@ status: complete
 
 **Ocean Currents:**
 - Deep and surface currents carry GFP
-- [[Moons-and-Tides|Tidal mixing]] enhances distribution
-- [[48-Intertidal-Zones|Coastal zones]] are mixing hotspots
+- [Tidal mixing](Moons%20and%20Tides.md) enhances distribution
+- [Coastal zones](Littoral%20Zones.md) are mixing hotspots
 - Global ocean circulation connects continents
 
 **Freshwater:**
 - Rivers transport downstream
 - Seasonal flooding redistributes
-- [[47-Central-Tidal-Lakes-Magna|Tidal lakes]] create bidirectional flow
+- [Tidal lakes](Central%20Tidal%20Lakes%20Magna.md) create bidirectional flow
 - Wetlands accumulate GFP
 
 **Rain:**
 - Washes airborne GFP to surface
 - Creates temporary high concentrations
-- Triggers [[Non-Womb-Reproduction|environmental assembly]] events
+- Triggers [environmental assembly](Non%20Womb%20Reproduction.md) events
 - Seasonal patterns important
 
 ---
@@ -185,7 +185,7 @@ status: complete
 
 **Explosive Mechanisms:**
 - Some organisms eject GFP packets forcefully
-- [[61e-Ejector-Spores|Ejector structures]] launch seeds
+- [Ejector structures](Microforms.md) launch seeds
 - Hydraulic or mechanical pressure
 - Range: Meters to tens of meters
 
@@ -205,7 +205,7 @@ status: complete
 - Reproductive structures (fruits, seeds) highest concentration
 - Muscle tissue moderate
 - Structural tissue (bone) lowest
-- [[72d-Environmental-Cultivation|Some organisms farm]] high-GFP food
+- [Some organisms farm](Behavior.md) high-GFP food
 
 ---
 
@@ -213,7 +213,7 @@ status: complete
 
 **Selective Retention:**
 - Not all eGFP absorbed
-- Each [[Partifunct Core Definition|partifunct]] recognizes compatible lineages
+- Each [partifunct](Partifunct%20Core%20Definition.md) recognizes compatible lineages
 - Incompatible eGFP passed through
 - Compatible eGFP retained and stored
 
@@ -234,8 +234,8 @@ status: complete
 - Creates complex genetic networks
 
 **Example:**
-- [[TPM-Zebra-Grazer|Zebra Grazer]] eats grass (collects ST-LMB eGFP)
-- [[Duskmantle-Stalker|Predator]] eats grazer (collects multiple lineages)
+- [Zebra Grazer](TPM%20Example.md) eats grass (collects ST-LMB eGFP)
+- [Predator](rDO%20Duskmantle%20Stalker.md) eats grazer (collects multiple lineages)
 - Predator's offspring may use grass-derived GFP
 - Genetic continuity across trophic levels
 
@@ -246,9 +246,9 @@ status: complete
 ### DO-Mites
 
 **Dual Function:**
-- Carry [[51-CEP-and-Do-Mites|CEP communication]] signals
+- Carry [CEP communication](CEP%20and%20Do-Mites.md) signals
 - Also transport eGFP
-- Essential for [[50-Distributed-Organisms-Overview|Distributed Organisms]]
+- Essential for [Distributed Organisms](Distributed%20Organisms%20Overview.md)
 - More specialized than general mites
 
 **Characteristics:**
@@ -280,8 +280,8 @@ status: complete
 ### Local Accumulation
 
 **Hotspots:**
-- [[48-Intertidal-Zones|Coastal tidal zones]] (water mixing)
-- [[44-Magna-Steppe|Dense populations]] (high organism density)
+- [Coastal tidal zones](Littoral%20Zones.md) (water mixing)
+- [Dense populations](Magna%20Steppe.md) (high organism density)
 - Decomposition sites (mass release)
 - Feeding grounds (concentrated feces)
 
@@ -298,8 +298,8 @@ status: complete
 **Continental Scale:**
 - Wind patterns create genetic corridors
 - River systems connect upstream/downstream
-- [[14a-Magna|Connected continents]] share eGFP pools
-- [[14d-Apanon|Island continents]] isolated
+- [Connected continents](Continents.md) share eGFP pools
+- [Island continents](Continents.md) isolated
 
 **Barriers:**
 - Mountain ranges block wind dispersal
@@ -313,7 +313,7 @@ status: complete
 
 **Atmospheric Transport:**
 - Upper atmosphere carries GFP globally
-- [[45-Flying-Forest|Flying Forest]] acts as distributor
+- [Flying Forest](Flying%20Forest.md) acts as distributor
 - Takes months to years
 - Creates planet-wide genetic connectivity
 
@@ -340,8 +340,8 @@ status: complete
 ### Lunar Cycles
 
 **Synchronized Release:**
-- [[13a-Tida-Primary-Moon|Full moons]] trigger mass reproductive events
-- [[Lunar-Interactions|Super-tides]] create mixing events
+- [Full moons](Tida.md) trigger mass reproductive events
+- [Super-tides](Lunar%20Interactions.md) create mixing events
 - Coordinated across species
 - Overwhelms consumers (predator satiation)
 

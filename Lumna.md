@@ -2,7 +2,7 @@
 ---
 tags: [world, moons, astronomy, lumna, navigation]
 aliases: [Lumna, Secondary Moon, Bright Moon]
-related: [[Moons-and-Tides]], [[13a-Tida-Primary-Moon]], [[13c-Radita-Tertiary-Moon]]
+related: [Moons and Tides](Moons%20and%20Tides.md), [Tida](Tida.md), [Radita](Radita.md)
 status: complete
 ---
 
@@ -10,7 +10,7 @@ status: complete
 
  Lumna (Secondary Moon - "Weekly Modulator")
     . Orbit: ~530,000 km
-    . Period: 28.0 local days (36.6 Earth days)
+    . Period: 37.2  local days
     . Size: 0.15 R☾ (~520 km diameter, high albedo icy crust)
     . Mass: 0.5 M☾
     . Notes: Prograde orbit. Creates predictable spring/neap tidal cycle every 7 days 
@@ -32,10 +32,10 @@ status: complete
 
 **Appearance from TPIV:**
 - Brilliant white to silver
-- Smaller angular size than [[13a-Tida-Primary-Moon|Tida]]
+- Smaller angular size than [Tida](Tida.md)
 - **Exceptionally bright** - comparable to full Earth moon × 2
 - Easily visible even during day
-- Distinct phases over 47-day cycle
+- Distinct phases over 37-day cycle
 
 ---
 
@@ -56,7 +56,7 @@ status: complete
 **Sky Appearance:**
 - Full Lumna: Brilliant silver light
 - Crescent Lumna: Still noticeably bright
-- Combined with [[13a-Tida-Primary-Moon|Tida]]: "Double moon" nights
+- Combined with [Tida](Tida.md): "Double moon" nights
 - When both full: Nearly twilight conditions
 
 ---
@@ -66,7 +66,7 @@ status: complete
 **Secondary Tidal Force:**
 - Weaker than Tida (more distant, smaller mass)
 - Creates ~2-3 meter contribution to tides
-- 47-day tidal cycle overlays Tida's 24.6-day cycle
+- 37-day tidal cycle overlays Tida's 6-day cycle
 
 **Tidal Interactions:**
 
@@ -86,99 +86,9 @@ status: complete
 - Never perfectly synchronized with Tida (different periods)
 - Creates non-repeating tidal calendar
 - Organisms adapt to variable conditions
-- Favors flexible [[Partifunct Core Definition|modular biology]]
+- Favors flexible [modular biology](Partifunct%20Core%20Definition.md)
 
 ---
-
-## Biological Significance
-
-### Long-Term Timing
-
-**47-Day Cycle:**
-- Secondary temporal reference
-- Used for seasonal behaviors
-- Migration timing cue
-- Longer-term reproductive cycles
-
-**Behavioral Synchronization:**
-- Some organisms respond to Lumna phases specifically
-- "Lumna breeding" vs "Tida breeding" populations
-- Temporal niche partitioning
-- Reduces competition for resources
-
-### Navigation
-
-**Highly Visible Reference:**
-- Brightness makes it excellent navigation aid
-- Predictable phases over 47 days
-- [[84-Aerial|Aerial organisms]] navigate by Lumna
-- Migratory species use for orientation
-
-**Cultural Potential:**
-- If tool-using species exist: likely religious/cultural significance
-- "Great Moon" vs "Fast Moon" (Tida)
-- Calendar systems would track both moons
-- Eclipse events highly notable
-
----
-
-## Eclipse Events
-
-**Solar Eclipses:**
-- Too small/distant to create total solar eclipses
-- Can create **annular eclipses** (ring of fire)
-- Very rare due to orbital geometry
-- Spectacular when they occur
-
-**Lunar Eclipses:**
-- Lumna passes through TPIV's shadow regularly
-- Turns red-orange (scattered light)
-- Dimming noticeable due to normal brightness
-- Some organisms respond to sudden darkness
-
-**Moon-Moon Eclipses:**
-- [[13a-Tida-Primary-Moon|Tida]] can eclipse Lumna from TPIV's perspective
-- Rare alignment events
-- Lumna briefly disappears behind Tida
-- Observable from specific locations
-
----
-
-## Interaction with Other Moons
-
-**With Tida:**
-- 47-day beat frequency creates super-tide cycle
-- Phase relationships constantly shift
-- Combined brightness during "double full moon"
-- Complex tidal interference patterns
-
-**With Radita:**
-- No significant tidal interaction
-- But combined timing signals (47-day + 1.3-day)
-- Nested temporal hierarchy
-- Some organisms use both for coordination
-
----
-
-## Human Operations
-
-**Advantages:**
-- Excellent nighttime illumination for field work
-- Reduces need for artificial lighting
-- Navigation reference
-- Predictable super-tide warnings (Lumna + Tida alignment)
-
-**Mission Planning:**
-- Survey schedules consider Lumna phases
-- "Bright nights" preferred for some operations
-- "Dark nights" (new Lumna) for astronomical observations
-- Tidal predictions require both moon positions
-
-**Scientific Value:**
-- Brightness makes it easy to track
-- Tidal modeling validation
-- Organism behavior studies during phases
-- Eclipse observation opportunities
 
 ---
 
@@ -201,10 +111,10 @@ status: complete
 ## Navigation
 
 **Related Pages:**
-- [[Moons-and-Tides]] - Three-moon system
-- [[13a-Tida-Primary-Moon]] - Primary moon
-- [[13c-Radita-Tertiary-Moon]] - Radiation moon
-- [[84-Aerial]] - Organisms that navigate by Lumna
+- [Moons and Tides](Moons%20and%20Tides.md) - Three-moon system
+- [Tida](Tida.md) - Primary moon
+- [Radita](Radita.md) - Radiation moon
+- [Ecology Overview](Ecology%20Overview.md) - Organisms that navigate by Lumna
 
 ---
 

@@ -2,14 +2,14 @@
 ---
 tags: [biology, behavior, cognition, instinct, learning, evolution]
 aliases: [Behavior Overview, Animal Behavior, Ethology, Behavioral Ecology]
-related: [[33-Brain-Partifuncts]], [[72-Behavioral-Adaptations]], [[76-Distributed-Cognition]], [[20-Biology-Overview]]
+related: [Nervous Systems](Nervous%20Systems.md), [Behavior](Behavior.md), [Distributed Organisms Overview](Distributed%20Organisms%20Overview.md), [Biology Overview](Biology%20Overview.md)
 status: complete
 ---
 
 # Composite Organism Behavior Overview
 
 **Foundation:** Despite radically different biology, similar environmental pressures produce convergent behavioral adaptations  
-**Key Principle:** Behavior shaped by [[33-Brain-Partifuncts|brain partifuncts]], environmental pressures, and cultural transmission  
+**Key Principle:** Behavior shaped by [brain partifuncts](Nervous%20Systems.md), environmental pressures, and cultural transmission  
 **Unique Features:** TPIV's modular biology enables novel behaviors with no Earth equivalent  
 **Result:** Familiar patterns (herding, hunting, parenting) alongside alien innovations
 
@@ -87,12 +87,12 @@ However, TPIV's unique biology enables novel behaviors:
 **1. GFP Trading Rituals**
 - Where individuals deliberately exchange genetic material with successful herd members
 - Not mating (no immediate reproduction)
-- [[Environmental-GFP|eGFP]] exchange (genetic material sharing)
+- [eGFP](Environmental%20GFP.md) exchange (genetic material sharing)
 - Selective trading (choose donors based on fitness indicators)
 - May occur at specific times/locations (ritualized)
 
 **2. Temporary Fusion Behaviors**
-- Similar to [[Stringbirds|Stringbirds]]
+- Similar to [Stringbirds](Stringbirds.md)
 - Multiple grazers might join specific partifuncts
 - Create temporary super-organisms
 - Purposes:
@@ -105,7 +105,7 @@ However, TPIV's unique biology enables novel behaviors:
 **3. Cyclical Morphing**
 - Where individuals modify their expressed form seasonally
 - Activating different partifunct expressions
-- [[3B-Womb-Partifunct-Systems|Not reproduction]] - same organism, different form
+- [Not reproduction](Womb%20Partifunct%20Systems.md) - same organism, different form
 - Examples:
   - Growing thick coat (winter) → shedding (summer)
   - Developing weapons (mating season) → reabsorbing (off-season)
@@ -113,30 +113,30 @@ However, TPIV's unique biology enables novel behaviors:
 - More dramatic than Earth seasonal changes
 
 **4. Separated Behavior**
-- Organism temporarily detaches a set of partifuncts ([[Separated-Behaviors-and-Exovants|exovant]])
+- Organism temporarily detaches a set of partifuncts ([exovant](Separated%20Behaviors%20and%20Exovants.md))
 - Exovant performs limited task
 - Rejoins organism after completion
 - Examples:
-  - [[46b-Throwjaw|Throwjaw]] (detach mouth to attack)
-  - [[46c-Drophunter-Blimp|Drophunter Blimp]] (hunter exovant hunts, returns)
+  - [Throwjaw](Separated%20Behaviors%20and%20Exovants.md) (detach mouth to attack)
+  - [Drophunter Blimp](Separated%20Behaviors%20and%20Exovants.md) (hunter exovant hunts, returns)
 - Detached set is non-viable on its own (must return)
 - No Earth equivalent
 
 **5. Distributed Cognition**
-- [[Distributed-Organisms-Overview|Distributed organisms]] only
+- [Distributed organisms](Distributed%20Organisms%20Overview.md) only
 - Perception/reaction partifuncts coordinate across multiple physical bodies
 - Creates shared awareness
-- [[76-Distributed-Cognition|Information sharing]] in real-time
+- [Information sharing](Distributed%20Organisms%20Overview.md) in real-time
 - Decision-making distributed
 - Examples:
-  - [[42b-DO-HillWolf-Hunter|DO-HillWolf]] pack coordination
-  - [[DO-ScrubDeer-Browser|DO-ScrubDeer]] herd movement
+  - [DO-HillWolf](DO%20HillWolf%20PackHunter.md) pack coordination
+  - [DO-ScrubDeer](DO%20ScrubDeer%20Browser.md) herd movement
 
 **6. Environmental Cultivation of GFP**
 - Where grazers actively manage landscapes
 - Promote growth of plant-phase expressions of their own constituent partifuncts
-- [[72d-Environmental-Cultivation|Inadvertent or deliberate "farming"]]
-- Increases availability of compatible [[Environmental-GFP|eGFP]]
+- [Inadvertent or deliberate "farming"](Behavior.md)
+- Increases availability of compatible [eGFP](Environmental%20GFP.md)
 - Enhances offspring quality (more suitable genetic material)
 - Ecosystem engineering with genetic component
 
@@ -155,7 +155,7 @@ However, TPIV's unique biology enables novel behaviors:
 ### Learning and Culture
 
 **Instinct vs. Learning:**
-- [[80-Microforms-Overview|Microforms]]: Mostly instinct (limited learning)
+- [Microforms](Microbiosphere%20Overview.md): Mostly instinct (limited learning)
 - Small-medium organisms: Instinct + associative learning
 - Large organisms: Complex learning, problem-solving, cultural transmission
 
@@ -169,13 +169,13 @@ However, TPIV's unique biology enables novel behaviors:
   - Social rituals (greeting, dominance displays)
 
 **Tool Use:**
-The control and response functions of life forms (the hormonal and nervous systems of earth creatures) are [[Partifunct Core Definition|partifuncts]] that exist in many expressed forms in many different composite creatures, as any other partifunct. These partifuncts can become involved in feedback loops with cultural behaviors, including tool use.
+The control and response functions of life forms (the hormonal and nervous systems of earth creatures) are [partifuncts](Partifunct%20Core%20Definition.md) that exist in many expressed forms in many different composite creatures, as any other partifunct. These partifuncts can become involved in feedback loops with cultural behaviors, including tool use.
 
 **Cultural Transmission:**
 - Teaching behaviors (parent to offspring)
 - Observation and imitation (peer learning)
 - Innovation spread through population
-- [[72c-Cultural-Behaviors|Cultural evolution]] alongside genetic evolution
+- [Cultural evolution](Behavior.md) alongside genetic evolution
 
 ---
 
@@ -217,7 +217,7 @@ The control and response functions of life forms (the hormonal and nervous syste
 - Speed: Both predator and prey use same limb partifunct, selection pressure on partifunct itself
 - Sensory: Prey evolves better detection → predator evolves counter-detection → etc.
 - Weapons/Defense: Both use similar structural partifuncts, different expressions
-- [[Natural-Selection-on-TPIV|Selection]] acts on partifunct lineages AND organism assemblages
+- [Selection](Natural%20Selection%20on%20TPIV.md) acts on partifunct lineages AND organism assemblages
 
 **Result:**
 - Coevolution at multiple levels
@@ -232,7 +232,7 @@ The control and response functions of life forms (the hormonal and nervous syste
 
 **Visual:**
 - Body posture, movement patterns
-- Coloration (some have [[8D-Chameleon-Skin|chameleon skin]])
+- Coloration (some have [chameleon skin](Anatomy%20Overview.md))
 - Displays (threat, courtship)
 - Bioluminescence (some species)
 
@@ -245,16 +245,16 @@ The control and response functions of life forms (the hormonal and nervous syste
 **Chemical:**
 - Pheromones (alarm, trail, sex)
 - Scent marking (territory, identity)
-- [[Environmental-GFP|eGFP]] signatures (genetic compatibility signals)
+- [eGFP](Environmental%20GFP.md) signatures (genetic compatibility signals)
 
 **Tactile:**
 - Physical contact (grooming, nuzzling)
 - Vibrations (ground-borne signals)
-- [[Combinant-Behaviors|Physical fusion]] (temporary joining)
+- [Physical fusion](Combinant%20Behaviors.md) (temporary joining)
 
 **Novel:**
-- [[Note-on-Kolofluke-rDO|Radio waves]] ([[42c-rDO-Duskmantle-Hunter|rDO organisms]])
-- [[CEP-and-Do-Mites|Do-mite]] chemical messaging ([[Distributed-Organisms-Overview|DOs]])
+- [Radio waves](rDO%20Organisms.md) ([rDO organisms](rDO%20Duskmantle%20Stalker.md))
+- [Do-mite](CEP%20and%20Do-Mites.md) chemical messaging ([DOs](Distributed%20Organisms%20Overview.md))
 - Partifunct-specific signals (exovant control)
 
 ---
@@ -264,13 +264,13 @@ The control and response functions of life forms (the hormonal and nervous syste
 ### Complex Strategies
 
 **No Sexes:**
-[[Composite-Organisms|Composite Organisms]] exhibit many different reproductive methodologies, as genetic information within and between partifuncts is exchanged between peer gene carriers prior to assembly-gestation in the womb. 
+[Composite Organisms](Composite%20Organisms.md) exhibit many different reproductive methodologies, as genetic information within and between partifuncts is exchanged between peer gene carriers prior to assembly-gestation in the womb. 
 
 **There is no male and female** among Composite Organisms.
 
 **Reproductive Timing:**
 - Often synchronized to environmental cues
-- [[Lunar-Interactions|Lunar cycles]] (tidal species)
+- [Lunar cycles](Lunar%20Interactions.md) (tidal species)
 - Seasonal (food availability)
 - Social synchronization (herd birthing season)
 
@@ -293,11 +293,11 @@ The control and response functions of life forms (the hormonal and nervous syste
 - Communication systems
 
 **Differences:**
-- [[72a-Partifunct-Trading|Partifunct trading rituals]] (unique)
-- [[Combinant-Behaviors|Temporary fusion]] (unique)
-- [[Separated-Behaviors-and-Exovants|Separated behaviors]] (unique)
-- [[76-Distributed-Cognition|Distributed cognition]] (unique)
-- [[72d-Environmental-Cultivation|GFP cultivation]] (unique)
+- [Partifunct trading rituals](Behavior.md) (unique)
+- [Temporary fusion](Combinant%20Behaviors.md) (unique)
+- [Separated behaviors](Separated%20Behaviors%20and%20Exovants.md) (unique)
+- [Distributed cognition](Distributed%20Organisms%20Overview.md) (unique)
+- [GFP cultivation](Behavior.md) (unique)
 - No sex-based behavioral dimorphism (no sexes)
 
 ---
@@ -323,27 +323,27 @@ The control and response functions of life forms (the hormonal and nervous syste
 ## Navigation
 
 **Core Concepts:**
-- [[Brain-Partifuncts]] - Cognitive foundation
-- [[Natural-Selection-on-TPIV]] - Evolutionary context
-- [[Biology Overview]] - Biological foundation
+- [Nervous Systems](Nervous%20Systems.md) - Cognitive foundation
+- [Natural Selection on TPIV](Natural%20Selection%20on%20TPIV.md) - Evolutionary context
+- [Biology Overview](Biology%20Overview.md) - Biological foundation
 
 **Novel Behaviors:**
-- [[72a-Partifunct-Trading|Partifunct trading rituals]]
-- [[Combinant-Behaviors|Temporary fusion behaviors]]
-- [[Separated-Behaviors-and-Exovants|Separated behaviors]]
-- [[76-Distributed-Cognition|Distributed cognition]]
-- [[72d-Environmental-Cultivation|Environmental cultivation]]
+- [Partifunct trading rituals](Behavior.md)
+- [Temporary fusion behaviors](Combinant%20Behaviors.md)
+- [Separated behaviors](Separated%20Behaviors%20and%20Exovants.md)
+- [Distributed cognition](Distributed%20Organisms%20Overview.md)
+- [Environmental cultivation](Behavior.md)
 
 **Behavioral Types:**
-- [[72b-Social-Behaviors|Social behaviors]]
-- [[72c-Cultural-Behaviors|Cultural transmission]]
-- [[72e-Reproductive-Behaviors|Reproductive behaviors]]
-- [[72f-Predator-Prey-Interactions|Predator-prey dynamics]]
+- [Social behaviors](Behavior.md)
+- [Cultural transmission](Behavior.md)
+- [Reproductive behaviors](Behavior.md)
+- [Predator-prey dynamics](Behavior.md)
 
 **Related Topics:**
-- [[Distributed-Organisms-Overview]] - DO behaviors
-- [[80-Microforms-Overview]] - Microform behaviors
-- [[Ecology-Overview]] - Ecological context
+- [Distributed Organisms Overview](Distributed%20Organisms%20Overview.md) - DO behaviors
+- [Microbiosphere Overview](Microbiosphere%20Overview.md) - Microform behaviors
+- [Ecology Overview](Ecology%20Overview.md) - Ecological context
 
 ---
 

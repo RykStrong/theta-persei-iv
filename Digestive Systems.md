@@ -2,7 +2,7 @@
 ---
 tags: [anatomy, digestive, nutrition, gut, feeding]
 aliases: [Digestive Systems, Gut, Digestion, Nutrient Processing]
-related: [[30-Anatomy-Overview]], [[Partifunct Core Definition]], [[41-Trophic-Roles-No-Plant-Animal]]
+related: [Anatomy Overview](Anatomy%20Overview.md), [Partifunct Core Definition](Partifunct%20Core%20Definition.md), [Trophic Roles No Plant Animal](Trophic%20Roles%20No%20Plant%20Animal.md)
 status: complete
 ---
 
@@ -50,7 +50,7 @@ Common organisms have pedipalps or trunks to aid in bringing food to mouth, or m
 ### Genetic Lineages
 
 **DG (Digestive) Family:**
-Each digestive system is a [[Partifunct Core Definition|partifunct]] with own [[GFP-and-Genodules|GFP]], not shared with rest of organism.
+Each digestive system is a [partifunct](Partifunct%20Core%20Definition.md) with own [GFP](GFP%20and%20Genodules.md), not shared with rest of organism.
 
 **Common Types:**
 - **DGV-HERB**: Herbivore digestive tract (cellulose breakdown)
@@ -58,7 +58,7 @@ Each digestive system is a [[Partifunct Core Definition|partifunct]] with own [[
 - **DGV-OMNI**: Omnivore digestive tract (general purpose)
 - **DGV-FILT**: Filter feeder (plankton extraction)
 
-**[[Multi-Expression-Potential|Multi-Expression]]:**
+**[Multi-Expression](Multi%20Expression%20Potential.md):**
 - **In autotrophs:** Root systems (soil nutrient absorption)
 - **In herbivores:** Complex gut (cellulose digestion)
 - **In carnivores:** Simple gut (protein digestion)
@@ -78,7 +78,7 @@ There is no huge difference between the sets of proteins found in 'plants' vs. t
 **Implications:**
 - Most organisms **can** digest both "plant" and "animal" matter
 - Specialization is behavioral/ecological, not strictly chemical
-- [[41-Trophic-Roles-No-Plant-Animal|No clear plant vs animal divide]]
+- [No clear plant vs animal divide](Trophic%20Roles%20No%20Plant%20Animal.md)
 - Digestive flexibility common
 
 ---
@@ -145,9 +145,9 @@ There is no huge difference between the sets of proteins found in 'plants' vs. t
 Shared organs, where the capillaries of two partifuncts infiltrate to within a single membrane of each other, are used to pass blood sugar (and other nutrients).
 
 **Absorption Sites:**
-- Intestinal walls rich in [[34c-Transfer-Organs|transfer organs]]
+- Intestinal walls rich in [transfer organs](Circulatory%20Systems.md)
 - Nutrients diffuse into blood
-- [[Circulatory-Systems|Circulatory systems]] distribute throughout body
+- [Circulatory systems](Circulatory%20Systems.md) distribute throughout body
 - Each partifunct receives appropriate fuel
 
 ---
@@ -163,7 +163,7 @@ Shared organs, where the capillaries of two partifuncts infiltrate to within a s
 - Produce usable nutrients as byproduct
 
 **Microbial Origin:**
-- May be [[60-Microbiosphere-Overview|S-BLU or F-BLU organisms]]
+- May be [S-BLU or F-BLU organisms](Microbiosphere%20Overview.md)
 - Collected from environment (food, water)
 - Established during early life
 - Maintained throughout adulthood
@@ -182,11 +182,11 @@ Shared organs, where the capillaries of two partifuncts infiltrate to within a s
 **Excretory Organs:**
 - Some organisms have specialized waste-processing partifuncts
 - Others use digestive tract exclusively
-- [[34c-Transfer-Organs|Transfer organs]] remove waste from blood
+- [Transfer organs](Circulatory%20Systems.md) remove waste from blood
 - Concentrated before expulsion
 
 **eGFP in Waste:**
-All waste products (feces, urine) contain [[Environmental-GFP|eGFP]] from consumed organisms, contributing to environmental genetic pool.
+All waste products (feces, urine) contain [eGFP](Environmental%20GFP.md) from consumed organisms, contributing to environmental genetic pool.
 
 ---
 
@@ -212,7 +212,7 @@ All waste products (feces, urine) contain [[Environmental-GFP|eGFP]] from consum
 ### By Trophic Role
 
 **Autotrophs:**
-- [[8E-Autotrophy|Photosynthetic organs]] or root-like nutrient absorption
+- [Photosynthetic organs](Trophic%20Roles%20No%20Plant%20Animal.md) or root-like nutrient absorption
 - "Digestive" system = soil processing or atmospheric intake
 - Some mobile autotrophs supplement with heterotrophy
 
@@ -248,11 +248,11 @@ All waste products (feces, urine) contain [[Environmental-GFP|eGFP]] from consum
 
 Some organisms actively manage their food sources:
 
-**[[72d-Environmental-Cultivation|Environmental Cultivation]]:**
+**[Environmental Cultivation](Behavior.md):**
 - Grazers promote growth of preferred grasses
 - Predators maintain prey populations
 - Creates feedback loop
-- Enhances reproduction (collects preferred [[Environmental-GFP|eGFP]])
+- Enhances reproduction (collects preferred [eGFP](Environmental%20GFP.md))
 
 ---
 
@@ -271,13 +271,13 @@ Some organisms actively manage their food sources:
 - Extensive intestines
 - Symbiotic partnerships
 
-**[[50-Distributed-Organisms-Overview|Distributed Organisms]]:**
-- **[[52-DO-ScrubDeer-Browser|DO-ScrubDeer]]:** Feeding nodes collect, digestive nodes (fermenters) process
+**[Distributed Organisms](Distributed%20Organisms%20Overview.md):**
+- **[DO-ScrubDeer](DO%20ScrubDeer%20Browser.md):** Feeding nodes collect, digestive nodes (fermenters) process
 - Specialized partivants for different digestive stages
-- Nutrient distribution via [[51-CEP-and-Do-Mites|DO-mites]]
+- Nutrient distribution via [DO-mites](CEP%20and%20Do-Mites.md)
 
-**[[55-Combinant-Behaviors|Combinant Organisms]]:**
-- **[[Stringbirds]]:** Individual birds have incomplete digestive tracts
+**[Combinant Organisms](Combinant%20Behaviors.md):**
+- **[Stringbirds](Stringbirds.md):** Individual birds have incomplete digestive tracts
 - Join mouth-to-anus to create complete system
 - Pass food through multiple bodies for processing
 
@@ -289,7 +289,7 @@ Some organisms actively manage their food sources:
 
 **Digestive Formation:**
 - Digestive partifzygote develops independently
-- [[3B-Womb-Partifunct-Systems|Womb]] coordinates gut tube formation
+- [Womb](Womb%20Partifunct%20Systems.md) coordinates gut tube formation
 - Mouth and anus placement determined
 - Connection to circulatory system established
 - Must be functional at birth
@@ -307,7 +307,7 @@ Some organisms actively manage their food sources:
 ### Rapid Dietary Shifts
 
 **Horizontal Transfer:**
-- New digestive partifunct acquired via [[Environmental-GFP|eGFP]]
+- New digestive partifunct acquired via [eGFP](Environmental%20GFP.md)
 - Population can shift diet in single generation
 - Example: Herbivore population acquires carnivore gut
 - Enables rapid niche exploitation
@@ -315,7 +315,7 @@ Some organisms actively manage their food sources:
 **Selective Pressure:**
 - Food availability drives digestive evolution
 - Successful digestive strategies spread rapidly
-- [[Natural-Selection-on-TPIV|Multi-level selection]] on diet and digestion
+- [Multi-level selection](Natural%20Selection%20on%20TPIV.md) on diet and digestion
 - Cultural behaviors (food preferences) affect genetic success
 
 ---
@@ -325,9 +325,9 @@ Some organisms actively manage their food sources:
 ### Comparative Studies
 
 **Across Taxa:**
-- [[TPM-Zebra-Grazer|Zebra Grazers]]: Complex herbivore gut, 4-6 meters long
-- [[Duskmantle-Stalker|Predators]]: Simple carnivore gut, 1-2 meters
-- [[83-LBB-Little-Brown-Birds|LBB Feeders]]: Highly variable (omnivore base)
+- [Zebra Grazers](TPM%20Example.md): Complex herbivore gut, 4-6 meters long
+- [Predators](rDO%20Duskmantle%20Stalker.md): Simple carnivore gut, 1-2 meters
+- [LBB Feeders](Ecology%20Overview.md): Highly variable (omnivore base)
 - Filter feeders: Specialized straining structures
 
 **Efficiency:**
@@ -341,20 +341,20 @@ Some organisms actively manage their food sources:
 ## Navigation
 
 **Anatomy Systems:**
-- [[Anatomy-Overview]] - Overall body architecture
-- [[Circulatory-Systems]] - Nutrient distribution
-- [[Respiratory-Systems]] - Energy for digestion
-- [[Sensory-Systems]] - Food detection
+- [Anatomy Overview](Anatomy%20Overview.md) - Overall body architecture
+- [Circulatory Systems](Circulatory%20Systems.md) - Nutrient distribution
+- [Respiratory Systems](Respiratory%20Systems.md) - Energy for digestion
+- [Sensory Systems](Sensory%20Systems.md) - Food detection
 
 **Related Topics:**
-- [[Partifunct Core Definition]] - Why each gut is distinct
-- [[41-Trophic-Roles-No-Plant-Animal]] - No plant/animal divide
-- [[72d-Environmental-Cultivation]] - Food source management
-- [[8E-Autotrophy]] - Non-digestive nutrient acquisition
+- [Partifunct Core Definition](Partifunct%20Core%20Definition.md) - Why each gut is distinct
+- [Trophic Roles No Plant Animal](Trophic%20Roles%20No%20Plant%20Animal.md) - No plant/animal divide
+- [Behavior](Behavior.md) - Food source management
+- [Trophic Roles No Plant Animal](Trophic%20Roles%20No%20Plant%20Animal.md) - Non-digestive nutrient acquisition
 
 **Related Dispatches:**
-- [[D032-Digestive-Tract-Analysis]] - First gut mapping
-- [[D033-Symbiont-Microbiome-Study]] - Microbial partnerships
+- [B005 – Steppe Surface Life](Dispatches.md#b005) - First gut mapping
+- [B010 – GFP Carrier Ecology](Dispatches.md#b010) - Microbial partnerships
 
 ---
 

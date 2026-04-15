@@ -2,7 +2,7 @@
 ---
 tags: [world, atmosphere, climate, chemistry]
 aliases: [TPIV Atmosphere, Atmospheric Composition, Air]
-related: [[Planet-Overview]], [[Stellar-System-Theta-Persei]], [[43-Photosynthesis-and-Pigments]]
+related: [Planet-Overview](Planet-Overview.md), [Stellar System Theta Persei](Stellar%20System%20Theta%20Persei.md), [Photosynthesis and Pigments](Photosynthesis%20and%20Pigments.md)
 status: complete
 ---
 
@@ -73,14 +73,14 @@ status: complete
 
 ### Photosynthesis
 - Higher CO₂ + higher O₂ = very high efficiency
-- Blue-shifted light drives evolution of purple/orange [[43-Photosynthesis-and-Pigments|pigments]] (not green)
+- Blue-shifted light drives evolution of purple/orange [pigments](Photosynthesis%20and%20Pigments.md) (not green)
 - Supports massive autotroph biomass
 
 ### Respiration
 - 25% oxygen enables efficient metabolism
-- Supports complex [[33-Brain-Partifuncts|cognitive functions]]
-- Powers high-energy behaviors ([[56-Separated-Behaviors-and-Exovants|separated behaviors]])
-- [[Respiratory-Systems|Many small lungs]] strategy common
+- Supports complex [cognitive functions](Nervous%20Systems.md)
+- Powers high-energy behaviors ([separated behaviors](Separated%20Behaviors%20and%20Exovants.md))
+- [Many small lungs](Respiratory%20Systems.md) strategy common
 
 ### Climate Regulation
 - Greenhouse gases buffer temperature extremes
@@ -127,7 +127,7 @@ This biosphere is Level-5 seperation from earth biota, no interaction is safely 
 - Creates organic haze
 
 **Nitrogen:**
-- Biological fixation ([[8Eb-AT-NIT-Nitrogen-Fixing]])
+- Biological fixation ([Trophic Roles No Plant Animal](Trophic%20Roles%20No%20Plant%20Animal.md))
 - Lightning fixation
 - Returns via decomposition
 
@@ -136,14 +136,14 @@ This biosphere is Level-5 seperation from earth biota, no interaction is safely 
 ## Navigation
 
 **Related Pages:**
-- [[Planet-Overview]] - Physical characteristics
-- [[Stellar-System-Theta-Persei]] - Star's influence
-- [[43-Photosynthesis-and-Pigments]] - How organisms use this atmosphere
-- [[Respiratory-Systems]] - How organisms breathe
+- [Planet-Overview](Planet-Overview.md) - Physical characteristics
+- [Stellar System Theta Persei](Stellar%20System%20Theta%20Persei.md) - Star's influence
+- [Photosynthesis and Pigments](Photosynthesis%20and%20Pigments.md) - How organisms use this atmosphere
+- [Respiratory Systems](Respiratory%20Systems.md) - How organisms breathe
 
 **Related Dispatches:**
-- [[D003-Chromatic-Anomaly]] - Sky color observations
-- [[D004c-Aerial-Sample-Analysis]] - Composition analysis
+- [B003 – TPIV Orbital Surveys](Dispatches.md#b003) - Sky color observations
+- [B004 – Drone Descent](Dispatches.md#b004) - Composition analysis
 
 ---
 

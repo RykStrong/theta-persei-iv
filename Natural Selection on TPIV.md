@@ -2,7 +2,7 @@
 ---
 tags: [biology, evolution, natural-selection, fitness]
 aliases: [Natural Selection, Evolution, TPIV Evolution, Multi-Level Selection]
-related: [[Reproduction-Assembly-Conception]], [[Partifunct Core Definition]], [[Non-Homochirality]]
+related: [Reproduction Assembly Conception](Reproduction%20Assembly%20Conception.md), [Partifunct Core Definition](Partifunct%20Core%20Definition.md), [Non Homochirality](Non%20Homochirality.md)
 status: complete
 ---
 
@@ -20,22 +20,22 @@ status: complete
 ### Four Hierarchical Levels
 
 **1. GFP Level:**
-- Which [[GFP-Structure|genetic packets]] replicate successfully?
+- Which [genetic packets](GFP%20Structure.md) replicate successfully?
 - Which survive environmental dispersal?
 - Which get incorporated into partifzygotes?
 
 **2. Partifunct Level:**
-- Which [[Partifunct Core Definition|genodules]] integrate with diverse partners?
+- Which [genodules](Partifunct%20Core%20Definition.md) integrate with diverse partners?
 - Which express successfully in multiple contexts?
-- Which spread [[Environmental-GFP|eGFP]] widely?
+- Which spread [eGFP](Environmental%20GFP.md) widely?
 
 **3. Composite Organism Level:**
-- Which [[Composite-Organisms|assemblies]] survive to reproduce?
+- Which [assemblies](Composite%20Organisms.md) survive to reproduce?
 - Which partifunct combinations are viable?
 - Which organisms thrive in current environment?
 
 **4. Taxon Level:**
-- Which [[31-Taxa-and-Metrics-PSV-MDI|statistical assemblages]] persist?
+- Which [statistical assemblages](Taxa%20and%20Metrics.md) persist?
 - Which configurations dominate ecosystems?
 - Which patterns repeat across generations?
 
@@ -57,8 +57,8 @@ status: complete
 - Major changes: Millions of years
 
 **TPIV:**
-- Variation already present ([[Environmental-GFP|eGFP]] in environment)
-- [[Womb-Enabled-Reproduction|Womb]] selects from available pool (immediate)
+- Variation already present ([eGFP](Environmental%20GFP.md) in environment)
+- [Womb](Womb%20Enabled%20Reproduction.md) selects from available pool (immediate)
 - Successful traits incorporated next generation
 - Major changes: Decades to centuries
 
@@ -77,7 +77,7 @@ status: complete
 **Example:**
 - Cold-adapted limb partifunct evolves in northern population
 - Releases eGFP into environment
-- [[GFP-Carriers-and-Vectors|Carriers]] distribute globally
+- [Carriers](GFP%20Carriers%20and%20Vectors.md) distribute globally
 - Southern populations acquire trait via environmental collection
 - Entire species adapts in single generation
 
@@ -86,10 +86,10 @@ status: complete
 ### Womb-Mediated Selection
 
 **Active Assembly Control:**
-- [[3B-Womb-Partifunct-Systems|Womb]] tests compatibility before commitment
+- [Womb](Womb%20Partifunct%20Systems.md) tests compatibility before commitment
 - Rejects non-viable combinations early
 - Adjusts to current environmental conditions
-- [[Multi-Expression-Potential|Expression guidance]] optimizes offspring
+- [Expression guidance](Multi%20Expression%20Potential.md) optimizes offspring
 
 **Result:**
 - Pre-screening eliminates most failures
@@ -106,9 +106,9 @@ status: complete
 - **Versatility:** Integrates with many other partifuncts
 - **Reliability:** Functions correctly in assembled organism
 - **Dispersal:** eGFP spreads widely and survives
-- **Context-flexibility:** [[Multi-Expression-Potential|Expresses appropriately]] in varied situations
+- **Context-flexibility:** [Expresses appropriately](Multi%20Expression%20Potential.md) in varied situations
 
-**Example - [[88a-ST-LMB-Lignin-Limb-Segment|ST-LMB]] Success:**
+**Example - [ST-LMB](Partifunct%20Domain%20&%20Function%20Table.md) Success:**
 - Works in autotrophs (stems) AND heterotrophs (legs)
 - Compatible with hexapod, octapod, and other body plans
 - Reliable structural performance
@@ -127,7 +127,7 @@ status: complete
 **Assembly Quality:**
 - Organisms with compatible partifunct sets survive
 - Incompatible assemblies die (developmental failure or poor performance)
-- [[Womb-Enabled-Reproduction|Womb]] preferentially replicates successful configurations
+- [Womb](Womb%20Enabled%20Reproduction.md) preferentially replicates successful configurations
 
 ---
 
@@ -135,7 +135,7 @@ status: complete
 
 **Pattern Persistence:**
 - Recurring assemblages dominate niches
-- High [[31-Taxa-and-Metrics-PSV-MDI|PSV]] taxa more stable
+- High [PSV](Taxa%20and%20Metrics.md) taxa more stable
 - Successful patterns replicated statistically
 - Failed patterns disappear quickly
 
@@ -151,9 +151,9 @@ status: complete
 - Thick bones, dense insulation → cold adaptation
 - Population shifts in single generation
 
-**[[48-Intertidal-Zones|Tidal Zone Evolution]]:**
+**[Tidal Zone Evolution](Littoral%20Zones.md):**
 - Extreme daily environmental variation
-- [[Moons-and-Tides|Complex tidal patterns]] never repeat exactly
+- [Complex tidal patterns](Moons%20and%20Tides.md) never repeat exactly
 - Favors modular, flexible biology
 - May have driven original partifunct evolution
 
@@ -173,7 +173,7 @@ status: complete
 - Successful partifunct spreads to multiple taxa
 - Same limb module in grass AND grazer AND predator
 - Innovation available to entire ecosystem
-- Accelerates [[42-Convergent-Evolution|convergent evolution]]
+- Accelerates [convergent evolution](Convergent%20Evolution.md)
 
 ### Modular Experimentation
 
@@ -199,7 +199,7 @@ status: complete
 
 **Coordination Costs:**
 - Maintaining multiple genetic lineages expensive
-- [[34c-Transfer-Organs|Interface structures]] required
+- [Interface structures](Circulatory%20Systems.md) required
 - Signaling systems needed
 - Limits organism complexity
 
@@ -250,7 +250,7 @@ status: complete
 - Same partifunct can solve different problems
 - Organisms can acquire new functions
 - Behavioral innovation drives genetic change
-- [[75-Cultural-Fitness-Amplifiers|Culture and genetics co-evolve]]
+- [Culture and genetics co-evolve](Behavior.md)
 
 ---
 
@@ -266,7 +266,7 @@ status: complete
 
 ### Parasitic Exploitation
 
-**[[63-Maladapted-Partifuncts|Selfish Modules]]:**
+**[Selfish Modules](Reproductive%20Strategies.md):**
 - System vulnerable to parasitic partifuncts
 - Exploit reproduction without contributing
 - Evolutionary arms race required
@@ -274,12 +274,6 @@ status: complete
 
 ---
 
-## Research Implications
-
-### Cannot Use Earth Methods
-
-**Different Framework:**
-- "Species" don't exist (use [[31-Taxa-and-Metrics-PSV-MDI|statistical taxa]])
-- Phylogenetics must track partifunct lineages separately
-- Mutation rate less relevant than eGFP availability
-- Selection coefficient calcu
+see also:
+[distributed organism evolution](DO%20Evolution.md)
+[genode-level self-interest](Selfish%20Gene%20TPIV%20style.md)

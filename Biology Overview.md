@@ -126,11 +126,11 @@ This represents not merely alien life, but a completely different solution to or
 
 **Not Sexual Reproduction:**
 
-1. Adult organisms collect [[Environmental-GFP|eGFP]] from environment (air, food, water)
+1. Adult organisms collect [eGFP](Environmental%20GFP.md) from environment (air, food, water)
 
 2. Each partifunct creates **partifzygote** by recombining with collected eGFP
 
-3. [[3B-Womb-Partifunct-Systems|Womb partifunct]] assembles compatible partifzygotes
+3. [Womb partifunct](Womb%20Partifunct%20Systems.md) assembles compatible partifzygotes
 
 4. Womb "polls" parent partifuncts for viability
 
@@ -145,3 +145,6 @@ This represents not merely alien life, but a completely different solution to or
 - Rapid evolutionary adaptation
 
 - No sexes or gametes
+
+see also:
+[Composite Organism Behavior](Behavior.md)

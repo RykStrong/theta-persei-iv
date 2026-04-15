@@ -2,7 +2,7 @@
 ---
 tags: [biology, core-concepts, BLUs, tissue-structure]
 aliases: [BLU Biology, BLU Tissue Structure, Fungal Analogy]
-related: [[21-BLUs-Basic-Life-Units]], [[GFP-and-Genodules]], [[Partifunct Core Definition]]
+related: [BLU Biology](BLU%20Biology.md), [GFP and Genodules](GFP%20and%20Genodules.md), [Partifunct Core Definition](Partifunct%20Core%20Definition.md)
 status: complete
 ---
 
@@ -13,7 +13,7 @@ status: complete
 **Organization:** Continuous tissue with distributed genetic control  
 **Key Feature:** Not individual cells, but continuous protoplasmic tissue
 Adjacent BLUs of similar type lose their separating cell walls and merge into continuous tissue masses, creating the bulk of organism structure.
-[[BLU Tissue]]
+[BLU Tissue](BLU%20Tissue.md)
 
 
 ---
@@ -40,13 +40,13 @@ Adjacent BLUs of similar type lose their separating cell walls and merge into co
 ### Not Nuclei
 
 **Structure:**
-- Localized concentrations of [[GFP-and-Genodules|GFP bundles]]
+- Localized concentrations of [GFP bundles](GFP%20and%20Genodules.md)
 - Act as genetic control centers
 - Scattered throughout BLU tissue
 - Variable density depending on tissue type
 
 **Function:**
-- Direct local [[MGFP-Transcription-Pathway|protein synthesis]]
+- Direct local [protein synthesis](MGFP%20Transcription%20Pathway.md)
 - Respond to environmental signals
 - Coordinate with nearby clusters
 - Can migrate within tissue
@@ -98,7 +98,7 @@ Adjacent BLUs of similar type lose their separating cell walls and merge into co
 - Loss of single cluster not catastrophic
 - Neighboring clusters can compensate
 - Tissue regeneration possible
-- Contributes to [[Death-and-Decomposition|resistance to death]]
+- Contributes to [resistance to death](Death-and-Decomposition.md)
 
 ---
 
@@ -170,7 +170,7 @@ GFP → MGFP-R (Read) → MGFP-C (Copy) → MGFP-G (Gather) → MGFP-A (Assemble
 - Increased septation (compartmentalization)
 - Membranes or other barriers
 - Specialized genode clusters at boundary
-- [[34c-Transfer-Organs|Transfer organs]] connect systems
+- [Transfer organs](Circulatory%20Systems.md) connect systems
 - Chemical gradients maintained
 
 **Genetic Isolation:**
@@ -231,14 +231,16 @@ GFP → MGFP-R (Read) → MGFP-C (Copy) → MGFP-G (Gather) → MGFP-A (Assemble
 ## Navigation
 
 **Related Pages:**
-- [[GFP-and-Genodules]] - Genetic information in clusters
-- [[Partifunct-Definition]] - How tissues form modules
-- [[MGFP-Transcription-Pathway]] - Gene expression mechanisms
-- [[Transfer-Organs]] - Partifunct interface structures
+- [GFP and Genodules](GFP%20and%20Genodules.md) - Genetic information in clusters
+- [Partifunct Core Definition](Partifunct%20Core%20Definition.md) - How tissues form modules
+- [MGFP Transcription Pathway](MGFP%20Transcription%20Pathway.md) - Gene expression mechanisms
+- [Circulatory Systems](Circulatory%20Systems.md) - Partifunct interface structures
 
 **Related Dispatches:**
-- [[D006-Biochemical-Architecture]] - First tissue analysis
-- [[D005a-Dissection-Herd-Foragers]] - Discovery of continuous tissue structure
+- [B006 – Biochemical Architecture](Dispatches.md#b006) - First tissue analysis
+- [B005 – Steppe Surface Life](Dispatches.md#b005) - Discovery of continuous tissue structure
+- [detailed microbiosphere catalog](Microbiosphere.md)
+- 
 
 ---
 

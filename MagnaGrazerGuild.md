@@ -11,8 +11,8 @@ status:
 **Primary Biomes:** Magna Central Grasslands, Central Lakes littoral, open shrub�steppe  
 **Dominant Trophic Role(s):** Primary herbivore / bulk biomass converters  
 
-> See also: [[TPM � Zebra Grazer]] and other TPM entries listed under  
-> `[[TPM Index � Magna Steppe Grazer Guild]]`.
+> See also: [TPM Example](TPM%20Example.md) and other TPM entries listed under  
+> `[MagnaGrazerGuild](MagnaGrazerGuild.md)`.
 
 ---
 
@@ -56,7 +56,7 @@ The guild tracks the **Magna Central Lakes seasonal cycle**:
 - Longer-period oscillations (e.g. Radita-driven radiation cycles) act as coarse chronobiological cues but do not strongly differentiate guild members.
 
 For climate detail see:  
-`[[Climate � Magna Central Lakes & Central Steppe]]`.
+`[Central Tidal Lakes Magna](Central%20Tidal%20Lakes%20Magna.md)`.
 
 ---
 
@@ -121,7 +121,7 @@ Between these peaks are thinner but real populations of **intermediate morphs**,
 ### 4.1 Zebra Grazer
 
 - **Functional Label:** `GW-L` � Grazer, Walker � Large (hexapedal)  
-- **Key TPM:** [[TPM � Zebra Grazer]]  
+- **Key TPM:** [TPM Example](TPM%20Example.md)  
 - **PSV / MDI (Taxon-Level):**  
   - PSV ? **83%** (�1?)  
   - MDI ? **2.8**  
@@ -154,7 +154,7 @@ Between these peaks are thinner but real populations of **intermediate morphs**,
 ### 4.2 Buffalo Grazer
 
 - **Functional Label:** `GW-H` � Grazer, Walker � Heavy  
-- **Key TPM:** [[TPM � Buffalo Grazer]] (planned/placeholder)  
+- **Key TPM:** [MagnaGrazerGuild](MagnaGrazerGuild.md) (planned/placeholder)  
 - **PSV / MDI (Taxon-Level):**  
   - PSV ? **88%**  
   - MDI ? **2.4**  
@@ -186,7 +186,7 @@ Between these peaks are thinner but real populations of **intermediate morphs**,
 ### 4.3 Sprint Grazer
 
 - **Functional Label:** `GW-LF` � Grazer, Walker � Light / Fast  
-- **Key TPM:** [[TPM � Sprint Grazer]] (planned/placeholder)  
+- **Key TPM:** [MagnaGrazerGuild](MagnaGrazerGuild.md) (planned/placeholder)  
 - **PSV / MDI (Taxon-Level):**  
   - PSV ? **78%**  
   - MDI ? **4.1**  
@@ -219,7 +219,7 @@ Between these peaks are thinner but real populations of **intermediate morphs**,
 ### 4.4 Hippo Grazer
 
 - **Functional Label:** `GSW-L` � Grazer, Swimmer�Walker � Large  
-- **Key TPM:** [[TPM � Hippo Grazer]] (planned/placeholder)  
+- **Key TPM:** [MagnaGrazerGuild](MagnaGrazerGuild.md) (planned/placeholder)  
 - **PSV / MDI (Taxon-Level):**  
   - PSV ? **81%**  
   - MDI ? **3.7**  
@@ -252,7 +252,7 @@ Between these peaks are thinner but real populations of **intermediate morphs**,
 ### 4.5 Hog Grazer
 
 - **Functional Label:** `GW-R` � Grazer / Root-Feeder � Walker  
-- **Key TPM:** [[TPM � Hog Grazer]] (planned/placeholder)  
+- **Key TPM:** [MagnaGrazerGuild](MagnaGrazerGuild.md) (planned/placeholder)  
 - **PSV / MDI (Taxon-Level):**  
   - PSV ? **80%**  
   - MDI ? **3.3**  
@@ -402,13 +402,13 @@ From a genode�s perspective, the Magna Steppe Grazer Guild is a **stable but e
 
 ## 9. Cross-References
 
-- `[[TPM � Zebra Grazer]]`  
-- `[[TPM � Buffalo Grazer]]`  
-- `[[TPM � Sprint Grazer]]`  
-- `[[TPM � Hippo Grazer]]`  
-- `[[TPM � Hog Grazer]]`  
-- `[[Guild � Magna Pack Hunter Guild]]`  
-- `[[Biome � Magna Central Steppe]]`  
-- `[[Biome � Magna Central Lakes]]`  
-- `[[Partifunct Domain & Function Table]]`
+- `[TPM Example](TPM%20Example.md)`  
+- `[MagnaGrazerGuild](MagnaGrazerGuild.md)`  
+- `[MagnaGrazerGuild](MagnaGrazerGuild.md)`  
+- `[MagnaGrazerGuild](MagnaGrazerGuild.md)`  
+- `[MagnaGrazerGuild](MagnaGrazerGuild.md)`  
+- `[Magna Pack Hunter Guild](MagnaGrazerGuild.md)`  
+- `[Magna Steppe](Magna%20Steppe.md)`  
+- `[Central Tidal Lakes Magna](Central%20Tidal%20Lakes%20Magna.md)`  
+- `[Partifunct Domain & Function Table](Partifunct%20Domain%20&%20Function%20Table.md)`
 

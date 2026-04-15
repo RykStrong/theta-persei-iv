@@ -2,7 +2,7 @@
 ---
 tags: [biology, classification, metrics, PSV]
 aliases: [PSV, Partifunct Set Variance, Consistency Metric]
-related: [[27a-Taxa]], [[27c-Morphological-Diversity-Index]], [[31-Taxa-and-Metrics-PSV-MDI]]
+related: [Taxa](Taxa.md), [Morphological Diversity Index](Morphological%20Diversity%20Index.md), [Taxa and Metrics](Taxa%20and%20Metrics.md)
 status: complete
 ---
 
@@ -85,7 +85,7 @@ PSV describes how consistently a given set of partifuncts occurs within the obse
 
 **Stable Environments:**
 - High PSV (proven combinations replicate)
-- [[Womb-Enabled-Reproduction|Wombs]] favor conservative assembly
+- [Wombs](Womb%20Enabled%20Reproduction.md) favor conservative assembly
 - Selection reinforces successful pattern
 
 **Variable Environments:**
@@ -97,7 +97,7 @@ PSV describes how consistently a given set of partifuncts occurs within the obse
 
 ### eGFP Availability
 
-**Abundant [[Environmental-GFP|eGFP]]:**
+**Abundant [eGFP](Environmental%20GFP.md):**
 - Wombs have many options
 - More experimentation
 - May lower PSV
@@ -135,7 +135,7 @@ PSV describes how consistently a given set of partifuncts occurs within the obse
 
 **Genetic Confirmation:**
 - Tissue sampling from multiple individuals
-- [[GFP-Structure|GFP sequencing]] from each partifunct
+- [GFP sequencing](GFP%20Structure.md) from each partifunct
 - Phylogenetic analysis
 - Statistical clustering
 
@@ -155,7 +155,7 @@ PSV describes how consistently a given set of partifuncts occurs within the obse
 
 ### Four Quadrant Model
 
-**High PSV + Low [[27c-Morphological-Diversity-Index|MDI]]:**
+**High PSV + Low [MDI](Morphological%20Diversity%20Index.md):**
 - Stable, uniform taxon
 - Example: Standard Zebra Grazer (PSV 83%, MDI 2.8)
 
@@ -178,14 +178,14 @@ PSV describes how consistently a given set of partifuncts occurs within the obse
 ## Navigation
 
 **Related Metrics:**
-- [[Taxa]] - What PSV measures
-- [[27c-Morphological-Diversity-Index]] - Complementary metric
-- [[31-Taxa-and-Metrics-PSV-MDI]] - Combined system
+- [Taxa](Taxa.md) - What PSV measures
+- [Morphological Diversity Index](Morphological%20Diversity%20Index.md) - Complementary metric
+- [Taxa and Metrics](Taxa%20and%20Metrics.md) - Combined system
 
 **Related Topics:**
-- [[Partifunct Core Definition]] - What's being counted
-- [[Womb-Enabled-Reproduction]] - What creates PSV patterns
-- [[TPM-Template]] - How PSV is documented
+- [Partifunct Core Definition](Partifunct%20Core%20Definition.md) - What's being counted
+- [Womb Enabled Reproduction](Womb%20Enabled%20Reproduction.md) - What creates PSV patterns
+- [TPM Definition](TPM%20Definition.md) - How PSV is documented
 
 ---
 

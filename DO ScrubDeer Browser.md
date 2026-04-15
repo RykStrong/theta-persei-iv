@@ -2,17 +2,17 @@
 ---
 tags: [biology, distributed-organisms, herbivore, DO, example-taxa]
 aliases: [DO-ScrubDeer, ScrubDeer Browser, DO-ScrubDeer Browser]
-related: [[42-Example-DOs]], [[42a-TPM-DO-ScrubDeer]], [[40-Distributed-Organisms-Overview]], [[41-CEP-and-Do-Mites]]
+related: [Distributed Organisms Overview](Distributed%20Organisms%20Overview.md), [DO ScrubDeer Browser](DO%20ScrubDeer%20Browser.md), [Distributed Organisms Overview](Distributed%20Organisms%20Overview.md), [CEP and Do-Mites](CEP%20and%20Do-Mites.md)
 status: complete
 ---
 
 # DO-ScrubDeer Browser
 
 **Classification:** Grazer-Mobile—Large Individuals (Distributed)  
-**Biome:** [[14d-Apanon|Apanon]] scrublands and grasslands  
+**Biome:** [Apanon](Continents.md) scrublands and grasslands  
 **PSV:** 76% (±1σ)  
 **MDI:** 5.4  
-**Communication:** Chemical [[CEP-and-Do-Mites|do-mites]]
+**Communication:** Chemical [do-mites](CEP%20and%20Do-Mites.md)
 
 ---
 
@@ -20,11 +20,11 @@ status: complete
 
 ### Distributed Herbivore
 
-**DO-ScrubDeer Browser** is one of the most studied [[Distributed-Organisms-Overview|Distributed Organisms]], representing a successful herbivore strategy on [[14d-Apanon|Apanon]].
+**DO-ScrubDeer Browser** is one of the most studied [Distributed Organisms](Distributed%20Organisms%20Overview.md), representing a successful herbivore strategy on [Apanon](Continents.md).
 
 **Key Features:**
-- Multiple [[Partivant-Definition|partivant]] types (feeding, digestive, sensory)
-- [[CEP-and-Do-Mites|Do-mite]] cloud communication
+- Multiple [partivant](Partivant%20Definition.md) types (feeding, digestive, sensory)
+- [Do-mite](CEP%20and%20Do-Mites.md) cloud communication
 - Chameleon-like skin for visual signaling
 - Moderately high PSV, elevated MDI (adaptive variation)
 
@@ -46,7 +46,7 @@ Small, agile, quadrupedal bodies about half the size of Earth-deer, each special
 **Function:**
 - Each node ingests vegetation
 - Processes it minimally
-- Internally forms nutrient-rich pellets encapsulated with [[GFP-and-Genodules|GFP]] packets
+- Internally forms nutrient-rich pellets encapsulated with [GFP](GFP%20and%20Genodules.md) packets
 - Passes pellets to digestor partivants
 
 **Distinctive Feature:**
@@ -71,7 +71,7 @@ Large, sluggish units that remain stationary or move slowly; have massive intern
 - After digestion, distribute nutrient-rich solutions back to feeding nodes
 
 **Distribution System:**
-Via specialized [[CEP-and-Do-Mites|mite-like carriers]] (do-mites modified for nutrient transport).
+Via specialized [mite-like carriers](CEP%20and%20Do-Mites.md) (do-mites modified for nutrient transport).
 
 ---
 
@@ -80,7 +80,7 @@ Via specialized [[CEP-and-Do-Mites|mite-like carriers]] (do-mites modified for n
 **Structure:**
 - Long necks (elevated observation)
 - Loud voices (alarm calls)
-- Enhanced vision ([[Sensory-Systems|visual partifuncts]])
+- Enhanced vision ([visual partifuncts](Sensory%20Systems.md))
 - Acute hearing
 
 **Function:**
@@ -92,7 +92,7 @@ Via specialized [[CEP-and-Do-Mites|mite-like carriers]] (do-mites modified for n
 **Behavior:**
 - Position themselves at herd periphery
 - Elevated heads scan horizon
-- Constant [[CEP-and-Do-Mites|do-mite]] exchange with other partivants
+- Constant [do-mite](CEP%20and%20Do-Mites.md) exchange with other partivants
 - Vocal warnings trigger coordinated response
 
 ---
@@ -111,20 +111,20 @@ Via specialized [[CEP-and-Do-Mites|mite-like carriers]] (do-mites modified for n
 - Created as needed (environmental response)
 
 **Note:**
-Not always present—[[3B-Womb-Partifunct-Systems|womb]] creates defensive partivants only in high-predation environments.
+Not always present—[womb](Womb%20Partifunct%20Systems.md) creates defensive partivants only in high-predation environments.
 
 ---
 
 ### Cognitive Nodes
 
 **Structure:**
-- Enhanced [[33-Brain-Partifuncts|brain partifuncts]]
+- Enhanced [brain partifuncts](Nervous%20Systems.md)
 - Multiple cognitive modules (MEMO, STRA, NAVI)
 - Well-protected central body position
 - Moderate size
 
 **Function:**
-- [[76-Distributed-Cognition|Distributed cognition]] coordination
+- [Distributed cognition](Distributed%20Organisms%20Overview.md) coordination
 - Memory storage (migration routes, danger areas)
 - Strategic planning (where to graze, when to move)
 - Decision-making integration
@@ -142,9 +142,9 @@ Typically 1-2 cognitive partivants per DO, positioned centrally among feeding no
 *"Cloud of 'insects' is actually the communication and circulatory systems of the creature"*
 
 **Swarm Characteristics:**
-- Thousands of [[CEP-and-Do-Mites|do-mites]] per DO
+- Thousands of [do-mites](CEP%20and%20Do-Mites.md) per DO
 - Constant traffic between partivants
-- [[41c-Swarm-Envelopes-and-Corridors|Corridors]] connect feeding nodes to fermenters
+- [Corridors](CEP%20and%20Do-Mites.md) connect feeding nodes to fermenters
 - Dense envelope around sensory nodes (high information flow)
 
 **Function:**
@@ -180,7 +180,7 @@ Feeding nodes have distinctively patterned, chameleon-like skins used for:
 
 **Process:**
 1. Feeding nodes spread across grazing area
-2. [[CEP-and-Do-Mites|Do-mites]] maintain coordination
+2. [Do-mites](CEP%20and%20Do-Mites.md) maintain coordination
 3. Sensory nodes monitor for threats
 4. Each feeding node crops vegetation
 5. Minimal internal processing (forms pellet)
@@ -212,7 +212,7 @@ Feeding nodes have distinctively patterned, chameleon-like skins used for:
 **Total:** 13-27 partivants per organism
 
 **Variation:**
-High [[31-Taxa-and-Metrics-PSV-MDI|MDI]] (5.4) indicates significant variation in partivant number and types across individuals.
+High [MDI](Taxa%20and%20Metrics.md) (5.4) indicates significant variation in partivant number and types across individuals.
 
 ---
 
@@ -223,12 +223,12 @@ High [[31-Taxa-and-Metrics-PSV-MDI|MDI]] (5.4) indicates significant variation i
 **Created as needed for lekking or other genetic exchange needs.**
 
 **Process:**
-- One fermenter partivant develops [[3B-Womb-Partifunct-Systems|womb partifunct]]
+- One fermenter partivant develops [womb partifunct](Womb%20Partifunct%20Systems.md)
 - Or dedicated reproductive partivant assembled
-- Collects [[Environmental-GFP|eGFP]] from environment (grazing areas)
+- Collects [eGFP](Environmental%20GFP.md) from environment (grazing areas)
 - Assembles multiple offspring partivants
 - Birth produces complete DO (all partivant types)
-- [[CEP-and-Do-Mites|Do-mite]] communication functional immediately
+- [Do-mite](CEP%20and%20Do-Mites.md) communication functional immediately
 
 **Challenge:**
 High failure rate—coordinating multiple partivants from birth is complex.
@@ -242,13 +242,13 @@ High failure rate—coordinating multiple partivants from birth is complex.
 **Impact:**
 - Primary grazer in Apanon scrublands
 - Controls vegetation growth
-- [[72d-Environmental-Cultivation|Cultivates]] preferred grasses (inadvertent farming)
-- Prey for [[43-DO-HillWolf-Hunter|rDO-HillWolf]] and other predators
+- [Cultivates](Behavior.md) preferred grasses (inadvertent farming)
+- Prey for [rDO-HillWolf](DO%20HillWolf%20PackHunter.md) and other predators
 
 **Behavior:**
 - Nomadic grazing patterns
 - Follow seasonal grass growth
-- [[33f-Navigation-Spatial|NAVI brain]] in cognitive partivants stores migration routes
+- [NAVI brain](Nervous%20Systems.md) in cognitive partivants stores migration routes
 - Territory marking via pheromones
 
 ---
@@ -260,7 +260,7 @@ High failure rate—coordinating multiple partivants from birth is complex.
 **Early Warning:**
 - Sensory partivants detect threats at distance
 - Alarm calls trigger coordinated response
-- [[CEP-and-Do-Mites|Do-mites]] carry panic signals
+- [Do-mites](CEP%20and%20Do-Mites.md) carry panic signals
 
 **Evasion:**
 - Feeding nodes scatter (confuse predator)
@@ -286,7 +286,7 @@ High failure rate—coordinating multiple partivants from birth is complex.
 - Some feeding partivants more aquatic
 - Enhanced swimming capability
 - Fermenters positioned on riverbanks
-- [[41c-Swarm-Envelopes-and-Corridors|Do-mite corridors]] cross water (limited range)
+- [Do-mite corridors](CEP%20and%20Do-Mites.md) cross water (limited range)
 
 ---
 
@@ -316,29 +316,29 @@ High failure rate—coordinating multiple partivants from birth is complex.
 ## Navigation
 
 **Core Concepts:**
-- [[42-Example-DOs]] - Overview page
-- [[42a-TPM-DO-ScrubDeer]] - Detailed taxon manifest
-- [[Distributed-Organisms-Overview]] - DO biology
-- [[Partivant-Definition]] - What each body is
+- [Distributed Organisms Overview](Distributed%20Organisms%20Overview.md) - Overview page
+- [DO ScrubDeer Browser](DO%20ScrubDeer%20Browser.md) - Detailed taxon manifest
+- [Distributed Organisms Overview](Distributed%20Organisms%20Overview.md) - DO biology
+- [Partivant Definition](Partivant%20Definition.md) - What each body is
 
 **Communication:**
-- [[CEP-and-Do-Mites]] - How partivants coordinate
-- [[41b-Do-Mite-Behaviors]] - Swarm behavior details
-- [[41c-Swarm-Envelopes-and-Corridors]] - Spatial patterns
+- [CEP and Do-Mites](CEP%20and%20Do-Mites.md) - How partivants coordinate
+- [DO-Mites](DO-Mites.md) - Swarm behavior details
+- [CEP and Do-Mites](CEP%20and%20Do-Mites.md) - Spatial patterns
 
 **Related Taxa:**
-- [[43-DO-HillWolf-Hunter]] - Predator DO
-- [[TPM-Zebra-Grazer]] - Standard grazer (comparison)
+- [DO HillWolf PackHunter](DO%20HillWolf%20PackHunter.md) - Predator DO
+- [TPM Example](TPM%20Example.md) - Standard grazer (comparison)
 
 **Related Topics:**
-- [[14d-Apanon]] - Habitat
-- [[76-Distributed-Cognition]] - Shared awareness
-- [[72d-Environmental-Cultivation]] - Grazing impacts
+- [Continents](Continents.md) - Habitat
+- [Distributed Organisms Overview](Distributed%20Organisms%20Overview.md) - Shared awareness
+- [Behavior](Behavior.md) - Grazing impacts
 
 **Related Dispatches:**
-- [[D040-DO-Discovery-Apanon]] - First ScrubDeer observation
-- [[D049-ScrubDeer-Partivant-Mapping]] - Population structure
-- [[D050-Fermenter-Microbiome]] - Digestive symbiosis
+- [B017 – Distributed Organisms](Dispatches.md#b017) - First ScrubDeer observation
+- [B017 – Distributed Organisms](Dispatches.md#b017) - Population structure
+- [B017 – Distributed Organisms](Dispatches.md#b017) - Digestive symbiosis
 
 ---
 

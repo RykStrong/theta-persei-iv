@@ -2,7 +2,7 @@
 ---
 tags: [biology, genetics, transcription, MGFP, gene-expression]
 aliases: [MGFP Pathway, Transcription, Gene Expression, Protein Synthesis]
-related: [[22-GFP-and-Genodules]], [[22a-GFP-Structure]], [[21a-BLU-Biology]]
+related: [GFP and Genodules](GFP%20and%20Genodules.md), [GFP Structure](GFP%20Structure.md), [BLU Biology](BLU%20Biology.md)
 status: complete
 ---
 
@@ -48,7 +48,7 @@ GFP → MGFP-R → MGFP-C → MGFP-G → MGFP-A → Protein
 **Function:** Reads GFP folded structure
 
 **Mechanism:**
-- MGFP-R proteins bind to [[GFP-Structure|GFP surface]]
+- MGFP-R proteins bind to [GFP surface](GFP%20Structure.md)
 - Recognize specific folding patterns
 - "Read" 3D topology like reading Braille
 - Identify which domains to express
@@ -91,7 +91,7 @@ GFP → MGFP-R → MGFP-C → MGFP-G → MGFP-A → Protein
 - No Earth analog
 - Enables complex partifunct integration
 - Allows environmental responsiveness
-- Permits [[Multi-Expression-Potential|context-dependent expression]]
+- Permits [context-dependent expression](Multi%20Expression%20Potential.md)
 
 **Example:**
 - Limb partifunct MGFP-G detects:
@@ -142,8 +142,8 @@ GFP → MGFP-R → MGFP-C → MGFP-G → MGFP-A → Protein
 **Information Integration:**
 - Can combine data from multiple GFP sources
 - Enables partifunct cooperation
-- Allows [[Composite-Organisms|composite organism]] coordination
-- Supports [[Non-Homochirality|modular biology]]
+- Allows [composite organism](Composite%20Organisms.md) coordination
+- Supports [modular biology](Non%20Homochirality.md)
 
 **Environmental Responsiveness:**
 - Each step can be regulated
@@ -165,14 +165,14 @@ GFP → MGFP-R → MGFP-C → MGFP-G → MGFP-A → Protein
 
 **From Other Partifuncts:**
 - Brain partifuncts send neural/hormonal signals
-- [[3B-Womb-Partifunct-Systems|Womb]] sends developmental cues
+- [Womb](Womb%20Partifunct%20Systems.md) sends developmental cues
 - Circulatory system distributes signals
 - MGFP-G layer receives and interprets
 
 **Effect:**
 - Can activate/suppress entire pathways
 - Coordinates organism-wide responses
-- Enables [[72e-Metabolic-Synchronization|metabolic synchronization]]
+- Enables [metabolic synchronization](Behavior.md)
 - Critical for growth and development
 
 ### Environmental Signals
@@ -186,14 +186,14 @@ GFP → MGFP-R → MGFP-C → MGFP-G → MGFP-A → Protein
 **Integration:**
 - MGFP-G layer most responsive
 - Adjusts expression to conditions
-- Explains [[Multi-Expression-Potential|same GFP, different outcomes]]
+- Explains [same GFP, different outcomes](Multi%20Expression%20Potential.md)
 - Allows rapid adaptation
 
 ---
 
 ## Tissue-Level Organization
 
-### In [[LU-Biology|Genode Clusters]]
+### In [Genode Clusters](BLU%20Biology.md)
 
 **Localized Transcription:**
 - Each genode cluster contains:
@@ -262,12 +262,12 @@ Movement coordination improved
 **Key Feature:**
 - MGFP-G layer allows partifuncts to communicate
 - Without sharing genetic material
-- Maintains [[Partifunct Core Definition|genetic distinctness]]
+- Maintains [genetic distinctness](Partifunct%20Core%20Definition.md)
 - Enables tight functional integration
 
 **Result:**
 - Genetically distinct parts work as one
-- [[Composite-Organisms|Coalition appears as individual]]
+- [Coalition appears as individual](Composite%20Organisms.md)
 - Rapid evolutionary innovation
 - Flexible adaptation
 
@@ -323,7 +323,7 @@ Movement coordination improved
 - Resource depletion (stalled synthesis)
 
 **Results:**
-- [[63-Maladapted-Partifuncts|Maladapted partifuncts]]
+- [Maladapted partifuncts](Reproductive%20Strategies.md)
 - Non-functional proteins produced
 - Developmental errors
 - Womb typically rejects such partifzygotes
@@ -333,15 +333,15 @@ Movement coordination improved
 ## Navigation
 
 **Related Pages:**
-- [[GFP-and-Genodules]] - What's being transcribed
-- [[GFP-Structure]] - How information is stored
-- [[LU-Biology]] - Where transcription occurs
-- [[Multi-Expression-Potential]] - Why same GFP → different outcomes
-- [[24a-Integration-Mechanisms]] - How partifuncts coordinate
+- [GFP and Genodules](GFP%20and%20Genodules.md) - What's being transcribed
+- [GFP Structure](GFP%20Structure.md) - How information is stored
+- [BLU Biology](BLU%20Biology.md) - Where transcription occurs
+- [Multi Expression Potential](Multi%20Expression%20Potential.md) - Why same GFP → different outcomes
+- [Composite Organisms](Composite%20Organisms.md) - How partifuncts coordinate
 
 **Related Dispatches:**
-- [[D006-Biochemical-Architecture]] - Discovery of MGFP pathway
-- [[D007x-Modular-Genetics]] - Detailed pathway analysis
+- [B006 – Biochemical Architecture](Dispatches.md#b006) - Discovery of MGFP pathway
+- [B007 – Modular Assembly & Genetics](Dispatches.md#b007) - Detailed pathway analysis
 
 ---
 

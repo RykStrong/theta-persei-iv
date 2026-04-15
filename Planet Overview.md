@@ -2,7 +2,7 @@
 ---
 tags: [world, planet, overview, basics]
 aliases: [TPIV, Theta Persei IV, Planet TPIV]
-related: [[Stellar-System-Theta-Persei]], [[Atmosphere]], [[Moons-and-Tides]]
+related: [Stellar System Theta Persei](Stellar%20System%20Theta%20Persei.md), [Atmosphere](Atmosphere.md), [Moons and Tides](Moons%20and%20Tides.md)
 status: complete
 ---
 
@@ -47,7 +47,7 @@ At **0.91g**, TPIV's gravity is approximately 91% of Earth standard. This has se
 
 **Biological Effects:**
 - Enables larger flying organisms (less energy needed for lift)
-- Supports massive creatures in [[45-Flying-Forest|Flying Forest]] ecosystems
+- Supports massive creatures in [Flying Forest](Flying%20Forest.md) ecosystems
 - Slightly reduces metabolic costs of locomotion
 - May contribute to prevalence of hexapodal and octopodal body plans
 
@@ -102,7 +102,7 @@ TPIV's orbit around its F8V primary is slightly longer than Earth's year, creati
 - Longer seasons than Earth (19° axial tilt)
 - More time for seasonal adaptations
 - Migration patterns can span multiple local months
-- [[72c-Cyclical-Morphing|Cyclical morphing]] behaviors have time to fully express
+- [Cyclical morphing](Behavior.md) behaviors have time to fully express
 
 ### Axial Tilt
 
@@ -115,7 +115,7 @@ Slightly less than Earth's 23.5°, resulting in **moderate but distinct seasons*
 - Polar regions experience milder winters
 - Equatorial regions relatively stable year-round
 - Mid-latitudes show clear four-season pattern
-- Supports [[44-Magna-Steppe|Magna Steppe]] seasonal migration patterns
+- Supports [Magna Steppe](Magna%20Steppe.md) seasonal migration patterns
 
 ### Orbital Eccentricity
 
@@ -137,28 +137,28 @@ TPIV's nearly circular orbit ensures consistent solar radiation throughout the y
 
 **Five Major Landmasses:**
 
-1. **[[14a-Magna]]** - Largest continent, spans 70°N to 35°S
+1. **[Continents](Continents.md)** - Largest continent, spans 70°N to 35°S
    - Equatorial position
    - Highest biodiversity
-   - Site of [[94c-Camp-Aurora|Camp Aurora]] base
+   - Site of [Camp Aurora](PRXEMA.md) base
    
-2. **[[14b-Dualis]]** - Two subcontinents connected by isthmus
+2. **[Continents](Continents.md)** - Two subcontinents connected by isthmus
    - Southern hemisphere
    - Tropical to Antarctic range
    - Critical "mixing zone" for partifuncts
    
-3. **[[14c-Piedmont]]** - Smaller northern continent
+3. **[Continents](Continents.md)** - Smaller northern continent
    - Ancient eroded mountains
    - Connected to Magna
    
-4. **[[14d-Apanon]]** - Circular island continent
+4. **[Continents](Continents.md)** - Circular island continent
    - Isolated evolution
-   - Homeland of insect-communicating [[50-Distributed-Organisms-Overview|Distributed Organisms]]
+   - Homeland of insect-communicating [Distributed Organisms](Distributed%20Organisms%20Overview.md)
    
-5. **[[14e-Kolofluke]]** - Elongated island continent
+5. **[Continents](Continents.md)** - Elongated island continent
    - Central mountain spine
    - Homeland of **radio-wave** Distributed Organisms
-   - Contains unique [[46-Dark-Forest-Kolofluke|Dark Forest]] biome
+   - Contains unique [Dark Forest](Dark%20Forest%20Kolofluke.md) biome
 
 **Continental Connections:**
 - Magna-Dualis-Piedmont form connected supercluster
@@ -168,13 +168,13 @@ TPIV's nearly circular orbit ensures consistent solar radiation throughout the y
 ### Ocean Basins
 
 **Seven Named Oceans:**
-- [[15a-PanTheta-Ocean|PanTheta]] - Largest, circumglobal
-- [[15b-Long-Ocean|Long]] - Elongated basin
-- [[15c-Dualis-Ocean|Dualis]] - Between Dualis subcontinents
-- [[15d-Apaono-Ocean|Apaono]] - Surrounding Apanon
-- [[15e-Pamagna-Ocean|Pamagna]] - Adjacent to Magna
-- [[15f-Arctic-Ocean|Arctic]] - North polar
-- [[15g-Antarctic-Ocean|Antarctic]] - South polar
+- [PanTheta](Continents.md) - Largest, circumglobal
+- [Long](Continents.md) - Elongated basin
+- [Dualis](Continents.md) - Between Dualis subcontinents
+- [Apaono](Continents.md) - Surrounding Apanon
+- [Pamagna](Continents.md) - Adjacent to Magna
+- [Arctic](Continents.md) - North polar
+- [Antarctic](Continents.md) - South polar
 
 **Ocean Characteristics:**
 - Average depth: ~3,800 m (similar to Earth)
@@ -198,7 +198,7 @@ TPIV's nearly circular orbit ensures consistent solar radiation throughout the y
 
 ### Atmospheric Composition
 
-See [[Atmosphere]] for detailed analysis.
+See [Atmosphere](Atmosphere.md) for detailed analysis.
 
 **Brief Summary:**
 - 60% Nitrogen
@@ -210,7 +210,7 @@ See [[Atmosphere]] for detailed analysis.
 **Higher Oxygen Implications:**
 - Supports larger organisms
 - More efficient metabolism
-- Enables [[45-Flying-Forest|Flying Forest]] ecosystem
+- Enables [Flying Forest](Flying%20Forest.md) ecosystem
 - Contributes to brilliant colors in sky
 
 ### Weather Patterns
@@ -225,7 +225,7 @@ See [[Atmosphere]] for detailed analysis.
 - Hurricanes/cyclones in tropical oceans
 - Monsoon patterns in continental interiors
 - Polar vortex systems in winter
-- [[47-Central-Tidal-Lakes-Magna|Tidal lake systems]] create unique local weather
+- [Tidal lake systems](Central%20Tidal%20Lakes%20Magna.md) create unique local weather
 
 ---
 
@@ -233,18 +233,18 @@ See [[Atmosphere]] for detailed analysis.
 
 ### Three-Moon System
 
-See [[Moons-and-Tides]] for complete analysis.
+See [Moons and Tides](Moons%20and%20Tides.md) for complete analysis.
 
 **The Three Moons:**
-1. **[[13a-Tida-Primary-Moon|Tida]]** - Primary moon (1.3 Luna masses)
-   - 24.6-day orbit
+1. **[Tida](Tida.md)** - Primary moon (1.3 Luna masses)
+   - 6.1-day orbit
    - Drives strong tides
    
-2. **[[13b-Lumna-Secondary-Moon|Lumna]]** - Secondary (0.5 Luna masses)
-   - 47-day orbit
+2. **[Lumna](Lumna.md)** - Secondary (0.5 Luna masses)
+   - 37-day orbit
    - Highly reflective (bright nights)
    
-3. **[[13c-Radita-Tertiary-Moon|Radita]]** - Tertiary (0.01 Luna masses)
+3. **[Radita](Radita.md)** - Tertiary (0.01 Luna masses)
    - 1.3-day orbit
    - High variable radiation source
    - Retrograde orbit
@@ -252,7 +252,7 @@ See [[Moons-and-Tides]] for complete analysis.
 **Compound Effects:**
 - **Super-tides** when moons align
 - Frequent eclipses (multiple types)
-- Complex tidal patterns → [[48-Intertidal-Zones|evolutionary hotspots]]
+- Complex tidal patterns → [evolutionary hotspots](Littoral%20Zones.md)
 - Navigation cues for organisms
 - Reproductive synchronization triggers
 
@@ -265,18 +265,18 @@ See [[Moons-and-Tides]] for complete analysis.
 - Stable polarity (no recent reversals detected)
 - Van Allen-style radiation belts
 - Protects surface from stellar radiation
-- Enables [[13c-Radita-Tertiary-Moon|Radita]] radiation to be primary timing cue
+- Enables [Radita](Radita.md) radiation to be primary timing cue
 
 **Biological Implications:**
 - Some organisms use magnetoreception for navigation
-- [[14e-Kolofluke|Kolofluke]] radio-wave organisms may use field for signal propagation
+- [Kolofluke](Continents.md) radio-wave organisms may use field for signal propagation
 - Minimal radiation hazard for survey personnel
 
 ---
 
 ## Geological Activity
 
-See [[16-Geologic-History]] for detailed analysis.
+See [Stellar System Theta Persei](Stellar%20System%20Theta%20Persei.md) for detailed analysis.
 
 ### Plate Tectonics
 
@@ -288,8 +288,8 @@ See [[16-Geologic-History]] for detailed analysis.
 
 **Activity Level:**
 - Moderate (less active than Earth currently)
-- [[14a-Magna|Magna]] sits on stable craton
-- [[14e-Kolofluke|Kolofluke]] shows recent volcanic activity
+- [Magna](Continents.md) sits on stable craton
+- [Kolofluke](Continents.md) shows recent volcanic activity
 - Seismic activity concentrated at plate boundaries
 
 ### Volcanism
@@ -306,28 +306,28 @@ See [[16-Geologic-History]] for detailed analysis.
 - Accelerated chemical weathering
 - Rapid oxidation of exposed minerals
 - Contributes to soil fertility
-- [[14c-Piedmont|Piedmont]] shows extensive ancient erosion
+- [Piedmont](Continents.md) shows extensive ancient erosion
 
 ---
 
 ## Navigation
 
 **Detailed Information:**
-- [[Stellar-System-Theta-Persei|Stellar System]] - The Theta Persei system
-- [[Atmosphere|Atmosphere]] - Detailed atmospheric analysis
-- [[Moons-and-Tides|Three Moons]] - Tidal system and lunar effects
-- [[Continents|Continents]] - Five major landmasses
-- [[15-Oceans|Oceans]] - Seven ocean basins
-- [[16-Geologic-History|Geological History]] - 3 billion years of evolution
+- [Stellar System](Stellar%20System%20Theta%20Persei.md) - The Theta Persei system
+- [Atmosphere](Atmosphere.md) - Detailed atmospheric analysis
+- [Three Moons](Moons%20and%20Tides.md) - Tidal system and lunar effects
+- [Continents](Continents.md) - Five major landmasses
+- [Oceans](Continents.md) - Seven ocean basins
+- [Geological History](Stellar%20System%20Theta%20Persei.md) - 3 billion years of evolution
 
 **Related Topics:**
-- [[Biology Overview|Biology Overview]] - Why life is different here
-- [[40-Ecology-Overview|Ecology]] - Biomes and ecosystems
-- [[94-PRXEMA-and-Field-Docs|PRXEMA Mission]] - Survey details
+- [Biology Overview](Biology%20Overview.md) - Why life is different here
+- [Ecology](Ecology%20Overview.md) - Biomes and ecosystems
+- [PRXEMA Mission](PRXEMA.md) - Survey details
 
 ---
 
-*Related Dispatches: [[D002-Planetary-Overview]], [[D004-Initial-Drone-Descent]]*
+*Related Dispatches: [B002 – TPIV Planetary Overview](Dispatches.md#b002), [B004 – Drone Descent](Dispatches.md#b004)*
 
 *"It looks like home from orbit. Blue-green oceans, white clouds, brown-green continents. It's not until you're on the ground that you realize how profoundly different it all is."*
 *— Dr. Marcus Chen, Atmospheric Scientist, Day 3*

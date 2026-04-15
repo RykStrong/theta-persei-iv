@@ -95,7 +95,7 @@ Range: Individual can span 500-3000m altitude range over lifetime
 - Interaction with terrestrial ecosystems
 - Seeds drop, organisms ascend
 - Nutrient exchange (rain washes material down)
-- [[59b2-Cloud-Forest-Interaction|Cloud forest overlap]]
+- [Cloud forest overlap](Flying%20Forest.md)
 ---
 
 ## Nutrient Cycling
@@ -136,7 +136,7 @@ Range: Individual can span 500-3000m altitude range over lifetime
 1. Wet season: Flying Forest concentrates at altitude
 2. Dry season: Descends toward mountains
 3. Physical contact with mountain cloud forests
-4. Genetic exchange ([[Environmental-GFP|eGFP]] mixing)
+4. Genetic exchange ([eGFP](Environmental%20GFP.md) mixing)
 5. Some organisms transition (sky → mountain → sky)
 
 **Benefits:**
@@ -164,7 +164,7 @@ Range: Individual can span 500-3000m altitude range over lifetime
 - Autotrophs go dormant (short-term)
 - Mobile organisms move to unshaded areas
 - Predators follow prey migrations
-- [[Dark-Forest-Kolofluke|Dark Forest]] extreme example (permanent blocking)
+- [Dark Forest](Dark%20Forest%20Kolofluke.md) extreme example (permanent blocking)
 
 **Flying Forest Movement:**
 - Wind-driven drift (prevailing patterns)
@@ -176,7 +176,7 @@ Range: Individual can span 500-3000m altitude range over lifetime
 
 ## Gas Management Strategies
 
-### [[59b1-Gas-Management-Strategies|Complex Adaptations]]
+### [Complex Adaptations](Flying%20Forest.md)
 
 **The creatures of the Flying Forest have developed many novel gas management strategies; they can store compressed gases.**
 

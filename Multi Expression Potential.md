@@ -2,7 +2,7 @@
 ---
 tags: [biology, partifuncts, development, expression, phenotype]
 aliases: [Multi-Expression, Context-Dependent Expression, Partifunct Flexibility]
-related: [[Partifunct Core Definition]], [[22c-MGFP-Transcription-Pathway]], [[25a-Womb-Enabled-Reproduction]]
+related: [Partifunct Core Definition](Partifunct%20Core%20Definition.md), [MGFP Transcription Pathway](MGFP%20Transcription%20Pathway.md), [Womb Enabled Reproduction](Womb%20Enabled%20Reproduction.md)
 status: complete
 ---
 
@@ -10,7 +10,7 @@ status: complete
 
 **Definition:** Single partifunct genodule can express in multiple different forms  
 **Key Factor:** Environmental context during development determines final form  
-**Mechanism:** [[MGFP-Transcription-Pathway|MGFP-G]] layer interprets womb signals and conditions  
+**Mechanism:** [MGFP-G](MGFP%20Transcription%20Pathway.md) layer interprets womb signals and conditions  
 **Result:** Same genetic lineage → vastly different structures
 
 ---
@@ -22,7 +22,7 @@ status: complete
 **Not Genetic Determinism:**
 - Genodule contains potential, not blueprint
 - Final form depends on:
-  - [[3B-Womb-Partifunct-Systems|Womb signals]]
+  - [Womb signals](Womb%20Partifunct%20Systems.md)
   - Body plan of composite organism
   - Environmental conditions
   - Signals from other partifuncts
@@ -31,7 +31,7 @@ status: complete
 
 **Analogy:**
 - GFP is like sheet music
-- [[MGFP-Transcription-Pathway|MGFP-G]] is the conductor
+- [MGFP-G](MGFP%20Transcription%20Pathway.md) is the conductor
 - Final protein expression is the performance
 - Same music, different interpretation
 
@@ -41,7 +41,7 @@ status: complete
 
 ### Most Versatile Partifunct
 
-**[[88a-ST-LMB-Lignin-Limb-Segment|ST-LMB]] (Structural-Limb-Lignin-Based):**
+**[ST-LMB](Partifunct%20Domain%20&%20Function%20Table.md) (Structural-Limb-Lignin-Based):**
 - Single genodule lineage
 - ~30% of TPIV biomass
 - Most successful partifunct on planet
@@ -73,7 +73,7 @@ status: complete
 
 ### Womb-Mediated Control
 
-**During [[Womb-Enabled-Reproduction|Assembly-Conception]]:**
+**During [Assembly-Conception](Womb%20Enabled%20Reproduction.md):**
 
 1. **Womb receives partifzygotes** from all partifuncts
 2. **Womb assesses** compatibility and body plan
@@ -84,7 +84,7 @@ status: complete
    - "Large" vs "Small" size class
 
 4. **ST-LMB partifzygote receives signals**
-5. **[[MGFP-Transcription-Pathway|MGFP-G]] interprets context:**
+5. **[MGFP-G](MGFP%20Transcription%20Pathway.md) interprets context:**
    - Reads womb hormones
    - Senses other partifunct signals
    - Detects environmental cues
@@ -130,7 +130,7 @@ status: complete
 **Light:**
 - High light (autotrophs) → maximized surface area
 - Low light → reduced photosynthetic structures
-- Dark ([[46-Dark-Forest-Kolofluke|Dark Forest]]) → chemosensory emphasis
+- Dark ([Dark Forest](Dark%20Forest%20Kolofluke.md)) → chemosensory emphasis
 
 ### Chemical Signals
 
@@ -193,10 +193,10 @@ status: complete
   - Aquatic ecosystems (fin rays)
 
 **Spread Mechanisms:**
-- Autotrophs shed ST-LMB [[Environmental-GFP|eGFP]]
+- Autotrophs shed ST-LMB [eGFP](Environmental%20GFP.md)
 - Herbivores collect it by eating grass
 - Carnivores collect it by eating herbivores
-- [[Womb-Enabled-Reproduction|Wombs]] incorporate proven lineage
+- [Wombs](Womb%20Enabled%20Reproduction.md) incorporate proven lineage
 - Rapid spread across ecosystem
 
 ### Adaptation Speed
@@ -251,7 +251,7 @@ status: complete
 **Same Genodule:**
 - **Simple reflexes:** In small, simple organisms
 - **Complex cognition:** In large, complex organisms
-- **Distributed processing:** In [[50-Distributed-Organisms-Overview|DOs]]
+- **Distributed processing:** In [DOs](Distributed%20Organisms%20Overview.md)
 - **Specialized modules:** In tool-users
 
 **Context Determines:**
@@ -267,7 +267,7 @@ status: complete
 ### Taxa Variation
 
 **Within "Species":**
-- [[TPM-Zebra-Grazer|Zebra Grazers]] show:
+- [Zebra Grazers](TPM%20Example.md) show:
   - Variable leg count (6-8 common)
   - Different leg proportions
   - Variable joint configurations
@@ -277,13 +277,13 @@ status: complete
 - Each individual's womb made slightly different decisions
 - Environmental conditions varied
 - Other partifunct signals differed
-- Result: High [[31-Taxa-and-Metrics-PSV-MDI|MDI]] within taxon
+- Result: High [MDI](Taxa%20and%20Metrics.md) within taxon
 
 ### Cross-Biome Comparisons
 
 **Same Partifunct Lineage:**
-- [[44-Magna-Steppe|Steppe]] ST-LMB: Long, slender legs (running)
-- [[45-Flying-Forest|Aerial]] ST-LMB: Lightweight wing struts
+- [Steppe](Magna%20Steppe.md) ST-LMB: Long, slender legs (running)
+- [Aerial](Flying%20Forest.md) ST-LMB: Lightweight wing struts
 - Aquatic ST-LMB: Flexible fin supports
 - Mountain ST-LMB: Short, thick limbs (climbing)
 
@@ -323,20 +323,20 @@ status: complete
 ## Navigation
 
 **Core Concepts:**
-- [[Partifunct Core Definition]] - What partifuncts are
-- [[MGFP-Transcription-Pathway]] - How expression is controlled
-- [[Womb-Enabled-Reproduction]] - Where expression decisions made
-- [[3B-Womb-Partifunct-Systems]] - Womb's role in development
+- [Partifunct Core Definition](Partifunct%20Core%20Definition.md) - What partifuncts are
+- [MGFP Transcription Pathway](MGFP%20Transcription%20Pathway.md) - How expression is controlled
+- [Womb Enabled Reproduction](Womb%20Enabled%20Reproduction.md) - Where expression decisions made
+- [Womb Partifunct Systems](Womb%20Partifunct%20Systems.md) - Womb's role in development
 
 **Related Topics:**
-- [[88a-ST-LMB-Lignin-Limb-Segment]] - Most versatile partifunct example
-- [[Natural-Selection-on-TPIV]] - Evolutionary pressures
-- [[31-Taxa-and-Metrics-PSV-MDI]] - How variation is measured
-- [[72c-Cyclical-Morphing]] - Post-development expression changes
+- [Partifunct Domain & Function Table](Partifunct%20Domain%20&%20Function%20Table.md) - Most versatile partifunct example
+- [Natural Selection on TPIV](Natural%20Selection%20on%20TPIV.md) - Evolutionary pressures
+- [Taxa and Metrics](Taxa%20and%20Metrics.md) - How variation is measured
+- [Behavior](Behavior.md) - Post-development expression changes
 
 **Related Dispatches:**
-- [[D007-Modular-Assembly]] - Discovery of multi-expression
-- [[D009-Developmental-Plasticity]] - Experimental manipulation studies
+- [B007 – Modular Assembly & Genetics](Dispatches.md#b007) - Discovery of multi-expression
+- [B009 – Non-Womb Reproduction](Dispatches.md#b009) - Experimental manipulation studies
 
 ---
 

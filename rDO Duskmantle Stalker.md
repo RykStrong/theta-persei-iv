@@ -2,7 +2,7 @@
 ---
 tags: [biology, distributed-organisms, predator, rDO, radio-communication, kolofluke, example-taxa]
 aliases: [rDO-Duskmantle, Duskmantle Stalker, rDO-Duskmantle Stalker]
-related: [[42-Example-DOs]], [[42c-TPM-rDO-Duskmantle]], [[Distributed-Organisms-Overview]], [[Note-on-Kolofluke-rDO]]
+related: [Distributed Organisms Overview](Distributed%20Organisms%20Overview.md), [rDO Duskmantle Stalker](rDO%20Duskmantle%20Stalker.md), [Distributed Organisms Overview](Distributed%20Organisms%20Overview.md), [rDO Organisms](rDO%20Organisms.md)
 status: complete
 
 ---
@@ -10,7 +10,7 @@ status: complete
 # rDO-Duskmantle Stalker
 
 **Classification:** Ambush Predator (Distributed, Radio-Based)  
-**Biome:** [[14e-Kolofluke|Kolofluke]] [[46-Dark-Forest-Kolofluke|Dark Forest]] regions  
+**Biome:** [Kolofluke](Continents.md) [Dark Forest](Dark%20Forest%20Kolofluke.md) regions  
 **PSV:** 71% (±1σ)  
 **MDI:** 7.1  
 **Communication:** Radio wave emissions (electromagnetic)
@@ -21,10 +21,10 @@ status: complete
 
 ### Radio-Based Predator DO
 
-**rDO-Duskmantle Stalker** is the apex predator of [[14e-Kolofluke|Kolofluke's]] [[46-Dark-Forest-Kolofluke|Dark Forest]] biome, utilizing electromagnetic communication to coordinate hunting in near-total darkness.
+**rDO-Duskmantle Stalker** is the apex predator of [Kolofluke's](Continents.md) [Dark Forest](Dark%20Forest%20Kolofluke.md) biome, utilizing electromagnetic communication to coordinate hunting in near-total darkness.
 
 **Key Features:**
-- Multiple specialized [[Partivant-Definition|partivant]] types adapted for darkness
+- Multiple specialized [partivant](Partivant%20Definition.md) types adapted for darkness
 - Radio wave communication (unique to Kolofluke)
 - Ambush hunting strategy coordinated across wide areas
 - Extreme low-light adaptations
@@ -39,8 +39,8 @@ status: complete
 ### Dark Forest Adaptation
 
 **Environmental Pressures:**
-- [[46-Dark-Forest-Kolofluke|Dark Forest]] biome: Sunless valleys created by [[45-Flying-Forest|Flying Forest]] blocking sunlight
-- [[CEP-and-Do-Mites|Do-mites]] need light for navigation (cannot function in darkness)
+- [Dark Forest](Dark%20Forest%20Kolofluke.md) biome: Sunless valleys created by [Flying Forest](Flying%20Forest.md) blocking sunlight
+- [Do-mites](CEP%20and%20Do-Mites.md) need light for navigation (cannot function in darkness)
 - Dense vegetation blocks chemical signals
 - Constant low-light conditions favor electromagnetic signals
 
@@ -52,7 +52,7 @@ status: complete
 - Weather-independent
 
 **Energy Cost:**
-- Requires specialized [[8F-Electrogenesis|electrogenesis partifuncts]]
+- Requires specialized [electrogenesis partifuncts](Trophic%20Roles%20No%20Plant%20Animal.md)
 - Higher metabolic demand than do-mites
 - Trade-off accepted for superior coordination in darkness
 
@@ -66,7 +66,7 @@ status: complete
 
 **Structure:**
 - Lean, stealthy build
-- Enhanced [[Sensory-Systems|low-light vision]] (massive pupils)
+- Enhanced [low-light vision](Sensory%20Systems.md) (massive pupils)
 - Echolocation capability (some lineages)
 - Long legs for silent movement
 - Minimal digestive system
@@ -85,7 +85,7 @@ status: complete
 
 **Behavior:**
 - Move silently through undergrowth
-- Utilize [[13b-Lumna-Secondary-Moon|Lumna's]] faint light
+- Utilize [Lumna's](Lumna.md) faint light
 - Radio broadcast constant position updates
 - Spread across wide area (1-3 km apart)
 
@@ -96,7 +96,7 @@ status: complete
 **Structure:**
 - Powerful muscular build
 - Silent movement adaptations (padded feet)
-- Enhanced [[33a-Motor-Control|MOTO brain]] (precise coordination)
+- Enhanced [MOTO brain](Nervous%20Systems.md) (precise coordination)
 - Strong jaws and claws
 - Minimal vision (rely on radio positioning)
 
@@ -159,20 +159,20 @@ Can coordinate attacks on prey they cannot see—scout nodes provide positioning
 - Some emit ultrasonic pulses (echolocation)
 - Some passive listeners (prey sounds, environmental)
 - Some infrared specialists (heat detection)
-- [[76-Distributed-Cognition|Sensory integration]] distributed across partivants
+- [Sensory integration](Distributed%20Organisms%20Overview.md) distributed across partivants
 
 ---
 
 ### Cognitive Nodes
 
 **Structure:**
-- Multiple [[33-Brain-Partifuncts|brain partifuncts]] (MEMO, STRA, NAVI, SENS)
+- Multiple [brain partifuncts](Nervous%20Systems.md) (MEMO, STRA, NAVI, SENS)
 - Well-protected in den sites
 - Moderate size
 - Enhanced radio transmission/reception capability
 
 **Function:**
-- [[76-Distributed-Cognition|Distributed cognition]] coordination
+- [Distributed cognition](Distributed%20Organisms%20Overview.md) coordination
 - Strategic planning (ambush site selection)
 - Memory storage (Dark Forest geography, successful ambush points)
 - Decision-making integration across all partivants
@@ -213,7 +213,7 @@ Can coordinate attacks on prey they cannot see—scout nodes provide positioning
 ### Electromagnetic Integration
 
 **Transmission:**
-- Specialized [[8F-Electrogenesis|electrogenesis partifuncts]] generate radio waves
+- Specialized [electrogenesis partifuncts](Trophic%20Roles%20No%20Plant%20Animal.md) generate radio waves
 - Frequency range: ~10-100 MHz (estimated)
 - Simultaneous amplitude and frequency modulation encodes information
 - Multiple channels (simultaneous signals)
@@ -222,7 +222,7 @@ Can coordinate attacks on prey they cannot see—scout nodes provide positioning
 - Dedicated receptor organs (electromagnetic-sensitive tissues)
 - Neural processing of radio patterns
 - Pattern recognition (signal → meaning)
-- Integration with [[33e-Sensory-Integration|SENS brain]]
+- Integration with [SENS brain](Nervous%20Systems.md)
 
 **Signal Types:**
 - **Position data:** Scout locations, prey locations (GPS-like coordinates)
@@ -293,7 +293,7 @@ Entire hunt can occur in complete darkness—prey never sees predators, predator
 - Relay nodes: Fixed positions on high ground
 - Maximum observed separation: 15 km (scout to cognitive node)
 
-**[[41d-Airspace-Conflicts|Radio Interference Conflicts]]:**
+**[Radio Interference Conflicts](DO-Mite%20conflict.md):**
 - Neighboring packs on overlapping frequencies
 - Territorial battles fought via signal jamming
 - Winner occupies frequency, loser forced to shift
@@ -313,7 +313,7 @@ Created as needed during denning season.
 - Radio communication must function from birth
 - Relay nodes must be positioned correctly
 - Higher failure rate than chemical DOs (extremely complex coordination)
-- [[3B-Womb-Partifunct-Systems|Womb]] in reproductive partivant highly sophisticated
+- [Womb](Womb%20Partifunct%20Systems.md) in reproductive partivant highly sophisticated
 
 **Birth:**
 - Produces 4-8 offspring partivants initially
@@ -323,7 +323,7 @@ Created as needed during denning season.
 
 **Development:**
 - Additional partivants added over time
-- Collect [[Environmental-GFP|eGFP]] from prey and environment
+- Collect [eGFP](Environmental%20GFP.md) from prey and environment
 - Full adult complement: 18-30 partivants (higher than chemical DOs due to relays)
 - Maturation: 2-3 local years
 
@@ -342,7 +342,7 @@ Created as needed during denning season.
 **Ecosystem Impact:**
 - Regulates herbivore populations in Dark Forest
 - Prevents overgrazing of sparse understory vegetation
-- [[Natural-Selection-on-TPIV|Selection pressure]] drives prey adaptations (radio detection, enhanced hearing)
+- [Selection pressure](Natural%20Selection%20on%20TPIV.md) drives prey adaptations (radio detection, enhanced hearing)
 
 **Competition:**
 - Other rDO-Duskmantle packs (radio conflicts)
@@ -357,7 +357,7 @@ Created as needed during denning season.
 
 **Echolocation:**
 - Active sound pulses (20-80 kHz)
-- Echo processing in [[33e-Sensory-Integration|SENS brain]]
+- Echo processing in [SENS brain](Nervous%20Systems.md)
 - Three-dimensional terrain mapping
 - Prey detection and tracking
 - Shared via radio (all partivants "see" echolocation data)
@@ -370,7 +370,7 @@ Created as needed during denning season.
 
 **Minimal Vision:**
 - Eyes reduced (some partivants nearly blind)
-- Low-light adaptation sufficient for faint [[13b-Lumna-Secondary-Moon|Lumna]] light
+- Low-light adaptation sufficient for faint [Lumna](Lumna.md) light
 - Vision supplementary to other senses
 - Energy saved by reducing visual processing
 
@@ -390,7 +390,7 @@ Created as needed during denning season.
 - ✗ Vulnerable to electromagnetic interference
 - ✗ Requires relay nodes (additional partivants)
 
-**Do-Mites ([[42b-DO-HillWolf-Stalker|DO-HillWolf]]):**
+**Do-Mites ([DO-HillWolf](DO%20HillWolf%20PackHunter.md)):**
 - ✓ Lower energy cost
 - ✓ Carries physical cargo
 - ✓ More secure (chemical specific)
@@ -411,7 +411,7 @@ Created as needed during denning season.
 - Terrain interference (deep canyons)
 
 **Biological:**
-- Other rDOs jamming frequencies ([[41d-Airspace-Conflicts|radio warfare]])
+- Other rDOs jamming frequencies ([radio warfare](DO-Mite%20conflict.md))
 - Prey evolving radio-detection capability (early warning)
 - Relay node predation (disrupts network)
 
@@ -451,32 +451,32 @@ Created as needed during denning season.
 ## Navigation
 
 **Core Concepts:**
-- [[42-Example-DOs]] - Overview page
-- [[42c-TPM-rDO-Duskmantle]] - Detailed taxon manifest
-- [[Distributed-Organisms-Overview]] - DO biology
-- [[Note-on-Kolofluke-rDO]] - Radio communication evolution
+- [Distributed Organisms Overview](Distributed%20Organisms%20Overview.md) - Overview page
+- [rDO Duskmantle Stalker](rDO%20Duskmantle%20Stalker.md) - Detailed taxon manifest
+- [Distributed Organisms Overview](Distributed%20Organisms%20Overview.md) - DO biology
+- [rDO Organisms](rDO%20Organisms.md) - Radio communication evolution
 
 **Habitat:**
-- [[14e-Kolofluke]] - Home continent
-- [[46-Dark-Forest-Kolofluke]] - Primary hunting grounds
+- [Continents](Continents.md) - Home continent
+- [Dark Forest Kolofluke](Dark%20Forest%20Kolofluke.md) - Primary hunting grounds
 
 **Communication:**
-- [[8F-Electrogenesis]] - Radio generation mechanism
-- [[41d-Airspace-Conflicts]] - Radio frequency conflicts
+- [Trophic Roles No Plant Animal](Trophic%20Roles%20No%20Plant%20Animal.md) - Radio generation mechanism
+- [DO-Mite conflict](DO-Mite%20conflict.md) - Radio frequency conflicts
 
 **Related Taxa:**
-- [[42b-DO-HillWolf-Stalker]] - Chemical DO predator (comparison)
-- [[DO-ScrubDeer-Browser]] - Herbivore DO (different strategy)
+- [DO HillWolf PackHunter](DO%20HillWolf%20PackHunter.md) - Chemical DO predator (comparison)
+- [DO ScrubDeer Browser](DO%20ScrubDeer%20Browser.md) - Herbivore DO (different strategy)
 
 **Related Topics:**
-- [[76-Distributed-Cognition]] - Shared intelligence
-- [[33-Brain-Partifuncts]] - Cognitive specialization
-- [[Sensory-Systems]] - Echolocation and infrared
+- [Distributed Organisms Overview](Distributed%20Organisms%20Overview.md) - Shared intelligence
+- [Nervous Systems](Nervous%20Systems.md) - Cognitive specialization
+- [Sensory Systems](Sensory%20Systems.md) - Echolocation and infrared
 
 **Related Dispatches:**
-- [[D042-Radio-Wave-Organisms]] - Discovery of rDOs
-- [[D054-Duskmantle-Hunt-Recording]] - Coordinated darkness kill
-- [[D055-Echolocation-Radio-Integration]] - Sensory data sharing
+- [B018 – Radio Distributed Organisms](Dispatches.md#b018) - Discovery of rDOs
+- [B017 – Distributed Organisms](Dispatches.md#b017) - Coordinated darkness kill
+- [B017 – Distributed Organisms](Dispatches.md#b017) - Sensory data sharing
 
 ---
 

@@ -2,7 +2,7 @@
 ---
 tags: [biology, reproduction, evolution, strategy, fitness]
 aliases: [Reproductive Strategies, Fitness Strategies, Partifunct Strategies]
-related: [[Reproduction-Assembly-Conception]], [[Natural-Selection-on-TPIV]], [[Partifunct Core Definition]]
+related: [Reproduction Assembly Conception](Reproduction%20Assembly%20Conception.md), [Natural Selection on TPIV](Natural%20Selection%20on%20TPIV.md), [Partifunct Core Definition](Partifunct%20Core%20Definition.md)
 status: complete
 ---
 
@@ -20,7 +20,7 @@ status: complete
 ### Fitness Goals for Partifuncts
 
 **Success = Incorporation:**
-- Partifunct "succeeds" when its [[Environmental-GFP|eGFP]] gets incorporated into offspring
+- Partifunct "succeeds" when its [eGFP](Environmental%20GFP.md) gets incorporated into offspring
 - Spread measured by presence in composite organisms
 - Multi-generational persistence
 - Geographic/ecological range
@@ -29,7 +29,7 @@ status: complete
 - Partifunct fitness ≠ organism fitness
 - Can succeed even if host organism dies
 - Reproduction independent of organism reproduction
-- [[Natural-Selection-on-TPIV|Selection at partifunct level]]
+- [Selection at partifunct level](Natural%20Selection%20on%20TPIV.md)
 
 ---
 
@@ -43,13 +43,13 @@ status: complete
   - Specialized reproductive structures
 
 **Carrier Diversification:**
-- Compatible with multiple [[GFP-Carriers-and-Vectors|carrier types]]
+- Compatible with multiple [carrier types](GFP%20Carriers%20and%20Vectors.md)
 - Wind-dispersed pollen
 - Mite-carried packets
 - Water-borne forms
 - Animal-ingested seeds
 
-**Example - [[88a-ST-LMB-Lignin-Limb-Segment|ST-LMB]]:**
+**Example - [ST-LMB](Partifunct%20Domain%20&%20Function%20Table.md):**
 - Expresses in grasses → wind-dispersed pollen
 - Expresses in grazers → fecal dispersal
 - Expresses in predators → tissue shedding
@@ -61,7 +61,7 @@ status: complete
 
 **Multi-Context Expression:**
 - Same genodule expresses in radically different contexts
-- [[Multi-Expression-Potential|Autotroph AND heterotroph forms]]
+- [Autotroph AND heterotroph forms](Multi%20Expression%20Potential.md)
 - Sessile AND mobile expressions
 - Maximizes ecological reach
 
@@ -99,7 +99,7 @@ status: complete
 
 **Chemical Recognition:**
 - Develop recognition markers attractive to wombs
-- [[3B-Womb-Partifunct-Systems|Wombs]] preferentially select certain lineages
+- [Wombs](Womb%20Partifunct%20Systems.md) preferentially select certain lineages
 - Proven-lineage signals
 - Compatibility broadcasting
 
@@ -115,14 +115,14 @@ status: complete
 
 **Minimal Innovation:**
 - Some partifuncts prioritize stability over flexibility
-- [[88a-ST-LMB-Lignin-Limb-Segment|ST-LMB]] strategy (universal utility)
+- [ST-LMB](Partifunct%20Domain%20&%20Function%20Table.md) strategy (universal utility)
 - Low mutation rate
 - Highly conserved sequences
 
 **Advantages:**
 - Known to work with many partners
 - Low risk of incompatibility
-- Anchor for [[31-Taxa-and-Metrics-PSV-MDI|taxon]] identity
+- Anchor for [taxon](Taxa%20and%20Metrics.md) identity
 - Predictable performance
 
 **Trade-offs:**
@@ -136,12 +136,12 @@ status: complete
 
 **Maximum Flexibility:**
 - High expression plasticity
-- [[Multi-Expression-Potential|Context-dependent development]]
+- [Context-dependent development](Multi%20Expression%20Potential.md)
 - Rapid response to womb signals
 - Experimental lineages
 
 **Examples:**
-- [[33-Brain-Partifuncts|Cognitive partifuncts]] (variable complexity)
+- [Cognitive partifuncts](Nervous%20Systems.md) (variable complexity)
 - Sensory organs (multiple modalities)
 - Metabolic systems (diverse diets)
 
@@ -198,7 +198,7 @@ status: complete
 ### Strategy 1: Conservative Replication
 
 **Replicate Successful Parent:**
-- [[3B-Womb-Partifunct-Systems|Womb]] preferentially assembles parent's configuration
+- [Womb](Womb%20Partifunct%20Systems.md) preferentially assembles parent's configuration
 - Known-working combinations favored
 - Minimal experimentation
 - High offspring survival rate
@@ -213,7 +213,7 @@ status: complete
 - Reliable offspring production
 - Predictable outcomes
 - Efficient energy use
-- Maintains taxon coherence (high [[31-Taxa-and-Metrics-PSV-MDI|PSV]])
+- Maintains taxon coherence (high [PSV](Taxa%20and%20Metrics.md))
 
 **Disadvantages:**
 - Slow adaptation to change
@@ -236,7 +236,7 @@ status: complete
 - Some "experimental" offspring (novel assemblies)
 - Resource allocation balanced
 
-**Example - [[TPM-Zebra-Grazer|Zebra Grazer]] Litter:**
+**Example - [Zebra Grazer](TPM%20Example.md) Litter:**
 - Offspring A: 6 legs, standard configuration (conservative)
 - Offspring B: 8 legs, enhanced sensory (moderate innovation)
 - Offspring C: 6 legs, 2 mouths, novel brain module (high innovation)
@@ -252,7 +252,7 @@ status: complete
 ### Strategy 3: Environmental Adaptive Assembly
 
 **Context-Responsive Development:**
-- [[Womb-Enabled-Reproduction|Womb]] heavily weights environmental conditions
+- [Womb](Womb%20Enabled%20Reproduction.md) heavily weights environmental conditions
 - Cold → thicker bones, denser fur analogs
 - Scarce food → smaller size, efficient metabolism
 - High predation → enhanced defensive structures
@@ -285,7 +285,7 @@ status: complete
 - Winter offspring: Efficiency-optimized
 
 **Coordination:**
-- [[Moons-and-Tides|Lunar cycles]] provide timing cues
+- [Lunar cycles](Moons%20and%20Tides.md) provide timing cues
 - Temperature/photoperiod signals
 - Resource availability sensing
 - Population density feedback
@@ -297,7 +297,7 @@ status: complete
 **Group-Level Strategies:**
 
 **Partifunct Trading:**
-- [[72a-Partifunct-Trading-Rituals|Active exchange]] between organisms
+- [Active exchange](Behavior.md) between organisms
 - Herd members share successful eGFP
 - Deliberate genetic coordination
 - Collective fitness optimization
@@ -313,13 +313,13 @@ status: complete
 ### Strategy 6: Environmental Cultivation
 
 **Farming Preferred Partifuncts:**
-- [[72d-Environmental-Cultivation|Active management]] of eGFP sources
+- [Active management](Behavior.md) of eGFP sources
 - Grazers promote growth of preferred grass types
 - Predators maintain prey populations
 - Creates feedback loop enhancing own reproduction
 
 **Examples:**
-- [[52-DO-ScrubDeer-Browser|ScrubDeer]] cultivate preferred browse
+- [ScrubDeer](DO%20ScrubDeer%20Browser.md) cultivate preferred browse
 - Some predators "farm" prey populations
 - Autotrophs create conditions favoring their pollinators
 
@@ -330,14 +330,14 @@ status: complete
 **R-Strategy (Many Offspring):**
 - High reproductive rate
 - Minimal individual investment
-- [[Non-Womb-Reproduction|Non-womb reproduction]] typical
+- [Non-womb reproduction](Non%20Womb%20Reproduction.md) typical
 - High mortality acceptable
 - Examples: Autotrophs, microbes
 
 **K-Strategy (Few Offspring):**
 - Low reproductive rate
 - High individual investment
-- [[Womb-Enabled-Reproduction|Womb-enabled]] with extended care
+- [Womb-enabled](Womb%20Enabled%20Reproduction.md) with extended care
 - Low mortality essential
 - Examples: Large predators, complex organisms
 
@@ -355,7 +355,7 @@ status: complete
 **Example Conflict:**
 - Novel partifunct lineage highly dispersed (partifunct success)
 - But causes developmental problems (organism failure)
-- [[3B-Womb-Partifunct-Systems|Womb]] must balance innovation vs reliability
+- [Womb](Womb%20Partifunct%20Systems.md) must balance innovation vs reliability
 
 ---
 
@@ -400,7 +400,7 @@ status: complete
 - Can assemble from wide range of available eGFP
 - Adapts to variable environments
 - Maintains population under change
-- [[TPM-Zebra-Grazer|Zebra Grazer]] model
+- [Zebra Grazer](TPM%20Example.md) model
 
 **Optimized Specialist:**
 - Requires specific partifunct combinations
@@ -414,7 +414,7 @@ status: complete
 
 ### Partifunct Parasitism
 
-**[[63-Maladapted-Partifuncts|Selfish Partifuncts]]:**
+**[Selfish Partifuncts](Reproductive%20Strategies.md):**
 - Exploit system for own reproduction
 - Harm composite organism fitness
 - Hijack womb assembly
@@ -446,7 +446,7 @@ status: complete
 
 ### Behavioral Strategies Affect Genetics
 
-**[[75-Cultural-Fitness-Amplifiers|Cultural Behaviors]]:**
+**[Cultural Behaviors](Behavior.md):**
 - Feeding preferences affect eGFP collection
 - Migration patterns affect genetic exchange
 - Social structures affect partifunct trading
@@ -463,25 +463,25 @@ status: complete
 ## Navigation
 
 **Core Concepts:**
-- [[Reproduction-Assembly-Conception]] - Reproduction overview
-- [[Partifunct Core Definition]] - What reproduces at partifunct level
-- [[Composite-Organisms]] - What reproduces at organism level
-- [[Natural-Selection-on-TPIV]] - Selection pressures
+- [Reproduction Assembly Conception](Reproduction%20Assembly%20Conception.md) - Reproduction overview
+- [Partifunct Core Definition](Partifunct%20Core%20Definition.md) - What reproduces at partifunct level
+- [Composite Organisms](Composite%20Organisms.md) - What reproduces at organism level
+- [Natural Selection on TPIV](Natural%20Selection%20on%20TPIV.md) - Selection pressures
 
 **Mechanisms:**
-- [[Womb-Enabled-Reproduction]] - Organism strategy implementation
-- [[Environmental-GFP]] - Partifunct strategy medium
-- [[GFP-Carriers-and-Vectors]] - Dispersal strategies
+- [Womb Enabled Reproduction](Womb%20Enabled%20Reproduction.md) - Organism strategy implementation
+- [Environmental GFP](Environmental%20GFP.md) - Partifunct strategy medium
+- [GFP Carriers and Vectors](GFP%20Carriers%20and%20Vectors.md) - Dispersal strategies
 
 **Related Topics:**
-- [[31-Taxa-and-Metrics-PSV-MDI]] - Measuring strategy success
-- [[72a-Partifunct-Trading-Rituals]] - Active strategies
-- [[72d-Environmental-Cultivation]] - Cultivation strategies
-- [[63-Maladapted-Partifuncts]] - Failed strategies
+- [Taxa and Metrics](Taxa%20and%20Metrics.md) - Measuring strategy success
+- [Behavior](Behavior.md) - Active strategies
+- [Behavior](Behavior.md) - Cultivation strategies
+- [Reproductive Strategies](Reproductive%20Strategies.md) - Failed strategies
 
 **Related Dispatches:**
-- [[D014-Partifunct-Fitness-Analysis]] - Partifunct success patterns
-- [[D015-Womb-Decision-Modeling]] - Organism-level strategy mapping
+- [B014 – Taxon Partifunct Manifest](Dispatches.md#b014) - Partifunct success patterns
+- [B015 – Separated Behaviors](Dispatches.md#b015) - Organism-level strategy mapping
 
 ---
 

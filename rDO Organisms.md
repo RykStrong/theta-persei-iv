@@ -2,14 +2,14 @@
 ---
 tags: [biology, distributed-organisms, rDO, radio-communication, kolofluke, evolution]
 aliases: [Kolofluke rDO, Radio DOs, rDO Evolution, Electromagnetic Communication]
-related: [[14e-Kolofluke]], [[46-Dark-Forest-Kolofluke]], [[42c-rDO-Duskmantle-Hunter]], [[40-Distributed-Organisms-Overview]]
+related: [Continents](Continents.md), [Dark Forest Kolofluke](Dark%20Forest%20Kolofluke.md), [rDO Duskmantle Stalker](rDO%20Duskmantle%20Stalker.md), [Distributed Organisms Overview](Distributed%20Organisms%20Overview.md)
 status: complete
 ---
 
 # Kolofluke rDO
 
-**Unique Feature:** Radio-based [[Distributed-Organisms-Overview|Distributed Organisms]] found only on [[14e-Kolofluke|Kolofluke]]  
-**Communication:** Electromagnetic signals instead of chemical [[CEP-and-Do-Mites|do-mites]]  
+**Unique Feature:** Radio-based [Distributed Organisms](Distributed%20Organisms%20Overview.md) found only on [Kolofluke](Continents.md)  
+**Communication:** Electromagnetic signals instead of chemical [do-mites](CEP%20and%20Do-Mites.md)  
 **Prefix Convention:** **rDO** (radio-based Distributed Organism)  
 **Key Insight:** Independent evolution driven by unique environmental conditions
 
@@ -23,15 +23,15 @@ status: complete
 *"In the deeply shadowed hills of Kolofluke there seems to be a set of taxa that are using radio communications to facilitate distributed organism neurological tasks."*
 
 **Definition:**
-- [[Distributed-Organisms-Overview|Distributed Organisms]] using **radio wave emissions** for [[Partivant-Definition|partivant]] coordination
-- Found exclusively on [[14e-Kolofluke|Kolofluke]]
-- Use [[8F-Electrogenesis|electrogenesis partifuncts]] to generate electromagnetic signals
-- Prefix: **rDO** (example: [[42c-rDO-Duskmantle-Hunter|rDO-Duskmantle Stalker]])
+- [Distributed Organisms](Distributed%20Organisms%20Overview.md) using **radio wave emissions** for [partivant](Partivant%20Definition.md) coordination
+- Found exclusively on [Kolofluke](Continents.md)
+- Use [electrogenesis partifuncts](Trophic%20Roles%20No%20Plant%20Animal.md) to generate electromagnetic signals
+- Prefix: **rDO** (example: [rDO-Duskmantle Stalker](rDO%20Duskmantle%20Stalker.md))
 
 **Standard DOs (Comparison):**
-- Use chemical/pheromonal [[CEP-and-Do-Mites|do-mites]] for communication
+- Use chemical/pheromonal [do-mites](CEP%20and%20Do-Mites.md) for communication
 - Found on multiple continents
-- Prefix: **DO** (example: [[DO-ScrubDeer-Browser|DO-ScrubDeer Browser]])
+- Prefix: **DO** (example: [DO-ScrubDeer Browser](DO%20ScrubDeer%20Browser.md))
 
 ---
 
@@ -46,7 +46,7 @@ status: complete
 - Isolated from other landmasses
 
 **Unique Biome:**
-- **[[46-Dark-Forest-Kolofluke|Dark Forest]]:** Sunless valleys created by [[45-Flying-Forest|Flying Forest]] blocking sunlight
+- **[Dark Forest](Dark%20Forest%20Kolofluke.md):** Sunless valleys created by [Flying Forest](Flying%20Forest.md) blocking sunlight
 - Perpetual deep shadow in valley bottoms
 - Dense vegetation blocking chemical signals
 - Complex terrain interfering with do-mite navigation
@@ -58,7 +58,7 @@ status: complete
 ### Why Chemical Communication Fails
 
 **Do-Mite Limitations in Dark Forest:**
-- [[CEP-and-Do-Mites|Do-mites]] need light for navigation (visual cues)
+- [Do-mites](CEP%20and%20Do-Mites.md) need light for navigation (visual cues)
 - Cannot function in near-total darkness
 - Chemical signals dispersed by complex air currents in valleys
 - Dense vegetation blocks do-mite flight paths
@@ -77,7 +77,7 @@ status: complete
 ### How rDOs Emerged
 
 **Pre-Adaptation:**
-- Some [[Composite-Organisms|composite organisms]] already had weak [[8F-Electrogenesis|electrogenesis]] capability
+- Some [composite organisms](Composite%20Organisms.md) already had weak [electrogenesis](Trophic%20Roles%20No%20Plant%20Animal.md) capability
 - Used for:
   - Prey detection (electroreception)
   - Short-range communication (touch-based)
@@ -92,9 +92,9 @@ status: complete
 
 **Timeline:**
 - Estimated evolution: 5-10 million years ago
-- After [[45-Flying-Forest|Flying Forest]] established (created Dark Forest habitat)
+- After [Flying Forest](Flying%20Forest.md) established (created Dark Forest habitat)
 - Independent evolution (not imported from other continents)
-- [[Non-Homochirality|Modular biology]] enabled rapid partifunct innovation
+- [Modular biology](Non%20Homochirality.md) enabled rapid partifunct innovation
 
 ---
 
@@ -103,7 +103,7 @@ status: complete
 ### Specialized Partivant Types
 
 **Radio Transmission Partivants:**
-- Dedicated [[8F-Electrogenesis|electrogenesis organs]]
+- Dedicated [electrogenesis organs](Trophic%20Roles%20No%20Plant%20Animal.md)
 - Generate radio waves (10-100 MHz typical)
 - Higher metabolic cost than do-mite production
 - Present in most partivants (distributed transmission)
@@ -112,7 +112,7 @@ status: complete
 - Electromagnetic-sensitive tissues
 - Neural processing of radio patterns
 - Pattern recognition (signal → meaning)
-- Integration with [[33e-Sensory-Integration|SENS brain]]
+- Integration with [SENS brain](Nervous%20Systems.md)
 
 **Relay Partivants (Unique to rDOs):**
 - **Minimal body** (mostly electrogenesis organs)
@@ -140,7 +140,7 @@ status: complete
 - Works in complete darkness (critical for Dark Forest)
 - No light needed for navigation
 - Nocturnal coordination possible
-- [[13b-Lumna-Secondary-Moon|Lumna's]] light irrelevant
+- [Lumna's](Lumna.md) light irrelevant
 
 **Penetration:**
 - Passes through dense vegetation
@@ -179,7 +179,7 @@ status: complete
 - Some rDOs have specialized "courier" partivants (rare)
 
 **Vulnerability:**
-- **[[41d-Airspace-Conflicts|Radio interference]]** from other rDOs
+- **[Radio interference](DO-Mite%20conflict.md)** from other rDOs
 - Electromagnetic storms (very rare on TPIV)
 - Predators may evolve radio detection (early warning)
 - Relay node predation fragments territory
@@ -187,7 +187,7 @@ status: complete
 **Complexity:**
 - Requires relay infrastructure
 - More partivants needed than standard DOs
-- Higher [[3B-Womb-Partifunct-Systems|womb]] assembly complexity
+- Higher [womb](Womb%20Partifunct%20Systems.md) assembly complexity
 - Greater failure rate during reproduction
 
 ---
@@ -197,7 +197,7 @@ status: complete
 ### Geographic Range
 
 **Dark Forest (Primary):**
-- [[46-Dark-Forest-Kolofluke|Deepest valleys]] (sunless)
+- [Deepest valleys](Dark%20Forest%20Kolofluke.md) (sunless)
 - 60-70% of rDO populations
 - Apex predators and herbivores
 - No competition from standard DOs
@@ -221,7 +221,7 @@ status: complete
 ### Representative Species
 
 **Predators:**
-- **[[42c-rDO-Duskmantle-Hunter|rDO-Duskmantle Stalker]]:** Apex ambush predator
+- **[rDO-Duskmantle Stalker](rDO%20Duskmantle%20Stalker.md):** Apex ambush predator
   - Hunts in complete darkness
   - Echolocation + radio coordination
   - Scout/attack/cognitive partivants
@@ -267,12 +267,12 @@ status: complete
 - rDOs evolved on Kolofluke independently
 - Did not arrive from other continents
 - Island isolation + unique habitat = novel solution
-- [[Natural-Selection-on-TPIV|Convergent evolution]] would predict different solutions elsewhere
+- [Convergent evolution](Natural%20Selection%20on%20TPIV.md) would predict different solutions elsewhere
 
 **Modular Biology Advantage:**
-- [[Non-Homochirality|Partifunct modularity]] enabled rapid adaptation
+- [Partifunct modularity](Non%20Homochirality.md) enabled rapid adaptation
 - Electrogenesis partifuncts already existed (prey detection)
-- Repurposed for communication via [[Environmental-GFP|eGFP]] exchange
+- Repurposed for communication via [eGFP](Environmental%20GFP.md) exchange
 - Faster than evolving entirely new system from scratch
 
 **Unique to TPIV:**
@@ -297,7 +297,7 @@ status: complete
 - Electromagnetic signal patterns complex
 - Encoding not yet fully understood
 - Multiple simultaneous channels observed
-- [[76-Distributed-Cognition|Distributed cognition]] difficult to map
+- [Distributed cognition](Distributed%20Organisms%20Overview.md) difficult to map
 
 **Population Studies:**
 - Low density (energy-limited)
@@ -327,37 +327,37 @@ status: complete
 - How do rDOs shape Dark Forest ecosystem?
 - Competition with standard organisms in transition zones?
 - Prey adaptations to radio-coordinated predators?
-- [[41d-Airspace-Conflicts|Radio frequency partitioning]] between species?
+- [Radio frequency partitioning](DO-Mite%20conflict.md) between species?
 
 ---
 
 ## Navigation
 
 **Core Concepts:**
-- [[Distributed-Organisms-Overview]] - DO foundation
-- [[CEP-and-Do-Mites]] - Chemical communication (standard DOs)
-- [[8F-Electrogenesis]] - Radio generation mechanism
-- [[76-Distributed-Cognition]] - Shared consciousness
+- [Distributed Organisms Overview](Distributed%20Organisms%20Overview.md) - DO foundation
+- [CEP and Do-Mites](CEP%20and%20Do-Mites.md) - Chemical communication (standard DOs)
+- [Trophic Roles No Plant Animal](Trophic%20Roles%20No%20Plant%20Animal.md) - Radio generation mechanism
+- [Distributed Organisms Overview](Distributed%20Organisms%20Overview.md) - Shared consciousness
 
 **Habitat:**
-- [[14e-Kolofluke]] - Unique island continent
-- [[46-Dark-Forest-Kolofluke]] - Selection pressure environment
-- [[45-Flying-Forest]] - Creates Dark Forest conditions
+- [Continents](Continents.md) - Unique island continent
+- [Dark Forest Kolofluke](Dark%20Forest%20Kolofluke.md) - Selection pressure environment
+- [Flying Forest](Flying%20Forest.md) - Creates Dark Forest conditions
 
 **Examples:**
-- [[42c-rDO-Duskmantle-Hunter]] - Predator rDO
-- [[42b-DO-HillWolf-Hunter]] - Standard DO predator (comparison)
+- [rDO Duskmantle Stalker](rDO%20Duskmantle%20Stalker.md) - Predator rDO
+- [DO HillWolf PackHunter](DO%20HillWolf%20PackHunter.md) - Standard DO predator (comparison)
 
 **Related Topics:**
-- [[Natural-Selection-on-TPIV]] - Evolutionary pressures
-- [[42-Convergent-Evolution]] - Island biogeography
-- [[41d-Airspace-Conflicts]] - Radio frequency competition
+- [Natural Selection on TPIV](Natural%20Selection%20on%20TPIV.md) - Evolutionary pressures
+- [Convergent Evolution](Convergent%20Evolution.md) - Island biogeography
+- [DO-Mite conflict](DO-Mite%20conflict.md) - Radio frequency competition
 
 **Related Dispatches:**
-- [[D042-Radio-Wave-Organisms]] - Initial discovery
-- [[D069-rDO-Signal-Analysis]] - Communication patterns
-- [[D070-Dark-Forest-Ecology]] - Habitat study
-- [[D071-Electrogenesis-Evolution]] - Origin of radio capability
+- [B018 – Radio Distributed Organisms](Dispatches.md#b018) - Initial discovery
+- [B018 – Radio Distributed Organisms](Dispatches.md#b018) - Communication patterns
+- [B002 – TPIV Planetary Overview](Dispatches.md#b002) - Habitat study
+- [B002 – TPIV Planetary Overview](Dispatches.md#b002) - Origin of radio capability
 
 ---
 

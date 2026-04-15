@@ -1,14 +1,14 @@
 ---
 tags: [anatomy, sensory, perception, sensors, eyes, vision]
 aliases: [Sensory Systems, Sensors, Perception, Sensory Organs]
-related: [[30-Anatomy-Overview]], [[33e-Sensory-Integration]], [[23-Partifuncts-Core-Definition]]
+related: [Anatomy Overview](Anatomy%20Overview.md), [Nervous Systems](Nervous%20Systems.md), [Partifunct Core Definition](Partifunct%20Core%20Definition.md)
 status: complete
 ---
 
 # Sensory Systems
 
 **Architecture:** Specialized sensory partifuncts, often on flexible stalks  
-**Integration:** Data processed by [[33e-Sensory-Integration|SENS brain partifunct]]  
+**Integration:** Data processed by [SENS brain partifunct](Nervous%20Systems.md)  
 **Common Configuration:** Sensor organs on stalks above brain  
 **Diversity:** Visual, auditory, chemical, tactile, radiation, magnetic
 
@@ -25,11 +25,11 @@ Common organisms have sensor organs on flexible stalks above the brain.
 - Elevated position for better detection range
 - Can rotate/extend for better field of view
 - Protected by being retractable
-- Direct neural connection to [[33-Brain-Partifuncts|brain center]]
+- Direct neural connection to [brain center](Nervous%20Systems.md)
 
 **Stalk Structures:**
 - Flexible muscular support
-- Vascular supply via [[34c-Transfer-Organs|transfer organs]]
+- Vascular supply via [transfer organs](Circulatory%20Systems.md)
 - Neural bundles run through center
 - Can be extended or withdrawn
 
@@ -40,19 +40,19 @@ Common organisms have sensor organs on flexible stalks above the brain.
 ### Genetic Lineages
 
 **SN (Sensory) Family:**
-Each sensory organ is a [[Partifunct Core Definition|partifunct]] with own [[GFP-and-Genodules|GFP]].
+Each sensory organ is a [partifunct](Partifunct%20Core%20Definition.md) with own [GFP](GFP%20and%20Genodules.md).
 
 **Common Types:**
 - **SN-VIS:** Visual sensors (eyes, light detection)
 - **SN-AUD:** Auditory sensors (hearing, vibration)
 - **SN-CHM:** Chemical sensors (smell, taste)
 - **SN-TCT:** Tactile sensors (touch, pressure)
-- **SN-RAD:** Radiation sensors (detect [[13c-Radita-Tertiary-Moon|Radita]])
+- **SN-RAD:** Radiation sensors (detect [Radita](Radita.md))
 - **SN-MAG:** Magnetic sensors (compass direction)
 - **SN-THM:** Thermal sensors (heat detection)
 - **SN-ELE:** Electroreception (some aquatic)
 
-**[[Multi-Expression-Potential|Multi-Expression]]:**
+**[Multi-Expression](Multi%20Expression%20Potential.md):**
 - **In autotrophs:** Environmental sensors for dispersal timing (fruit-body analogs)
 - **In mobile organisms:** Complex eyes, ears, chemical detectors
 - **In aerial organisms:** Enhanced vision, air current sensors
@@ -74,12 +74,12 @@ Each sensory organ is a [[Partifunct Core Definition|partifunct]] with own [[GFP
 - Most organisms see visible light (400-700nm)
 - Some see into UV (predator detection, navigation)
 - Some see into IR (thermal tracking)
-- [[Stellar-System-Theta-Persei|F8V star]] blue-shifted spectrum affects evolution
+- [F8V star](Stellar%20System%20Theta%20Persei.md) blue-shifted spectrum affects evolution
 
 **Adaptations:**
-- [[46-Dark-Forest-Kolofluke|Dark Forest]] organisms: Enhanced low-light vision or chemosensory emphasis
+- [Dark Forest](Dark%20Forest%20Kolofluke.md) organisms: Enhanced low-light vision or chemosensory emphasis
 - Diurnal organisms: Color vision, high acuity
-- Nocturnal organisms: Rod-heavy (light sensitivity), aided by [[13b-Lumna-Secondary-Moon|Lumna brightness]]
+- Nocturnal organisms: Rod-heavy (light sensitivity), aided by [Lumna brightness](Lumna.md)
 
 ---
 
@@ -119,7 +119,7 @@ Each sensory organ is a [[Partifunct Core Definition|partifunct]] with own [[GFP
 
 **Specialized:**
 - Pheromone detection (social species)
-- [[Environmental-GFP|eGFP]] chemical markers (mate selection)
+- [eGFP](Environmental%20GFP.md) chemical markers (mate selection)
 - Predator scent recognition
 - Territory marking detection
 
@@ -139,7 +139,7 @@ Each sensory organ is a [[Partifunct Core Definition|partifunct]] with own [[GFP
 - Body position awareness
 - Joint angle sensors
 - Muscle tension feedback
-- Integration with [[33a-Motor-Control|MOTO brain]]
+- Integration with [MOTO brain](Nervous%20Systems.md)
 
 ---
 
@@ -147,7 +147,7 @@ Each sensory organ is a [[Partifunct Core Definition|partifunct]] with own [[GFP
 
 ### Radiation Detection
 
-**[[13c-Radita-Tertiary-Moon|Radita]] Sensing:**
+**[Radita](Radita.md) Sensing:**
 Many organisms have radiation-sensing partifuncts.
 
 **Function:**
@@ -160,7 +160,7 @@ Many organisms have radiation-sensing partifuncts.
 - More precise than visual observation
 - Independent of weather
 - Constant availability
-- Used by [[50-Distributed-Organisms-Overview|DOs]] for coordination
+- Used by [DOs](Distributed%20Organisms%20Overview.md) for coordination
 
 ---
 
@@ -172,7 +172,7 @@ Some organisms have magnetic field detection.
 **Function:**
 - Navigation during migration
 - Orientation in unfamiliar territory
-- May use [[Planet-Overview|TPIV's magnetic field]] (0.4 Gauss)
+- May use [TPIV's magnetic field](Planet-Overview.md) (0.4 Gauss)
 - Particularly in long-range travelers
 
 ---
@@ -191,7 +191,7 @@ Some organisms have magnetic field detection.
 
 ### SENS Brain Processing
 
-**[[33e-Sensory-Integration|Sensory Integration Brain]]:**
+**[Sensory Integration Brain](Nervous%20Systems.md):**
 Integration and processing of sensory data (visual, auditory, tactile, chemical) into coherent perceptual experience.
 
 **Function:**
@@ -203,8 +203,8 @@ Integration and processing of sensory data (visual, auditory, tactile, chemical)
 **Neural Hubs:**
 - Dense connections linking specialized sensory partifuncts
 - Pattern recognition
-- Threat assessment (works with [[33g-Threat-Recognition|THRT brain]])
-- Memory association (works with [[33b-Memory-Learning|MEMO brain]])
+- Threat assessment (works with [THRT brain](Nervous%20Systems.md))
+- Memory association (works with [MEMO brain](Nervous%20Systems.md))
 
 ---
 
@@ -247,7 +247,7 @@ Integration and processing of sensory data (visual, auditory, tactile, chemical)
 - Vision and hearing primary
 - Chemical sensors for tracking
 - Vibration detection through ground
-- [[Moons-and-Tides|Lunar navigation]] common
+- [Lunar navigation](Moons%20and%20Tides.md) common
 
 **Aquatic:**
 - Lateral line analogs (water movement)
@@ -259,9 +259,9 @@ Integration and processing of sensory data (visual, auditory, tactile, chemical)
 - Enhanced vision (distance acuity)
 - Air current sensors
 - Altitude/pressure sensors
-- [[13b-Lumna-Secondary-Moon|Lumna]] navigation
+- [Lumna](Lumna.md) navigation
 
-**[[46-Dark-Forest-Kolofluke|Dark Forest]]:**
+**[Dark Forest](Dark%20Forest%20Kolofluke.md):**
 - Chemosensory emphasis
 - Tactile navigation
 - Reduced or absent vision
@@ -275,8 +275,8 @@ Integration and processing of sensory data (visual, auditory, tactile, chemical)
 
 **Sensory Formation:**
 - Sensory partifzygotes develop independently
-- [[3B-Womb-Partifunct-Systems|Womb]] coordinates placement
-- Connection to [[33e-Sensory-Integration|SENS brain]] established
+- [Womb](Womb%20Partifunct%20Systems.md) coordinates placement
+- Connection to [SENS brain](Nervous%20Systems.md) established
 - Testing occurs before birth (must function)
 
 **Expression Selection:**
@@ -292,13 +292,13 @@ Integration and processing of sensory data (visual, auditory, tactile, chemical)
 ### Rapid Sensory Evolution
 
 **Horizontal Transfer:**
-- New sensory partifuncts acquired via [[Environmental-GFP|eGFP]]
+- New sensory partifuncts acquired via [eGFP](Environmental%20GFP.md)
 - Organism gains new perceptual ability in single generation
-- Example: Radiation detection spread after [[13c-Radita-Tertiary-Moon|Radita capture]]
-- [[Natural-Selection-on-TPIV|Multi-level selection]] on perception
+- Example: Radiation detection spread after [Radita capture](Radita.md)
+- [Multi-level selection](Natural%20Selection%20on%20TPIV.md) on perception
 
 **Behavioral Feedback:**
-- [[73-Tool-Using-Life|Tool use]] creates pressure for better vision
+- [Tool use](Behavior.md) creates pressure for better vision
 - Social behavior drives pheromone detection
 - Hunting strategy affects sensory priorities
 - Culture and genetics co-evolve
@@ -310,14 +310,14 @@ Integration and processing of sensory data (visual, auditory, tactile, chemical)
 ### Comparative Studies
 
 **Across Taxa:**
-- [[TPM-Zebra-Grazer|Zebra Grazers]]: Wide-field vision (predator detection), chemical sensors, vibration detection
-- [[Duskmantle-Stalker|Predators]]: Forward-facing eyes (depth perception), acute hearing, scent tracking
-- [[84-Aerial|Aerial organisms]]: Enhanced distance vision, air current sensors
-- [[50-Distributed-Organisms-Overview|DOs]]: Specialized sensory partivants, shared perception
+- [Zebra Grazers](TPM%20Example.md): Wide-field vision (predator detection), chemical sensors, vibration detection
+- [Predators](rDO%20Duskmantle%20Stalker.md): Forward-facing eyes (depth perception), acute hearing, scent tracking
+- [Aerial organisms](Ecology%20Overview.md): Enhanced distance vision, air current sensors
+- [DOs](Distributed%20Organisms%20Overview.md): Specialized sensory partivants, shared perception
 
 **Sensory Acuity:**
 - TPIV organisms comparable to Earth equivalents
-- Some exceed Earth capabilities (radiation detection, [[13b-Lumna-Secondary-Moon|bright night]] vision)
+- Some exceed Earth capabilities (radiation detection, [bright night](Lumna.md) vision)
 - Modular system allows rapid sensory innovation
 - Mix-and-match sensory strategies common
 
@@ -326,20 +326,20 @@ Integration and processing of sensory data (visual, auditory, tactile, chemical)
 ## Navigation
 
 **Anatomy Systems:**
-- [[Anatomy-Overview]] - Overall body architecture
-- [[33-Brain-Partifuncts]] - Sensory processing centers
-- [[33e-Sensory-Integration]] - SENS brain details
-- [[33g-Threat-Recognition]] - Sensor-based threat detection
+- [Anatomy Overview](Anatomy%20Overview.md) - Overall body architecture
+- [Nervous Systems](Nervous%20Systems.md) - Sensory processing centers
+- [Nervous Systems](Nervous%20Systems.md) - SENS brain details
+- [Nervous Systems](Nervous%20Systems.md) - Sensor-based threat detection
 
 **Related Topics:**
-- [[Partifunct Core Definition]] - Why each sensor is distinct
-- [[13c-Radita-Tertiary-Moon]] - Radiation sensing target
-- [[13b-Lumna-Secondary-Moon]] - Night vision enhancement
-- [[42-Convergent-Evolution]] - Similar sensory solutions
+- [Partifunct Core Definition](Partifunct%20Core%20Definition.md) - Why each sensor is distinct
+- [Radita](Radita.md) - Radiation sensing target
+- [Lumna](Lumna.md) - Night vision enhancement
+- [Convergent Evolution](Convergent%20Evolution.md) - Similar sensory solutions
 
 **Related Dispatches:**
-- [[D036-Sensory-Modality-Survey]] - Sensor type catalog
-- [[D037-Radiation-Detection-Mechanism]] - Radita sensing study
+- [B005 – Steppe Surface Life](Dispatches.md#b005) - Sensor type catalog
+- [B003 – TPIV Orbital Surveys](Dispatches.md#b003) - Radita sensing study
 
 ---
 

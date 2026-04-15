@@ -1,7 +1,7 @@
 ---
 tags: [biology, classification, taxa, metrics, PSV, MDI]
 aliases: [Taxa and Metrics, PSV MDI, Classification System, Statistical Taxa]
-related: [[27-Cladistics-on-TPIV]], [[27a-Taxa]], [[27b-Partifunct-Set-Variance]], [[27c-Morphological-Diversity-Index]], [[32-TPM-Template]]
+related: [Cladistics On TPIV](Cladistics%20On%20TPIV.md), [Taxa](Taxa.md), [Partifunct Set Variance](Partifunct%20Set%20Variance.md), [Morphological Diversity Index](Morphological%20Diversity%20Index.md), [TPM Definition](TPM%20Definition.md)
 status: complete
 ---
 
@@ -78,7 +78,7 @@ MDI is expressed numerically to indicate how much morphological variation exists
 
 ### High PSV, Moderate MDI
 
-**[[TPM-Zebra-Grazer|Zebra Grazer]]:**
+**[Zebra Grazer](TPM%20Example.md):**
 - PSV: 83.2% (±1σ)
 - MDI: 4.6
 - Consistent partifunct set
@@ -91,7 +91,7 @@ MDI is expressed numerically to indicate how much morphological variation exists
 
 ### Low PSV, High MDI
 
-**[[83-LBB-Little-Brown-Birds|LBB Feeders]]:**
+**[LBB Feeders](Ecology%20Overview.md):**
 - PSV: 23%
 - MDI: 8.2
 - Near-chaotic diversity
@@ -162,7 +162,7 @@ What is possible to assemble and exactly how it is assembled can vary greatly, s
 - Some will have additional genomic forms as well as the basic three mentioned above
 - Some individuals will have additional appendages for perception, defense, signaling, etc.
 
-**The womb does not produce a copy of the parent** because there is no genome of the parent. The [[3B-Womb-Partifunct-Systems|womb]] assembles a 'near copy' based on [[Environmental-GFP|eGFP]] availability and conditions and this allows for a huge range of taxon variability.
+**The womb does not produce a copy of the parent** because there is no genome of the parent. The [womb](Womb%20Partifunct%20Systems.md) assembles a 'near copy' based on [eGFP](Environmental%20GFP.md) availability and conditions and this allows for a huge range of taxon variability.
 
 ---
 
@@ -172,7 +172,7 @@ What is possible to assemble and exactly how it is assembled can vary greatly, s
 
 **Stable Environments:**
 - High PSV (proven combinations replicate)
-- [[Womb-Enabled-Reproduction|Wombs]] favor conservative assembly
+- [Wombs](Womb%20Enabled%20Reproduction.md) favor conservative assembly
 - Selection reinforces successful pattern
 
 **Variable Environments:**
@@ -200,9 +200,9 @@ What is possible to assemble and exactly how it is assembled can vary greatly, s
 
 ### Expression Plasticity
 
-**[[Multi-Expression-Potential|Multi-Expression]] Partifuncts:**
+**[Multi-Expression](Multi%20Expression%20Potential.md) Partifuncts:**
 - Same genodule → many forms
-- [[MGFP-Transcription-Pathway|MGFP-G]] interprets womb signals differently
+- [MGFP-G](MGFP%20Transcription%20Pathway.md) interprets womb signals differently
 - Environmental variation increases MDI
 
 ---
@@ -250,7 +250,7 @@ We use functional and visual descriptors to make up the common name of the compo
 
 ## Documentation Format
 
-### [[TPM-Template|Taxon Partifunct Manifest (TPM)]]
+### [Taxon Partifunct Manifest (TPM)](TPM%20Definition.md)
 
 Standard format for documenting taxa includes:
 
@@ -271,38 +271,7 @@ Standard format for documenting taxa includes:
 - MDI analysis
 - Sample size (n)
 
----
 
-## Research Applications
-
-### Field Identification
-
-**Process:**
-1. Visual assessment
-2. Identify apparent partifunct set
-3. Measure morphological variation
-4. Assign to closest known taxon
-5. Note: May be intermediate/novel form
-
----
-
-### Ecological Monitoring
-
-**Track Changes:**
-- PSV rising = population stabilizing
-- PSV falling = environmental change/adaptation
-- MDI rising = increased selective pressure for variation
-- MDI falling = selection narrowing optimal form
-
----
-
-### Conservation
-
-**Different Priorities:**
-- Earth: Preserve species (genetic lineages)
-- TPIV: Preserve partifunct diversity (genetic toolkit)
-- Rare partifuncts more important than rare taxa
-- Ecosystem-wide genetic diversity critical
 
 ---
 
@@ -323,24 +292,25 @@ Standard format for documenting taxa includes:
 ## Navigation
 
 **Related Concepts:**
-- [[Cladistics-On-TPIV]] - Evolutionary relationships without species
-- [[Taxa]] - Detailed taxon definition
-- [[27b-Partifunct-Set-Variance]] - PSV in depth
-- [[27c-Morphological-Diversity-Index]] - MDI in depth
+- [Cladistics On TPIV](Cladistics%20On%20TPIV.md) - Evolutionary relationships without species
+- [Taxa](Taxa.md) - Detailed taxon definition
+- [Partifunct Set Variance](Partifunct%20Set%20Variance.md) - PSV in depth
+- [Morphological Diversity Index](Morphological%20Diversity%20Index.md) - MDI in depth
 
 **Documentation:**
-- [[TPM-Template]] - Standard format for taxa
-- [[80-Taxa-Index]] - Catalog of documented taxa
-- [[93-Naming-Conventions]] - How taxa are named
+- [TPM Definition](TPM%20Definition.md) - Standard format for taxa
+- [taxon index](TPIV%20Taxa.md)
+- [Taxa and Metrics](Taxa%20and%20Metrics.md) - How taxa are named
+- [domain code reference](Partifunct%20Domain%20Codes.md)
 
 **Related Topics:**
-- [[Partifunct Core Definition]] - What comprises taxa
-- [[Composite-Organisms]] - What taxa are
-- [[Natural-Selection-on-TPIV]] - What shapes taxa
+- [Partifunct Core Definition](Partifunct%20Core%20Definition.md) - What comprises taxa
+- [Composite Organisms](Composite%20Organisms.md) - What taxa are
+- [Natural Selection on TPIV](Natural%20Selection%20on%20TPIV.md) - What shapes taxa
 
 **Related Dispatches:**
-- [[D020-Taxon-Statistical-Analysis]] - First formal definitions
-- [[D021-PSV-MDI-Methodology]] - Metric development
+- [B007 – Modular Assembly & Genetics](Dispatches.md#b007) - First formal definitions
+- [B007 – Modular Assembly & Genetics](Dispatches.md#b007) - Metric development
 
 ---
 

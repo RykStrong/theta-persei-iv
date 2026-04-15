@@ -1,7 +1,7 @@
 ---
 tags: [biology, combinant-behaviors, stringbirds, aerial, fusion, example-taxa]
 aliases: [Stringbirds, Stringbird, String Birds]
-related: [[45-Combinant-Behaviors]], [[45b-Ribbonfish]], [[40a-DO-vs-SB-vs-JB-Comparison]]
+related: [Combinant Behaviors](Combinant%20Behaviors.md), [Ribbonfish](Ribbonfish.md), [DO vs SB vs JB Comparison](DO%20vs%20SB%20vs%20JB%20Comparison.md)
 status: complete
 ---
 
@@ -19,7 +19,7 @@ status: complete
 
 ### Aerial Digestive Fusion
 
-**Stringbirds** are flying organisms that engage in one of the most remarkable [[Combinant-Behaviors|combinant behaviors]] on TPIV: they physically join mouth-to-anus to create a complete digestive tract from their incomplete individual systems.
+**Stringbirds** are flying organisms that engage in one of the most remarkable [combinant behaviors](Combinant%20Behaviors.md) on TPIV: they physically join mouth-to-anus to create a complete digestive tract from their incomplete individual systems.
 
 **Key Features:**
 - Each individual has **very incomplete digestive tract**
@@ -41,7 +41,7 @@ Called "Stringbirds" because when joined, they form a string of connected bodies
 - Small flying organisms (15-40 cm wingspan typical)
 - Lightweight build (hollow bones, minimal organs)
 - Four wings or 2 wing-pairs (varies by lineage)
-- Enhanced [[33a-Motor-Control|MOTO brain]] (flight coordination)
+- Enhanced [MOTO brain](Nervous%20Systems.md) (flight coordination)
 
 **Digestive Tract (Incomplete):**
 The string bird has a **very incomplete digestive tract**, so the individual birds will 'string together' in the air, joining mouth to anus, thereby passing the digested food along many lengths of digestive tract.
@@ -172,7 +172,7 @@ The string bird has a **very incomplete digestive tract**, so the individual bir
 ### Living Alone
 
 **Viability:**
-- Each stringbird is a complete, viable [[Composite-Organisms|composite organism]]
+- Each stringbird is a complete, viable [composite organism](Composite%20Organisms.md)
 - Can survive indefinitely without joining
 - But with **greatly reduced efficiency**
 
@@ -180,7 +180,7 @@ The string bird has a **very incomplete digestive tract**, so the individual bir
 - Incomplete digestion (only 20-30% nutrient absorption)
 - Must eat much more frequently
 - Higher energy cost (more hunting time)
-- Lower reproductive success (less energy for [[3B-Womb-Partifunct-Systems|womb]])
+- Lower reproductive success (less energy for [womb](Womb%20Partifunct%20Systems.md))
 
 **When Solo:**
 - Young birds before learning to join
@@ -220,15 +220,15 @@ The string bird has a **very incomplete digestive tract**, so the individual bir
 
 **No Special Reproductive Fusion:**
 - Reproduction occurs independently
-- [[Environmental-GFP|eGFP]] collected from environment (eating insects)
-- [[3B-Womb-Partifunct-Systems|Womb partifunct]] in each individual
+- [eGFP](Environmental%20GFP.md) collected from environment (eating insects)
+- [Womb partifunct](Womb%20Partifunct%20Systems.md) in each individual
 - Can reproduce without ever joining
 
 **Fusion Benefits Reproduction:**
 - Better nutrition = more energy for womb
 - Healthier offspring (better-fed parents)
 - Higher survival rate
-- Enhanced [[Environmental-GFP|eGFP]] diversity (processing more varied food)
+- Enhanced [eGFP](Environmental%20GFP.md) diversity (processing more varied food)
 
 **Live Birth or Eggs:**
 - Varies by lineage
@@ -303,7 +303,7 @@ The string bird has a **very incomplete digestive tract**, so the individual bir
 
 **Selection Pressure:**
 - Environments with abundant insects favor this strategy
-- [[Natural-Selection-on-TPIV|Multi-level selection]] on both individual capability and cooperative behavior
+- [Multi-level selection](Natural%20Selection%20on%20TPIV.md) on both individual capability and cooperative behavior
 - Cultural transmission (young learn to join by observing)
 
 ---
@@ -352,14 +352,14 @@ The string bird has a **very incomplete digestive tract**, so the individual bir
 ### Similar to Ribbonfish
 
 **Similarities:**
-- Both [[Combinant-Behaviors|combinant behaviors]]
+- Both [combinant behaviors](Combinant%20Behaviors.md)
 - Both involve digestive cooperation
 - Both fully viable independently
 - Both temporary fusion
 
 **Differences:**
 - Stringbirds: Aerial, sequential processing
-- [[Ribbonfish|Ribbonfish]]: Aquatic, filter feeding
+- [Ribbonfish](Ribbonfish.md): Aquatic, filter feeding
 - Stringbirds: Mobile while joined
 - Ribbonfish: Relatively stationary while joined
 
@@ -368,23 +368,23 @@ The string bird has a **very incomplete digestive tract**, so the individual bir
 ## Navigation
 
 **Core Concepts:**
-- [[Combinant-Behaviors]] - Overview of strategy
-- [[DO-vs-SB-vs-JB-Comparison]] - JB vs other strategies
-- [[Composite-Organisms]] - What each bird is
+- [Combinant Behaviors](Combinant%20Behaviors.md) - Overview of strategy
+- [DO vs SB vs JB Comparison](DO%20vs%20SB%20vs%20JB%20Comparison.md) - JB vs other strategies
+- [Composite Organisms](Composite%20Organisms.md) - What each bird is
 
 **Related Examples:**
-- [[Ribbonfish]] - Aquatic combinant behavior
-- [[DO-ScrubDeer-Browser]] - Alternative strategy (DO)
+- [Ribbonfish](Ribbonfish.md) - Aquatic combinant behavior
+- [DO ScrubDeer Browser](DO%20ScrubDeer%20Browser.md) - Alternative strategy (DO)
 
 **Related Topics:**
-- [[84-Aerial]] - Flying organisms overview
-- [[33a-Motor-Control]] - Flight coordination
-- [[Digestive-Systems]] - Incomplete digestion
+- [Ecology Overview](Ecology%20Overview.md) - Flying organisms overview
+- [Nervous Systems](Nervous%20Systems.md) - Flight coordination
+- [Digestive Systems](Digestive%20Systems.md) - Incomplete digestion
 
 **Related Dispatches:**
-- [[D056-Stringbird-Fusion-Observation]] - First documentation
-- [[D059-Stringbird-Digestion-Study]] - Efficiency measurements
-- [[D060-Chain-Length-Analysis]] - Optimal string size
+- [B016 – Joined Behaviors](Dispatches.md#b016) - First documentation
+- [B016 – Joined Behaviors](Dispatches.md#b016) - Efficiency measurements
+- [B016 – Joined Behaviors](Dispatches.md#b016) - Optimal string size
 
 ---
 

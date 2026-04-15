@@ -1,7 +1,7 @@
 ---
 tags: [anatomy, respiratory, lungs, breathing, oxygen, spiracles]
 aliases: [Respiratory Systems, Lungs, Breathing, Gas Exchange, Spiracles]
-related: [[30-Anatomy-Overview]], [[35a-Spiracles-and-Lungs]], [[35b-Compartmentalized-Air]], [[34-Circulatory-Systems]]
+related: [Anatomy Overview](Anatomy%20Overview.md), [Respiratory Systems](Respiratory%20Systems.md), [Respiratory Systems](Respiratory%20Systems.md), [Circulatory Systems](Circulatory%20Systems.md)
 status: complete
 ---
 
@@ -36,7 +36,7 @@ Frequently, blood is pumped using many small heart partifuncts and oxygenated vi
 
 ### External Openings
 
-**[[35a-Spiracles-and-Lungs|Spiracle Function]]:**
+**[Spiracle Function](Respiratory%20Systems.md):**
 - External openings across body surface
 - Air intake and CO₂ expulsion
 - Can open/close for regulation
@@ -64,7 +64,7 @@ Frequently, blood is pumped using many small heart partifuncts and oxygenated vi
 **Lung Chambers:**
 - Small internal cavities
 - Rich capillary networks
-- [[34c-Transfer-Organs|Connection to circulatory systems]]
+- [Connection to circulatory systems](Circulatory%20Systems.md)
 - Variable complexity by organism
 
 **Oxygen Uptake:**
@@ -92,7 +92,7 @@ Frequently, blood is pumped using many small heart partifuncts and oxygenated vi
 - Higher oxygen enables:
   - More efficient metabolism
   - Larger organisms possible
-  - [[33-Brain-Partifuncts|Complex cognition]] supported
+  - [Complex cognition](Nervous%20Systems.md) supported
   - Active lifestyles sustainable
 
 **Respiratory Adaptations:**
@@ -111,10 +111,10 @@ Frequently, blood is pumped using many small heart partifuncts and oxygenated vi
 - **Passive diffusion:** Small organisms, resting states
 - **Active pumping:** Muscular contraction/expansion of body cavity
 - **Spiracle regulation:** Control which openings active
-- **[[35b-Compartmentalized-Air|Compartmentalized flow]]:** Directional air movement
+- **[Compartmentalized flow](Respiratory%20Systems.md):** Directional air movement
 
 **Coordination:**
-- [[33a-Motor-Control|MOTO brain]] coordinates breathing rhythm
+- [MOTO brain](Nervous%20Systems.md) coordinates breathing rhythm
 - Increased activity → increased breathing rate
 - Stress response → enhanced oxygen uptake
 - Can be voluntary or automatic
@@ -135,7 +135,7 @@ Frequently, blood is pumped using many small heart partifuncts and oxygenated vi
 - Dual respiratory systems
 - Spiracles close underwater
 - Switch between air and water breathing
-- [[48-Intertidal-Zones|Tidal zone specialists]] common
+- [Tidal zone specialists](Littoral%20Zones.md) common
 
 ---
 
@@ -143,7 +143,7 @@ Frequently, blood is pumped using many small heart partifuncts and oxygenated vi
 
 ### Directional Breathing
 
-**[[35b-Compartmentalized-Air|Advanced Systems]]:**
+**[Advanced Systems](Respiratory%20Systems.md):**
 - Some organisms have one-way air flow
 - Air enters through anterior spiracles
 - Passes through lungs
@@ -154,7 +154,7 @@ Frequently, blood is pumped using many small heart partifuncts and oxygenated vi
 - Continuous gas exchange (inspiration and expiration)
 - Air sacs may exist in some taxa
 - Enables sustained high activity
-- Particularly in [[84-Aerial|aerial organisms]]
+- Particularly in [aerial organisms](Ecology%20Overview.md)
 
 ---
 
@@ -164,15 +164,15 @@ Frequently, blood is pumped using many small heart partifuncts and oxygenated vi
 
 **RS-LUN (Lung Lineages):**
 - Multiple lung partifunct lineages exist
-- Each with own [[GFP-and-Genodules|GFP]]
+- Each with own [GFP](GFP%20and%20Genodules.md)
 - MULT1: Multi-chamber lungs (common)
 - SIMP1: Simple diffusion lungs (small organisms)
 - AQUA1: Aquatic/gill-like structures
 
 **Evolution:**
-- Successful lung partifuncts spread via [[Environmental-GFP|eGFP]]
+- Successful lung partifuncts spread via [eGFP](Environmental%20GFP.md)
 - Different lineages optimized for different environments
-- [[Multi-Expression-Potential|Same partifunct]] → varied expression
+- [Same partifunct](Multi%20Expression%20Potential.md) → varied expression
 - Womb selects appropriate type
 
 ---
@@ -182,8 +182,8 @@ Frequently, blood is pumped using many small heart partifuncts and oxygenated vi
 ### Circulatory Connection
 
 **Blood Oxygenation:**
-- Lung capillaries interface with [[Circulatory-Systems|circulatory systems]]
-- [[34c-Transfer-Organs|Transfer organs]] distribute oxygenated blood
+- Lung capillaries interface with [circulatory systems](Circulatory%20Systems.md)
+- [Transfer organs](Circulatory%20Systems.md) distribute oxygenated blood
 - Deoxygenated blood returns to lungs
 - Multiple small exchange points throughout body
 
@@ -200,7 +200,7 @@ Frequently, blood is pumped using many small heart partifuncts and oxygenated vi
 ### Comparative Studies
 
 **Across Taxa:**
-- [[TPM-Zebra-Grazer|Zebra Grazers]]: 30-50 small lungs typical
+- [Zebra Grazers](TPM%20Example.md): 30-50 small lungs typical
 - Large predators: 60-80 lungs
 - Small organisms: 5-10 lungs
 - Aerial organisms: Highly efficient, 20-30 lungs plus air sacs
@@ -217,27 +217,27 @@ Frequently, blood is pumped using many small heart partifuncts and oxygenated vi
 
 ### Detailed Pages
 
-- [[35a-Spiracles-and-Lungs]] - Structure and function of gas exchange organs
-- [[35b-Compartmentalized-Air]] - Directional air flow systems
+- [Respiratory Systems](Respiratory%20Systems.md) - Structure and function of gas exchange organs
+- [Respiratory Systems](Respiratory%20Systems.md) - Directional air flow systems
 
 ---
 
 ## Navigation
 
 **Anatomy Systems:**
-- [[Anatomy-Overview]] - Overall body architecture
-- [[Circulatory-Systems]] - Blood oxygenation
-- [[33-Brain-Partifuncts]] - Major oxygen consumer
-- [[Digestive-Systems]] - Energy source for respiration
+- [Anatomy Overview](Anatomy%20Overview.md) - Overall body architecture
+- [Circulatory Systems](Circulatory%20Systems.md) - Blood oxygenation
+- [Nervous Systems](Nervous%20Systems.md) - Major oxygen consumer
+- [Digestive Systems](Digestive%20Systems.md) - Energy source for respiration
 
 **Related Topics:**
-- [[Partifunct Core Definition]] - Why each lung is distinct
-- [[Atmosphere]] - 25% O₂ environment
-- [[42-Convergent-Evolution]] - Similar solutions to breathing
+- [Partifunct Core Definition](Partifunct%20Core%20Definition.md) - Why each lung is distinct
+- [Atmosphere](Atmosphere.md) - 25% O₂ environment
+- [Convergent Evolution](Convergent%20Evolution.md) - Similar solutions to breathing
 
 **Related Dispatches:**
-- [[D030-Respiratory-Architecture]] - First lung mapping
-- [[D031-Oxygen-Efficiency-Study]] - Comparative metabolism
+- [B005 – Steppe Surface Life](Dispatches.md#b005) - First lung mapping
+- [B005 – Steppe Surface Life](Dispatches.md#b005) - Comparative metabolism
 
 ---
 

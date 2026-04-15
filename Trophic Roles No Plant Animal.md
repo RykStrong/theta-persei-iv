@@ -1,7 +1,7 @@
 ---
 tags: [ecology, trophic-roles, no-kingdoms, plant-animal-continuum]
 aliases: [Trophic Roles, No Plant Animal, Functional Continuum, No Kingdoms]
-related: [[50-Ecology-Overview]], [[8E-Autotrophy]], [[41-Trophic-Roles-No-Plant-Animal]], [[52-Convergent-Evolution]]
+related: [Ecology Overview](Ecology%20Overview.md), [Trophic Roles No Plant Animal](Trophic%20Roles%20No%20Plant%20Animal.md), [Trophic Roles No Plant Animal](Trophic%20Roles%20No%20Plant%20Animal.md), [Convergent Evolution](Convergent%20Evolution.md)
 status: complete
 ---
 
@@ -22,9 +22,9 @@ While composite organisms fill the roles of autotroph, carnivore, symbiote, para
 
 **Why No Clear Divide:**
 - No separate evolutionary lineages (plant vs animal)
-- All life shares same [[Non-Homochirality|chemical foundation]]
-- Same [[Partifunct Core Definition|partifuncts]] reused across functional roles
-- [[Environmental-GFP|Genetic exchange]] occurs ecosystem-wide
+- All life shares same [chemical foundation](Non%20Homochirality.md)
+- Same [partifuncts](Partifunct%20Core%20Definition.md) reused across functional roles
+- [Genetic exchange](Environmental%20GFP.md) occurs ecosystem-wide
 
 ---
 
@@ -57,9 +57,9 @@ Thus many creatures are **omnivorous**—most organisms *can* digest both "plant
 
 **By Energy Source:**
 
-**[[8E-Autotrophy|Autotrophs]]** (Primary Producers):
+**[Autotrophs](Trophic%20Roles%20No%20Plant%20Animal.md)** (Primary Producers):
 - Obtain energy from non-living sources
-- **Photosynthetic:** Use sunlight ([[Photosynthesis-and-Pigments|various pigments]])
+- **Photosynthetic:** Use sunlight ([various pigments](Photosynthesis%20and%20Pigments.md))
 - **Chemosynthetic:** Oxidize inorganic compounds
 - **Nitrogen-fixing:** Convert atmospheric N₂
 - Typically sessile or slow-moving
@@ -75,7 +75,7 @@ Thus many creatures are **omnivorous**—most organisms *can* digest both "plant
 
 **Saprotrophs** (Decomposers):
 - Break down dead organic matter
-- [[60-Microbiosphere-Overview|Microbial organisms]] dominant
+- [Microbial organisms](Microbiosphere%20Overview.md) dominant
 - Some macroscopic saprotrophs exist
 - Rapid nutrient cycling
 
@@ -88,21 +88,21 @@ Thus many creatures are **omnivorous**—most organisms *can* digest both "plant
 **Typical "Plant" Characteristics:**
 - Autotrophic metabolism (photosynthesis primary)
 - Rooted or sessile (most)
-- [[8E-Autotrophy|Photosynthetic organs]]
+- [Photosynthetic organs](Trophic%20Roles%20No%20Plant%20Animal.md)
 - Structural support (lignin, calcium, chitin)
-- Reproduction via [[Non-Womb-Reproduction|environmental assembly]] (seeds, spores)
+- Reproduction via [environmental assembly](Non%20Womb%20Reproduction.md) (seeds, spores)
 
 **But Not Always:**
-- Some "plants" are mobile ([[82d-Wandering-Tangletrunks|Wandering Tangletrunks]])
+- Some "plants" are mobile ([Wandering Tangletrunks](Ecology%20Overview.md))
 - Some "plants" are carnivorous (trap insects for nitrogen)
 - Some "plants" seasonal heterotrophs (winter dormancy, consume stored "prey")
 - Movement speed varies (some quite fast)
 
 **Examples:**
-- **[[82b-Clam-Grasses|Clam Grasses]]:** Hardshell root bulb, photosynthetic blades
-- **[[82a-Stalk-Trees|Stalk Trees]]:** Large stationary photosynthesizers
-- **[[82d-Wandering-Tangletrunks|Wandering Tangletrunks]]:** Mobile, roots walk slowly
-- **[[82c-BrownFlower-Shrubs|BrownFlower Shrubs]]:** Sessile, insect pollinators
+- **[Clam Grasses](Ecology%20Overview.md):** Hardshell root bulb, photosynthetic blades
+- **[Stalk Trees](Ecology%20Overview.md):** Large stationary photosynthesizers
+- **[Wandering Tangletrunks](Ecology%20Overview.md):** Mobile, roots walk slowly
+- **[BrownFlower Shrubs](Ecology%20Overview.md):** Sessile, insect pollinators
 
 ---
 
@@ -113,8 +113,8 @@ Thus many creatures are **omnivorous**—most organisms *can* digest both "plant
 **Typical "Animal" Characteristics:**
 - Heterotrophic metabolism (consume other organisms)
 - Mobile (active locomotion)
-- [[33-Brain-Partifuncts|Complex nervous systems]]
-- [[Sensory-Systems|Sensory organs]]
+- [Complex nervous systems](Nervous%20Systems.md)
+- [Sensory organs](Sensory%20Systems.md)
 - Social behaviors (some)
 
 **But Not Always:**
@@ -124,10 +124,10 @@ Thus many creatures are **omnivorous**—most organisms *can* digest both "plant
 - Dietary flexibility high
 
 **Examples:**
-- **[[TPM-Zebra-Grazer|Zebra Grazer]]:** Herbivorous, but can eat insects
-- **[[42b-DO-HillWolf-Hunter|DO-HillWolf]]:** Carnivorous, but can digest plant matter in emergencies
-- **[[Stringbirds|Stringbirds]]:** Insectivorous primarily
-- **[[Ribbonfish|Ribbonfish]]:** Filter feeders (plankton = mixed "plant"/"animal")
+- **[Zebra Grazer](TPM%20Example.md):** Herbivorous, but can eat insects
+- **[DO-HillWolf](DO%20HillWolf%20PackHunter.md):** Carnivorous, but can digest plant matter in emergencies
+- **[Stringbirds](Stringbirds.md):** Insectivorous primarily
+- **[Ribbonfish](Ribbonfish.md):** Filter feeders (plankton = mixed "plant"/"animal")
 
 ---
 
@@ -136,7 +136,7 @@ Thus many creatures are **omnivorous**—most organisms *can* digest both "plant
 ### Flexible Trophic Roles
 
 **Facultative Autotrophy:**
-- "Animal" with photosynthetic [[Partifunct Core Definition|partifuncts]]
+- "Animal" with photosynthetic [partifuncts](Partifunct%20Core%20Definition.md)
 - Supplements diet with photosynthesis
 - Reduces hunting/grazing pressure
 - Common in low-food environments
@@ -150,7 +150,7 @@ Thus many creatures are **omnivorous**—most organisms *can* digest both "plant
 **Seasonal Switching:**
 - Summer: Photosynthesis (abundant sunlight)
 - Winter: Heterotrophy (consume stored "prey" or dormant organisms)
-- [[3B-Womb-Partifunct-Systems|Womb]] can adjust offspring strategy based on season
+- [Womb](Womb%20Partifunct%20Systems.md) can adjust offspring strategy based on season
 
 ---
 
@@ -160,20 +160,20 @@ Thus many creatures are **omnivorous**—most organisms *can* digest both "plant
 
 **Single Origin:**
 All TPIV life shares common ancestor:
-- All use [[GFP-Structure|GFP]] (Genomic Folded Proteins)
-- All use [[21-BLUs-Basic-Life-Units|BLUs]] (Basic Life Units)
-- All exchange [[Environmental-GFP|eGFP]] in environment
+- All use [GFP](GFP%20Structure.md) (Genomic Folded Proteins)
+- All use [BLUs](BLU%20Biology.md) (Basic Life Units)
+- All exchange [eGFP](Environmental%20GFP.md) in environment
 - No separate "plant kingdom" and "animal kingdom" divergence
 
 **Modular Architecture:**
-[[Partifunct Core Definition|Partifuncts]] used across trophic roles:
+[Partifuncts](Partifunct%20Core%20Definition.md) used across trophic roles:
 - Photosynthetic partifuncts can be in "animal"
 - Locomotor partifuncts can be in "plant"
-- [[Digestive-Systems|Digestive partifuncts]] vary by diet, not "kingdom"
+- [Digestive partifuncts](Digestive%20Systems.md) vary by diet, not "kingdom"
 - No genetic barrier between trophic strategies
 
 **Continuous Exchange:**
-[[Environmental-GFP|eGFP]] spreads partifuncts ecosystem-wide:
+[eGFP](Environmental%20GFP.md) spreads partifuncts ecosystem-wide:
 - Photosynthetic partifunct from "plant" → "animal" offspring
 - Locomotor partifunct from "animal" → mobile "plant"
 - Genetic material flows freely across all organisms
@@ -197,7 +197,7 @@ All TPIV life shares common ancestor:
 - Feedback loops common
 
 **Example:**
-- [[TPM-Zebra-Grazer|Zebra Grazer]] normally herbivore
+- [Zebra Grazer](TPM%20Example.md) normally herbivore
 - But eats insects opportunistically (carnivore)
 - Has photosynthetic skin patches (autotroph)
 - Scavenges carcasses occasionally (scavenger)
@@ -225,7 +225,7 @@ All TPIV life shares common ancestor:
 - Intense (everything competes with everything)
 - Niche overlap high
 - But dietary switching reduces direct competition
-- [[Natural-Selection-on-TPIV|Coexistence]] via temporal or spatial partitioning
+- [Coexistence](Natural%20Selection%20on%20TPIV.md) via temporal or spatial partitioning
 
 ---
 
@@ -266,7 +266,7 @@ All TPIV life shares common ancestor:
 - **Sessile:** Rooted or stationary (mostly autotrophs)
 - **Slow-mobile:** Can relocate slowly (some autotrophs, some filter feeders)
 - **Mobile:** Active locomotion (most heterotrophs)
-- **Distributed:** [[Distributed-Organisms-Overview|Multiple bodies]] (various strategies)
+- **Distributed:** [Multiple bodies](Distributed%20Organisms%20Overview.md) (various strategies)
 
 ---
 
@@ -277,8 +277,8 @@ All TPIV life shares common ancestor:
 **Classification:**
 - Traditional taxonomy impossible (no kingdoms, species)
 - Must use functional categories
-- [[Taxa|Statistical taxa]] defined by behavior as much as morphology
-- [[31-Taxa-and-Metrics-PSV-MDI|PSV/MDI]] metrics help but incomplete
+- [Statistical taxa](Taxa.md) defined by behavior as much as morphology
+- [PSV/MDI](Taxa%20and%20Metrics.md) metrics help but incomplete
 
 **Food Web Analysis:**
 - Cannot use simple trophic levels
@@ -318,7 +318,7 @@ All TPIV life shares common ancestor:
 - Organisms survive resource fluctuations
 - Can exploit multiple food sources
 - Reduces extinction risk
-- [[Natural-Selection-on-TPIV|Adaptation]] to changing environments
+- [Adaptation](Natural%20Selection%20on%20TPIV.md) to changing environments
 
 **Efficiency:**
 - Energy not locked in indigestible forms
@@ -336,26 +336,26 @@ All TPIV life shares common ancestor:
 ## Navigation
 
 **Core Concepts:**
-- [[Ecology-Overview]] - Ecosystem patterns
-- [[8E-Autotrophy]] - Primary production strategies
-- [[Digestive-Systems]] - How organisms process food
-- [[Convergent-Evolution]] - Similar ecological roles
+- [Ecology Overview](Ecology%20Overview.md) - Ecosystem patterns
+- [Trophic Roles No Plant Animal](Trophic%20Roles%20No%20Plant%20Animal.md) - Primary production strategies
+- [Digestive Systems](Digestive%20Systems.md) - How organisms process food
+- [Convergent Evolution](Convergent%20Evolution.md) - Similar ecological roles
 
 **Related Topics:**
-- [[Biology Overview]] - Why no kingdoms possible
-- [[Non-Homochirality]] - Chemical foundation
-- [[Environmental-GFP]] - Genetic exchange mechanism
-- [[Natural-Selection-on-TPIV]] - Evolutionary dynamics
+- [Biology Overview](Biology%20Overview.md) - Why no kingdoms possible
+- [Non Homochirality](Non%20Homochirality.md) - Chemical foundation
+- [Environmental GFP](Environmental%20GFP.md) - Genetic exchange mechanism
+- [Natural Selection on TPIV](Natural%20Selection%20on%20TPIV.md) - Evolutionary dynamics
 
 **Examples:**
-- [[TPM-Zebra-Grazer]] - Herbivore (but omnivore capable)
-- [[42b-DO-HillWolf-Hunter]] - Carnivore (but omnivore capable)
-- [[82d-Wandering-Tangletrunks]] - Autotroph (mobile "plant")
+- [TPM Example](TPM%20Example.md) - Herbivore (but omnivore capable)
+- [DO HillWolf PackHunter](DO%20HillWolf%20PackHunter.md) - Carnivore (but omnivore capable)
+- [Ecology Overview](Ecology%20Overview.md) - Autotroph (mobile "plant")
 
 **Related Dispatches:**
-- [[D073-Trophic-Network-Mapping]] - Food web complexity
-- [[D075-Dietary-Flexibility-Study]] - Omnivory documentation
-- [[D076-No-Kingdoms-Analysis]] - Classification challenges
+- [B002 – TPIV Planetary Overview](Dispatches.md#b002) - Food web complexity
+- [B005 – Steppe Surface Life](Dispatches.md#b005) - Omnivory documentation
+- [B002 – TPIV Planetary Overview](Dispatches.md#b002) - Classification challenges
 
 ---
 

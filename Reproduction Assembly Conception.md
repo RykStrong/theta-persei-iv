@@ -2,7 +2,7 @@
 ---
 tags: [biology, reproduction, assembly-conception, core-concepts]
 aliases: [Reproduction, Assembly-Conception, How Life Reproduces]
-related: [[Composite-Organisms]], [[Womb-Enabled-Reproduction]], [[Non-Womb-Reproduction]], [[Environmental-GFP]]
+related: [Composite Organisms](Composite%20Organisms.md), [Womb Enabled Reproduction](Womb%20Enabled%20Reproduction.md), [Non Womb Reproduction](Non%20Womb%20Reproduction.md), [Environmental GFP](Environmental%20GFP.md)
 status: complete
 ---
 
@@ -19,7 +19,7 @@ status: complete
 
 **Assembly-Conception:**
 - Multiple genetic lineages collected from environment
-- [[3B-Womb-Partifunct-Systems|Womb]] assembles compatible modules
+- [Womb](Womb%20Partifunct%20Systems.md) assembles compatible modules
 - Each module (partifunct) has distinct genetic origin
 - Offspring is novel combination, not copy of parent(s)
 
@@ -33,21 +33,21 @@ status: complete
 
 ## Two Main Strategies
 
-### [[Womb-Enabled-Reproduction|Womb-Enabled Assembly]]
+### [Womb-Enabled Assembly](Womb%20Enabled%20Reproduction.md)
 
 **Most Common in Large Organisms:**
-- Adult collects [[Environmental-GFP|eGFP]] from environment
-- Each [[Partifunct Core Definition|partifunct]] creates partifzygote
-- [[3B-Womb-Partifunct-Systems|Womb partifunct]] assembles offspring
+- Adult collects [eGFP](Environmental%20GFP.md) from environment
+- Each [partifunct](Partifunct%20Core%20Definition.md) creates partifzygote
+- [Womb partifunct](Womb%20Partifunct%20Systems.md) assembles offspring
 - Offspring gestated until viable
 - Live birth, eggs, or other strategies
 
 **Examples:**
-- [[TPM-Zebra-Grazer|Zebra Grazers]]
-- [[Duskmantle-Stalker|Predators]]
+- [Zebra Grazers](TPM%20Example.md)
+- [Predators](rDO%20Duskmantle%20Stalker.md)
 - Most mobile fauna
 
-### [[Non-Womb-Reproduction|Non-Womb Assembly]]
+### [Non-Womb Assembly](Non%20Womb%20Reproduction.md)
 
 **Common in Autotrophs and Simple Organisms:**
 - Viable GFP packets shed directly into environment
@@ -68,15 +68,15 @@ status: complete
 ### Step 1: Environmental Collection
 
 **Passive Uptake:**
-- Breathing: Airborne [[GFP-Carriers-and-Vectors|eGFP carriers]] (pollen-analogs, mites)
+- Breathing: Airborne [eGFP carriers](GFP%20Carriers%20and%20Vectors.md) (pollen-analogs, mites)
 - Feeding: All food contains eGFP from consumed organisms
 - Absorption: Water, skin contact with eGFP sources
 - Continuous throughout adult life
 
 **Active Collection:**
 - Some organisms target specific eGFP sources
-- [[72d-Environmental-Cultivation|Environmental cultivation]] (farming preferred partifuncts)
-- [[72a-Partifunct-Trading-Rituals|Trading behaviors]] between organisms
+- [Environmental cultivation](Behavior.md) (farming preferred partifuncts)
+- [Trading behaviors](Behavior.md) between organisms
 - Selective feeding to gather desired lineages
 
 **Filtering:**
@@ -113,7 +113,7 @@ status: complete
 ### Step 3: Delivery to Womb
 
 **Transfer Mechanisms:**
-- Partifzygotes delivered to [[3B-Womb-Partifunct-Systems|womb partifunct]]
+- Partifzygotes delivered to [womb partifunct](Womb%20Partifunct%20Systems.md)
 - Via circulatory system or specialized ducts
 - Timing may be synchronized (hormonal control)
 - Womb receives full set (or nearly full set)
@@ -153,12 +153,12 @@ status: complete
 **Womb Adjusts Assembly:**
 - Based on environmental cues (temperature, food availability, threats)
 - Based on parent signals (condition, stress levels)
-- Based on [[Moons-and-Tides|lunar cycles]] (some species)
+- Based on [lunar cycles](Moons%20and%20Tides.md) (some species)
 - May add/remove/substitute partifuncts
 
-**[[Multi-Expression-Potential|Expression Guidance]]:**
+**[Expression Guidance](Multi%20Expression%20Potential.md):**
 - Womb sends developmental signals
-- [[MGFP-Transcription-Pathway|MGFP-G]] layer interprets
+- [MGFP-G](MGFP%20Transcription%20Pathway.md) layer interprets
 - Determines: "Build leg vs stem" "Hexapod vs octapod"
 - Final forms optimized for current conditions
 
@@ -169,7 +169,7 @@ status: complete
 **Growth:**
 - Compatible partifzygotes begin simultaneous development
 - Physical connections form (vascular, neural, skeletal)
-- [[34c-Transfer-Organs|Transfer organs]] develop at interfaces
+- [Transfer organs](Circulatory%20Systems.md) develop at interfaces
 - Metabolic loops interconnect
 
 **Coordination:**
@@ -210,7 +210,7 @@ status: complete
 - Shares most core partifunct lineages
 - Overall body plan recognizable
 - Fills similar ecological role
-- Part of same statistical [[31-Taxa-and-Metrics-PSV-MDI|taxon]]
+- Part of same statistical [taxon](Taxa%20and%20Metrics.md)
 
 **But:**
 - Novel genetic combinations
@@ -219,7 +219,7 @@ status: complete
 - Unique individual
 
 **High Variability:**
-- [[TPM-Zebra-Grazer|Zebra Grazer]] herd:
+- [Zebra Grazer](TPM%20Example.md) herd:
   - Some offspring have 6 legs, some 8
   - Some have 1 mouth, some 2
   - Variable sensory configurations
@@ -260,7 +260,7 @@ status: complete
 **Selection Acts On:**
 - GFP quality (codes for functional structures)
 - Integration ability (works with many partners)
-- Expression flexibility ([[Multi-Expression-Potential|multi-expression]])
+- Expression flexibility ([multi-expression](Multi%20Expression%20Potential.md))
 - Environmental persistence (eGFP survival)
 
 ### On Composite Organisms
@@ -274,7 +274,7 @@ status: complete
 **Tension:**
 - **Conservative:** Replicate successful parent configuration
 - **Innovative:** Try new combinations for adaptation
-- Balance maintained by [[Natural-Selection-on-TPIV|multi-level selection]]
+- Balance maintained by [multi-level selection](Natural%20Selection%20on%20TPIV.md)
 
 ---
 
@@ -283,7 +283,7 @@ status: complete
 ### Reproductive Timing
 
 **Environmental Cues:**
-- [[Moons-and-Tides|Lunar cycles]] (many species)
+- [Lunar cycles](Moons%20and%20Tides.md) (many species)
 - Seasonal changes
 - Resource availability
 - Population density
@@ -297,9 +297,9 @@ status: complete
 ### Synchronized Events
 
 **Mass Spawning:**
-- [[13a-Tida-Primary-Moon|Super-tides]] trigger releases
-- [[48-Intertidal-Zones|Coastal organisms]] synchronize
-- [[Environmental-GFP|eGFP]] floods environment
+- [Super-tides](Tida.md) trigger releases
+- [Coastal organisms](Littoral%20Zones.md) synchronize
+- [eGFP](Environmental%20GFP.md) floods environment
 - Cross-species coordination
 
 ---
@@ -319,7 +319,7 @@ status: complete
 **Horizontal Gene Transfer:**
 - Acquire traits from entire ecosystem
 - Not limited to "species"
-- [[GFP-Carriers-and-Vectors|Carriers]] distribute globally
+- [Carriers](GFP%20Carriers%20and%20Vectors.md) distribute globally
 - Evolutionary innovations spread rapidly
 
 ### No Mate Requirement
@@ -353,8 +353,8 @@ status: complete
 ### Coordination Requirements
 
 **Must Have:**
-- Functional [[3B-Womb-Partifunct-Systems|womb partifunct]]
-- Sufficient [[Environmental-GFP|eGFP]] diversity
+- Functional [womb partifunct](Womb%20Partifunct%20Systems.md)
+- Sufficient [eGFP](Environmental%20GFP.md) diversity
 - Compatible partifunct pool
 - Adequate resources
 
@@ -364,29 +364,29 @@ status: complete
 
 ### Detailed Pages
 
-- [[Womb-Enabled-Reproduction]] - Gestation and live birth details
-- [[Non-Womb-Reproduction]] - Environmental self-assembly
-- [[GFP-Carriers-and-Vectors]] - How genetic material spreads
-- [[25d-Partifunct-Reproduction-Strategies]] - Partifunct-level fitness
+- [Womb Enabled Reproduction](Womb%20Enabled%20Reproduction.md) - Gestation and live birth details
+- [Non Womb Reproduction](Non%20Womb%20Reproduction.md) - Environmental self-assembly
+- [GFP Carriers and Vectors](GFP%20Carriers%20and%20Vectors.md) - How genetic material spreads
+- [Reproductive Strategies](Reproductive%20Strategies.md) - Partifunct-level fitness
 
 ---
 
 ## Navigation
 
 **Core Concepts:**
-- [[Composite-Organisms]] - What reproduces
-- [[Partifunct Core Definition]] - What gets assembled
-- [[Environmental-GFP]] - Source of genetic material
-- [[3B-Womb-Partifunct-Systems]] - Assembly coordinator
+- [Composite Organisms](Composite%20Organisms.md) - What reproduces
+- [Partifunct Core Definition](Partifunct%20Core%20Definition.md) - What gets assembled
+- [Environmental GFP](Environmental%20GFP.md) - Source of genetic material
+- [Womb Partifunct Systems](Womb%20Partifunct%20Systems.md) - Assembly coordinator
 
 **Related Topics:**
-- [[Natural-Selection-on-TPIV]] - Evolutionary dynamics
-- [[Non-Homochirality]] - Why this system evolved
-- [[31-Taxa-and-Metrics-PSV-MDI]] - Why no species
+- [Natural Selection on TPIV](Natural%20Selection%20on%20TPIV.md) - Evolutionary dynamics
+- [Non Homochirality](Non%20Homochirality.md) - Why this system evolved
+- [Taxa and Metrics](Taxa%20and%20Metrics.md) - Why no species
 
 **Related Dispatches:**
-- [[D008-Composite-Reproduction]] - Discovery of assembly-conception
-- [[D010-GFP-Carrier-Ecology]] - Understanding genetic dispersal
+- [B008 – Composite Reproduction](Dispatches.md#b008) - Discovery of assembly-conception
+- [B010 – GFP Carrier Ecology](Dispatches.md#b010) - Understanding genetic dispersal
 
 ---
 

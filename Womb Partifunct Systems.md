@@ -1,7 +1,7 @@
 ---
 tags: [anatomy, reproduction, womb, assembly, gestation]
 aliases: [Womb Systems, Womb Partifunct, Reproductive Organs, Assembly Coordinator]
-related: [[30-Anatomy-Overview]], [[25a-Womb-Enabled-Reproduction]], [[3B-Womb-Partifunct-Systems]], [[23-Partifuncts-Core-Definition]]
+related: [Anatomy Overview](Anatomy%20Overview.md), [Womb Enabled Reproduction](Womb%20Enabled%20Reproduction.md), [Womb Partifunct Systems](Womb%20Partifunct%20Systems.md), [Partifunct Core Definition](Partifunct%20Core%20Definition.md)
 status: complete
 ---
 
@@ -22,7 +22,7 @@ status: complete
 The womb itself is a separate partifunct that specializes in assembling the genomic components of whatever composite form it finds itself in.
 
 **Unique Role:**
-- Receives partifzygotes from all other [[Partifunct Core Definition|partifuncts]]
+- Receives partifzygotes from all other [partifuncts](Partifunct%20Core%20Definition.md)
 - Tests compatibility between modules
 - Coordinates assembly process
 - Provides developmental environment
@@ -30,7 +30,7 @@ The womb itself is a separate partifunct that specializes in assembling the geno
 
 **Genetic Lineage:**
 - Womb is itself a partifunct
-- Has own unique [[GFP-and-Genodules|GFP]]
+- Has own unique [GFP](GFP%20and%20Genodules.md)
 - WP-WMB (Womb-Main-Body) lineage most common
 - Multiple womb lineages exist (specialized for different strategies)
 
@@ -43,7 +43,7 @@ The womb itself is a separate partifunct that specializes in assembling the geno
 **Collection:**
 - All partifuncts create partifzygotes
 - Delivered to womb via:
-  - [[Circulatory-Systems|Circulatory system]]
+  - [Circulatory system](Circulatory%20Systems.md)
   - Specialized ducts
   - Direct tissue contact
 - Timing hormonally synchronized
@@ -94,7 +94,7 @@ Once inside the womb, the partifzygotes **negotiate**. Signals pass between them
 - Food availability
 - Predator presence
 - Population density
-- [[Moons-and-Tides|Lunar phase]]
+- [Lunar phase](Moons%20and%20Tides.md)
 - Parent stress levels
 
 **Based on signals from the other partifuncts and environmental cues the womb makes changes to the composite organism's makeup.**
@@ -102,7 +102,7 @@ Once inside the womb, the partifzygotes **negotiate**. Signals pass between them
 **Modifications:**
 - May add optional partifuncts (extra sensory, defensive structures)
 - May substitute partifuncts (different brain modules)
-- May adjust expression signals ([[Multi-Expression-Potential|development guidance]])
+- May adjust expression signals ([development guidance](Multi%20Expression%20Potential.md))
 - Optimizes for current conditions
 
 ---
@@ -115,7 +115,7 @@ When the composite organism has achieved **metabolic integrity**—its parts ali
 **Growth Coordination:**
 - All partifzygotes begin simultaneous development
 - Physical connections form (vascular, neural, skeletal)
-- [[34c-Transfer-Organs|Transfer organs]] develop at interfaces
+- [Transfer organs](Circulatory%20Systems.md) develop at interfaces
 - Metabolic loops interconnect
 - Proportional scaling maintained
 
@@ -168,7 +168,7 @@ When the composite organism has achieved **metabolic integrity**—its parts ali
 **Typical Placement:**
 - Internal body cavity
 - Central or posterior location
-- Protected by [[Hexagirdle-Octagirdle|hexagirdle/octagirdle]]
+- Protected by [hexagirdle/octagirdle](Hexagirdle%20Octagirdle.md)
 - Near major vascular connections
 
 **Structure:**
@@ -179,8 +179,8 @@ When the composite organism has achieved **metabolic integrity**—its parts ali
 
 **Connection Points:**
 - Receives partifzygotes from ducts
-- Blood supply from [[Circulatory-Systems|multiple circulatory loops]]
-- Neural connection to [[33-Brain-Partifuncts|brain]] (for coordination)
+- Blood supply from [multiple circulatory loops](Circulatory%20Systems.md)
+- Neural connection to [brain](Nervous%20Systems.md) (for coordination)
 - Birth canal to exterior
 
 ---
@@ -190,13 +190,13 @@ When the composite organism has achieved **metabolic integrity**—its parts ali
 ### What Gets Assembled?
 
 **Conservative Bias:**
-The womb does not produce a copy of the parent because there is no genome of the parent. The womb assembles a 'near copy' based on [[Environmental-GFP|eGFP]] availability and conditions.
+The womb does not produce a copy of the parent because there is no genome of the parent. The womb assembles a 'near copy' based on [eGFP](Environmental%20GFP.md) availability and conditions.
 
 **Proven Configurations Favored:**
 - Parent's own partifunct lineages preferred
-- Successful [[Taxa|taxon]] patterns repeated
+- Successful [taxon](Taxa.md) patterns repeated
 - "If it worked for parent, try similar"
-- High [[31-Taxa-and-Metrics-PSV-MDI|PSV]] taxa result
+- High [PSV](Taxa%20and%20Metrics.md) taxa result
 
 **Innovation Window:**
 - ~20-30% of assemblies include novel combinations
@@ -219,7 +219,7 @@ The womb does not produce a copy of the parent because there is no genome of the
 - Offspring pre-adapted to current environment
 - No waiting for selection on mutations
 - Immediate response in single generation
-- [[Natural-Selection-on-TPIV|Rapid evolutionary adaptation]]
+- [Rapid evolutionary adaptation](Natural%20Selection%20on%20TPIV.md)
 
 ---
 
@@ -337,7 +337,7 @@ What is possible to assemble and exactly how it is assembled can vary greatly.
 - Environmental conditions shift balance
 - Stable times → conservative
 - Changing times → experimental
-- Critical for [[Natural-Selection-on-TPIV|rapid evolution]]
+- Critical for [rapid evolution](Natural%20Selection%20on%20TPIV.md)
 
 ---
 
@@ -348,7 +348,7 @@ What is possible to assemble and exactly how it is assembled can vary greatly.
 **Success = Viable Offspring:**
 - Wombs that produce successful offspring spread their own GFP
 - Womb partifunct reproduces independently
-- Released via [[Environmental-GFP|eGFP]] like other partifuncts
+- Released via [eGFP](Environmental%20GFP.md) like other partifuncts
 - Collected by other organisms
 
 **Selection Pressure:**
@@ -363,7 +363,7 @@ What is possible to assemble and exactly how it is assembled can vary greatly.
 
 ### Womb vs Non-Womb Reproduction
 
-**[[Non-Womb-Reproduction|Without Womb]]:**
+**[Without Womb](Non%20Womb%20Reproduction.md):**
 - Environmental self-assembly
 - No quality control
 - High failure rate
@@ -382,10 +382,10 @@ What is possible to assemble and exactly how it is assembled can vary greatly.
 ### Comparative Studies
 
 **Across Taxa:**
-- [[TPM-Zebra-Grazer|Zebra Grazers]]: Standard womb, moderate innovation
+- [Zebra Grazers](TPM%20Example.md): Standard womb, moderate innovation
 - Large predators: Conservative womb, proven configurations
 - Small organisms: Often lack womb (non-womb reproduction)
-- [[50-Distributed-Organisms-Overview|DOs]]: Specialized wombs (coordinate multiple partivants)
+- [DOs](Distributed%20Organisms%20Overview.md): Specialized wombs (coordinate multiple partivants)
 
 **Experimental Manipulation:**
 - Alter hormonal environment during gestation
@@ -398,25 +398,25 @@ What is possible to assemble and exactly how it is assembled can vary greatly.
 ## Navigation
 
 **Anatomy Systems:**
-- [[Anatomy-Overview]] - Overall body architecture
-- [[Circulatory-Systems]] - Womb blood supply
-- [[33-Brain-Partifuncts]] - Coordination with womb
+- [Anatomy Overview](Anatomy%20Overview.md) - Overall body architecture
+- [Circulatory Systems](Circulatory%20Systems.md) - Womb blood supply
+- [Nervous Systems](Nervous%20Systems.md) - Coordination with womb
 
 **Reproduction:**
-- [[Womb-Enabled-Reproduction]] - Detailed reproduction process
-- [[Reproduction-Assembly-Conception]] - Overall system
-- [[3B-Womb-Partifunct-Systems]] - Detailed womb anatomy
+- [Womb Enabled Reproduction](Womb%20Enabled%20Reproduction.md) - Detailed reproduction process
+- [Reproduction Assembly Conception](Reproduction%20Assembly%20Conception.md) - Overall system
+- [Womb Partifunct Systems](Womb%20Partifunct%20Systems.md) - Detailed womb anatomy
 
 **Related Topics:**
-- [[Partifunct Core Definition]] - What womb assembles
-- [[Multi-Expression-Potential]] - How womb guides expression
-- [[Natural-Selection-on-TPIV]] - Womb's role in evolution
-- [[31-Taxa-and-Metrics-PSV-MDI]] - Womb determines PSV/MDI
+- [Partifunct Core Definition](Partifunct%20Core%20Definition.md) - What womb assembles
+- [Multi Expression Potential](Multi%20Expression%20Potential.md) - How womb guides expression
+- [Natural Selection on TPIV](Natural%20Selection%20on%20TPIV.md) - Womb's role in evolution
+- [Taxa and Metrics](Taxa%20and%20Metrics.md) - Womb determines PSV/MDI
 
 **Related Dispatches:**
-- [[D008-Composite-Reproduction]] - Discovery of womb function
-- [[D011-Gestational-Plasticity]] - Environmental influence studies
-- [[D038-Womb-Decision-Modeling]] - Decision-making analysis
+- [B008 – Composite Reproduction](Dispatches.md#b008) - Discovery of womb function
+- [B011 – Death Response](Dispatches.md#b011) - Environmental influence studies
+- [B008 – Composite Reproduction](Dispatches.md#b008) - Decision-making analysis
 
 ---
 

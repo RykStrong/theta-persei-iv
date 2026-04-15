@@ -1,7 +1,7 @@
 ---
 tags: [biology, combinant-behaviors, ribbonfish, aquatic, fusion, filter-feeding, example-taxa]
 aliases: [Ribbonfish, Ribbon Fish]
-related: [[45-Combinant-Behaviors]], [[45a-Stringbirds]], [[40a-DO-vs-SB-vs-JB-Comparison]]
+related: [Combinant Behaviors](Combinant%20Behaviors.md), [Stringbirds](Stringbirds.md), [DO vs SB vs JB Comparison](DO%20vs%20SB%20vs%20JB%20Comparison.md)
 status: complete
 ---
 
@@ -19,7 +19,7 @@ status: complete
 
 ### Aquatic Filter Fusion
 
-**Ribbonfish** are aquatic organisms that engage in [[Combinant-Behaviors|combinant behavior]] by joining side-by-side to create large, dense filter masses for enhanced plankton capture.
+**Ribbonfish** are aquatic organisms that engage in [combinant behavior](Combinant%20Behaviors.md) by joining side-by-side to create large, dense filter masses for enhanced plankton capture.
 
 **Key Features:**
 - Each individual is a complete, viable organism
@@ -41,8 +41,8 @@ Called "Ribbonfish" because individuals are elongated, ribbon-like in shape, and
 - Elongated, flattened body (ribbon-like)
 - 30-120 cm length typical (varies by species)
 - Thin profile (2-5 cm width)
-- Flexible skeleton ([[37a-Lignin-vs-Calcium-Bones|lignin-based]])
-- Multiple [[Respiratory-Systems|gill structures]] along sides
+- Flexible skeleton ([lignin-based](Skeletal%20Systems.md))
+- Multiple [gill structures](Respiratory%20Systems.md) along sides
 
 **Solo Filter Feeding:**
 - Mouth: Large, forward-facing
@@ -202,7 +202,7 @@ Ribbonfish join side-by-side for filter-feeding, stack in water to create large,
 ### Viable Alone
 
 **Solo Life:**
-- Each ribbonfish is complete [[Composite-Organisms|composite organism]]
+- Each ribbonfish is complete [composite organism](Composite%20Organisms.md)
 - All systems functional independently
 - Can feed, survive, reproduce alone
 - But with reduced efficiency
@@ -253,8 +253,8 @@ Ribbonfish join side-by-side for filter-feeding, stack in water to create large,
 
 **No Reproductive Fusion:**
 - Mating occurs independently
-- [[Environmental-GFP|eGFP]] exchange during close swimming (not joined)
-- [[3B-Womb-Partifunct-Systems|Womb partifunct]] in each individual
+- [eGFP](Environmental%20GFP.md) exchange during close swimming (not joined)
+- [Womb partifunct](Womb%20Partifunct%20Systems.md) in each individual
 - Live birth typical
 
 **Fusion Benefits Reproduction:**
@@ -262,7 +262,7 @@ Ribbonfish join side-by-side for filter-feeding, stack in water to create large,
 - More energy for offspring development
 - Healthier neonates
 - Higher survival rate
-- Enhanced [[Environmental-GFP|eGFP]] diversity (more plankton = more genetic sources)
+- Enhanced [eGFP](Environmental%20GFP.md) diversity (more plankton = more genetic sources)
 
 **Offspring:**
 - Born with attachment structures
@@ -278,7 +278,7 @@ Ribbonfish join side-by-side for filter-feeding, stack in water to create large,
 
 **Threats:**
 - Large aquatic predators (ambush hunters)
-- [[46c-Drophunter-Blimp|Aerial predators]] (surface attacks)
+- [Aerial predators](Separated%20Behaviors%20and%20Exovants.md) (surface attacks)
 - Pursuit predators (fast swimmers)
 
 **Defense Strategies:**
@@ -313,7 +313,7 @@ Ribbonfish join side-by-side for filter-feeding, stack in water to create large,
 **Trophic Role:**
 - Transfer plankton biomass to higher trophic levels
 - Prey for larger predators
-- [[41-Trophic-Roles-No-Plant-Animal|Omnivore]] technically (plankton includes animal and plant analogs)
+- [Omnivore](Trophic%20Roles%20No%20Plant%20Animal.md) technically (plankton includes animal and plant analogs)
 
 ---
 
@@ -359,7 +359,7 @@ Ribbonfish join side-by-side for filter-feeding, stack in water to create large,
 
 **Selection Pressure:**
 - Plankton patchiness favors group feeding
-- [[Natural-Selection-on-TPIV|Multi-level selection]] on cooperation
+- [Multi-level selection](Natural%20Selection%20on%20TPIV.md) on cooperation
 - Cultural transmission (learned behavior)
 - Environments with variable plankton density
 
@@ -393,14 +393,14 @@ Ribbonfish join side-by-side for filter-feeding, stack in water to create large,
 ### Similar to Stringbirds
 
 **Similarities:**
-- Both [[Combinant-Behaviors|combinant behaviors]]
+- Both [combinant behaviors](Combinant%20Behaviors.md)
 - Both enhance feeding efficiency
 - Both fully viable independently
 - Both temporary fusion
 
 **Differences:**
 - Ribbonfish: Aquatic, side-by-side, filter feeding
-- [[Stringbirds|Stringbirds]]: Aerial, sequential, digestive fusion
+- [Stringbirds](Stringbirds.md): Aerial, sequential, digestive fusion
 - Ribbonfish: Relatively stationary while joined (drift or slow swim)
 - Stringbirds: Highly mobile while joined (active flight)
 
@@ -409,23 +409,23 @@ Ribbonfish join side-by-side for filter-feeding, stack in water to create large,
 ## Navigation
 
 **Core Concepts:**
-- [[Combinant-Behaviors]] - Overview of strategy
-- [[DO-vs-SB-vs-JB-Comparison]] - JB vs other strategies
-- [[Composite-Organisms]] - What each ribbonfish is
+- [Combinant Behaviors](Combinant%20Behaviors.md) - Overview of strategy
+- [DO vs SB vs JB Comparison](DO%20vs%20SB%20vs%20JB%20Comparison.md) - JB vs other strategies
+- [Composite Organisms](Composite%20Organisms.md) - What each ribbonfish is
 
 **Related Examples:**
-- [[Stringbirds]] - Aerial combinant behavior
-- [[DO-ScrubDeer-Browser]] - Alternative strategy (DO)
+- [Stringbirds](Stringbirds.md) - Aerial combinant behavior
+- [DO ScrubDeer Browser](DO%20ScrubDeer%20Browser.md) - Alternative strategy (DO)
 
 **Related Topics:**
-- [[85-Aquatic]] - Aquatic organisms overview
-- [[Digestive-Systems]] - Filter feeding mechanisms
-- [[41-Trophic-Roles-No-Plant-Animal]] - Trophic ecology
+- [Ecology Overview](Ecology%20Overview.md) - Aquatic organisms overview
+- [Digestive Systems](Digestive%20Systems.md) - Filter feeding mechanisms
+- [Trophic Roles No Plant Animal](Trophic%20Roles%20No%20Plant%20Animal.md) - Trophic ecology
 
 **Related Dispatches:**
-- [[D057-Ribbonfish-Filter-Mechanics]] - Feeding efficiency study
-- [[D061-Stack-Formation-Analysis]] - Coordination mechanisms
-- [[D062-Plankton-Depletion-Rates]] - Ecosystem impact
+- [B016 – Joined Behaviors](Dispatches.md#b016) - Feeding efficiency study
+- [B016 – Joined Behaviors](Dispatches.md#b016) - Coordination mechanisms
+- [B016 – Joined Behaviors](Dispatches.md#b016) - Ecosystem impact
 
 ---
 

@@ -2,7 +2,7 @@
 ---
 tags: [biology, classification, taxa, species-analog]
 aliases: [Taxa, Taxon, Species Analog, Statistical Assemblages]
-related: [[Cladistics-On-TPIV]], [[27b-Partifunct-Set-Variance]], [[27c-Morphological-Diversity-Index]], [[31-Taxa-and-Metrics-PSV-MDI]]
+related: [Cladistics On TPIV](Cladistics%20On%20TPIV.md), [Partifunct Set Variance](Partifunct%20Set%20Variance.md), [Morphological Diversity Index](Morphological%20Diversity%20Index.md), [Taxa and Metrics](Taxa%20and%20Metrics.md)
 status: complete
 ---
 
@@ -23,9 +23,9 @@ A **taxon** on TPIV refers to a **statistical assemblage**: a common configurati
 **It is not a genetic species.** It is a **repeatable phenotype**—a recurring composite structure that emerges from shared environmental and developmental conditions.
 
 **Examples:**
-- [[TPM-Zebra-Grazer|Zebra Grazer]] family: Grazing organisms on the steppe
-- [[83-LBB-Little-Brown-Birds|LBB Feeders]]: "Little brown bird" catch-all category
-- [[Drophunter-Blimps|Drophunter Blimp]]: Separated behavior apex hunter
+- [Zebra Grazer](TPM%20Example.md) family: Grazing organisms on the steppe
+- [LBB Feeders](Ecology%20Overview.md): "Little brown bird" catch-all category
+- [Drophunter Blimp](Separated%20Behaviors%20and%20Exovants.md): Separated behavior apex hunter
 
 ---
 
@@ -52,9 +52,9 @@ There is no single partifunct that defines the composite forms of higher animals
 
 We quantify these groupings using:
 
-**[[27b-Partifunct-Set-Variance|Partifunct Set Variance (PSV)]]:** How consistent is the set of modules across individuals?
+**[Partifunct Set Variance (PSV)](Partifunct%20Set%20Variance.md):** How consistent is the set of modules across individuals?
 
-**[[27c-Morphological-Diversity-Index|Morphological Divergence Index (MDI)]]:** How different do those individuals look, despite sharing modules?
+**[Morphological Divergence Index (MDI)](Morphological%20Diversity%20Index.md):** How different do those individuals look, despite sharing modules?
 
 ---
 
@@ -155,7 +155,7 @@ These statistics convey a clear snapshot of the composite organisms' consistency
 
 We have used the term **taxon** to identify the commonly occurring partifunct assemblages, rather than 'species'.
 
-For documentation, see [[TPM-Template|Taxon Partifunct Manifest]] format—a structured document describing:
+For documentation, see [Taxon Partifunct Manifest](TPM%20Definition.md) format—a structured document describing:
 - Observed phenotype
 - Partifunct architecture
 - Statistical uniformity (PSV)
@@ -167,20 +167,20 @@ For documentation, see [[TPM-Template|Taxon Partifunct Manifest]] format—a str
 ## Navigation
 
 **Core Concepts:**
-- [[Cladistics-On-TPIV]] - How evolution works without species
-- [[27b-Partifunct-Set-Variance]] - PSV metric explained
-- [[27c-Morphological-Diversity-Index]] - MDI metric explained
-- [[31-Taxa-and-Metrics-PSV-MDI]] - Combined overview
+- [Cladistics On TPIV](Cladistics%20On%20TPIV.md) - How evolution works without species
+- [Partifunct Set Variance](Partifunct%20Set%20Variance.md) - PSV metric explained
+- [Morphological Diversity Index](Morphological%20Diversity%20Index.md) - MDI metric explained
+- [Taxa and Metrics](Taxa%20and%20Metrics.md) - Combined overview
 
 **Related Topics:**
-- [[Partifunct Core Definition]] - What makes up taxa
-- [[TPM-Template]] - How taxa are documented
-- [[80-Taxa-Index]] - Catalog of known taxa
-- [[93-Naming-Conventions]] - Naming rules
+- [Partifunct Core Definition](Partifunct%20Core%20Definition.md) - What makes up taxa
+- [TPM Definition](TPM%20Definition.md) - How taxa are documented
+- [TPIV Taxa](TPIV%20Taxa.md) - Catalog of known taxa
+- [Taxa and Metrics](Taxa%20and%20Metrics.md) - Naming rules
 
 **Related Dispatches:**
-- [[D020-Taxon-Statistical-Analysis]] - First formal definitions
-- [[D021-PSV-MDI-Methodology]] - Metric development
+- [B007 – Modular Assembly & Genetics](Dispatches.md#b007) - First formal definitions
+- [B007 – Modular Assembly & Genetics](Dispatches.md#b007) - Metric development
 
 ---
 

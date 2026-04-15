@@ -1,7 +1,7 @@
 ---
 tags: [biology, documentation, TPM, template, reference-format]
 aliases: [TPM, Taxon Partifunct Manifest, Documentation Template, Organism Documentation]
-related: [[31-Taxa-and-Metrics-PSV-MDI]], [[27a-Taxa]], [[32a-TPM-Zebra-Grazer-Example]]
+related: [Taxa and Metrics](Taxa%20and%20Metrics.md), [Taxa](Taxa.md), [TPM Example](TPM%20Example.md)
 status: complete
 ---
 
@@ -32,8 +32,8 @@ A **Taxon Partifunct Manifest** is a reference dossier describing:
 
 1. **Observed phenotype** (structure, behavior, ecology)
 2. **Partifunct architecture** (dominant modules by domain and function)
-3. **Statistical uniformity** ([[27b-Partifunct-Set-Variance|PSV]]: Partifunct Set Variance)
-4. **Morphological diversity** ([[27c-Morphological-Diversity-Index|MDI]]: Morphological Divergence Index)
+3. **Statistical uniformity** ([PSV](Partifunct%20Set%20Variance.md): Partifunct Set Variance)
+4. **Morphological diversity** ([MDI](Morphological%20Diversity%20Index.md): Morphological Divergence Index)
 5. **Modularity signature** (not a "species," but a recurring successful configuration)
 
 ---
@@ -179,7 +179,7 @@ TPM-[CODE]
 ```
 ## Example TPM
 
-### [[82a-Zebra-Grazer|Sample: Zebra Grazer]]
+### [Sample: Zebra Grazer](MagnaGrazerGuild.md)
 
 **Designation:** `TPM-ZG-LGW-Hx`  
 **Classification:** Grazer, Walker—Large Ground Weight, Hexapedal  
@@ -198,7 +198,7 @@ TPM-[CODE]
 | CN | MOTO | CORE4 | Motor Control |
 | WP | WMB | STDX4 | Womb Partifunct |
 
-*[See full example at [[82a-Zebra-Grazer]]]*
+*[See full example at [MagnaGrazerGuild](MagnaGrazerGuild.md)]*
 
 ---
 
@@ -297,22 +297,23 @@ TPM-[CODE]
 ## Navigation
 
 **Core Concepts:**
-- [[31-Taxa-and-Metrics-PSV-MDI]] - Metrics used in TPM
-- [[Taxa]] - What TPMs document
-- [[Partifunct Core Definition]] - Building blocks
+- [Taxa and Metrics](Taxa%20and%20Metrics.md) - Metrics used in TPM
+- [Taxa](Taxa.md) - What TPMs document
+- [Partifunct Core Definition](Partifunct%20Core%20Definition.md) - Building blocks
 
 **Examples:**
-- [[32a-TPM-Zebra-Grazer-Example]] - Complete example
-- [[80-Taxa-Index]] - All documented TPMs
+- [TPM Example](TPM%20Example.md) - Complete example
+- [TPIV Taxa](TPIV%20Taxa.md) - All documented TPMs
+- [see worked example](TPM%20Example.md)
 
 **Related Topics:**
-- [[93-Naming-Conventions]] - How organisms are named
-- [[87-Partifunct-Index]] - Partifunct catalog
-- [[92-Functional-Classification-System]] - Classification codes
+- [Taxa and Metrics](Taxa%20and%20Metrics.md) - How organisms are named
+- [Partifunct Domain & Function Table](Partifunct%20Domain%20&%20Function%20Table.md) - Partifunct catalog
+- [Taxa and Metrics](Taxa%20and%20Metrics.md) - Classification codes
 
 **Related Dispatches:**
-- [[D024-TPM-Format-Proposal]] - Original format design
-- [[D025-TPM-Implementation]] - Field testing results
+- [B014 – Taxon Partifunct Manifest](Dispatches.md#b014) - Original format design
+- [B014 – Taxon Partifunct Manifest](Dispatches.md#b014) - Field testing results
 
 ---
 

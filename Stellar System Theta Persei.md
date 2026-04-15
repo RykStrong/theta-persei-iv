@@ -2,7 +2,7 @@
 ---
 tags: [world, stellar-system, astronomy, star, planets]
 aliases: [Theta Persei, Theta Persei System, F8V Star]
-related: [[Planet-Overview]], [[Atmosphere]], [[Moons-and-Tides]]
+related: [Planet-Overview](Planet-Overview.md), [Atmosphere](Atmosphere.md), [Moons and Tides](Moons%20and%20Tides.md)
 status: complete
 ---
 
@@ -36,12 +36,12 @@ status: complete
 
 | Property | Theta Persei | Sol (for comparison) | Ratio |
 |----------|--------------|---------------------|--------|
-| **Mass** | 1.15 M☉ | 1.0 M☉ | 1.15× |
-| **Radius** | 1.22 R☉ | 1.0 R☉ | 1.22× |
-| **Luminosity** | 1.58 L☉ | 1.0 L☉ | 1.58× |
-| **Surface Temperature** | 6,200 K | 5,778 K | 1.07× |
-| **Age** | ~2.8 Gyr | 4.6 Gyr | 0.61× |
-| **Main Sequence Lifetime** | ~5.5 Gyr | ~10 Gyr | 0.55× |
+| **Mass** | 1.2 M☉       | 1.0 M☉ | 1.15× |
+| **Radius** | 1.22 R☉      | 1.0 R☉ | 1.22× |
+| **Luminosity** | 1.58 L☉      | 1.0 L☉ | 1.58× |
+| **Surface Temperature** | 6,200 K      | 5,778 K | 1.07× |
+| **Age** | ~2.8 Gyr     | 4.6 Gyr | 0.61× |
+| **Main Sequence Lifetime** | ~5.5 Gyr     | ~10 Gyr | 0.55× |
 
 ### Stellar Characteristics
 
@@ -49,7 +49,7 @@ status: complete
 - Appears **yellow-white** to human observers
 - Peak emission in blue-green wavelengths
 - Slightly bluer than Sol
-- Contributes to TPIV's distinctive sky colors (see [[Atmosphere]])
+- Contributes to TPIV's distinctive sky colors (see [Atmosphere](Atmosphere.md))
 
 **Energy Output:**
 - **58% more luminous** than Sol
@@ -152,12 +152,12 @@ status: complete
 - **Mass:** 0.93 M⊕
 - **Orbital Period:** 788 days (2.16 Earth years / 589 local days)
 - **Eccentricity:** 0.09 (moderate-high)
-- **Axial Tilt:** 21.4°
-- **Surface Gravity:** 1.08g
+- **Axial Tilt:** 19°
+- **Surface Gravity:** 0.91g
 - **Type:** Terrestrial with active biosphere
 - **Satellites:** 3 moons (Tida, Lumna, Radita)
 - **Status:** **Active survey mission** - Camp Aurora established
-- **See:** [[Planet-Overview]] for complete details
+- **See:** [Planet-Overview](Planet-Overview.md) for complete details
 
 - 65% ocean, 35% land (5 continents)
 - ~3 billion years of continuous life
@@ -305,7 +305,7 @@ status: complete
 **Effects on TPIV:**
 - Auroras more frequent than on Earth
 - Slight atmospheric erosion over geological time
-- [[13c-Radita-Tertiary-Moon|Radita's]] radiation fluctuations may be influenced by stellar wind
+- [Radita's](Radita.md) radiation fluctuations may be influenced by stellar wind
 
 ### Coronal Mass Ejections
 
@@ -316,7 +316,7 @@ status: complete
   - Satellite operations
   - Communication systems
   - Auroral displays
-  - [[14e-Kolofluke|Radio-wave organism]] behavior (?)
+  - [Radio-wave organism](Continents.md) behavior (?)
 
 **TPIV Protection:**
 - Magnetic field deflects most charged particles
@@ -355,8 +355,8 @@ status: complete
 
 **Biological Adaptations:**
 - Some organisms may have enhanced UV protection
-- Possible contributor to [[43-Photosynthesis-and-Pigments|non-green pigments]]
-- May influence [[Multi-Expression-Potential|partifunct expression]] patterns
+- Possible contributor to [non-green pigments](Photosynthesis%20and%20Pigments.md)
+- May influence [partifunct expression](Multi%20Expression%20Potential.md) patterns
 
 ### Visible Light Characteristics
 
@@ -365,7 +365,7 @@ status: complete
 - More blue light than Sol
 - Less red light than Sol
 - Creates distinctive:
-  - Sky color (see [[Atmosphere]])
+  - Sky color (see [Atmosphere](Atmosphere.md))
   - Photosynthetic pigment evolution
   - Visual system adaptations in fauna
 ---
@@ -373,14 +373,14 @@ status: complete
 ## Navigation
 
 **Related Pages:**
-- [[Planet-Overview|TPIV Overview]] - The fourth planet in detail
-- [[Atmosphere|Atmosphere]] - How stellar spectrum affects atmospheric chemistry
-- [[43-Photosynthesis-and-Pigments|Photosynthesis]] - How organisms use Theta Persei's light
-- [[Moons-and-Tides|Three Moons]] - TPIV's satellite system
+- [TPIV Overview](Planet-Overview.md) - The fourth planet in detail
+- [Atmosphere](Atmosphere.md) - How stellar spectrum affects atmospheric chemistry
+- [Photosynthesis](Photosynthesis%20and%20Pigments.md) - How organisms use Theta Persei's light
+- [Three Moons](Moons%20and%20Tides.md) - TPIV's satellite system
 
 **Related Dispatches:**
-- [[D001-System-Enumeration]] - Initial system survey
-- [[D002-Planetary-Overview]] - Stellar environment context
+- [B001 – Theta Persei System](Dispatches.md#b001) - Initial system survey
+- [B002 – TPIV Planetary Overview](Dispatches.md#b002) - Stellar environment context
 
 ---
 

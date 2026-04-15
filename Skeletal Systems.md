@@ -1,7 +1,7 @@
 ---
 tags: [anatomy, skeletal, bones, structure, support, lignin, calcium]
 aliases: [Skeletal Systems, Bones, Skeleton, Structural Support]
-related: [[30-Anatomy-Overview]], [[37a-Lignin-vs-Calcium-Bones]], [[37b-Joint-Architecture]], [[37c-Hexagirdle-Octagirdle]]
+related: [Anatomy Overview](Anatomy%20Overview.md), [Skeletal Systems](Skeletal%20Systems.md), [Skeletal Systems](Skeletal%20Systems.md), [Hexagirdle Octagirdle](Hexagirdle%20Octagirdle.md)
 status: complete
 ---
 
@@ -39,7 +39,7 @@ Bones tend to be made of Lignin or similar proteins rather than calcium. The Lig
 - Some organisms use lignin for limbs, calcium for girdle
 - Hybrid structures in large organisms
 - Selection based on functional demands
-- [[37a-Lignin-vs-Calcium-Bones|Detailed comparison]]
+- [Detailed comparison](Skeletal%20Systems.md)
 
 ---
 
@@ -47,7 +47,7 @@ Bones tend to be made of Lignin or similar proteins rather than calcium. The Lig
 
 ### Segmented Architecture
 
-**[[88a-ST-LMB-Lignin-Limb-Segment|Limb Segments]]:**
+**[Limb Segments](Partifunct%20Domain%20&%20Function%20Table.md):**
 - Bones composed of distinct segments
 - Each segment may be separate partifunct component
 - Rigid structural units
@@ -56,7 +56,7 @@ Bones tend to be made of Lignin or similar proteins rather than calcium. The Lig
 **Internal Architecture:**
 - Dense outer layer (cortical bone analog)
 - Porous inner structure (trabecular bone analog)
-- [[LU-Biology|Genode clusters]] maintain bone tissue
+- [Genode clusters](BLU%20Biology.md) maintain bone tissue
 - Vascular channels for nutrient delivery
 
 ---
@@ -69,7 +69,7 @@ Bones tend to be made of Lignin or similar proteins rather than calcium. The Lig
 Creatures tend to have joints that are separate segments from the limbs, giving a 'swollen joint' appearance to many limbed organisms.
 
 **Structure:**
-- [[37b-Joint-Architecture|Joints as distinct structures]]
+- [Joints as distinct structures](Skeletal%20Systems.md)
 - Often larger diameter than bone segments
 - Ball-and-socket, hinge, or sliding configurations
 - Muscular and connective tissue concentrated here
@@ -86,13 +86,13 @@ Creatures tend to have joints that are separate segments from the limbs, giving 
 
 ### Hexagirdle and Octagirdle
 
-**[[Hexagirdle-Octagirdle|Ring-Shaped Body Core]]:**
+**[Ring-Shaped Body Core](Hexagirdle%20Octagirdle.md):**
 On TPIV, the basic pattern of a hexapod, with a ring shaped bony hip/shoulder girdle with the central nervous trunk, and the brain and other critical organs protected in a body cavity in the center between or on top of the limbs has come to be very common.  The 'girdles' come in two main variations: flexible and rigid.  The girdle can be repeated to form a longer body with a 'chain link' skeleton.
 
 **Hexagirdle (Most Common):**
 - Ring-shaped bone structure
 - Six limb attachment points
-- [[33-Brain-Partifuncts|Brain]] and organs protected in center
+- [Brain](Nervous%20Systems.md) and organs protected in center
 - Central nerve loop runs through girdle
 - Can be jointed or solid
 
@@ -134,7 +134,7 @@ The legs ST-LMB partifunct's bone ends in a ball which fits into a socket on the
 ### Comparative Studies
 
 **Across Taxa:**
-- [[TPM-Zebra-Grazer|Zebra Grazers]]: Lignin limbs, mixed girdle (83% lignin, 17% calcium)
+- [Zebra Grazers](TPM%20Example.md): Lignin limbs, mixed girdle (83% lignin, 17% calcium)
 - Large predators: Heavier calcium content for strength
 - Small organisms: Pure lignin (weight savings)
 - Aerial: Hollow lignin bones (maximum lightness)
@@ -151,28 +151,28 @@ The legs ST-LMB partifunct's bone ends in a ball which fits into a socket on the
 
 ### Detailed Pages
 
-- [[37a-Lignin-vs-Calcium-Bones]] - Material comparison and trade-offs
-- [[37b-Joint-Architecture]] - Joint types and mechanics
-- [[Hexagirdle-Octagirdle]] - Central body structure details
+- [Skeletal Systems](Skeletal%20Systems.md) - Material comparison and trade-offs
+- [Skeletal Systems](Skeletal%20Systems.md) - Joint types and mechanics
+- [Hexagirdle Octagirdle](Hexagirdle%20Octagirdle.md) - Central body structure details
 
 ---
 
 ## Navigation
 
 **Anatomy Systems:**
-- [[Anatomy-Overview]] - Overall body architecture
-- [[Circulatory-Systems]] - Blood supply to bones
-- [[33a-Motor-Control]] - Movement control via skeleton
-- [[Sensory-Systems]] - Skeletal protection of sensors
+- [Anatomy Overview](Anatomy%20Overview.md) - Overall body architecture
+- [Circulatory Systems](Circulatory%20Systems.md) - Blood supply to bones
+- [Nervous Systems](Nervous%20Systems.md) - Movement control via skeleton
+- [Sensory Systems](Sensory%20Systems.md) - Skeletal protection of sensors
 
 **Related Topics:**
-- [[Partifunct Core Definition]] - Why each bone is distinct
-- [[88a-ST-LMB-Lignin-Limb-Segment]] - Most successful skeletal partifunct
-- [[42-Convergent-Evolution]] - Similar skeletal solutions
+- [Partifunct Core Definition](Partifunct%20Core%20Definition.md) - Why each bone is distinct
+- [Partifunct Domain & Function Table](Partifunct%20Domain%20&%20Function%20Table.md) - Most successful skeletal partifunct
+- [Convergent Evolution](Convergent%20Evolution.md) - Similar skeletal solutions
 
 **Related Dispatches:**
-- [[D034-Skeletal-Material-Analysis]] - Lignin vs calcium study
-- [[D035-Biomechanics-Hexagirdle]] - Central structure mechanics
+- [B005 – Steppe Surface Life](Dispatches.md#b005) - Lignin vs calcium study
+- [B005 – Steppe Surface Life](Dispatches.md#b005) - Central structure mechanics
 
 ---
 

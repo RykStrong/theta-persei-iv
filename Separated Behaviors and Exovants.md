@@ -1,7 +1,7 @@
 ---
 tags: [biology, separated-behaviors, exovants, temporary-separation, detachment]
 aliases: [Separated Behaviors, SB, Exovants, Temporary Detachment]
-related: [[40a-DO-vs-SB-vs-JB-Comparison]], [[46a-Throwjaw]], [[46b-Tossclaw]], [[46c-Drophunter-Blimp]]
+related: [DO vs SB vs JB Comparison](DO%20vs%20SB%20vs%20JB%20Comparison.md), [Separated Behaviors and Exovants](Separated%20Behaviors%20and%20Exovants.md), [Separated Behaviors and Exovants](Separated%20Behaviors%20and%20Exovants.md), [Separated Behaviors and Exovants](Separated%20Behaviors%20and%20Exovants.md)
 status: complete
 ---
 
@@ -22,7 +22,7 @@ status: complete
 Organism will temporarily separate a part of itself (the **exovant**) to perform a limited task, then the exovant must rejoin.
 
 **Key Characteristics:**
-- **One organism:** Single [[Composite-Organisms|composite organism]] with detachable part
+- **One organism:** Single [composite organism](Composite%20Organisms.md) with detachable part
 - **Temporary separation:** Seconds to hours maximum
 - **Exovant not viable:** Cannot survive independently
 - **Must rejoin:** Parent body waits for/retrieves exovant
@@ -35,7 +35,7 @@ Organism will temporarily separate a part of itself (the **exovant**) to perform
 
 ### The Detached Chunk
 
-**[[Partivant-Definition|Exovant vs Partivant]]:**
+**[Exovant vs Partivant](Partivant%20Definition.md):**
 
 **Exovant (in Separated Behaviors):**
 - Temporarily separated chunk from single body
@@ -44,7 +44,7 @@ Organism will temporarily separate a part of itself (the **exovant**) to perform
 - Limited functionality (specific task only)
 - Uses Separation partifunct
 
-**Partivant (in [[Distributed-Organisms-Overview|Distributed Organisms]]):**
+**Partivant (in [Distributed Organisms](Distributed%20Organisms%20Overview.md)):**
 - Permanently separated body in multi-body organism
 - NOT viable independently
 - Never rejoins (never was joined)
@@ -58,7 +58,7 @@ Organism will temporarily separate a part of itself (the **exovant**) to perform
 
 ## Distinction from Other Strategies
 
-### [[DO-vs-SB-vs-JB-Comparison|SB vs DO vs JB]]
+### [SB vs DO vs JB](DO%20vs%20SB%20vs%20JB%20Comparison.md)
 
 **Separated Behaviors (SB):**
 - One body temporarily separates part (exovant)
@@ -66,13 +66,13 @@ Organism will temporarily separate a part of itself (the **exovant**) to perform
 - Must rejoin parent
 - Examples: Throwjaw, Drophunter Blimp
 
-**[[Distributed-Organisms-Overview|Distributed Organisms (DO)]]:**
+**[Distributed Organisms (DO)](Distributed%20Organisms%20Overview.md):**
 - Multiple bodies (partivants) permanently separated
 - None viable independently
 - Never joined in first place
 - Examples: DO-ScrubDeer, rDO-Duskmantle
 
-**[[Combinant-Behaviors|Combinant Behaviors (JB)]]:**
+**[Combinant Behaviors (JB)](Combinant%20Behaviors.md):**
 - Multiple independent organisms join temporarily
 - Each viable independently
 - Temporary fusion, then separate
@@ -91,9 +91,9 @@ Organism will temporarily separate a part of itself (the **exovant**) to perform
 - **Energy efficiency:** Deploy small part vs. moving whole body
 
 **Use Cases:**
-- **Hunting:** Deploy attack structure ([[46c-Drophunter-Blimp|Drophunter hunter exovant]])
-- **Defense:** Deploy weapon ([[46b-Tossclaw|Tossclaw]])
-- **Feeding:** Deploy capture structure ([[46a-Throwjaw|Throwjaw]])
+- **Hunting:** Deploy attack structure ([Drophunter hunter exovant](Separated%20Behaviors%20and%20Exovants.md))
+- **Defense:** Deploy weapon ([Tossclaw](Separated%20Behaviors%20and%20Exovants.md))
+- **Feeding:** Deploy capture structure ([Throwjaw](Separated%20Behaviors%20and%20Exovants.md))
 - **Exploration:** Deploy sensor package (rare, theoretical)
 
 ---
@@ -104,15 +104,15 @@ Organism will temporarily separate a part of itself (the **exovant**) to perform
 
 **Low-Function Exovants:**
 - Simple, pre-programmed actions
-- Minimal [[33-Brain-Partifuncts|nervous system]] (reflexes only)
+- Minimal [nervous system](Nervous%20Systems.md) (reflexes only)
 - Short deployment time (seconds to minutes)
-- Examples: [[46a-Throwjaw|Throwjaw]], [[46b-Tossclaw|Tossclaw]]
+- Examples: [Throwjaw](Separated%20Behaviors%20and%20Exovants.md), [Tossclaw](Separated%20Behaviors%20and%20Exovants.md)
 
 **High-Function Exovants:**
 - Complex, autonomous behavior
 - Significant neural tissue (decision-making)
 - Longer deployment time (minutes to hours)
-- Example: [[46c-Drophunter-Blimp|Drophunter Blimp]] hunter exovant
+- Example: [Drophunter Blimp](Separated%20Behaviors%20and%20Exovants.md) hunter exovant
 
 ---
 
@@ -121,16 +121,16 @@ Organism will temporarily separate a part of itself (the **exovant**) to perform
 ### What Gets Separated
 
 **Physical Composition:**
-- Multiple [[Partifunct Core Definition|partifuncts]] (like any body part)
-- [[Skeletal-Systems|Skeletal support]]
-- [[Circulatory-Systems|Blood supply]] (limited, temporary reserves)
-- [[Respiratory-Systems|Respiratory capacity]] (minimal, short-term only)
-- [[33-Brain-Partifuncts|Neural control]] (varies by type)
+- Multiple [partifuncts](Partifunct%20Core%20Definition.md) (like any body part)
+- [Skeletal support](Skeletal%20Systems.md)
+- [Blood supply](Circulatory%20Systems.md) (limited, temporary reserves)
+- [Respiratory capacity](Respiratory%20Systems.md) (minimal, short-term only)
+- [Neural control](Nervous%20Systems.md) (varies by type)
 - Muscles and connective tissue
 
 **What's Missing:**
-- Complete [[Digestive-Systems|digestive system]] (cannot sustain itself)
-- [[3B-Womb-Partifunct-Systems|Womb]] (cannot reproduce)
+- Complete [digestive system](Digestive%20Systems.md) (cannot sustain itself)
+- [Womb](Womb%20Partifunct%20Systems.md) (cannot reproduce)
 - Full circulatory loops (dependent on parent)
 - Most critical organ systems
 - Long-term metabolic capability
@@ -176,13 +176,13 @@ Functional for specific task, but **countdown to death** begins at separation.
 - Simple grab-and-return (Tossclaw)
 - Reflex responses only
 - No learning or adaptation
-- [[33a-Motor-Control|MOTO brain]] fragment only
+- [MOTO brain](Nervous%20Systems.md) fragment only
 
 **High-Function:**
 - Autonomous hunting (Drophunter hunter exovant)
 - Decision-making (target selection)
 - Complex maneuvers (pursuit, capture)
-- Multiple [[33-Brain-Partifuncts|brain partifuncts]] (MOTO, SENS, THRT)
+- Multiple [brain partifuncts](Nervous%20Systems.md) (MOTO, SENS, THRT)
 - Limited learning during deployment
 
 ---
@@ -219,18 +219,18 @@ Functional for specific task, but **countdown to death** begins at separation.
 ### Representative Taxa
 
 **Simple Deployment:**
-- **[[46a-Throwjaw|Throwjaw]]:** Detaches jaw for bite-and-release
+- **[Throwjaw](Separated%20Behaviors%20and%20Exovants.md):** Detaches jaw for bite-and-release
   - Deployment: Seconds
   - Function: Simple attack
   - Rejoins immediately
 
-- **[[46b-Tossclaw|Tossclaw]]:** Launches claw to grab prey
+- **[Tossclaw](Separated%20Behaviors%20and%20Exovants.md):** Launches claw to grab prey
   - Deployment: Seconds to minutes
   - Function: Retrieve food
   - Reels back to parent
 
 **Complex Deployment:**
-- **[[46c-Drophunter-Blimp|Drophunter Blimp]]:** Aerial creature drops hunter exovant
+- **[Drophunter Blimp](Separated%20Behaviors%20and%20Exovants.md):** Aerial creature drops hunter exovant
   - Deployment: Minutes to hours
   - Function: Autonomous hunting
   - Returns when successful or exhausted
@@ -257,7 +257,7 @@ Functional for specific task, but **countdown to death** begins at separation.
 - Environments where full-body approach too risky
 - Prey that requires specialized capture method
 - Predators that target large bodies
-- [[Natural-Selection-on-TPIV|Multi-level selection]] on exovant success rate
+- [Multi-level selection](Natural%20Selection%20on%20TPIV.md) on exovant success rate
 
 ---
 
@@ -316,7 +316,7 @@ Exovant must complete task and rejoin **before** metabolic collapse.
 - Parent can regenerate lost exovant
 - Costly process (weeks to months)
 - Vulnerable during regeneration (reduced capability)
-- [[3B-Womb-Partifunct-Systems|Womb-like growth]] process
+- [Womb-like growth](Womb%20Partifunct%20Systems.md) process
 
 ---
 
@@ -333,7 +333,7 @@ Exovant must complete task and rejoin **before** metabolic collapse.
 - Exovant **performs useful task** (not just distraction)
 - Exovant **returns and reintegrates** (functional rejoining)
 - Exovant has **complex behavior** (not just reflex)
-- [[Non-Homochirality|Modular biology]] enables this strategy
+- [Modular biology](Non%20Homochirality.md) enables this strategy
 
 ---
 
@@ -342,7 +342,7 @@ Exovant must complete task and rejoin **before** metabolic collapse.
 ### Field Studies
 
 **Frequency:**
-- Separated behaviors less common than [[Distributed-Organisms-Overview|DOs]] or [[Combinant-Behaviors|JB]]
+- Separated behaviors less common than [DOs](Distributed%20Organisms%20Overview.md) or [JB](Combinant%20Behaviors.md)
 - ~20 documented species
 - Most are ambush predators or aerial hunters
 - Rare in herbivores (no clear advantage)
@@ -359,37 +359,38 @@ Exovant must complete task and rejoin **before** metabolic collapse.
 
 ### Detailed Examples
 
-- [[46a-Throwjaw]] - Simple jaw detachment
-- [[46b-Tossclaw]] - Claw launcher
-- [[46c-Drophunter-Blimp]] - Complex autonomous hunter exovant
+- [Separated Behaviors and Exovants](Separated%20Behaviors%20and%20Exovants.md) - Simple jaw detachment
+- [Separated Behaviors and Exovants](Separated%20Behaviors%20and%20Exovants.md) - Claw launcher
+- [Separated Behaviors and Exovants](Separated%20Behaviors%20and%20Exovants.md) - Complex autonomous hunter exovant
 
 ---
 
 ## Navigation
 
 **Core Concepts:**
-- [[DO-vs-SB-vs-JB-Comparison]] - SB vs DO vs JB
-- [[Partivant-Definition]] - Exovant vs partivant distinction
-- [[Composite-Organisms]] - What's being separated
+- [DO vs SB vs JB Comparison](DO%20vs%20SB%20vs%20JB%20Comparison.md) - SB vs DO vs JB
+- [Partivant Definition](Partivant%20Definition.md) - Exovant vs partivant distinction
+- [Composite Organisms](Composite%20Organisms.md) - What's being separated
 
 **Examples:**
-- [[46a-Throwjaw]] - Jaw detachment
-- [[46b-Tossclaw]] - Claw separation
-- [[46c-Drophunter-Blimp]] - Hunter exovant
+- [Separated Behaviors and Exovants](Separated%20Behaviors%20and%20Exovants.md) - Jaw detachment
+- [Separated Behaviors and Exovants](Separated%20Behaviors%20and%20Exovants.md) - Claw separation
+- [Separated Behaviors and Exovants](Separated%20Behaviors%20and%20Exovants.md) - Hunter exovant
 
 **Related Strategies:**
-- [[Distributed-Organisms-Overview]] - Permanent separation
-- [[Combinant-Behaviors]] - Temporary fusion
+- [Distributed Organisms Overview](Distributed%20Organisms%20Overview.md) - Permanent separation
+- [Combinant Behaviors](Combinant%20Behaviors.md) - Temporary fusion
 
 **Related Topics:**
-- [[Partifunct Core Definition]] - What comprises exovant
-- [[33-Brain-Partifuncts]] - Exovant control systems
-- [[Natural-Selection-on-TPIV]] - Why SB evolves
+- [Partifunct Core Definition](Partifunct%20Core%20Definition.md) - What comprises exovant
+- [Nervous Systems](Nervous%20Systems.md) - Exovant control systems
+- [Natural Selection on TPIV](Natural%20Selection%20on%20TPIV.md) - Why SB evolves
+- [Drophunter (separated) vs DO-Dropshark comparison](Comparative%20Essay%20Drophunter%20vs%20DO%20Dropshark%20Blimps.md)
 
 **Related Dispatches:**
-- [[D063-Exovant-Metabolism-Study]] - Time limit analysis
-- [[D064-Rejoin-Success-Rates]] - Field observations
-- [[D065-Regeneration-Costs]] - Energy expenditure
+- [B015 – Separated Behaviors](Dispatches.md#b015) - Time limit analysis
+- [B015 – Separated Behaviors](Dispatches.md#b015) - Field observations
+- [B015 – Separated Behaviors](Dispatches.md#b015) - Energy expenditure
 
 ---
 

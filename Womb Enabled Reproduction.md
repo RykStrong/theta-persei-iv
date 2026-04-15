@@ -1,14 +1,14 @@
 ---
 tags: [biology, reproduction, womb, gestation]
 aliases: [Womb Reproduction, Gestation, Live Birth]
-related: [[25-Reproduction-Assembly-Conception]], [[3B-Womb-Partifunct-Systems]], [[25b-Non-Womb-Reproduction]]
+related: [Reproduction Assembly Conception](Reproduction%20Assembly%20Conception.md), [Womb Partifunct Systems](Womb%20Partifunct%20Systems.md), [Non Womb Reproduction](Non%20Womb%20Reproduction.md)
 status: complete
 ---
 
 # Womb-Enabled Reproduction
 
 **Definition:** Assembly-conception occurring within specialized womb partifunct  
-**Most Common In:** Large, mobile [[Composite-Organisms|composite organisms]]  
+**Most Common In:** Large, mobile [composite organisms](Composite%20Organisms.md)  
 **Process:** Controlled assembly, gestation, live birth or eggs  
 **Key Feature:** Womb actively manages compatibility and development
 
@@ -52,14 +52,14 @@ This method of reproduction is surprisingly stable. Even without a central genom
 - Makes final decisions on viable combinations
 
 **Genetic Identity:**
-- Womb is itself a [[Partifunct Core Definition|partifunct]]
-- Has own unique [[GFP-and-Genodules|GFP]] lineage
+- Womb is itself a [partifunct](Partifunct%20Core%20Definition.md)
+- Has own unique [GFP](GFP%20and%20Genodules.md) lineage
 - Specialized for assembly coordination
-- Reproduces own lineage via [[Environmental-GFP|eGFP]]
+- Reproduces own lineage via [eGFP](Environmental%20GFP.md)
 
 **Not Universal:**
 - Large mobile organisms usually have wombs
-- Small organisms often use [[Non-Womb-Reproduction|non-womb methods]]
+- Small organisms often use [non-womb methods](Non%20Womb%20Reproduction.md)
 - Some organisms have communal wombs (eusocial)
 - Autotrophs rarely have womb partifuncts
 
@@ -118,7 +118,7 @@ This method of reproduction is surprisingly stable. Even without a central genom
   - Food availability
   - Predator presence
   - Population density
-  - [[Moons-and-Tides|Lunar phase]]
+  - [Lunar phase](Moons%20and%20Tides.md)
 
 **Configuration Decisions:**
 - Based on environment and parent signals
@@ -129,12 +129,12 @@ This method of reproduction is surprisingly stable. Even without a central genom
   - Specialized metabolic systems for resource scarcity
 
 **Expression Guidance:**
-- Womb sends [[Multi-Expression-Potential|developmental signals]]
+- Womb sends [developmental signals](Multi%20Expression%20Potential.md)
 - Determines partifunct expression:
   - "Build leg" vs "build stem"
   - "Hexapod" vs "octapod"
   - Size, proportions, specialization
-- [[MGFP-Transcription-Pathway|MGFP-G]] interprets womb signals
+- [MGFP-G](MGFP%20Transcription%20Pathway.md) interprets womb signals
 
 ---
 
@@ -142,13 +142,13 @@ This method of reproduction is surprisingly stable. Even without a central genom
 
 **Synchronized Development:**
 - All partifzygotes begin growth simultaneously
-- Initial cell-analog ([[21-BLUs-Basic-Life-Units|BLU]]) division
+- Initial cell-analog ([BLU](BLU%20Biology.md)) division
 - Tissue differentiation begins
 - Spatial organization emerges
 
 **Physical Connection Formation:**
 - Skeletal attachment points develop
-- Vascular interfaces form ([[34c-Transfer-Organs|transfer organs]])
+- Vascular interfaces form ([transfer organs](Circulatory%20Systems.md))
 - Neural crossings establish
 - Muscle-tendon connections grow
 
@@ -172,7 +172,7 @@ This method of reproduction is surprisingly stable. Even without a central genom
 - Varies by organism size and complexity
 - Small organisms: Weeks
 - Large organisms: Months
-- [[TPM-Zebra-Grazer|Zebra Grazer]]: ~4 local months
+- [Zebra Grazer](TPM%20Example.md): ~4 local months
 
 **Metabolic Integration:**
 - All circulatory loops must connect
@@ -235,7 +235,7 @@ This method of reproduction is surprisingly stable. Even without a central genom
 **Conservative Bias:**
 - Womb preferentially selects proven configurations
 - Parent's own partifunct lineages favored
-- Successful [[31-Taxa-and-Metrics-PSV-MDI|taxon]] patterns repeated
+- Successful [taxon](Taxa%20and%20Metrics.md) patterns repeated
 - "If it worked for parent, try similar"
 
 **Innovation Window:**
@@ -302,23 +302,23 @@ This method of reproduction is surprisingly stable. Even without a central genom
 ## Navigation
 
 **Core Concepts:**
-- [[Reproduction-Assembly-Conception]] - Overall reproduction system
-- [[3B-Womb-Partifunct-Systems]] - Detailed womb anatomy
-- [[Partifunct Core Definition]] - What gets assembled
-- [[Composite-Organisms]] - What results from assembly
+- [Reproduction Assembly Conception](Reproduction%20Assembly%20Conception.md) - Overall reproduction system
+- [Womb Partifunct Systems](Womb%20Partifunct%20Systems.md) - Detailed womb anatomy
+- [Partifunct Core Definition](Partifunct%20Core%20Definition.md) - What gets assembled
+- [Composite Organisms](Composite%20Organisms.md) - What results from assembly
 
 **Alternative Methods:**
-- [[Non-Womb-Reproduction]] - Environmental self-assembly
-- [[GFP-Carriers-and-Vectors]] - Genetic material dispersal
+- [Non Womb Reproduction](Non%20Womb%20Reproduction.md) - Environmental self-assembly
+- [GFP Carriers and Vectors](GFP%20Carriers%20and%20Vectors.md) - Genetic material dispersal
 
 **Related Topics:**
-- [[Multi-Expression-Potential]] - How womb guides expression
-- [[MGFP-Transcription-Pathway]] - Developmental signals
-- [[31-Taxa-and-Metrics-PSV-MDI]] - Why offspring vary
+- [Multi Expression Potential](Multi%20Expression%20Potential.md) - How womb guides expression
+- [MGFP Transcription Pathway](MGFP%20Transcription%20Pathway.md) - Developmental signals
+- [Taxa and Metrics](Taxa%20and%20Metrics.md) - Why offspring vary
 
 **Related Dispatches:**
-- [[D008-Composite-Reproduction]] - Discovery of womb function
-- [[D011-Gestational-Plasticity]] - Environmental influence studies
+- [B008 – Composite Reproduction](Dispatches.md#b008) - Discovery of womb function
+- [B011 – Death Response](Dispatches.md#b011) - Environmental influence studies
 
 ---
 
